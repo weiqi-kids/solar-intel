@@ -1,102 +1,102 @@
 {
   "xinyi_solar": {
-    "earliest": "2025-10-16",
+    "earliest": "2025-07-18",
     "latest": "2026-04-14",
-    "count": 119
+    "count": 181
   },
   "daqo": {
-    "earliest": "2025-10-16",
+    "earliest": "2025-07-18",
     "latest": "2026-04-14",
-    "count": 123
+    "count": 186
   },
   "tongwei": {
-    "earliest": "2025-10-16",
+    "earliest": "2025-07-18",
     "latest": "2026-04-14",
-    "count": 120
+    "count": 178
   },
   "gcl": {
-    "earliest": "2025-10-16",
+    "earliest": "2025-07-18",
     "latest": "2026-04-14",
-    "count": 119
+    "count": 181
   },
   "longi": {
-    "earliest": "2025-10-16",
+    "earliest": "2025-07-18",
     "latest": "2026-04-14",
-    "count": 120
+    "count": 178
   },
   "ja_solar": {
-    "earliest": "2025-10-16",
+    "earliest": "2025-07-18",
     "latest": "2026-04-14",
-    "count": 120
+    "count": 178
   },
   "trina": {
-    "earliest": "2025-10-16",
+    "earliest": "2025-07-18",
     "latest": "2026-04-14",
-    "count": 120
+    "count": 178
   },
   "canadian_solar": {
-    "earliest": "2025-10-16",
+    "earliest": "2025-07-18",
     "latest": "2026-04-14",
-    "count": 123
+    "count": 186
   },
   "first_solar": {
-    "earliest": "2025-10-16",
+    "earliest": "2025-07-18",
     "latest": "2026-04-14",
-    "count": 123
+    "count": 186
   },
   "jinko": {
-    "earliest": "2025-10-16",
+    "earliest": "2025-07-18",
     "latest": "2026-04-14",
-    "count": 123
+    "count": 186
   },
   "risen": {
-    "earliest": "2025-10-16",
+    "earliest": "2025-07-18",
     "latest": "2026-04-14",
-    "count": 120
+    "count": 178
   },
   "maxeon": {
-    "earliest": "2025-10-16",
+    "earliest": "2025-07-18",
     "latest": "2026-04-14",
-    "count": 123
+    "count": 186
   },
   "yuan_jing": {
-    "earliest": "2025-10-16",
+    "earliest": "2025-07-18",
     "latest": "2026-04-14",
-    "count": 116
+    "count": 176
   },
   "enphase": {
-    "earliest": "2025-10-16",
+    "earliest": "2025-07-18",
     "latest": "2026-04-14",
-    "count": 123
+    "count": 186
   },
   "solaredge": {
-    "earliest": "2025-10-16",
+    "earliest": "2025-07-18",
     "latest": "2026-04-14",
-    "count": 123
+    "count": 186
   },
   "array": {
-    "earliest": "2025-10-16",
+    "earliest": "2025-07-18",
     "latest": "2026-04-14",
-    "count": 123
+    "count": 186
   },
   "sungrow": {
-    "earliest": "2025-10-16",
+    "earliest": "2025-07-18",
     "latest": "2026-04-14",
-    "count": 120
+    "count": 178
   },
   "nextracker": {
-    "earliest": "2025-10-16",
+    "earliest": "2025-07-18",
     "latest": "2026-04-14",
-    "count": 123
+    "count": 186
   },
   "etf_tan": {
-    "earliest": "2025-10-16",
+    "earliest": "2025-07-18",
     "latest": "2026-04-14",
-    "count": 123
+    "count": 186
   },
   "etf_icln": {
-    "earliest": "2025-10-16",
+    "earliest": "2025-07-18",
     "latest": "2026-04-14",
-    "count": 123
+    "count": 186
   }
 }
