@@ -1,0 +1,116 @@
+{
+  "company_count": 20,
+  "topic_count": 5,
+  "alias_count": 33,
+  "positive_word_count": 27,
+  "negative_word_count": 27,
+  "negation_word_count": 18,
+  "importance_rule_count": 10,
+  "base_score": 0.5,
+  "max_score": 1.0,
+  "volume_spike_threshold": 100,
+  "sentiment_shift_threshold": 0.5,
+  "silent_days_threshold": 14,
+  "companies": [
+    {
+      "id": "xinyi_solar",
+      "short_name": "Xinyi Solar",
+      "tier": ""
+    },
+    {
+      "id": "daqo",
+      "short_name": "Daqo New Energy",
+      "tier": ""
+    },
+    {
+      "id": "tongwei",
+      "short_name": "Tongwei",
+      "tier": ""
+    },
+    {
+      "id": "gcl",
+      "short_name": "GCL Technology",
+      "tier": ""
+    },
+    {
+      "id": "meyer_burger",
+      "short_name": "Meyer Burger",
+      "tier": ""
+    },
+    {
+      "id": "longi",
+      "short_name": "LONGi Green Energy",
+      "tier": ""
+    },
+    {
+      "id": "ja_solar",
+      "short_name": "JA Solar",
+      "tier": ""
+    },
+    {
+      "id": "trina",
+      "short_name": "Trina Solar",
+      "tier": ""
+    },
+    {
+      "id": "canadian_solar",
+      "short_name": "Canadian Solar",
+      "tier": ""
+    },
+    {
+      "id": "first_solar",
+      "short_name": "First Solar",
+      "tier": ""
+    },
+    {
+      "id": "jinko",
+      "short_name": "JinkoSolar",
+      "tier": ""
+    },
+    {
+      "id": "risen",
+      "short_name": "Risen Energy",
+      "tier": ""
+    },
+    {
+      "id": "maxeon",
+      "short_name": "Maxeon Solar Technologies",
+      "tier": ""
+    },
+    {
+      "id": "yuan_jing",
+      "short_name": "Yuan Jing Solar",
+      "tier": ""
+    },
+    {
+      "id": "motech",
+      "short_name": "Motech Industries",
+      "tier": ""
+    },
+    {
+      "id": "enphase",
+      "short_name": "Enphase Energy",
+      "tier": ""
+    },
+    {
+      "id": "solaredge",
+      "short_name": "SolarEdge Technologies",
+      "tier": ""
+    },
+    {
+      "id": "array",
+      "short_name": "Array Technologies",
+      "tier": ""
+    },
+    {
+      "id": "sungrow",
+      "short_name": "Sungrow Power Supply",
+      "tier": ""
+    },
+    {
+      "id": "nextracker",
+      "short_name": "Nextracker",
+      "tier": ""
+    }
+  ]
+}
