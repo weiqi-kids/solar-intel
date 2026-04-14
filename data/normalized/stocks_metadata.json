@@ -1,0 +1,102 @@
+{
+  "xinyi_solar": {
+    "earliest": "2026-01-14",
+    "latest": "2026-04-14",
+    "count": 59
+  },
+  "daqo": {
+    "earliest": "2026-01-14",
+    "latest": "2026-04-14",
+    "count": 62
+  },
+  "tongwei": {
+    "earliest": "2026-01-14",
+    "latest": "2026-04-14",
+    "count": 58
+  },
+  "gcl": {
+    "earliest": "2026-01-14",
+    "latest": "2026-04-14",
+    "count": 59
+  },
+  "longi": {
+    "earliest": "2026-01-14",
+    "latest": "2026-04-14",
+    "count": 58
+  },
+  "ja_solar": {
+    "earliest": "2026-01-14",
+    "latest": "2026-04-14",
+    "count": 58
+  },
+  "trina": {
+    "earliest": "2026-01-14",
+    "latest": "2026-04-14",
+    "count": 58
+  },
+  "canadian_solar": {
+    "earliest": "2026-01-14",
+    "latest": "2026-04-14",
+    "count": 62
+  },
+  "first_solar": {
+    "earliest": "2026-01-14",
+    "latest": "2026-04-14",
+    "count": 62
+  },
+  "jinko": {
+    "earliest": "2026-01-14",
+    "latest": "2026-04-14",
+    "count": 62
+  },
+  "risen": {
+    "earliest": "2026-01-14",
+    "latest": "2026-04-14",
+    "count": 58
+  },
+  "maxeon": {
+    "earliest": "2026-01-14",
+    "latest": "2026-04-14",
+    "count": 62
+  },
+  "yuan_jing": {
+    "earliest": "2026-01-14",
+    "latest": "2026-04-14",
+    "count": 55
+  },
+  "enphase": {
+    "earliest": "2026-01-14",
+    "latest": "2026-04-14",
+    "count": 62
+  },
+  "solaredge": {
+    "earliest": "2026-01-14",
+    "latest": "2026-04-14",
+    "count": 62
+  },
+  "array": {
+    "earliest": "2026-01-14",
+    "latest": "2026-04-14",
+    "count": 62
+  },
+  "sungrow": {
+    "earliest": "2026-01-14",
+    "latest": "2026-04-14",
+    "count": 58
+  },
+  "nextracker": {
+    "earliest": "2026-01-14",
+    "latest": "2026-04-14",
+    "count": 62
+  },
+  "etf_tan": {
+    "earliest": "2026-01-14",
+    "latest": "2026-04-14",
+    "count": 62
+  },
+  "etf_icln": {
+    "earliest": "2026-01-14",
+    "latest": "2026-04-14",
+    "count": 62
+  }
+}

@@ -1,0 +1,303 @@
+companies:
+- id: xinyi_solar
+  name: Xinyi Solar
+  aliases:
+  - 信義光能
+  ticker: 0968.HK
+  market: HKEX
+  currency: HKD
+  position: upstream
+  role: 光伏玻璃
+  description: 全球最大光伏玻璃製造商
+  downstream:
+  - longi
+  - ja_solar
+  - trina
+  - jinko
+- id: daqo
+  name: Daqo New Energy
+  aliases:
+  - 大全新能源
+  - 大全
+  ticker: DQ
+  market: NYSE
+  currency: USD
+  position: upstream
+  role: 多晶矽
+  description: 高純度多晶矽製造商
+  downstream:
+  - longi
+  - ja_solar
+  - trina
+  - jinko
+- id: tongwei
+  name: Tongwei
+  aliases:
+  - 通威
+  - 通威股份
+  ticker: 600438.SS
+  market: SSE
+  currency: CNY
+  position: upstream
+  role: 多晶矽/電池片
+  description: 多晶矽與電池片雙龍頭
+  downstream:
+  - longi
+  - ja_solar
+  - trina
+- id: gcl
+  name: GCL Technology
+  aliases:
+  - 協鑫科技
+  - 協鑫
+  ticker: 3800.HK
+  market: HKEX
+  currency: HKD
+  position: upstream
+  role: 多晶矽
+  description: 顆粒矽技術先驅
+  downstream:
+  - longi
+  - ja_solar
+- id: meyer_burger
+  name: Meyer Burger
+  aliases: []
+  ticker: MBTN.SW
+  market: SIX
+  currency: CHF
+  position: upstream
+  role: 設備
+  description: 高效電池片製造設備
+  downstream:
+  - longi
+  - first_solar
+- id: longi
+  name: LONGi Green Energy
+  aliases:
+  - 隆基綠能
+  - 隆基
+  ticker: 601012.SS
+  market: SSE
+  currency: CNY
+  position: midstream
+  role: 矽片/元件
+  description: 全球最大單晶矽片與元件製造商
+  upstream:
+  - daqo
+  - tongwei
+  - gcl
+  downstream:
+  - enphase
+  - solaredge
+  - sungrow
+- id: ja_solar
+  name: JA Solar
+  aliases:
+  - 晶澳科技
+  - 晶澳
+  ticker: 002459.SZ
+  market: SZSE
+  currency: CNY
+  position: midstream
+  role: 元件
+  description: 全球前五大太陽能元件廠
+  upstream:
+  - daqo
+  - tongwei
+  - gcl
+  downstream:
+  - enphase
+  - sungrow
+- id: trina
+  name: Trina Solar
+  aliases:
+  - 天合光能
+  - 天合
+  ticker: 688599.SS
+  market: SSE
+  currency: CNY
+  position: midstream
+  role: 元件
+  description: 全球前五大太陽能元件廠
+  upstream:
+  - daqo
+  - tongwei
+  downstream:
+  - enphase
+  - sungrow
+- id: canadian_solar
+  name: Canadian Solar
+  aliases: []
+  ticker: CSIQ
+  market: NASDAQ
+  currency: USD
+  position: midstream
+  role: 元件
+  description: 加拿大太陽能元件與電站開發商
+  upstream:
+  - daqo
+  downstream:
+  - enphase
+- id: first_solar
+  name: First Solar
+  aliases: []
+  ticker: FSLR
+  market: NASDAQ
+  currency: USD
+  position: midstream
+  role: 薄膜元件
+  description: 美國薄膜太陽能龍頭
+  upstream:
+  - meyer_burger
+  downstream:
+  - nextracker
+- id: jinko
+  name: JinkoSolar
+  aliases:
+  - 晶科能源
+  - 晶科
+  ticker: JKS
+  market: NYSE
+  currency: USD
+  position: midstream
+  role: 元件
+  description: 全球出貨量最大太陽能元件廠
+  upstream:
+  - daqo
+  - tongwei
+  downstream:
+  - enphase
+  - sungrow
+- id: risen
+  name: Risen Energy
+  aliases:
+  - 東方日升
+  ticker: 300118.SZ
+  market: SZSE
+  currency: CNY
+  position: midstream
+  role: 元件
+  description: 中國太陽能元件製造商
+  upstream:
+  - tongwei
+  downstream:
+  - sungrow
+- id: maxeon
+  name: Maxeon Solar Technologies
+  aliases: []
+  ticker: MAXN
+  market: NASDAQ
+  currency: USD
+  position: midstream
+  role: 元件
+  description: 高效太陽能電池技術
+- id: yuan_jing
+  name: Yuan Jing Solar
+  aliases:
+  - 元晶太陽能
+  - 元晶
+  ticker: 6443.TW
+  market: TWSE
+  currency: TWD
+  position: midstream
+  role: 元件
+  description: 台灣太陽能電池與元件製造商
+- id: motech
+  name: Motech Industries
+  aliases:
+  - 茂迪
+  ticker: 6244.TW
+  market: TWSE
+  currency: TWD
+  position: midstream
+  role: 電池片
+  description: 台灣太陽能電池片製造商
+- id: enphase
+  name: Enphase Energy
+  aliases: []
+  ticker: ENPH
+  market: NASDAQ
+  currency: USD
+  position: downstream
+  role: 微型逆變器
+  description: 家用微型逆變器龍頭
+  upstream:
+  - longi
+  - jinko
+  - ja_solar
+  - trina
+  - canadian_solar
+- id: solaredge
+  name: SolarEdge Technologies
+  aliases: []
+  ticker: SEDG
+  market: NASDAQ
+  currency: USD
+  position: downstream
+  role: 逆變器
+  description: 智慧逆變器與優化器
+  upstream:
+  - longi
+- id: array
+  name: Array Technologies
+  aliases: []
+  ticker: ARRY
+  market: NASDAQ
+  currency: USD
+  position: downstream
+  role: 追日系統
+  description: 太陽能追蹤系統製造商
+- id: sungrow
+  name: Sungrow Power Supply
+  aliases:
+  - 陽光電源
+  ticker: 300274.SZ
+  market: SZSE
+  currency: CNY
+  position: downstream
+  role: 逆變器
+  description: 中國最大逆變器製造商
+  upstream:
+  - longi
+  - jinko
+  - trina
+  - ja_solar
+- id: nextracker
+  name: Nextracker
+  aliases: []
+  ticker: NXT
+  market: NASDAQ
+  currency: USD
+  position: downstream
+  role: 追日系統
+  description: 全球最大太陽能追蹤系統供應商
+  upstream:
+  - first_solar
+etfs:
+- id: tan
+  name: Invesco Solar ETF
+  ticker: TAN
+  market: NYSE
+  currency: USD
+  description: 太陽能產業 ETF
+- id: icln
+  name: iShares Global Clean Energy ETF
+  ticker: ICLN
+  market: NASDAQ
+  currency: USD
+  description: 全球清潔能源 ETF
+supply_chain_positions:
+  upstream:
+  - 光伏玻璃
+  - 多晶矽
+  - 多晶矽/電池片
+  - 設備
+  midstream:
+  - 矽片/元件
+  - 元件
+  - 薄膜元件
+  - 電池片
+  downstream:
+  - 微型逆變器
+  - 逆變器
+  - 追日系統

@@ -1,0 +1,49 @@
+topics:
+  module_price:
+    display: 元件價格
+    keywords:
+    - module price
+    - 元件價格
+    - 組件價格
+    - solar panel price
+    - 太陽能板價格
+    - module cost
+  polysilicon_price:
+    display: 多晶矽價格
+    keywords:
+    - polysilicon price
+    - 多晶矽價格
+    - poly price
+    - 矽料價格
+    - silicon price
+  installation_demand:
+    display: 裝機需求
+    keywords:
+    - installation
+    - 裝機
+    - solar installation
+    - GW installed
+    - 併網
+    - grid connected
+    - 裝機量
+  grid_parity:
+    display: 平價上網
+    keywords:
+    - grid parity
+    - 平價上網
+    - LCOE
+    - levelized cost
+    - 度電成本
+    - electricity cost
+  trade_tariff:
+    display: 貿易關稅
+    keywords:
+    - tariff
+    - 關稅
+    - trade war
+    - anti-dumping
+    - 反傾銷
+    - countervailing
+    - 反補貼
+    - trade restriction
+    - AD/CVD

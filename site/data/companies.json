@@ -1,0 +1,339 @@
+{
+  "companies": [
+    {
+      "id": "xinyi_solar",
+      "name": "Xinyi Solar",
+      "short_name": "信義光能",
+      "position": "upstream",
+      "role": "光伏玻璃",
+      "x": 0.05,
+      "y": 0.34
+    },
+    {
+      "id": "daqo",
+      "name": "Daqo New Energy",
+      "short_name": "大全新能源",
+      "position": "upstream",
+      "role": "多晶矽",
+      "x": 0.1,
+      "y": 0.34
+    },
+    {
+      "id": "tongwei",
+      "name": "Tongwei",
+      "short_name": "通威",
+      "position": "upstream",
+      "role": "多晶矽/電池片",
+      "x": 0.15,
+      "y": 0.34
+    },
+    {
+      "id": "gcl",
+      "name": "GCL Technology",
+      "short_name": "協鑫科技",
+      "position": "upstream",
+      "role": "多晶矽",
+      "x": 0.2,
+      "y": 0.34
+    },
+    {
+      "id": "meyer_burger",
+      "name": "Meyer Burger",
+      "short_name": "Meyer Burger",
+      "position": "upstream",
+      "role": "設備",
+      "x": 0.5,
+      "y": 0.04
+    },
+    {
+      "id": "longi",
+      "name": "LONGi Green Energy",
+      "short_name": "隆基綠能",
+      "position": "midstream",
+      "role": "矽片/元件",
+      "x": 0.25,
+      "y": 0.34
+    },
+    {
+      "id": "ja_solar",
+      "name": "JA Solar",
+      "short_name": "晶澳科技",
+      "position": "midstream",
+      "role": "元件",
+      "x": 0.3,
+      "y": 0.34
+    },
+    {
+      "id": "trina",
+      "name": "Trina Solar",
+      "short_name": "天合光能",
+      "position": "midstream",
+      "role": "元件",
+      "x": 0.35,
+      "y": 0.34
+    },
+    {
+      "id": "canadian_solar",
+      "name": "Canadian Solar",
+      "short_name": "Canadian Solar",
+      "position": "midstream",
+      "role": "元件",
+      "x": 0.4,
+      "y": 0.34
+    },
+    {
+      "id": "first_solar",
+      "name": "First Solar",
+      "short_name": "First Solar",
+      "position": "midstream",
+      "role": "薄膜元件",
+      "x": 0.45,
+      "y": 0.34
+    },
+    {
+      "id": "jinko",
+      "name": "JinkoSolar",
+      "short_name": "晶科能源",
+      "position": "midstream",
+      "role": "元件",
+      "x": 0.5,
+      "y": 0.34
+    },
+    {
+      "id": "risen",
+      "name": "Risen Energy",
+      "short_name": "東方日升",
+      "position": "midstream",
+      "role": "元件",
+      "x": 0.55,
+      "y": 0.34
+    },
+    {
+      "id": "maxeon",
+      "name": "Maxeon Solar Technologies",
+      "short_name": "Maxeon Solar Technologies",
+      "position": "midstream",
+      "role": "元件",
+      "x": 0.6,
+      "y": 0.34
+    },
+    {
+      "id": "yuan_jing",
+      "name": "Yuan Jing Solar",
+      "short_name": "元晶太陽能",
+      "position": "midstream",
+      "role": "元件",
+      "x": 0.65,
+      "y": 0.34
+    },
+    {
+      "id": "motech",
+      "name": "Motech Industries",
+      "short_name": "茂迪",
+      "position": "midstream",
+      "role": "電池片",
+      "x": 0.7,
+      "y": 0.34
+    },
+    {
+      "id": "enphase",
+      "name": "Enphase Energy",
+      "short_name": "Enphase Energy",
+      "position": "downstream",
+      "role": "微型逆變器",
+      "x": 0.75,
+      "y": 0.34
+    },
+    {
+      "id": "solaredge",
+      "name": "SolarEdge Technologies",
+      "short_name": "SolarEdge Technologies",
+      "position": "downstream",
+      "role": "逆變器",
+      "x": 0.8,
+      "y": 0.34
+    },
+    {
+      "id": "array",
+      "name": "Array Technologies",
+      "short_name": "Array Technologies",
+      "position": "downstream",
+      "role": "追日系統",
+      "x": 0.85,
+      "y": 0.34
+    },
+    {
+      "id": "sungrow",
+      "name": "Sungrow Power Supply",
+      "short_name": "陽光電源",
+      "position": "downstream",
+      "role": "逆變器",
+      "x": 0.9,
+      "y": 0.34
+    },
+    {
+      "id": "nextracker",
+      "name": "Nextracker",
+      "short_name": "Nextracker",
+      "position": "downstream",
+      "role": "追日系統",
+      "x": 0.95,
+      "y": 0.34
+    }
+  ],
+  "links": [
+    {
+      "source": "xinyi_solar",
+      "target": "longi",
+      "strength": 2
+    },
+    {
+      "source": "xinyi_solar",
+      "target": "ja_solar",
+      "strength": 2
+    },
+    {
+      "source": "xinyi_solar",
+      "target": "trina",
+      "strength": 2
+    },
+    {
+      "source": "xinyi_solar",
+      "target": "jinko",
+      "strength": 2
+    },
+    {
+      "source": "daqo",
+      "target": "longi",
+      "strength": 2
+    },
+    {
+      "source": "daqo",
+      "target": "ja_solar",
+      "strength": 2
+    },
+    {
+      "source": "daqo",
+      "target": "trina",
+      "strength": 2
+    },
+    {
+      "source": "daqo",
+      "target": "jinko",
+      "strength": 2
+    },
+    {
+      "source": "tongwei",
+      "target": "longi",
+      "strength": 2
+    },
+    {
+      "source": "tongwei",
+      "target": "ja_solar",
+      "strength": 2
+    },
+    {
+      "source": "tongwei",
+      "target": "trina",
+      "strength": 2
+    },
+    {
+      "source": "gcl",
+      "target": "longi",
+      "strength": 2
+    },
+    {
+      "source": "gcl",
+      "target": "ja_solar",
+      "strength": 2
+    },
+    {
+      "source": "meyer_burger",
+      "target": "longi",
+      "strength": 2
+    },
+    {
+      "source": "meyer_burger",
+      "target": "first_solar",
+      "strength": 2
+    },
+    {
+      "source": "longi",
+      "target": "enphase",
+      "strength": 2
+    },
+    {
+      "source": "longi",
+      "target": "solaredge",
+      "strength": 2
+    },
+    {
+      "source": "longi",
+      "target": "sungrow",
+      "strength": 2
+    },
+    {
+      "source": "ja_solar",
+      "target": "enphase",
+      "strength": 2
+    },
+    {
+      "source": "ja_solar",
+      "target": "sungrow",
+      "strength": 2
+    },
+    {
+      "source": "trina",
+      "target": "enphase",
+      "strength": 2
+    },
+    {
+      "source": "trina",
+      "target": "sungrow",
+      "strength": 2
+    },
+    {
+      "source": "canadian_solar",
+      "target": "enphase",
+      "strength": 2
+    },
+    {
+      "source": "first_solar",
+      "target": "nextracker",
+      "strength": 2
+    },
+    {
+      "source": "jinko",
+      "target": "enphase",
+      "strength": 2
+    },
+    {
+      "source": "jinko",
+      "target": "sungrow",
+      "strength": 2
+    },
+    {
+      "source": "risen",
+      "target": "sungrow",
+      "strength": 2
+    }
+  ],
+  "etfs": [
+    {
+      "id": "etf_tan",
+      "name": "Invesco Solar ETF",
+      "ticker": "TAN",
+      "market": "NYSE",
+      "currency": "USD",
+      "description": "太陽能產業 ETF"
+    },
+    {
+      "id": "etf_icln",
+      "name": "iShares Global Clean Energy ETF",
+      "ticker": "ICLN",
+      "market": "NASDAQ",
+      "currency": "USD",
+      "description": "全球清潔能源 ETF"
+    }
+  ]
+}
