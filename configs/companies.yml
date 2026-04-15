@@ -9,6 +9,7 @@ companies:
   position: upstream
   role: 光伏玻璃
   description: 全球最大光伏玻璃製造商
+  rss_url: https://news.google.com/rss/search?q="Xinyi+Solar"&hl=en&gl=US&ceid=US:en
   downstream:
   - longi
   - ja_solar
@@ -25,6 +26,7 @@ companies:
   position: upstream
   role: 多晶矽
   description: 高純度多晶矽製造商
+  rss_url: https://news.google.com/rss/search?q="Daqo+New+Energy"&hl=en&gl=US&ceid=US:en
   downstream:
   - longi
   - ja_solar
@@ -41,6 +43,7 @@ companies:
   position: upstream
   role: 多晶矽/電池片
   description: 多晶矽與電池片雙龍頭
+  rss_url: https://news.google.com/rss/search?q="Tongwei"+polysilicon+solar+cell&hl=en&gl=US&ceid=US:en
   downstream:
   - longi
   - ja_solar
@@ -56,6 +59,7 @@ companies:
   position: upstream
   role: 多晶矽
   description: 顆粒矽技術先驅
+  rss_url: https://news.google.com/rss/search?q="GCL+Technology"&hl=en&gl=US&ceid=US:en
   downstream:
   - longi
   - ja_solar
@@ -68,6 +72,7 @@ companies:
   position: upstream
   role: 設備
   description: 高效電池片製造設備
+  rss_url: https://news.google.com/rss/search?q="Meyer+Burger"&hl=en&gl=US&ceid=US:en
   downstream:
   - longi
   - first_solar
@@ -82,6 +87,7 @@ companies:
   position: midstream
   role: 矽片/元件
   description: 全球最大單晶矽片與元件製造商
+  rss_url: https://news.google.com/rss/search?q="LONGi+Green+Energy"&hl=en&gl=US&ceid=US:en
   upstream:
   - daqo
   - tongwei
@@ -101,6 +107,7 @@ companies:
   position: midstream
   role: 元件
   description: 全球前五大太陽能元件廠
+  rss_url: https://news.google.com/rss/search?q="JA+Solar"&hl=en&gl=US&ceid=US:en
   upstream:
   - daqo
   - tongwei
@@ -119,6 +126,7 @@ companies:
   position: midstream
   role: 元件
   description: 全球前五大太陽能元件廠
+  rss_url: https://news.google.com/rss/search?q="Trina+Solar"&hl=en&gl=US&ceid=US:en
   upstream:
   - daqo
   - tongwei
@@ -164,6 +172,7 @@ companies:
   position: midstream
   role: 元件
   description: 全球出貨量最大太陽能元件廠
+  rss_url: https://news.google.com/rss/search?q="JinkoSolar"&hl=en&gl=US&ceid=US:en
   upstream:
   - daqo
   - tongwei
@@ -180,6 +189,7 @@ companies:
   position: midstream
   role: 元件
   description: 中國太陽能元件製造商
+  rss_url: https://news.google.com/rss/search?q="Risen+Energy"&hl=en&gl=US&ceid=US:en
   upstream:
   - tongwei
   downstream:
@@ -193,6 +203,7 @@ companies:
   position: midstream
   role: 元件
   description: 高效太陽能電池技術
+  rss_url: https://news.google.com/rss/search?q="Maxeon+Solar+Technologies"&hl=en&gl=US&ceid=US:en
 - id: yuan_jing
   name: Yuan Jing Solar
   aliases:
@@ -204,6 +215,7 @@ companies:
   position: midstream
   role: 元件
   description: 台灣太陽能電池與元件製造商
+  rss_url: https://news.google.com/rss/search?q="Yuan+Jing+Solar"&hl=en&gl=US&ceid=US:en
 - id: motech
   name: Motech Industries
   aliases:
@@ -214,6 +226,7 @@ companies:
   position: midstream
   role: 電池片
   description: 台灣太陽能電池片製造商
+  rss_url: https://news.google.com/rss/search?q="Motech+Industries"&hl=en&gl=US&ceid=US:en
 - id: enphase
   name: Enphase Energy
   aliases: []
@@ -251,6 +264,7 @@ companies:
   position: downstream
   role: 追日系統
   description: 太陽能追蹤系統製造商
+  rss_url: https://news.google.com/rss/search?q="Array+Technologies"&hl=en&gl=US&ceid=US:en
 - id: sungrow
   name: Sungrow Power Supply
   aliases:
@@ -261,6 +275,7 @@ companies:
   position: downstream
   role: 逆變器
   description: 中國最大逆變器製造商
+  rss_url: https://news.google.com/rss/search?q="Sungrow+Power+Supply"&hl=en&gl=US&ceid=US:en
   upstream:
   - longi
   - jinko
@@ -275,6 +290,7 @@ companies:
   position: downstream
   role: 追日系統
   description: 全球最大太陽能追蹤系統供應商
+  rss_url: https://news.google.com/rss/search?q="Nextracker"&hl=en&gl=US&ceid=US:en
   upstream:
   - first_solar
 etfs:
