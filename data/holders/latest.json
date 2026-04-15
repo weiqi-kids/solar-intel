@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-15T09:11:24.763791+00:00",
+  "updated_at": "2026-04-15T12:04:38.051498+00:00",
   "companies": {
     "xinyi_solar": {
       "name": "Xinyi Solar",
@@ -437,61 +437,61 @@
         {
           "holder": "Blackrock Inc.",
           "shares": 8086881,
-          "pct_held": 13.4,
+          "pct_held": 13.3,
           "value": 347574141
         },
         {
           "holder": "UBS Group AG",
           "shares": 4210429,
-          "pct_held": 6.97,
+          "pct_held": 6.92,
           "value": 180964236
         },
         {
           "holder": "Vanguard Group Inc",
           "shares": 3368073,
-          "pct_held": 5.58,
+          "pct_held": 5.54,
           "value": 144759775
         },
         {
           "holder": "Grantham, Mayo, Van Otterloo & Co. LLC",
           "shares": 2539719,
-          "pct_held": 4.21,
+          "pct_held": 4.18,
           "value": 109157121
         },
         {
           "holder": "Morgan Stanley",
           "shares": 2220836,
-          "pct_held": 3.68,
+          "pct_held": 3.65,
           "value": 95451530
-        },
-        {
-          "holder": "Menora Mivtachim Holdings Ltd.",
-          "shares": 2166521,
-          "pct_held": 3.59,
-          "value": 93117071
         },
         {
           "holder": "Invesco Ltd.",
           "shares": 2169822,
-          "pct_held": 3.59,
+          "pct_held": 3.57,
           "value": 93258948
+        },
+        {
+          "holder": "Menora Mivtachim Holdings Ltd.",
+          "shares": 2166521,
+          "pct_held": 3.56,
+          "value": 93117071
         },
         {
           "holder": "State Street Corporation",
           "shares": 1745682,
-          "pct_held": 2.89,
+          "pct_held": 2.87,
           "value": 75029411
         },
         {
           "holder": "Electron Capital Partners, LLC",
           "shares": 1623822,
-          "pct_held": 2.69,
+          "pct_held": 2.67,
           "value": 69791868
         },
         {
           "holder": "Two Sigma Investments, LP",
           "shares": 1312663,
-          "pct_held": 2.17,
+          "pct_held": 2.16,
           "value": 56418255
         }
       ]

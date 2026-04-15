@@ -1,5 +1,32 @@
 [
   {
+    "id": "nextracker-2026-04-15-036",
+    "date": "2026-04-15",
+    "companies": [
+      "nextracker",
+      "first_solar"
+    ],
+    "topics": [
+      "installation_demand"
+    ],
+    "impact": "neutral",
+    "title": "Solar Tracker Installation Market Is Going to Boom | NEXTracker • Soltec • First Solar - openPR.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxOZWNFeWJtYTZQMTRLM3BmY2Y4RUJ5Yk5HRkNkMVpsYzRqRlJuR2NpeUR1N25wMnp1RUVMeTV0TTFiaGxYWi0tcnctOW9UQy13ZHVrN2QyQ21CbWpKck9nSGV0MWhXaTR4ajFIRF9rWV",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-04-15-040",
+    "date": "2026-04-15",
+    "companies": [],
+    "topics": [
+      "installation_demand"
+    ],
+    "impact": "neutral",
+    "title": "Varta launches all-in-one residential inverter and modular battery",
+    "summary": "The German manufacturer has launched an integrated energy system combining inverter, storage and energy management in a modular, scalable solution for new and existing PV installations. The system sup",
+    "sources": []
+  },
+  {
     "id": "unknown-2026-04-14-001",
     "date": "2026-04-14",
     "companies": [],
@@ -24,6 +51,68 @@
     "sources": []
   },
   {
+    "id": "trina-2026-04-13-019",
+    "date": "2026-04-13",
+    "companies": [
+      "trina"
+    ],
+    "topics": [
+      "installation_demand"
+    ],
+    "impact": "neutral",
+    "title": "Trina Solar supplies 1MW to Africa's biggest rooftop installation - SpaceWar.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxONk93aGR0bUZnaWtrblBrN0hDMlZKTi1DSUU4VXB0MlJYNHpyQnpvaHJETjlQaDJ4MUZYUkdJUGRrUl9QNWFPR2ZNaDEyRGM3TWJUZ0pEWHJNRzdwWFgtSDJTVFhtb2V6Q3o2b3hHbF",
+    "sources": []
+  },
+  {
+    "id": "nextracker-2026-04-13-037",
+    "date": "2026-04-13",
+    "companies": [
+      "nextracker"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Why Nextracker (NXT) is Poised to Beat Earnings Estimates Again - Yahoo Finance Singapore",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxPcml2d1lkdFJ4Zko0WXlHbmlZRWRnc1h4S1NKZGVwTG1JRkk4R2twWjZvaDBGNm9WLWlSeENnQmtNb1NHMGdFMGl4SkNtUWJXZ2tWZl9jRElrV1pUdFVKWHBLaGItR0F4b0t1dU10ND",
+    "sources": []
+  },
+  {
+    "id": "jinko-2026-04-12-021",
+    "date": "2026-04-12",
+    "companies": [
+      "jinko"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "JinkoSolar Holding (JKS) Leads Earnings Calendar with Strong Qua - GuruFocus",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwJBVV95cUxNUXRqQXNTUnVpeFB0a0tnZExiVU84Z3NDZ3l4RWVsLV8wSHVObk1BVm1wS3prYk82SExuQ0Z5bTg3LUktaWZfR2U4OVl5Z3FfTEtFNW4tb0hwOHg1NXNUbU9QYmR5R1NTMXZsVzV6Nm",
+    "sources": []
+  },
+  {
+    "id": "array-2026-04-12-030",
+    "date": "2026-04-12",
+    "companies": [
+      "array"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Q2 2025 Array Technologies Inc Earnings Call Transcript - GuruFocus",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE9Kd3EzQVpGcUprRmR6S1Zla01Ub0ZRM0phSWVWRTMzd3E5bVZCOFJPajJFTVEzNlB2Ry1WR1NYbmZPVDJhclRWbzVYeWRIU2pDVGZWV2p5TEhIdmR3S0xiQWRPLUFHTkxmYjQw?oc=5\"",
+    "sources": []
+  },
+  {
+    "id": "jinko-2026-04-09-024",
+    "date": "2026-04-09",
+    "companies": [
+      "jinko"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "JinkoSolar (JKS) Expected to Announce Quarterly Earnings on Thursday - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxNS3dDdUl1b3Z6QkFjMkItbTJnakJuM2E0OTlxQTc1SkxCZW1uZDlGR1ZCTmdWeEE5b0dkQ1EyZTNjVUxKNnJNNm91X1N6OU9QbVQwNHRNMjNxY1otNFBmQk9taEVBdVZGRHJvV3lCWH",
+    "sources": []
+  },
+  {
     "id": "unknown-2026-04-06-003",
     "date": "2026-04-06",
     "companies": [],
@@ -33,6 +122,214 @@
     "impact": "negative",
     "title": "US solar module prices face upward pressure - pv magazine International",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxPUVJJandoQ3RHSDNNdHM5OWVCeWVJSEk4LXJXTndsVjh1bXotaXVvQXNjSWxmSnBJalRhcGxOOW1qdG5LOHpvdWhuUnlQbHhjVG5rdXc5ZEt5RFRUdExUQlJJdmV5czFfTXRqUkxFUX",
+    "sources": []
+  },
+  {
+    "id": "gcl-2026-04-04-014",
+    "date": "2026-04-04",
+    "companies": [
+      "gcl"
+    ],
+    "topics": [],
+    "impact": "positive",
+    "title": "GCL Technology Holdings (SEHK:3800) Valuation Check After 2025 Earnings Show Lower Sales And Narrowed Net Loss - simplywall.st",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5gFBVV95cUxOWE5fVGQ2NG1WZmFGbk0tZmFBTmIxNjhFMC1jU05Xb1Bib25hMk5yc2ZlWUxaVXVoRmw3dTFyQ09hRGtUSHFOeTdkWEpIR00zY3dQczlxaHlHZnFyeWlESHdyRUxTdE1oTWdNVGZRLV",
+    "sources": []
+  },
+  {
+    "id": "array-2026-04-03-031",
+    "date": "2026-04-03",
+    "companies": [
+      "array"
+    ],
+    "topics": [],
+    "impact": "negative",
+    "title": "Array Technologies (ARRY) Valuation Check As Earnings Forecast Cuts And Margin Concerns Weigh On Sentiment - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxPbFA4NWp6YkczMlhYVmpTTGxaX3I4MmswNEszalpveHlsTHhfck1rNFUzeXRCY1RyYkpxTUdhRGN6Z3hFUjJQZnpJNnBtU3FHUHVBQmxqbWdhVExlOTBsbE5RaV8yekNmaDQxbmlMVW",
+    "sources": []
+  },
+  {
+    "id": "gcl-2026-04-02-011",
+    "date": "2026-04-02",
+    "companies": [
+      "gcl"
+    ],
+    "topics": [],
+    "impact": "positive",
+    "title": "GCL Technology Revenue Falls, But Loss Narrows In 2025 - TaiyangNews",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE0yZ0hEQTNHeUd3dm5uNkg5TUlDd3pTa2F2NlFwY3Vaam9Wckh4dEJWZ0lNak40blozeE1YeFpJcURNOVQ0NlBjOTQtRFo2dW1lV282enpIUVkzWHAzb24tb1JZMlU3OXBKWmFncndOU0",
+    "sources": []
+  },
+  {
+    "id": "sungrow-2026-03-31-035",
+    "date": "2026-03-31",
+    "companies": [
+      "sungrow"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Sungrow Power Supply Co., Ltd. Reports Earnings Results for the Full Year Ended December 31, 2025 - marketscreener.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxQc3ZPa0VpMmlvakp5RGJCaTlWZFdEb09aMGNYal83SmM2NFcydGQxNHFFTTZQcWRVb2tPWGxkTWNVNUtfQ2E2eGhnTGhhd1FJa0s0bzQtQ3BzVkRNTGhlOWM1YTR0REZtbTltdlh1Rj",
+    "sources": []
+  },
+  {
+    "id": "gcl-2026-03-30-012",
+    "date": "2026-03-30",
+    "companies": [
+      "gcl"
+    ],
+    "topics": [],
+    "impact": "negative",
+    "title": "GCL Technology: Gross profit margin turned positive and net loss narrowed sharply in 2025 - TradingView — Track All Markets",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAJBVV95cUxOUmlZUmNOdkduaXRCU3FNa0RoMjZDc3FvYWtGZHdVUVNRRFkwbVBydV9RY3ZhUnhjaURKNWRoRTh4WHNVTU5NTU1pQWtvVGZCTHc0Vi1aZjd0WENDeXZjSUxDQmlhSmVwckg3ZEctRm",
+    "sources": []
+  },
+  {
+    "id": "gcl-2026-03-30-013",
+    "date": "2026-03-30",
+    "companies": [
+      "gcl"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "GCL Technology logs FY revenue RMB 14,425 mln - marketscreener.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxNaGUyTlNiYzdVYl9aQ2RHUVQ4UjBXLURmdWtiTHZiNkVxMGNqTzh5T1pZOU1saEpzbG5BVHUtenctOFJ2RXJEYkJCenEyVEhaWWREYTFFNE9DcnJfdG1xYjRjNVFRdFd4Q2lwOVdvZG",
+    "sources": []
+  },
+  {
+    "id": "gcl-2026-03-30-015",
+    "date": "2026-03-30",
+    "companies": [
+      "gcl"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "GCL Technology Holdings Limited Reports Earnings Results for the Full Year Ended December 31, 2025 - marketscreener.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxPek1zR0lOMjJmbW9ZRnJGWktZbTBvUkhGM3lYR3ZvcFF5VXFNYlplUTJTQmlPYV9mUk56ZUhma3BGOW1jLVBQVHAyWmlrNERKaS1nWVJmSHN2c0ZqVXoyWHNvcm5qWkY5YWNRMEZLTm",
+    "sources": []
+  },
+  {
+    "id": "gcl-2026-03-30-016",
+    "date": "2026-03-30",
+    "companies": [
+      "gcl"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "GCL Technology Logs FY Revenue RMB 14,425 Mln - TradingView — Track All Markets",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxQamhmV0tnaVh4dlpRY1l5dkRaQjB3bkpFaDVBbzdlT3NMM0h5ZUlpbmdNWnhpLTlyOWVBRlBWMnFMZElyZldZSEJfa0hmME5XRDNUVFVIR2xBRnEzaW5xamNBbVUxTl9CYTdpWndPXz",
+    "sources": []
+  },
+  {
+    "id": "gcl-2026-03-30-017",
+    "date": "2026-03-30",
+    "companies": [
+      "gcl"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "GCL Technology (3800.HK) pre-market HK$0.89 ahead of earnings: margins eyed - Meyka",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxNWV80NnhpR3RQNFpIQWhxQkV3VGhlNTN1bHhMaWFaUlZ2b1A0LUlBVm51emNYT0xna2dWVFhobEI5NDB0UnlRcDRJNTVraF9mQm43UDdieEFHbVBkcWE2QkVwVHVnaldRYWREb1RxYl",
+    "sources": []
+  },
+  {
+    "id": "xinyi_solar-2026-03-25-004",
+    "date": "2026-03-25",
+    "companies": [
+      "xinyi_solar"
+    ],
+    "topics": [
+      "trade_tariff"
+    ],
+    "impact": "neutral",
+    "title": "Xinyi Solar Holdings Ltd stock faces solar sector headwinds amid global supply glut and US tariff un - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxOb0F3blV1WjNDQ0lNRVNldmVWSDNRWU40VldoOVV4ZzdiekJHaE13WGtjcXFnNjFRczRhQlhMWjJ0Z1B1eGtXM1h5REt3a2tZNUNPNmx0aGhIRncyVDZYeElEel8zalpjQU4zSFdWRW",
+    "sources": []
+  },
+  {
+    "id": "jinko-2026-03-24-023",
+    "date": "2026-03-24",
+    "companies": [
+      "jinko"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "JinkoSolar (NYSE: JKS) schedules Q4 and full-year 2025 earnings call - Stock Titan",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxNUVB4M2RXMXJSMjF3b1Y4WkJQeTF5OVBMYlNDQk1sTnpYWVFmbE16Y1pxUkk2SEpnMGlneUdJUW50R01hV3lkek1FM0Q0X2p0cG1TaDVud3RYQXhQblRtV1lNbkp4cENTc2UxbElfVE",
+    "sources": []
+  },
+  {
+    "id": "tongwei-2026-03-15-008",
+    "date": "2026-03-15",
+    "companies": [
+      "tongwei"
+    ],
+    "topics": [
+      "polysilicon_price"
+    ],
+    "impact": "neutral",
+    "title": "Tongwei Co Ltd Stock (ISIN: CNE1000019K1) Faces Solar Sector Headwinds Amid Polysilicon Price Pressu - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxQUF9iLXdHb2JjM0pqUnptZ0Z1ZmRLU2Q2QTE2VXdRMWpQNVRZaXNOdEhyNklaMEpRbW1KUEJMdVluRVpqSXp0ZkVhV1RPQXFDX0xYSVB0M2ZWeU1ES1pCWkNJc0EwQTNMbjhLWUVPVF",
+    "sources": []
+  },
+  {
+    "id": "xinyi_solar-2026-02-27-002",
+    "date": "2026-02-27",
+    "companies": [
+      "xinyi_solar"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Xinyi Solar (0968.HK) pre-market: shares at HKD 3.42 after Feb 27 earnings update : what traders should watch next - Meyka",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxOVXRmSGsxS3RrT1kzNlgtNVBFcVBWU3ZxM1RMNkVkMGZhVXNxaXRDckV5WGE2Wl9uN2lOV2VoY2RWRGxFX2ItOVJsMWVnSTN0ZVZpdDFvU05LZUFDQXdFenhxNHNtTWhmM3lndkR1M0",
+    "sources": []
+  },
+  {
+    "id": "daqo-2026-02-27-007",
+    "date": "2026-02-27",
+    "companies": [
+      "daqo"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "DAQO New Energy Q4 Earnings Call Highlights - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE12aFpyOVdaaWJSSVpIeXg3UkVXQXVpbHI0M1ExSnJld2tGTVU4LVBOaHU2RlFqNVZucXhoLTVQXzhTQjVPMDVIdElieEF5RmhCTG5nS0xwWVdCMFlNUmJhblM1bXNoSDk2eDNBRVc1Z1",
+    "sources": []
+  },
+  {
+    "id": "jinko-2026-02-27-022",
+    "date": "2026-02-27",
+    "companies": [
+      "jinko"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "JinkoSolar's Subsidiary, Jinko Solar Co., Ltd., Announces Certain Preliminary Unaudited Financial Results for Full Year 2025 - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxOdzBxbEV4VXVCZUFVYVRPTHc1VHdhRHNlNXRyTmJrZENtR3VjWGpXcEU1TkRKbkdXdU9uVXhyNWRVRVZETVYxQ3BaY0dab2xHY3c1eUF5UnFnRHJ1Znp2UFA1SlFZR0VTN29UelFYSG",
+    "sources": []
+  },
+  {
+    "id": "daqo-2026-02-26-005",
+    "date": "2026-02-26",
+    "companies": [
+      "daqo"
+    ],
+    "topics": [],
+    "impact": "negative",
+    "title": "Earnings call transcript: Daqo New Energy Q4 2025 sees narrowed losses, stock dips - Investing.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxPQmZBaEJFeDZCemoxcXNTR0w2aW9yTnphVlhZRWxQa3JIRTg0Ql9QdjZyZTE4VkRqOEtfR19xQ0ZUZWRhTi1MQmlGMjV1cDUycTd0MEJKVEVVRGphR19xY3U3aGR5TWtLWC1oNUdaR2",
+    "sources": []
+  },
+  {
+    "id": "daqo-2026-02-26-006",
+    "date": "2026-02-26",
+    "companies": [
+      "daqo"
+    ],
+    "topics": [],
+    "impact": "negative",
+    "title": "How Weak 2025 Results And Higher 2026 Output Guidance At Daqo New Energy (DQ) Has Changed Its Investment Story - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxQeDJzSWtCa2hiSVkyQU5lNUdiYXB2bFlmY3YtMXozb2NMZkZ6THZEc1hUc005a2l6eUEzQmtOT3U2eEh6WGdGUFdSZ2F5akNKWTlOY08wU2JITWdqZjZVeXRiSzZRMlhEVkNCRUZUX0",
     "sources": []
   },
   {
@@ -60,6 +357,18 @@
     "sources": []
   },
   {
+    "id": "array-2026-02-22-032",
+    "date": "2026-02-22",
+    "companies": [
+      "array"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "A Look At Array Technologies (ARRY) Valuation After Recent Share Price Rebound And Profitability Shift - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxNbVJuSG52aWl5bUhlZmE4SGFVOHVoSC10Y1U3dUw1ZlV1MEJqbDRpVlpiamZuYVNPOUt2a1ZiemlDdlR5LXNTTDJ0R2JCaFZ1aWs1bXVlMU9FY0dRRi1DSG5SeTY2RFJBVTdXYXlDY0",
+    "sources": []
+  },
+  {
     "id": "unknown-2026-02-04-013",
     "date": "2026-02-04",
     "companies": [],
@@ -72,6 +381,130 @@
     "sources": []
   },
   {
+    "id": "array-2026-02-04-033",
+    "date": "2026-02-04",
+    "companies": [
+      "array"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "ARRAY Technologies Announces Fourth Quarter and Full Year 2025 Earnings Release Date and Conference Call - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxPTTJ6QjJHbUktVmpMTGY4UjBZU0VrLTJHbEZyUmxEWmZXbTJoMUNyeWlEXzJaN1NvRjhTYWVrYUpaWDZsTFlRcHU1dC1LWTNfb0FOekwyMEFtSUh6VG5FTXU3WXNhb2R2dmZxSEN0TW",
+    "sources": []
+  },
+  {
+    "id": "jinko-2026-01-21-025",
+    "date": "2026-01-21",
+    "companies": [
+      "jinko"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "JinkoSolar's Subsidiary, Jinko Solar Co., Ltd., Announces Estimates of Certain Preliminary Unaudited Financial Results for Full Year 2025 - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxQZzRFNDJhUHF6dUJTOFdCTGVDQ0VzWFl6VGJGTFpPem5nNzlHVUhjX0tpUVJueW8zSlM4SWZoRkFiSk8wcWtMcUh3SEdpRlM5VWl3ZUhEMWpYeXZoUFJLVFYzbGROX0EyTFN5a3VqNE",
+    "sources": []
+  },
+  {
+    "id": "gcl-2026-01-14-010",
+    "date": "2026-01-14",
+    "companies": [
+      "gcl"
+    ],
+    "topics": [
+      "polysilicon_price"
+    ],
+    "impact": "neutral",
+    "title": "GCL Technology set for rebound as polysilicon prices stabilize - S&P Global",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxOX3dBbG1PNWFVWGVKdTJNU2x3QXNRU1I4M3hnUGJZOE00MDRtbzlPMEtWdGlUdFF1bGtBUmNCb3hENFg0MjhEX2JQbExOcUNBYnZUY0g1SU14REs2bzlpeEd5aXBhU0FCTFZyWWFwQ2",
+    "sources": []
+  },
+  {
+    "id": "trina-2026-01-05-020",
+    "date": "2026-01-05",
+    "companies": [
+      "trina"
+    ],
+    "topics": [],
+    "impact": "positive",
+    "title": "Trina Solar sees Chile as a global BESS growth engine and forecasts a strong 2026 - Strategic Energy Europe",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxNVG9wWkFCUVVaMy1leFBDOVBxNjBiLWRhTzRMYVh2UTA4RGk4TmNXcG9EeFZrTVRKejEtMmJrS2RZdURtYjZGRjIxdklxWFlESG52N2I5T1VQUDEtV1FTMC1CQV9GM1hNTU96TUd1aH",
+    "sources": []
+  },
+  {
+    "id": "maxeon-2025-12-20-027",
+    "date": "2025-12-20",
+    "companies": [
+      "maxeon"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "MAXEON SOLAR TECHNOLOGIES Q3 2025 Earnings Preview: Recent $MAXN Insider Trading, Hedge Fund Activity, and More - Quiver Quantitative",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5wFBVV95cUxNWkoxWURjSHNET1NTS0gweW9yWllwRTFSMUNMcVEwYVVVSllQTDNZVm9mdjVpQ0UzNnVlcTBJSFdyNkRCNW5PektpSnhabWxhbW5hSkxlcTNJUWFNeThOb0oxZ000VXlKNEpIRTZQdE",
+    "sources": []
+  },
+  {
+    "id": "jinko-2025-10-30-026",
+    "date": "2025-10-30",
+    "companies": [
+      "jinko"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "JinkoSolar's Subsidiary, Jinko Solar Co., Ltd., Announces Third Quarter 2025 Unaudited Financial Results - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxQUlQzdGo5aG9JVkx2ZHlVdlc4cTYwSTdqXzNseDZSNUtFelpMTEZwQkpQZFlzNFJVdzE2WjhCVHNhcGU2OUVEZTNQOWpXYTIwa3lTZnhxVmk5aXY5SW43a19YalRneTF1TTZrV1I4eG",
+    "sources": []
+  },
+  {
+    "id": "nextracker-2025-10-02-038",
+    "date": "2025-10-02",
+    "companies": [
+      "nextracker"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Nextracker to Announce Second Quarter Fiscal 2026 Financial Results on October 23, 2025 - Nextpower",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6wFBVV95cUxQQ041Y0VaY185dVlMSGtOTkVhNnJxLXdvaU1DQkhHbm5RNWxVbFpXTlBZcE5FQjB6aHRPZVNVNGZHd2FTeEdSSVVYYWl6cXlZMnJYREZUc0FrcjBNcEJJTWpoMHpBTmxQRGRYYU1uZ1",
+    "sources": []
+  },
+  {
+    "id": "xinyi_solar-2025-09-23-003",
+    "date": "2025-09-23",
+    "companies": [
+      "xinyi_solar"
+    ],
+    "topics": [],
+    "impact": "negative",
+    "title": "Xinyi Solar Holdings Limited Just Missed Earnings And Its Revenue Numbers Were Weaker Than Expected - simplywall.st",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4gFBVV95cUxQOENMQVRMOTc2T2FFZ0s5enV4dzVUbkh6WTF2YkVkUlVya3FITm1FazI1VTF1aldWTDZMTVN4QXBqWVd4MVRtN21TUFBJdHVMSjJONWhUelRlMU5mV2loblJ6Y29rVWpkZ1h3TVFuRm",
+    "sources": []
+  },
+  {
+    "id": "sungrow-2025-08-27-034",
+    "date": "2025-08-27",
+    "companies": [
+      "sungrow"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Sungrow to seek Hong Kong listing, H1 storage revenue more than doubles - Renewables Now",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxNSU5GcjlHSWY0ZURVVXpjb1JRZElUbU5STW1LWjMzVVRTX01FOUpJVzEwOFdVSUEwRHZ0bWRYbDVGZ0sxQW9Jdk9YTndoMi1YUUtjZHdPdlZQamJLVFBnelNHXzJYTkFQNU45Sk8tb2",
+    "sources": []
+  },
+  {
+    "id": "longi-2025-08-22-018",
+    "date": "2025-08-22",
+    "companies": [
+      "longi"
+    ],
+    "topics": [
+      "installation_demand"
+    ],
+    "impact": "negative",
+    "title": "China’s Longi Green Narrows Loss as Solar Installations Surge - Bloomberg.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxNcUZBWXpTN3lYY0tVR2tycDY0dndfMGFOM1g5bjBCWWRUY2xuU2xkNzh5TDFVWHR0ajB2eHRLMFBfeDNfeWFxNFV0V20xcVhVZTdxc2k4eHN0Sk1fb0JMWlpacDFPc2U1U05lNnA4Q3",
+    "sources": []
+  },
+  {
     "id": "unknown-2025-08-11-011",
     "date": "2025-08-11",
     "companies": [],
@@ -81,6 +514,18 @@
     "impact": "neutral",
     "title": "50 Percent Tariffs, Billions at Stake: Inside the India–US Trade Showdown - Energetica India Magazine",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxORHRPU1d0dHdXUnVvR1VneEtoT1FuYWlOUkZLcFh3UElVSFdUUnJmQXlrOThhdVFDYlowMmh6OVVWVGl6czR0eTlJMEtubXlzY2tIclQ3QnlrdnlJUU9jVUNsaDFJT3R0Nl80MHhJMX",
+    "sources": []
+  },
+  {
+    "id": "xinyi_solar-2025-08-05-001",
+    "date": "2025-08-05",
+    "companies": [
+      "xinyi_solar"
+    ],
+    "topics": [],
+    "impact": "negative",
+    "title": "Xinyi Solar’s H1 2025 Revenues Hit By ASP Decline - TaiyangNews",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE9HQzNrNzJ6NGdtZWxENlItTU50dUNRcmZ2OUx4VGxtUzY4RUJRaTFGWXVYc2lEN01hNWp3OVktdU5JejZPUTktMi1BdHNUNVlVc2JwcXl4N0JXd2VhcHR3dkI5dXF3ZUU2MDVoaXVXbW",
     "sources": []
   },
   {
@@ -106,6 +551,18 @@
     "impact": "neutral",
     "title": "Solar Module Prices Rise 12% as US Tariffs Disrupt Trade Flows: WoodMac - Saur Energy",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxQQTYtbVdRdU5lSFBFVXlDc3dfVWZVaVljclN5STRRdklZeFFjWE1kLWI0UmNaNndNMDlPZnczdFhjWEV3VmlKYXZaUDBFN0JvY3ZSblFtdzBYZWktbDNzTDMwdjNPOV9qWGJDMnZnR1",
+    "sources": []
+  },
+  {
+    "id": "nextracker-2025-07-10-039",
+    "date": "2025-07-10",
+    "companies": [
+      "nextracker"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Nextracker to Announce First Quarter Fiscal 2026 Financial Results on July 29, 2025 - Nextpower",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5gFBVV95cUxOUDEtY2JMWERLejZad0N2QnJnSHkzZkFlWVN4eGRnVkVjMVY2dktTV3ZiUnFscHhodnp6aVdKUlhGd2RVMFVoMEhYQ2gyb1VSSmpGMjFrTkFQbmoxS3pBcUxzdzFZMXM4b0dMVkw0Rj",
     "sources": []
   },
   {
@@ -253,6 +710,30 @@
     "sources": []
   },
   {
+    "id": "motech-2025-03-07-028",
+    "date": "2025-03-07",
+    "companies": [
+      "motech"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Motech bullish on revenue momentum - Taipei Times",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE5yNFNVUXdISHI4bHlydUZLcXI3b2JCMzdQVEF0azkybnlQRXNuaFp6NExSXy1jbERnVGo2YWxrNG80T0x4UWVuU2hDSS1YVHR5WmRLOVNIM0ZCSG1oM0xxTnpKQXVTVGdYTlZJbXYta2",
+    "sources": []
+  },
+  {
+    "id": "motech-2024-10-04-029",
+    "date": "2024-10-04",
+    "companies": [
+      "motech"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Motech forecasts solar market equilibrium by 2026, TOPCon efficiency to hit 26% - digitimes",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxNV280dmdYNXVHbFpiRTcycGFLak1RX0JoSUV1ZFlKTzdRT29DZzRsdTgyM2JzM0FReVoyclZvUHhmczRDX0hWb0pod2ZTdTg1THZXTzh3dTFQZ0JCazJQSUZUUVBmQ1Fuc09NMC1GNm",
+    "sources": []
+  },
+  {
     "id": "unknown-2024-09-03-016",
     "date": "2024-09-03",
     "companies": [],
@@ -287,6 +768,18 @@
     "impact": "neutral",
     "title": "Major US solar manufacturers call for strict new solar-panel tariffs - Canary Media",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxQc2h5anFza1lKbkotZ0tFVFRTNl9JYXkwejZOdUdJc3hxNXptQkdLMUc5dzRSbmt2SkI2X2w4aE1qMEx6QXBZa2U5QmVfWHFjUTJjV1EyNTloeXZrWVVDSjU2V2ZRc0xDN19QRS1Td0",
+    "sources": []
+  },
+  {
+    "id": "tongwei-2022-04-27-009",
+    "date": "2022-04-27",
+    "companies": [
+      "tongwei"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Tongwei sets sizeable solar polysilicon, cell manufacturing capacity targets following Q1 profit leap - PV Tech",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxQM2pBb1ozV0xxYW5vcHVaOV9kREIteE10cWtRMUcyNTg5ZU5YVXYwdW5HWmJ5c1hQVnc0TVpWb3hvNlQ2dnZHQ3dBb0RLcVktVWxuVnBVX0pMZXVHNVhlQVI0NEIycF9hRW9FeWVxRD",
     "sources": []
   }
 ]
