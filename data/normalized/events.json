@@ -1,1001 +1,2001 @@
 [
   {
-    "id": "rss-79029",
+    "id": "rss-77025",
+    "date": "Wed, 15 Ap",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "France, Germany set daily solar records for April",
+    "summary": "AleaSoft Energy Forecasting’s latest analysis finds increased solar energy production and lower gas futures prices helped reduce electricity prices in most major European markets last week. Germany pr",
+    "sources": [
+      {
+        "type": "news",
+        "title": "France, Germany set daily solar records for April",
+        "url": "https://www.pv-magazine.com/2026/04/15/france-germany-set-daily-solar-records-for-april/",
+        "fetchedAt": "2026-04-15T09:11:16.136762Z",
+        "excerpt": "AleaSoft Energy Forecasting’s latest analysis finds increased solar energy production and lower gas futures prices helped reduce electricity prices in most major European markets last week. Germany produced 426 GWh of solar on April 8, a record for a day in April. France also set a new April day record a day later, generating 136 GWh."
+      }
+    ]
+  },
+  {
+    "id": "rss-9760",
+    "date": "Wed, 15 Ap",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "Porous silica-based anti-reflective coating increases PV glass optical transmission by 5.2%",
+    "summary": "Researchers in Spain developed a porous silica anti-reflective coating for solar panels that boosts optical transmission while balancing durability and mechanical stability through optimized sol–gel c",
+    "sources": [
+      {
+        "type": "news",
+        "title": "Porous silica-based anti-reflective coating increases PV glass optical transmission by 5.2%",
+        "url": "https://www.pv-magazine.com/2026/04/15/porous-silica-based-anti-reflective-coating-increases-pv-glass-optical-transmission-by-5-2/",
+        "fetchedAt": "2026-04-15T09:11:16.136772Z",
+        "excerpt": "Researchers in Spain developed a porous silica anti-reflective coating for solar panels that boosts optical transmission while balancing durability and mechanical stability through optimized sol–gel chemistry."
+      }
+    ]
+  },
+  {
+    "id": "rss-46289",
+    "date": "Wed, 15 Ap",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "Cyber threats for PV: What are credential compromise attacks and how do they work",
+    "summary": "Credential compromise attacks allow adversaries to gain unauthorized access to PV systems by stealing or guessing valid login credentials, enabling them to manipulate operations, disrupt monitoring, o",
+    "sources": [
+      {
+        "type": "news",
+        "title": "Cyber threats for PV: What are credential compromise attacks and how do they work",
+        "url": "https://www.pv-magazine.com/2026/04/15/cyber-threats-for-pv-what-are-credential-compromise-attacks-and-how-do-they-work/",
+        "fetchedAt": "2026-04-15T09:11:16.136774Z",
+        "excerpt": "Credential compromise attacks allow adversaries to gain unauthorized access to PV systems by stealing or guessing valid login credentials, enabling them to manipulate operations, disrupt monitoring, or take control of critical assets. These attacks can lead to operational instability, reduced energy production, and safety risks, making strong authentication and access control essential for system resilience."
+      }
+    ]
+  },
+  {
+    "id": "rss-86171",
+    "date": "Wed, 15 Ap",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "Free midday electricity key to drive consumer demand to match excess PV generation",
+    "summary": "Free midday electricity schemes aim to shift household demand into periods of high solar PV generation, reducing midday surplus and evening fossil-fuel ramp-up. Research on Australia’s Solar Sharer pr",
+    "sources": [
+      {
+        "type": "news",
+        "title": "Free midday electricity key to drive consumer demand to match excess PV generation",
+        "url": "https://www.pv-magazine.com/2026/04/15/free-midday-electricity-key-to-drive-consumer-demand-to-match-excess-pv-generation/",
+        "fetchedAt": "2026-04-15T09:11:16.136779Z",
+        "excerpt": "Free midday electricity schemes aim to shift household demand into periods of high solar PV generation, reducing midday surplus and evening fossil-fuel ramp-up. Research on Australia’s Solar Sharer program suggests such incentives could significantly improve renewable utilization, but outcomes depend on consumer behaviour, load shifting, and rebound effects."
+      }
+    ]
+  },
+  {
+    "id": "rss-91105",
+    "date": "Wed, 15 Ap",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "Mova unveils all-in-one plug-in solar and storage solutions",
+    "summary": "Entering a competitive small-scale energy storate field is Chinese maker Mova, well-known for its kitchen applicances and growing robotic homewares including vacuums and more.",
+    "sources": [
+      {
+        "type": "news",
+        "title": "Mova unveils all-in-one plug-in solar and storage solutions",
+        "url": "https://www.pv-magazine.com/2026/04/15/mova-unveils-all-in-one-plug-in-solar-and-storage-solutions/",
+        "fetchedAt": "2026-04-15T09:11:16.136782Z",
+        "excerpt": "Entering a competitive small-scale energy storate field is Chinese maker Mova, well-known for its kitchen applicances and growing robotic homewares including vacuums and more."
+      }
+    ]
+  },
+  {
+    "id": "rss-4749",
+    "date": "Wed, 15 Ap",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "Tunisia launches 200 MW call for PV projects under new licensing scheme",
+    "summary": "The Tunisian government is inviting private developers to submit applications for solar power plants under the sixth licensing round for full electricity sale to national utility STEG.",
+    "sources": [
+      {
+        "type": "news",
+        "title": "Tunisia launches 200 MW call for PV projects under new licensing scheme",
+        "url": "https://www.pv-magazine.com/2026/04/15/tunisia-launches-200-mw-call-for-pv-projects-under-new-licensing-scheme/",
+        "fetchedAt": "2026-04-15T09:11:16.136784Z",
+        "excerpt": "The Tunisian government is inviting private developers to submit applications for solar power plants under the sixth licensing round for full electricity sale to national utility STEG."
+      }
+    ]
+  },
+  {
+    "id": "rss-78645",
+    "date": "Wed, 15 Ap",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "Vertical bifacial PV outperforms tilted PV systems in the UK",
+    "summary": "A year-long study in the UK finds vertical bifacial PV systems achieve an up to 26.91% higher output during morning hours compared to traditional tilted PV systems. The vertical bifacial system better",
+    "sources": [
+      {
+        "type": "news",
+        "title": "Vertical bifacial PV outperforms tilted PV systems in the UK",
+        "url": "https://www.pv-magazine.com/2026/04/15/vertical-bifacial-pv-outperforms-tilted-pv-systems-in-the-uk/",
+        "fetchedAt": "2026-04-15T09:11:16.136786Z",
+        "excerpt": "A year-long study in the UK finds vertical bifacial PV systems achieve an up to 26.91% higher output during morning hours compared to traditional tilted PV systems. The vertical bifacial system bettered the tilted system across all four seasons, with average power gains as high as 24.52% during winter."
+      }
+    ]
+  },
+  {
+    "id": "rss-55763",
+    "date": "Wed, 15 Ap",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "Vaillant launches space-saving residential heat pump",
+    "summary": "The German manufacturer said that its new air-to-water heat pump system uses propane as a refrigerant and is available in three variants with outputs of 5 kW, 7 kW, and 11 kW. The new product can repo",
+    "sources": [
+      {
+        "type": "news",
+        "title": "Vaillant launches space-saving residential heat pump",
+        "url": "https://www.pv-magazine.com/2026/04/15/vaillant-launches-space-saving-residential-heat-pump/",
+        "fetchedAt": "2026-04-15T09:11:16.136788Z",
+        "excerpt": "The German manufacturer said that its new air-to-water heat pump system uses propane as a refrigerant and is available in three variants with outputs of 5 kW, 7 kW, and 11 kW. The new product can reportedly achieve a coefficient of performance of up to 4.93."
+      }
+    ]
+  },
+  {
+    "id": "rss-79409",
+    "date": "Wed, 15 Ap",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "Australian developer moves ahead with modular green hydrogen production plant",
+    "summary": "Intercontinental Energy, the company driving two of Australia’s largest renewable energy projects, has announced key milestones for the system architecture that is to serve as the backbone for the pro",
+    "sources": [
+      {
+        "type": "news",
+        "title": "Australian developer moves ahead with modular green hydrogen production plant",
+        "url": "https://www.pv-magazine.com/2026/04/15/australian-developer-moves-ahead-with-modular-green-hydrogen-production-plant/",
+        "fetchedAt": "2026-04-15T09:11:16.136789Z",
+        "excerpt": "Intercontinental Energy, the company driving two of Australia’s largest renewable energy projects, has announced key milestones for the system architecture that is to serve as the backbone for the proposed giga-scale green hydrogen projects."
+      }
+    ]
+  },
+  {
+    "id": "rss-1576",
+    "date": "Wed, 15 Ap",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "Suniva to build 4.5 GW solar cell factory in South Carolina",
+    "summary": "The expansion will bring the company’s total domestic cell capacity to 5.5 GW, cementing its position as the largest merchant solar cell manufacturer in the United States.",
+    "sources": [
+      {
+        "type": "news",
+        "title": "Suniva to build 4.5 GW solar cell factory in South Carolina",
+        "url": "https://www.pv-magazine.com/2026/04/15/suniva-to-build-4-5-gw-solar-cell-factory-in-south-carolina/",
+        "fetchedAt": "2026-04-15T09:11:16.136791Z",
+        "excerpt": "The expansion will bring the company’s total domestic cell capacity to 5.5 GW, cementing its position as the largest merchant solar cell manufacturer in the United States."
+      }
+    ]
+  },
+  {
+    "id": "rss-18413",
     "date": "Tue, 14 Ap",
     "companies": [],
     "topics": [
       "news"
     ],
     "impact": "neutral",
-    "title": "The Smart Advantage: How Artificial Intelligence Is Transforming Inspection And Metrology In Semiconductor Manufacturing",
-    "summary": "<p>Deep learning enables systems to detect and flag issues that could otherwise be misread or missed entirely. </p>\n<p>The post <a href=\"https://semiengineering.com/the-smart-advantage-how-artificial-",
+    "title": "How to generate hydrogen at home with recycled solar panels",
+    "summary": "Scientists in Chile have developed a low-cost, easy-to-deploy hydrogen system powered by end-of-life solar panels. The residential solution reportedly achieves a levelized cost of hydrogen of approxim",
     "sources": [
       {
         "type": "news",
-        "title": "The Smart Advantage: How Artificial Intelligence Is Transforming Inspection And Metrology In Semiconductor Manufacturing",
-        "url": "https://semiengineering.com/the-smart-advantage-how-artificial-intelligence-is-transforming-inspection-and-metrology-in-semiconductor-manufacturing/",
-        "fetchedAt": "2026-04-14T23:00:19.379332Z",
-        "excerpt": "<p>Deep learning enables systems to detect and flag issues that could otherwise be misread or missed entirely. </p>\n<p>The post <a href=\"https://semiengineering.com/the-smart-advantage-how-artificial-intelligence-is-transforming-inspection-and-metrology-in-semiconductor-manufacturing/\">The Smart Advantage: How Artificial Intelligence Is Transforming Inspection And Metrology In Semiconductor Manufacturing</a> appeared first on <a href=\"https://semiengineering.com\">Semiconductor Engineering</a>.</"
+        "title": "How to generate hydrogen at home with recycled solar panels",
+        "url": "https://www.pv-magazine.com/2026/04/14/how-to-generate-hydrogen-at-home-with-recycled-solar-panels/",
+        "fetchedAt": "2026-04-15T09:11:16.136792Z",
+        "excerpt": "Scientists in Chile have developed a low-cost, easy-to-deploy hydrogen system powered by end-of-life solar panels. The residential solution reportedly achieves a levelized cost of hydrogen of approximately $5.8/kg."
       }
     ]
   },
   {
-    "id": "rss-92721",
+    "id": "rss-53973",
     "date": "Tue, 14 Ap",
     "companies": [],
     "topics": [
       "news"
     ],
     "impact": "neutral",
-    "title": "Heterogeneous NPU Data Movement: What The Execution Flow Shows",
-    "summary": "<p>A concrete example of how architectural boundaries influence system behavior.</p>\n<p>The post <a href=\"https://semiengineering.com/heterogeneous-npu-data-movement-what-the-execution-flow-shows/\">He",
+    "title": "Omani company to build 500 MW of solar in Botswana",
+    "summary": "Oman's Naqaa Sustainable Energy LLC is set to design, finance, construct and operate a 500 MW solar project in northwestern Botswana. A groundbreaking ceremony is scheduled to take place later this we",
     "sources": [
       {
         "type": "news",
-        "title": "Heterogeneous NPU Data Movement: What The Execution Flow Shows",
-        "url": "https://semiengineering.com/heterogeneous-npu-data-movement-what-the-execution-flow-shows/",
-        "fetchedAt": "2026-04-14T23:00:19.379353Z",
-        "excerpt": "<p>A concrete example of how architectural boundaries influence system behavior.</p>\n<p>The post <a href=\"https://semiengineering.com/heterogeneous-npu-data-movement-what-the-execution-flow-shows/\">Heterogeneous NPU Data Movement: What The Execution Flow Shows</a> appeared first on <a href=\"https://semiengineering.com\">Semiconductor Engineering</a>.</p>\n"
+        "title": "Omani company to build 500 MW of solar in Botswana",
+        "url": "https://www.pv-magazine.com/2026/04/14/omani-company-to-build-500-mw-of-solar-in-botswana/",
+        "fetchedAt": "2026-04-15T09:11:16.136794Z",
+        "excerpt": "Oman's Naqaa Sustainable Energy LLC is set to design, finance, construct and operate a 500 MW solar project in northwestern Botswana. A groundbreaking ceremony is scheduled to take place later this week."
       }
     ]
   },
   {
-    "id": "rss-84028",
+    "id": "rss-98198",
     "date": "Tue, 14 Ap",
     "companies": [],
     "topics": [
       "news"
     ],
     "impact": "neutral",
-    "title": "Research Bits: Apr. 14",
-    "summary": "<p>Memristors: Authentication for edge devices; ultra-high temperature operation; DNA plus perovskites.</p>\n<p>The post <a href=\"https://semiengineering.com/research-bits-apr-14/\">Research Bits: Apr. ",
+    "title": "Dominican Republic opens bids for 600 MW renewables tender",
+    "summary": "The nation’s latest call for long-term power purchase agreements focuses on supplying the national grid with wind and solar projects, specifically mandating integrated battery storage systems to ensur",
     "sources": [
       {
         "type": "news",
-        "title": "Research Bits: Apr. 14",
-        "url": "https://semiengineering.com/research-bits-apr-14/",
-        "fetchedAt": "2026-04-14T23:00:19.379356Z",
-        "excerpt": "<p>Memristors: Authentication for edge devices; ultra-high temperature operation; DNA plus perovskites.</p>\n<p>The post <a href=\"https://semiengineering.com/research-bits-apr-14/\">Research Bits: Apr. 14</a> appeared first on <a href=\"https://semiengineering.com\">Semiconductor Engineering</a>.</p>\n"
+        "title": "Dominican Republic opens bids for 600 MW renewables tender",
+        "url": "https://www.pv-magazine.com/2026/04/14/dominican-republic-opens-bids-for-600-mw-renewables-tender/",
+        "fetchedAt": "2026-04-15T09:11:16.136796Z",
+        "excerpt": "The nation’s latest call for long-term power purchase agreements focuses on supplying the national grid with wind and solar projects, specifically mandating integrated battery storage systems to ensure grid resilience."
       }
     ]
   },
   {
-    "id": "rss-37029",
+    "id": "rss-58190",
     "date": "Tue, 14 Ap",
     "companies": [],
     "topics": [
       "news"
     ],
     "impact": "neutral",
-    "title": "Chip Industry Technical Paper Roundup: Apr. 14",
-    "summary": "<p>Silicon spin qubits based on GAA; causal AI for AMS design; wide-bandgap automotive reliability; agentic HLS; co-packaged optics; constraint programming for semiconductor manufacturing; automated s",
+    "title": "Household solar is easier said than installed",
+    "summary": "Analysis of longitudinal survey data has explored the link between intended and actual solar panel adoption in UK households. It finds that while most households that had intention of installing solar",
     "sources": [
       {
         "type": "news",
-        "title": "Chip Industry Technical Paper Roundup: Apr. 14",
-        "url": "https://semiengineering.com/chip-industry-technical-paper-roundup-apr-14/",
-        "fetchedAt": "2026-04-14T23:00:19.379358Z",
-        "excerpt": "<p>Silicon spin qubits based on GAA; causal AI for AMS design; wide-bandgap automotive reliability; agentic HLS; co-packaged optics; constraint programming for semiconductor manufacturing; automated security assertions with LLMs.</p>\n<p>The post <a href=\"https://semiengineering.com/chip-industry-technical-paper-roundup-apr-14/\">Chip Industry Technical Paper Roundup: Apr. 14</a> appeared first on <a href=\"https://semiengineering.com\">Semiconductor Engineering</a>.</p>\n"
+        "title": "Household solar is easier said than installed",
+        "url": "https://www.pv-magazine.com/2026/04/14/easier-said-than-installed/",
+        "fetchedAt": "2026-04-15T09:11:16.136797Z",
+        "excerpt": "Analysis of longitudinal survey data has explored the link between intended and actual solar panel adoption in UK households. It finds that while most households that had intention of installing solar in 2012-13 were yet to do so by 2021-22, serious intention to install solar still increases the likelihood of adoption more than other factors such as income and environmental perceptions."
       }
     ]
   },
   {
-    "id": "rss-5137",
+    "id": "rss-45258",
+    "date": "Tue, 14 Ap",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "JA Solar responds to changing market needs with DeepBlue 4.0 Pro and 5.0 modules",
+    "summary": "New cell architectures and multi-cut designs are receiving more attention as the PV industry adapts to shifting market needs. JA Solar’s latest solutions reflect this shift, offering tailored approach",
+    "sources": [
+      {
+        "type": "news",
+        "title": "JA Solar responds to changing market needs with DeepBlue 4.0 Pro and 5.0 modules",
+        "url": "https://www.pv-magazine.com/2026/04/14/ja-solar-responds-to-changing-market-needs-with-deepblue-4-0-pro-and-5-0-modules/",
+        "fetchedAt": "2026-04-15T09:11:16.136799Z",
+        "excerpt": "New cell architectures and multi-cut designs are receiving more attention as the PV industry adapts to shifting market needs. JA Solar’s latest solutions reflect this shift, offering tailored approaches for different project environments."
+      }
+    ]
+  },
+  {
+    "id": "rss-67096",
+    "date": "Tue, 14 Ap",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "Atmoce debuts microinverter connecting two solar modules",
+    "summary": "Atmoce’s new MI microinverter series connects two PV modules per unit while still providing module-level power optimization.",
+    "sources": [
+      {
+        "type": "news",
+        "title": "Atmoce debuts microinverter connecting two solar modules",
+        "url": "https://www.pv-magazine.com/2026/04/14/atmoce-debuts-microinverter-connecting-two-solar-modules/",
+        "fetchedAt": "2026-04-15T09:11:16.136800Z",
+        "excerpt": "Atmoce’s new MI microinverter series connects two PV modules per unit while still providing module-level power optimization."
+      }
+    ]
+  },
+  {
+    "id": "rss-25165",
+    "date": "Tue, 14 Ap",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "Mexico updates distributed generation rules to formally integrate energy storage",
+    "summary": "The new provisions published by the country's energy regulator are aimed to adjust the technical and administrative criteria for distributed generation, particularly with regard to energy storage, ins",
+    "sources": [
+      {
+        "type": "news",
+        "title": "Mexico updates distributed generation rules to formally integrate energy storage",
+        "url": "https://www.pv-magazine.com/2026/04/14/mexico-updates-distributed-generation-rules-to-formally-integrate-energy-storage/",
+        "fetchedAt": "2026-04-15T09:11:16.136802Z",
+        "excerpt": "The new provisions published by the country's energy regulator are aimed to adjust the technical and administrative criteria for distributed generation, particularly with regard to energy storage, installed capacity limits, and interconnection procedures."
+      }
+    ]
+  },
+  {
+    "id": "rss-58340",
+    "date": "Tue, 14 Ap",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "Cyber threats for PV: What are ransomware attacks and how do they work",
+    "summary": "Ransomware attacks encrypt or lock critical PV system data and control platforms, preventing operators from accessing or managing their assets until a ransom is paid. These attacks can disrupt operati",
+    "sources": [
+      {
+        "type": "news",
+        "title": "Cyber threats for PV: What are ransomware attacks and how do they work",
+        "url": "https://www.pv-magazine.com/2026/04/14/cyber-threats-for-pv-what-are-ransomware-attacks-and-how-do-they-work/",
+        "fetchedAt": "2026-04-15T09:11:16.136804Z",
+        "excerpt": "Ransomware attacks encrypt or lock critical PV system data and control platforms, preventing operators from accessing or managing their assets until a ransom is paid. These attacks can disrupt operations, reduce energy production, and create safety risks, making robust backups, segmentation, and incident response essential for resilience."
+      }
+    ]
+  },
+  {
+    "id": "rss-32536",
+    "date": "Tue, 14 Ap",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "India adds heterojunction cell tech to approved solar manufacturers list",
+    "summary": "Reliance Industries Ltd has become the first company to secure the inclusion of heterojunction solar cells in the Approved List of Models and Manufacturers (ALMM) published by India's Ministry of New ",
+    "sources": [
+      {
+        "type": "news",
+        "title": "India adds heterojunction cell tech to approved solar manufacturers list",
+        "url": "https://www.pv-magazine.com/2026/04/14/india-adds-heterojunction-cell-tech-to-approved-solar-manufacturers-list/",
+        "fetchedAt": "2026-04-15T09:11:16.136806Z",
+        "excerpt": "Reliance Industries Ltd has become the first company to secure the inclusion of heterojunction solar cells in the Approved List of Models and Manufacturers (ALMM) published by India's Ministry of New and Renewable Energy."
+      }
+    ]
+  },
+  {
+    "id": "rss-94423",
+    "date": "Tue, 14 Ap",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "Rhoss unveils propane air-to-water heat pump for residential, small commercial applications",
+    "summary": "The Italian manufacturer has launched a compact range of propane air-to-water heat pumps for heating, cooling, and domestic hot water in residential and light commercial applications, offering up to 1",
+    "sources": [
+      {
+        "type": "news",
+        "title": "Rhoss unveils propane air-to-water heat pump for residential, small commercial applications",
+        "url": "https://www.pv-magazine.com/2026/04/14/rhoss-unveils-propane-air-to-water-heat-pump-for-residential-small-commercial-applications/",
+        "fetchedAt": "2026-04-15T09:11:16.136807Z",
+        "excerpt": "The Italian manufacturer has launched a compact range of propane air-to-water heat pumps for heating, cooling, and domestic hot water in residential and light commercial applications, offering up to 15.5 kW heating capacity, a seasonal coefficient of performance of up to 5.18, and water temperatures up to 80 C."
+      }
+    ]
+  },
+  {
+    "id": "rss-3143",
+    "date": "Tue, 14 Ap",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "Suniva to build 4.5 GW solar cell factory in South Carolina",
+    "summary": "The expansion will bring the company’s total domestic cell capacity to 5.5 GW, cementing its position as the largest merchant solar cell manufacturer in the United States.",
+    "sources": [
+      {
+        "type": "news",
+        "title": "Suniva to build 4.5 GW solar cell factory in South Carolina",
+        "url": "https://pv-magazine-usa.com/2026/04/14/suniva-to-build-4-5-gw-solar-cell-factory-in-south-carolina/",
+        "fetchedAt": "2026-04-15T09:11:16.487385Z",
+        "excerpt": "The expansion will bring the company’s total domestic cell capacity to 5.5 GW, cementing its position as the largest merchant solar cell manufacturer in the United States."
+      }
+    ]
+  },
+  {
+    "id": "rss-94519",
+    "date": "Tue, 14 Ap",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "Terra Energy aims to make signing up for solar as easy as signing up for cell phone service",
+    "summary": "The company, which offers solar subscriptions to homeowners on an initial 36-month agreement, seeks to retain those customers for the long-term by proving it can offer something better than the altern",
+    "sources": [
+      {
+        "type": "news",
+        "title": "Terra Energy aims to make signing up for solar as easy as signing up for cell phone service",
+        "url": "https://pv-magazine-usa.com/2026/04/14/terra-energy-aims-to-make-signing-up-for-solar-as-easy-as-signing-up-for-cell-phone-service/",
+        "fetchedAt": "2026-04-15T09:11:16.487395Z",
+        "excerpt": "The company, which offers solar subscriptions to homeowners on an initial 36-month agreement, seeks to retain those customers for the long-term by proving it can offer something better than the alternative."
+      }
+    ]
+  },
+  {
+    "id": "rss-66637",
+    "date": "Tue, 14 Ap",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "California school district completes 3.5 MW solar and energy modernization project",
+    "summary": "The project spans 12 sites and is projected to deliver $48 million in cost savings over the next 20 years.",
+    "sources": [
+      {
+        "type": "news",
+        "title": "California school district completes 3.5 MW solar and energy modernization project",
+        "url": "https://pv-magazine-usa.com/2026/04/14/california-school-district-completes-3-5-mw-solar-and-energy-modernization-project/",
+        "fetchedAt": "2026-04-15T09:11:16.487397Z",
+        "excerpt": "The project spans 12 sites and is projected to deliver $48 million in cost savings over the next 20 years."
+      }
+    ]
+  },
+  {
+    "id": "rss-12348",
+    "date": "Tue, 14 Ap",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "Community-scale solar offers $6.5 billion in savings, bypassing California gridlocks",
+    "summary": "Localized distribution-level projects can cut out-of-state energy imports by 13% while providing a faster alternative to delayed transmission-scale infrastructure, said a report by Pathfinder Communic",
+    "sources": [
+      {
+        "type": "news",
+        "title": "Community-scale solar offers $6.5 billion in savings, bypassing California gridlocks",
+        "url": "https://pv-magazine-usa.com/2026/04/14/community-scale-solar-offers-6-5-billion-in-savings-bypassing-california-gridlocks/",
+        "fetchedAt": "2026-04-15T09:11:16.487398Z",
+        "excerpt": "Localized distribution-level projects can cut out-of-state energy imports by 13% while providing a faster alternative to delayed transmission-scale infrastructure, said a report by Pathfinder Communications."
+      }
+    ]
+  },
+  {
+    "id": "rss-40706",
+    "date": "Tue, 14 Ap",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "How a resilient design strategy positively affects the underwriting process for solar projects",
+    "summary": "Advances in solar panel design have reduced the impact of microcracking on overall performance, according to Mike Perron, renewable energy market lead for FM. He says risk reduction plays an important",
+    "sources": [
+      {
+        "type": "news",
+        "title": "How a resilient design strategy positively affects the underwriting process for solar projects",
+        "url": "https://pv-magazine-usa.com/2026/04/14/how-a-resilient-design-strategy-positively-affects-the-underwriting-process-for-solar-projects/",
+        "fetchedAt": "2026-04-15T09:11:16.487400Z",
+        "excerpt": "Advances in solar panel design have reduced the impact of microcracking on overall performance, according to Mike Perron, renewable energy market lead for FM. He says risk reduction plays an important role in the process of underwriting solar projects."
+      }
+    ]
+  },
+  {
+    "id": "rss-55528",
+    "date": "Tue, 14 Ap",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "Ideematec to supply 1.2 GW of trackers for Texas solar portfolio",
+    "summary": "German tracker manufacturer Ideematec has executed an agreement with Parliament Energy to supply its Horizon L:TEC 1P trackers for 1.2 GWac of solar projects in Texas.",
+    "sources": [
+      {
+        "type": "news",
+        "title": "Ideematec to supply 1.2 GW of trackers for Texas solar portfolio",
+        "url": "https://pv-magazine-usa.com/2026/04/14/ideematec-to-supply-1-2-gw-of-trackers-for-texas-solar-portfolio/",
+        "fetchedAt": "2026-04-15T09:11:16.487402Z",
+        "excerpt": "German tracker manufacturer Ideematec has executed an agreement with Parliament Energy to supply its Horizon L:TEC 1P trackers for 1.2 GWac of solar projects in Texas."
+      }
+    ]
+  },
+  {
+    "id": "rss-59286",
+    "date": "Tue, 14 Ap",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "Third-generation Massachusetts farm embracing agrivoltaics",
+    "summary": "Farmer Joe Czajkowski said there are several benefits of incorporating solar with his farming operation, not the least of which is income.",
+    "sources": [
+      {
+        "type": "news",
+        "title": "Third-generation Massachusetts farm embracing agrivoltaics",
+        "url": "https://pv-magazine-usa.com/2026/04/14/third-generation-massachusetts-farm-embracing-agrivoltaics/",
+        "fetchedAt": "2026-04-15T09:11:16.487403Z",
+        "excerpt": "Farmer Joe Czajkowski said there are several benefits of incorporating solar with his farming operation, not the least of which is income."
+      }
+    ]
+  },
+  {
+    "id": "rss-9776",
     "date": "Mon, 13 Ap",
     "companies": [],
     "topics": [
       "news"
     ],
     "impact": "neutral",
-    "title": "EDA And IP Numbers Up Again, But Numbers Are More Nuanced",
-    "summary": "<p>Q4 numbers reflect strengths and weaknesses in different segments.</p>\n<p>The post <a href=\"https://semiengineering.com/eda-and-ip-numbers-up-again-but-numbers-are-more-nuanced/\">EDA And IP Numbers",
+    "title": "Modular microgrid company Critical Loop announces $26 million Series A round",
+    "summary": "The Los Angeles-based startup says it has now raised $49 million to accelerate its work to provide flexible industrial solutions that help its clients connect to power faster and bypass long waits for",
     "sources": [
       {
         "type": "news",
-        "title": "EDA And IP Numbers Up Again, But Numbers Are More Nuanced",
-        "url": "https://semiengineering.com/eda-and-ip-numbers-up-again-but-numbers-are-more-nuanced/",
-        "fetchedAt": "2026-04-14T23:00:19.379363Z",
-        "excerpt": "<p>Q4 numbers reflect strengths and weaknesses in different segments.</p>\n<p>The post <a href=\"https://semiengineering.com/eda-and-ip-numbers-up-again-but-numbers-are-more-nuanced/\">EDA And IP Numbers Up Again, But Numbers Are More Nuanced</a> appeared first on <a href=\"https://semiengineering.com\">Semiconductor Engineering</a>.</p>\n"
+        "title": "Modular microgrid company Critical Loop announces $26 million Series A round",
+        "url": "https://pv-magazine-usa.com/2026/04/13/modular-microgrid-company-critical-loop-announces-26-million-series-a-round/",
+        "fetchedAt": "2026-04-15T09:11:16.487405Z",
+        "excerpt": "The Los Angeles-based startup says it has now raised $49 million to accelerate its work to provide flexible industrial solutions that help its clients connect to power faster and bypass long waits for permanent grid infrastructure upgrades."
       }
     ]
   },
   {
-    "id": "rss-32713",
+    "id": "rss-7513",
     "date": "Mon, 13 Ap",
     "companies": [],
     "topics": [
       "news"
     ],
     "impact": "neutral",
-    "title": "Startup Funding: Q1 2026",
-    "summary": "<p>Massive rounds for AI, EDA, and manufacturing; 80 startups raise $8.4B.</p>\n<p>The post <a href=\"https://semiengineering.com/startup-funding-q1-2026/\">Startup Funding: Q1 2026</a> appeared first on",
+    "title": "Mortenson acquires Nor-Cal Controls to bolster utility-scale solar integration capabilities",
+    "summary": "The acquisition of Nor-Cal Controls allows Mortenson to internalize power plant control and SCADA engineering, targeting the technical bottlenecks that often delay project commissioning and grid synch",
     "sources": [
       {
         "type": "news",
-        "title": "Startup Funding: Q1 2026",
-        "url": "https://semiengineering.com/startup-funding-q1-2026/",
-        "fetchedAt": "2026-04-14T23:00:19.379367Z",
-        "excerpt": "<p>Massive rounds for AI, EDA, and manufacturing; 80 startups raise $8.4B.</p>\n<p>The post <a href=\"https://semiengineering.com/startup-funding-q1-2026/\">Startup Funding: Q1 2026</a> appeared first on <a href=\"https://semiengineering.com\">Semiconductor Engineering</a>.</p>\n"
+        "title": "Mortenson acquires Nor-Cal Controls to bolster utility-scale solar integration capabilities",
+        "url": "https://pv-magazine-usa.com/2026/04/13/mortenson-acquires-nor-cal-controls-to-bolster-utility-scale-solar-integration-capabilities/",
+        "fetchedAt": "2026-04-15T09:11:16.487406Z",
+        "excerpt": "The acquisition of Nor-Cal Controls allows Mortenson to internalize power plant control and SCADA engineering, targeting the technical bottlenecks that often delay project commissioning and grid synchronization."
       }
     ]
   },
   {
-    "id": "rss-87324",
+    "id": "rss-77975",
     "date": "Mon, 13 Ap",
     "companies": [],
     "topics": [
       "news"
     ],
     "impact": "neutral",
-    "title": "Why Hardware Monitoring Needs Infrastructure, Not Just Sensors",
-    "summary": "<p>Embedded intelligence enables a system to respond to critical events before they cause failures in runtime applications. </p>\n<p>The post <a href=\"https://semiengineering.com/why-hardware-monitorin",
+    "title": "People on the move: ECA Solar, Powin, Form Energy and more",
+    "summary": "Job moves in solar, storage, cleantech, utilities and energy transition finance.",
     "sources": [
       {
         "type": "news",
-        "title": "Why Hardware Monitoring Needs Infrastructure, Not Just Sensors",
-        "url": "https://semiengineering.com/why-hardware-monitoring-needs-infrastructure-not-just-sensors/",
-        "fetchedAt": "2026-04-14T23:00:19.379369Z",
-        "excerpt": "<p>Embedded intelligence enables a system to respond to critical events before they cause failures in runtime applications. </p>\n<p>The post <a href=\"https://semiengineering.com/why-hardware-monitoring-needs-infrastructure-not-just-sensors/\">Why Hardware Monitoring Needs Infrastructure, Not Just Sensors</a> appeared first on <a href=\"https://semiengineering.com\">Semiconductor Engineering</a>.</p>\n"
+        "title": "People on the move: ECA Solar, Powin, Form Energy and more",
+        "url": "https://pv-magazine-usa.com/2026/04/13/people-on-the-move-eca-solar-powin-form-energy-and-more/",
+        "fetchedAt": "2026-04-15T09:11:16.487408Z",
+        "excerpt": "Job moves in solar, storage, cleantech, utilities and energy transition finance."
       }
     ]
   },
   {
-    "id": "rss-91794",
+    "id": "rss-49253",
     "date": "Mon, 13 Ap",
     "companies": [],
     "topics": [
       "news"
     ],
     "impact": "neutral",
-    "title": "GPU Rowhammer Attacks Beyond Data Corruption (U. of Toronto)",
-    "summary": "<p>A new technical paper, &#8220;GPUBreach: Privilege Escalation Attacks via GPU Rowhammer,&#8221; was published by researchers at University of Toronto. Summary &#8220;GPUBreach shows that GPU Rowham",
+    "title": "PowerBank terminates sale of two New York solar projects following permit delays",
+    "summary": "PowerBank Corp. announced that a third-party buyer has returned two New York community solar projects to its portfolio after the sites failed to secure local permits.",
     "sources": [
       {
         "type": "news",
-        "title": "GPU Rowhammer Attacks Beyond Data Corruption (U. of Toronto)",
-        "url": "https://semiengineering.com/gpu-rowhammer-attacks-beyond-data-corruption-u-of-toronto/",
-        "fetchedAt": "2026-04-14T23:00:19.379374Z",
-        "excerpt": "<p>A new technical paper, &#8220;GPUBreach: Privilege Escalation Attacks via GPU Rowhammer,&#8221; was published by researchers at University of Toronto. Summary &#8220;GPUBreach shows that GPU Rowhammer attacks can move beyond data corruption to real privilege escalation. By corrupting GPU page tables, an unprivileged CUDA kernel can gain arbitrary GPU memory read/write, and then chain that capability... <a class=\"read_more\" href=\"https://semiengineering.com/gpu-rowhammer-attacks-beyond-data-co"
+        "title": "PowerBank terminates sale of two New York solar projects following permit delays",
+        "url": "https://pv-magazine-usa.com/2026/04/13/powerbank-terminates-sale-of-two-new-york-solar-projects-following-permit-delays/",
+        "fetchedAt": "2026-04-15T09:11:16.487409Z",
+        "excerpt": "PowerBank Corp. announced that a third-party buyer has returned two New York community solar projects to its portfolio after the sites failed to secure local permits."
       }
     ]
   },
   {
-    "id": "rss-1898",
+    "id": "rss-72040",
+    "date": "Mon, 13 Ap",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "Managing cyber risks in the era of decentralized energy",
+    "summary": "The move toward decentralized energy resources offers resilience and flexibility in power generation, but it also introduces new complexities that demand proactive security measures.",
+    "sources": [
+      {
+        "type": "news",
+        "title": "Managing cyber risks in the era of decentralized energy",
+        "url": "https://pv-magazine-usa.com/2026/04/13/managing-cyber-risks-in-the-era-of-decentralized-energy/",
+        "fetchedAt": "2026-04-15T09:11:16.487411Z",
+        "excerpt": "The move toward decentralized energy resources offers resilience and flexibility in power generation, but it also introduces new complexities that demand proactive security measures."
+      }
+    ]
+  },
+  {
+    "id": "rss-29828",
+    "date": "Mon, 13 Ap",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "AI inspection data is gaining traction in solar risk assessment",
+    "summary": "Machine learning is enabling more granular performance tracking and insurance evaluation.",
+    "sources": [
+      {
+        "type": "news",
+        "title": "AI inspection data is gaining traction in solar risk assessment",
+        "url": "https://pv-magazine-usa.com/2026/04/13/ai-inspection-data-is-gaining-traction-in-solar-risk-assessment/",
+        "fetchedAt": "2026-04-15T09:11:16.487415Z",
+        "excerpt": "Machine learning is enabling more granular performance tracking and insurance evaluation."
+      }
+    ]
+  },
+  {
+    "id": "rss-49713",
+    "date": "Mon, 13 Ap",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "Making the case for brownfield battery builds",
+    "summary": "Co-locating batteries at legacy power sites could unlock faster build times and diminish wait-times.",
+    "sources": [
+      {
+        "type": "news",
+        "title": "Making the case for brownfield battery builds",
+        "url": "https://pv-magazine-usa.com/2026/04/13/making-the-case-for-brownfield-battery-builds/",
+        "fetchedAt": "2026-04-15T09:11:16.487417Z",
+        "excerpt": "Co-locating batteries at legacy power sites could unlock faster build times and diminish wait-times."
+      }
+    ]
+  },
+  {
+    "id": "rss-1987",
+    "date": "Mon, 13 Ap",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "Volta Space Technologies leverages government partnerships and funding to develop laser-enabled lunar PV power network",
+    "summary": "The public-private partnership plans a 2028 demonstration of its LEPTON technology designed to deliver photovoltaic power to the moon’s surface from low orbit.",
+    "sources": [
+      {
+        "type": "news",
+        "title": "Volta Space Technologies leverages government partnerships and funding to develop laser-enabled lunar PV power network",
+        "url": "https://pv-magazine-usa.com/2026/04/13/volta-space-technologies-leverages-government-partnerships-and-funding-to-develop-laser-enabled-lunar-pv-power-network/",
+        "fetchedAt": "2026-04-15T09:11:16.487418Z",
+        "excerpt": "The public-private partnership plans a 2028 demonstration of its LEPTON technology designed to deliver photovoltaic power to the moon’s surface from low orbit."
+      }
+    ]
+  },
+  {
+    "id": "rss-78836",
+    "date": "Mon, 13 Ap",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "Bay Area startup debuts low-cost, plug-and-play indoor heat pump for residential use",
+    "summary": "Merino Energy has launched the Merino Mono, a plug-and-play indoor heat pump that can be installed in under an hour and is priced at a flat $3,800 including installation.",
+    "sources": [
+      {
+        "type": "news",
+        "title": "Bay Area startup debuts low-cost, plug-and-play indoor heat pump for residential use",
+        "url": "https://pv-magazine-usa.com/2026/04/13/bay-area-startup-debuts-low-cost-plug-and-play-indoor-heat-pump-for-residential-use/",
+        "fetchedAt": "2026-04-15T09:11:16.487420Z",
+        "excerpt": "Merino Energy has launched the Merino Mono, a plug-and-play indoor heat pump that can be installed in under an hour and is priced at a flat $3,800 including installation."
+      }
+    ]
+  },
+  {
+    "id": "rss-99937",
+    "date": "Fri, 10 Ap",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "The world added 4 GW of new solar capacity for every GW of wind in 2025, but wind is gaining",
+    "summary": "A new report from global energy think tank Ember shows 814 GWdc in new solar and wind capacity was installed in 2025, but the pace of wind deployment rose 47% year-over-year compared to just 11% for s",
+    "sources": [
+      {
+        "type": "news",
+        "title": "The world added 4 GW of new solar capacity for every GW of wind in 2025, but wind is gaining",
+        "url": "https://pv-magazine-usa.com/2026/04/10/the-world-added-4-gw-of-new-solar-capacity-for-every-gw-of-wind-but-wind-is-gaining/",
+        "fetchedAt": "2026-04-15T09:11:16.487421Z",
+        "excerpt": "A new report from global energy think tank Ember shows 814 GWdc in new solar and wind capacity was installed in 2025, but the pace of wind deployment rose 47% year-over-year compared to just 11% for solar."
+      }
+    ]
+  },
+  {
+    "id": "rss-19150",
+    "date": "Fri, 10 Ap",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "Federal permitting creates roadblocks for 11 GW of clean energy, report finds",
+    "summary": "A new survey by Crux shows that 94% of delayed projects cited federal review as a factor, with many developers now siting projects specifically to avoid the process.",
+    "sources": [
+      {
+        "type": "news",
+        "title": "Federal permitting creates roadblocks for 11 GW of clean energy, report finds",
+        "url": "https://pv-magazine-usa.com/2026/04/10/federal-permitting-creates-roadblocks-for-11-gw-of-clean-energy-report-finds/",
+        "fetchedAt": "2026-04-15T09:11:16.487423Z",
+        "excerpt": "A new survey by Crux shows that 94% of delayed projects cited federal review as a factor, with many developers now siting projects specifically to avoid the process."
+      }
+    ]
+  },
+  {
+    "id": "rss-87418",
+    "date": "Fri, 10 Ap",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "Most state-permitted U.S. solar and wind projects in 19 states received a timely permit",
+    "summary": "In 19 states analyzed, permitting processes partially or fully adjudicated at the state level “are not preventing new potential energy from entering the grid,” researchers said.",
+    "sources": [
+      {
+        "type": "news",
+        "title": "Most state-permitted U.S. solar and wind projects in 19 states received a timely permit",
+        "url": "https://pv-magazine-usa.com/2026/04/10/most-state-permitted-u-s-solar-and-wind-projects-in-19-states-received-a-timely-permit/",
+        "fetchedAt": "2026-04-15T09:11:16.487424Z",
+        "excerpt": "In 19 states analyzed, permitting processes partially or fully adjudicated at the state level “are not preventing new potential energy from entering the grid,” researchers said."
+      }
+    ]
+  },
+  {
+    "id": "rss-35432",
+    "date": "Fri, 10 Ap",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "Kansas county weighs moratorium on solar development",
+    "summary": "Jackson County officials are once again weighing a temporary halt to large-scale renewable energy development, as the community faces a proposed 500 MW solar facility.",
+    "sources": [
+      {
+        "type": "news",
+        "title": "Kansas county weighs moratorium on solar development",
+        "url": "https://pv-magazine-usa.com/2026/04/10/kansas-county-weighs-moratorium-on-solar-development/",
+        "fetchedAt": "2026-04-15T09:11:16.487426Z",
+        "excerpt": "Jackson County officials are once again weighing a temporary halt to large-scale renewable energy development, as the community faces a proposed 500 MW solar facility."
+      }
+    ]
+  },
+  {
+    "id": "rss-31927",
+    "date": "Tue, 14 Ap",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "SOLARAMA – big proof from Aptera and big savings for solar + EV drivers",
+    "summary": "<div class=\"feat-image\"><img src=\"https://electrek.co/wp-content/uploads/sites/3/2024/03/Aptera-IPO-Solar-EV.jpg?quality=82&#038;strip=all&#038;w=1400\" /></div><p>On today’s solar-powered episode of <",
+    "sources": [
+      {
+        "type": "news",
+        "title": "SOLARAMA – big proof from Aptera and big savings for solar + EV drivers",
+        "url": "https://electrek.co/2026/04/14/solarama-big-proof-from-aptera-and-big-savings-for-solar-ev-drivers/",
+        "fetchedAt": "2026-04-15T09:11:16.555364Z",
+        "excerpt": "<div class=\"feat-image\"><img src=\"https://electrek.co/wp-content/uploads/sites/3/2024/03/Aptera-IPO-Solar-EV.jpg?quality=82&#038;strip=all&#038;w=1400\" /></div><p>On today’s solar-powered episode of <a href=\"https://www.youtube.com/@ElectrekDaily\" target=\"_blank\" rel=\"noreferrer noopener\"><em>Quick Charge</em></a>, Aptera’s CEO shares more proof that his company’s solar car concept has legs, joining dozens of Electrek readers who are topping off their car (and home) batteries with the power of t"
+      }
+    ]
+  },
+  {
+    "id": "rss-70391",
+    "date": "Tue, 14 Ap",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "Global EV sales hit 4M in Q1 2026, but growth is uneven",
+    "summary": "<div class=\"feat-image\"><img src=\"https://electrek.co/wp-content/uploads/sites/3/2026/03/Kia-EV2-prices-Europe-2.jpeg?quality=82&#038;strip=all&#038;w=1400\" /></div><p>Global EV sales are still huge, ",
+    "sources": [
+      {
+        "type": "news",
+        "title": "Global EV sales hit 4M in Q1 2026, but growth is uneven",
+        "url": "https://electrek.co/2026/04/14/global-ev-sales-hit-4m-in-q1-2026-but-growth-is-uneven/",
+        "fetchedAt": "2026-04-15T09:11:16.555371Z",
+        "excerpt": "<div class=\"feat-image\"><img src=\"https://electrek.co/wp-content/uploads/sites/3/2026/03/Kia-EV2-prices-Europe-2.jpeg?quality=82&#038;strip=all&#038;w=1400\" /></div><p>Global EV sales are still huge, but they’re not moving in the same direction everywhere: New data from <a href=\"https://www.benchmarkminerals.com/\" target=\"_blank\" rel=\"noreferrer noopener\">Benchmark Mineral Intelligence</a> shows 4 million electric vehicles were sold worldwide in Q1 2026, down 3% year over year. </p>\n\n\n\n <a data-"
+      }
+    ]
+  },
+  {
+    "id": "rss-83757",
+    "date": "Tue, 14 Ap",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "Ford CEO warns Chinese EVs would hit ‘the heart and soul’ of the US",
+    "summary": "<div class=\"feat-image\"><img src=\"https://electrek.co/wp-content/uploads/sites/3/2026/02/Ford-Trump-Chinese-EVs-1.jpeg?quality=82&#038;strip=all&#038;w=1400\" /></div><p>“We should not let them into ou",
+    "sources": [
+      {
+        "type": "news",
+        "title": "Ford CEO warns Chinese EVs would hit ‘the heart and soul’ of the US",
+        "url": "https://electrek.co/2026/04/14/ford-ceo-chinese-evs-would-hit-heart-and-soul-of-the-us/",
+        "fetchedAt": "2026-04-15T09:11:16.555374Z",
+        "excerpt": "<div class=\"feat-image\"><img src=\"https://electrek.co/wp-content/uploads/sites/3/2026/02/Ford-Trump-Chinese-EVs-1.jpeg?quality=82&#038;strip=all&#038;w=1400\" /></div><p>“We should not let them into our country,” <a href=\"https://electrek.co/guides/ford/\">Ford’s</a> CEO Jim Farley warned during a recent interview, admitting it wouldn’t be a fair fight.</p>\n\n\n\n <a data-layer-pagetype=\"post\" data-layer-postcategory=\"ford\" data-layer-viewtype=\"unknown\" data-post-id=\"463512\" href=\"https://electrek.co"
+      }
+    ]
+  },
+  {
+    "id": "rss-72528",
+    "date": "Tue, 14 Ap",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "Hyundai’s new Venus IONIQ EV looks fake after it was caught driving on public streets [Video]",
+    "summary": "<div class=\"feat-image\"><img src=\"https://electrek.co/wp-content/uploads/sites/3/2026/04/Hyundai-Venus-IONIQ-EV-spotted-2.jpeg?quality=82&#038;strip=all&#038;w=1400\" /></div><p>After unveiling the new",
+    "sources": [
+      {
+        "type": "news",
+        "title": "Hyundai’s new Venus IONIQ EV looks fake after it was caught driving on public streets [Video]",
+        "url": "https://electrek.co/2026/04/14/hyundais-new-venus-ioniq-ev-looks-fake-driving-in-public-video/",
+        "fetchedAt": "2026-04-15T09:11:16.555377Z",
+        "excerpt": "<div class=\"feat-image\"><img src=\"https://electrek.co/wp-content/uploads/sites/3/2026/04/Hyundai-Venus-IONIQ-EV-spotted-2.jpeg?quality=82&#038;strip=all&#038;w=1400\" /></div><p>After unveiling the new Venus and Earth last week, we are already getting our first look at <a href=\"https://electrek.co/guides/hyundai/\">Hyundai’s</a> new IONIQ EV in real life.</p>\n\n\n\n <a data-layer-pagetype=\"post\" data-layer-postcategory=\"hyundai\" data-layer-viewtype=\"unknown\" data-post-id=\"463296\" href=\"https://electr"
+      }
+    ]
+  },
+  {
+    "id": "rss-88374",
+    "date": "Tue, 14 Ap",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "Aptera CEO shows his solar car producing more energy than his home solar",
+    "summary": "<div class=\"feat-image\"><img src=\"https://electrek.co/wp-content/uploads/sites/3/2026/04/Aptera-solar-production-hero.png?w=1600\" /></div><p>Aptera co-CEO Steve Fambro posted a data point this morning",
+    "sources": [
+      {
+        "type": "news",
+        "title": "Aptera CEO shows his solar car producing more energy than his home solar",
+        "url": "https://electrek.co/2026/04/14/aptera-ceo-solar-car-producing-more-energy-home-solar/",
+        "fetchedAt": "2026-04-15T09:11:16.555380Z",
+        "excerpt": "<div class=\"feat-image\"><img src=\"https://electrek.co/wp-content/uploads/sites/3/2026/04/Aptera-solar-production-hero.png?w=1600\" /></div><p>Aptera co-CEO Steve Fambro posted a data point this morning that neatly illustrates what his company has been trying to build for more than a decade: his solar electric vehicle was generating more electricity from the sun than his house was.</p>\n\n\n\n<p>Just after 8 a.m., Fambro said his home rooftop was producing 136 watts of solar power while the Aptera sit"
+      }
+    ]
+  },
+  {
+    "id": "rss-52662",
+    "date": "Tue, 14 Ap",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "IONNA will install hundreds of DC fast chargers at Circle Ks across America",
+    "summary": "<div class=\"feat-image\"><img src=\"https://electrek.co/wp-content/uploads/sites/3/2026/04/ionna-circle-k.jpg?quality=82&#038;strip=all&#038;w=1600\" /></div><p>IONNA, the EV charging network created by ",
+    "sources": [
+      {
+        "type": "news",
+        "title": "IONNA will install hundreds of DC fast chargers at Circle Ks across America",
+        "url": "https://electrek.co/2026/04/14/ionna-will-install-hundreds-of-dc-fast-chargers-at-circle-ks-across-america/",
+        "fetchedAt": "2026-04-15T09:11:16.555383Z",
+        "excerpt": "<div class=\"feat-image\"><img src=\"https://electrek.co/wp-content/uploads/sites/3/2026/04/ionna-circle-k.jpg?quality=82&#038;strip=all&#038;w=1600\" /></div><p>IONNA, the EV charging network created by a coalition of large automakers, will install fast chargers at over 350 sites across America in partnership with convenience store chain Circle K.</p>\n\n\n\n <a data-layer-pagetype=\"post\" data-layer-postcategory=\"dc-charging,ionna\" data-layer-viewtype=\"unknown\" data-post-id=\"463478\" href=\"https://elect"
+      }
+    ]
+  },
+  {
+    "id": "rss-27540",
+    "date": "Tue, 14 Ap",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "Earth Day sales on Lectric e-bikes and Jackery power stations, Heybike Villain electric dirt bike flash bundle low, EcoFlow, more",
+    "summary": "<div class=\"feat-image\"><img src=\"https://electrek.co/wp-content/uploads/sites/3/2026/04/Lectric-Jackery-Heybike-EcoFlow-GDS-FI.jpg?quality=82&#038;strip=all&#038;w=1600\" /></div><p>Our Tuesday Green ",
+    "sources": [
+      {
+        "type": "news",
+        "title": "Earth Day sales on Lectric e-bikes and Jackery power stations, Heybike Villain electric dirt bike flash bundle low, EcoFlow, more",
+        "url": "https://electrek.co/2026/04/14/lectric-e-bikes-jackery-power-stations-heybike-villain-electric-dirt-bike-ecoflow-more/",
+        "fetchedAt": "2026-04-15T09:11:16.555385Z",
+        "excerpt": "<div class=\"feat-image\"><img src=\"https://electrek.co/wp-content/uploads/sites/3/2026/04/Lectric-Jackery-Heybike-EcoFlow-GDS-FI.jpg?quality=82&#038;strip=all&#038;w=1600\" /></div><p>Our Tuesday Green Deals are jam-packed with notable sales, starting with <a href=\"https://9to5toys.com/2026/04/13/lectric-earth-day-e-bike-sale-up-to-694-savings-starting-from-799/\">Lectric’s Earth Day Sale</a> that is offering up to $694 savings on e-bike bundles <a href=\"https://9to5toys.com/2026/04/13/lectric-eart"
+      }
+    ]
+  },
+  {
+    "id": "rss-81892",
+    "date": "Tue, 14 Ap",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "BMW is killing off the iX in the US to make room for the first Neue Klasse EV",
+    "summary": "<div class=\"feat-image\"><img src=\"https://electrek.co/wp-content/uploads/sites/3/2026/03/BMW-iX3-EV-orders.jpeg?quality=82&#038;strip=all&#038;w=1400\" /></div><p><a href=\"https://electrek.co/guides/bm",
+    "sources": [
+      {
+        "type": "news",
+        "title": "BMW is killing off the iX in the US to make room for the first Neue Klasse EV",
+        "url": "https://electrek.co/2026/04/14/bmw-kills-off-ix-us-with-first-neue-klasse-ev-arriving/",
+        "fetchedAt": "2026-04-15T09:11:16.555388Z",
+        "excerpt": "<div class=\"feat-image\"><img src=\"https://electrek.co/wp-content/uploads/sites/3/2026/03/BMW-iX3-EV-orders.jpeg?quality=82&#038;strip=all&#038;w=1400\" /></div><p><a href=\"https://electrek.co/guides/bmw/\">BMW</a> is pulling the iX from its US lineup as it prepares to launch the first Neue Klasse EV later this year, the all-new iX3.</p>\n\n\n\n <a data-layer-pagetype=\"post\" data-layer-postcategory=\"bmw,bmw-ix,bmw-ix3\" data-layer-viewtype=\"unknown\" data-post-id=\"463448\" href=\"https://electrek.co/2026/0"
+      }
+    ]
+  },
+  {
+    "id": "rss-87855",
+    "date": "Tue, 14 Ap",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "Rivian partners with Tesla co-founder’s Redwood on energy storage",
+    "summary": "<div class=\"feat-image\"><img src=\"https://electrek.co/wp-content/uploads/sites/3/2026/04/Rivian-and-Redwood-Materials-partnership.jpg?quality=82&#038;strip=all&#038;w=1600\" /></div><p>Rivian is partne",
+    "sources": [
+      {
+        "type": "news",
+        "title": "Rivian partners with Tesla co-founder’s Redwood on energy storage",
+        "url": "https://electrek.co/2026/04/14/rivian-redwood-materials-energy-storage-partnership-illinois/",
+        "fetchedAt": "2026-04-15T09:11:16.555390Z",
+        "excerpt": "<div class=\"feat-image\"><img src=\"https://electrek.co/wp-content/uploads/sites/3/2026/04/Rivian-and-Redwood-Materials-partnership.jpg?quality=82&#038;strip=all&#038;w=1600\" /></div><p>Rivian is partnering with Redwood Materials, the battery company founded by Tesla co-founder JB Straubel, to build a second-life battery energy storage system at its EV manufacturing plant in Normal, Illinois.</p>\n\n\n\n<p>The initial deployment will use more than 100 used Rivian battery packs stitched together into a"
+      }
+    ]
+  },
+  {
+    "id": "rss-51344",
+    "date": "Tue, 14 Ap",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "EV charging in 10 minutes or less? It’s happening",
+    "summary": "<div class=\"feat-image\"><img src=\"https://electrek.co/wp-content/uploads/sites/3/2026/04/EV-charging-10-minutes-CATL-1.jpeg?quality=82&#038;strip=all&#038;w=1600\" /></div><p>EV battery leader <a href=",
+    "sources": [
+      {
+        "type": "news",
+        "title": "EV charging in 10 minutes or less? It’s happening",
+        "url": "https://electrek.co/2026/04/14/ev-charging-10-minutes-or-less/",
+        "fetchedAt": "2026-04-15T09:11:16.555393Z",
+        "excerpt": "<div class=\"feat-image\"><img src=\"https://electrek.co/wp-content/uploads/sites/3/2026/04/EV-charging-10-minutes-CATL-1.jpeg?quality=82&#038;strip=all&#038;w=1600\" /></div><p>EV battery leader <a href=\"https://electrek.co/guides/catl/\">CATL</a> will challenge BYD after securing a new partnership to develop fast-charging technology that will take less than 10 minutes.</p>\n\n\n\n <a data-layer-pagetype=\"post\" data-layer-postcategory=\"catl,dc-fast-charging,ultra-fast-charging\" data-layer-viewtype=\"unkn"
+      }
+    ]
+  },
+  {
+    "id": "rss-92059",
+    "date": "Tue, 14 Ap",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "Lightship to more than quadruple all-electric travel trailer production capacity in Colorado",
+    "summary": "<div class=\"feat-image\"><img src=\"https://electrek.co/wp-content/uploads/sites/3/2026/04/Lightship-trailer-production-2026.jpg?quality=82&#038;strip=all&#038;w=1400\" /></div><p><a href=\"https://electr",
+    "sources": [
+      {
+        "type": "news",
+        "title": "Lightship to more than quadruple all-electric travel trailer production capacity in Colorado",
+        "url": "https://electrek.co/2026/04/14/lightship-quadruples-electric-travel-trailer-production-colorado/",
+        "fetchedAt": "2026-04-15T09:11:16.555395Z",
+        "excerpt": "<div class=\"feat-image\"><img src=\"https://electrek.co/wp-content/uploads/sites/3/2026/04/Lightship-trailer-production-2026.jpg?quality=82&#038;strip=all&#038;w=1400\" /></div><p><a href=\"https://electrek.co/guides/electric-rv/\">All-electric RV</a> developer Lightship said it is significantly expanding its production footprint to “meet surging demand” for its flagship travel trailer, which will see a streamlined configuration process.</p>\n\n\n\n <a data-layer-pagetype=\"post\" data-layer-postcategory=\""
+      }
+    ]
+  },
+  {
+    "id": "rss-83803",
+    "date": "Tue, 14 Ap",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "Nissan’s all-electric Juke EV is bringing a ‘disruptive’ new style [Images]",
+    "summary": "<div class=\"feat-image\"><img src=\"https://electrek.co/wp-content/uploads/sites/3/2026/04/Nissan-Juke-EV-images-front.jpeg?quality=82&#038;strip=all&#038;w=1400\" /></div><p>Nissan calls it a “disruptiv",
+    "sources": [
+      {
+        "type": "news",
+        "title": "Nissan’s all-electric Juke EV is bringing a ‘disruptive’ new style [Images]",
+        "url": "https://electrek.co/2026/04/14/nissans-electric-juke-ev-debuts-disruptive-style-images/",
+        "fetchedAt": "2026-04-15T09:11:16.555398Z",
+        "excerpt": "<div class=\"feat-image\"><img src=\"https://electrek.co/wp-content/uploads/sites/3/2026/04/Nissan-Juke-EV-images-front.jpeg?quality=82&#038;strip=all&#038;w=1400\" /></div><p>Nissan calls it a “disruptive” new style. The all-electric <a href=\"https://electrek.co/guides/nissan-juke-ev/\">Nissan Juke EV</a> looks nothing like the gas-powered crossover and more like a concept.</p>\n\n\n\n <a data-layer-pagetype=\"post\" data-layer-postcategory=\"nissan,nissan-juke-ev\" data-layer-viewtype=\"unknown\" data-post-i"
+      }
+    ]
+  },
+  {
+    "id": "rss-93670",
+    "date": "Tue, 14 Ap",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "Tesla FSD Europe launch backlash: HW3 owners launch claim site",
+    "summary": "<div class=\"feat-image\"><img src=\"https://electrek.co/wp-content/uploads/sites/3/2023/02/Tesla-Full-Self-Driving-Beta-smear-campaign.jpg?quality=82&#038;strip=all&#038;w=1600\" /></div><p>Tesla’s long-",
+    "sources": [
+      {
+        "type": "news",
+        "title": "Tesla FSD Europe launch backlash: HW3 owners launch claim site",
+        "url": "https://electrek.co/2026/04/14/tesla-fsd-europe-hw3-owners-dutch-claim/",
+        "fetchedAt": "2026-04-15T09:11:16.555400Z",
+        "excerpt": "<div class=\"feat-image\"><img src=\"https://electrek.co/wp-content/uploads/sites/3/2023/02/Tesla-Full-Self-Driving-Beta-smear-campaign.jpg?quality=82&#038;strip=all&#038;w=1600\" /></div><p>Tesla’s long-awaited Full Self-Driving launch in Europe is already running into the same reckoning that blew up in Australia last year: HW3 owners are realizing they paid for something Tesla has now admitted it can’t deliver, and they’re starting to organize.</p>\n\n\n\n<p>A Dutch Model 3 owner who paid €6,400 for F"
+      }
+    ]
+  },
+  {
+    "id": "rss-96621",
+    "date": "Tue, 14 Ap",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "Lucid names new CEO as it raises over $1 billion and ramps up robotaxi ambitions",
+    "summary": "<div class=\"feat-image\"><img src=\"https://electrek.co/wp-content/uploads/sites/3/2026/04/Lucid-new-CEO-Robotaxi-uber.jpg?quality=82&#038;strip=all&#038;w=1400\" /></div><p><a href=\"https://electrek.co/",
+    "sources": [
+      {
+        "type": "news",
+        "title": "Lucid names new CEO as it raises over $1 billion and ramps up robotaxi ambitions",
+        "url": "https://electrek.co/2026/04/14/lucid-names-new-ceo-raises-over-1-billion-ramps-robotaxi-ambitions/",
+        "fetchedAt": "2026-04-15T09:11:16.555403Z",
+        "excerpt": "<div class=\"feat-image\"><img src=\"https://electrek.co/wp-content/uploads/sites/3/2026/04/Lucid-new-CEO-Robotaxi-uber.jpg?quality=82&#038;strip=all&#038;w=1400\" /></div><p><a href=\"https://electrek.co/guides/lucid-motors/\">Lucid Motors</a> is peppering the public with press releases this morning, sharing a slew of exciting updates. In addition to naming its next CEO, Lucid has confirmed a new funding raise totaling over 1 billion dollars, consisting of a registered public offering of common stock"
+      }
+    ]
+  },
+  {
+    "id": "rss-16316",
+    "date": "Tue, 14 Ap",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "Segway launches compact cargo e-bike with some really nice specs",
+    "summary": "<div class=\"feat-image\"><img src=\"https://electrek.co/wp-content/uploads/sites/3/2026/04/segway-muxi-cute-girl-bike-header.jpg?quality=82&#038;strip=all&#038;w=1600\" /></div><p>Segway is expanding its",
+    "sources": [
+      {
+        "type": "news",
+        "title": "Segway launches compact cargo e-bike with some really nice specs",
+        "url": "https://electrek.co/2026/04/14/segway-launches-compact-cargo-e-bike-with-some-really-nice-specs/",
+        "fetchedAt": "2026-04-15T09:11:16.555405Z",
+        "excerpt": "<div class=\"feat-image\"><img src=\"https://electrek.co/wp-content/uploads/sites/3/2026/04/segway-muxi-cute-girl-bike-header.jpg?quality=82&#038;strip=all&#038;w=1600\" /></div><p>Segway is expanding its footprint in the electric bike space with the launch of its new MUXI e-bike, a model that blends urban utility with a design that feels more akin to a light electric motorcycle than a traditional bicycle. </p>\n\n\n\n <a data-layer-pagetype=\"post\" data-layer-postcategory=\"ebikes,segway\" data-layer-view"
+      }
+    ]
+  },
+  {
+    "id": "rss-43976",
+    "date": "Tue, 14 Ap",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "Mercedes-Benz unveils new EQS with 926 km range, 800V charging, steer-by-wire",
+    "summary": "<div class=\"feat-image\"><img src=\"https://electrek.co/wp-content/uploads/sites/3/2026/04/Mercedes-Benz-EQS-2026-update.jpg?quality=82&#038;strip=all&#038;w=1600\" /></div><p>Mercedes-Benz has unveiled ",
+    "sources": [
+      {
+        "type": "news",
+        "title": "Mercedes-Benz unveils new EQS with 926 km range, 800V charging, steer-by-wire",
+        "url": "https://electrek.co/2026/04/13/mercedes-benz-new-eqs-926-km-range-800v-steer-by-wire/",
+        "fetchedAt": "2026-04-15T09:11:16.555407Z",
+        "excerpt": "<div class=\"feat-image\"><img src=\"https://electrek.co/wp-content/uploads/sites/3/2026/04/Mercedes-Benz-EQS-2026-update.jpg?quality=82&#038;strip=all&#038;w=1600\" /></div><p>Mercedes-Benz has unveiled a heavily overhauled EQS electric sedan with a WLTP range of up to 926 km (575 miles), a 13% improvement over the outgoing model. The update represents the biggest upgrade to the flagship EV since it launched in 2021.</p>\n\n\n\n<p>The new EQS gets an entirely new 800-volt electrical architecture, up to"
+      }
+    ]
+  },
+  {
+    "id": "rss-31584",
+    "date": "Mon, 13 Ap",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "The Genesis GV90 interior leaked, and it’s even more luxurious than expected [Video]",
+    "summary": "<div class=\"feat-image\"><img src=\"https://electrek.co/wp-content/uploads/sites/3/2026/01/Genesis-GV90-tech.jpeg?quality=82&#038;strip=all&#038;w=1400\" /></div><p>The GV90 looks like something high-ran",
+    "sources": [
+      {
+        "type": "news",
+        "title": "The Genesis GV90 interior leaked, and it’s even more luxurious than expected [Video]",
+        "url": "https://electrek.co/2026/04/13/genesis-gv90-interior-leaks-with-ultra-luxe-features-huge-screens/",
+        "fetchedAt": "2026-04-15T09:11:16.555409Z",
+        "excerpt": "<div class=\"feat-image\"><img src=\"https://electrek.co/wp-content/uploads/sites/3/2026/01/Genesis-GV90-tech.jpeg?quality=82&#038;strip=all&#038;w=1400\" /></div><p>The GV90 looks like something high-ranking government officials or celebrities ride in. <a href=\"https://electrek.co/guides/genesis/\">Genesis</a> set out to redefine luxury with the GV90, and the interior proves it. Here’s our first look.</p>\n\n\n\n <a data-layer-pagetype=\"post\" data-layer-postcategory=\"genesis\" data-layer-viewtype=\"unknow"
+      }
+    ]
+  },
+  {
+    "id": "rss-27710",
+    "date": "Mon, 13 Ap",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "Tesla launches Spring Update 2026 with ‘Hey Grok,’ new Self-Driving app, and more",
+    "summary": "<div class=\"feat-image\"><img src=\"https://electrek.co/wp-content/uploads/sites/3/2026/04/Tesla-spring-update-2026-hero.jpg?quality=82&#038;strip=all&#038;w=1600\" /></div><p>Tesla is rolling out its Sp",
+    "sources": [
+      {
+        "type": "news",
+        "title": "Tesla launches Spring Update 2026 with ‘Hey Grok,’ new Self-Driving app, and more",
+        "url": "https://electrek.co/2026/04/13/tesla-spring-update-2026-hey-grok-self-driving-app-pet-mode/",
+        "fetchedAt": "2026-04-15T09:11:16.555436Z",
+        "excerpt": "<div class=\"feat-image\"><img src=\"https://electrek.co/wp-content/uploads/sites/3/2026/04/Tesla-spring-update-2026-hero.jpg?quality=82&#038;strip=all&#038;w=1600\" /></div><p>Tesla is rolling out its Spring Update 2026 software, bringing over a dozen new features to its fleet. The highlights include a redesigned Self-Driving subscription app, voice-activated Grok, and a long-requested auto-install feature for software updates.</p>\n\n\n\n<p>The update also adds some fun touches, like a new “Cyberhog” "
+      }
+    ]
+  },
+  {
+    "id": "rss-34854",
+    "date": "Mon, 13 Ap",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "Rivian R2 vs Tesla Model Y spotted side-by-side: Detailed size comparison",
+    "summary": "<div class=\"feat-image\"><img src=\"https://electrek.co/wp-content/uploads/sites/3/2026/04/Tesla-Model-Y-next-to-Rivian-R2-via-Reddit.jpg?quality=82&#038;strip=all&#038;w=1600\" /></div><p>New photos of ",
+    "sources": [
+      {
+        "type": "news",
+        "title": "Rivian R2 vs Tesla Model Y spotted side-by-side: Detailed size comparison",
+        "url": "https://electrek.co/2026/04/13/rivian-r2-vs-tesla-model-y-size-comparison-efficiency/",
+        "fetchedAt": "2026-04-15T09:11:16.555439Z",
+        "excerpt": "<div class=\"feat-image\"><img src=\"https://electrek.co/wp-content/uploads/sites/3/2026/04/Tesla-Model-Y-next-to-Rivian-R2-via-Reddit.jpg?quality=82&#038;strip=all&#038;w=1600\" /></div><p>New photos of the Rivian R2 parked next to the Tesla Model Y are making the rounds on social media, and they offer a great look at how these two critical electric SUVs actually compare in size. The R2 is shorter in length but noticeably taller, with a boxier, more rugged profile.</p>\n\n\n\n<p>We decided to dig into "
+      }
+    ]
+  },
+  {
+    "id": "rss-84390",
+    "date": "Mon, 13 Ap",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "Kia builds the first EV3 prototypes in Mexico ahead of US sales",
+    "summary": "<div class=\"feat-image\"><img src=\"https://electrek.co/wp-content/uploads/sites/3/2026/04/Kia-first-EV3-US.jpeg?quality=82&#038;strip=all&#038;w=1400\" /></div><p>Kia is finally bringing the affordable ",
+    "sources": [
+      {
+        "type": "news",
+        "title": "Kia builds the first EV3 prototypes in Mexico ahead of US sales",
+        "url": "https://electrek.co/2026/04/13/kia-builds-first-ev3-prototypes-mexico-ahead-of-us-sales/",
+        "fetchedAt": "2026-04-15T09:11:16.555442Z",
+        "excerpt": "<div class=\"feat-image\"><img src=\"https://electrek.co/wp-content/uploads/sites/3/2026/04/Kia-first-EV3-US.jpeg?quality=82&#038;strip=all&#038;w=1400\" /></div><p>Kia is finally bringing the affordable electric SUV to the US later this year. The first <a href=\"https://electrek.co/guides/kia-ev3/\">EV3</a> prototypes are now rolling off the assembly line at Kia’s plant in Mexico ahead of sales.</p>\n\n\n\n <a data-layer-pagetype=\"post\" data-layer-postcategory=\"kia,kia-ev3\" data-layer-viewtype=\"unknown\" "
+      }
+    ]
+  },
+  {
+    "id": "rss-63489",
+    "date": "Tue, 14 Ap",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "Springwell Solar Farm: The UK’s new largest power-producing solar farm - Open Access Government",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxOdFVpbE5VdllKVjBrdlRPRlhlVjJVMlZtbkFaaXJCeFNsYzlaRTVGalI4R1J3QnZWQlhsSTdXdHpCMHdvcXUyQ1llU1VUQjh1ZjBPRG5lOTVpOEpFR0RVT1RObzlXaTJjOWxKRFVQVn",
+    "sources": [
+      {
+        "type": "news",
+        "title": "Springwell Solar Farm: The UK’s new largest power-producing solar farm - Open Access Government",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOdFVpbE5VdllKVjBrdlRPRlhlVjJVMlZtbkFaaXJCeFNsYzlaRTVGalI4R1J3QnZWQlhsSTdXdHpCMHdvcXUyQ1llU1VUQjh1ZjBPRG5lOTVpOEpFR0RVT1RObzlXaTJjOWxKRFVQVnY1Y1prdWRKcjBZaXpUSHVpV21mbHItWE5Va3lwWFVwOFRUTEVnQ21xOWptZzY5dWVaLWpKcXI1WUF0Z2lHUHpzY2hVcw?oc=5",
+        "fetchedAt": "2026-04-15T09:11:17.042623Z",
+        "excerpt": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxOdFVpbE5VdllKVjBrdlRPRlhlVjJVMlZtbkFaaXJCeFNsYzlaRTVGalI4R1J3QnZWQlhsSTdXdHpCMHdvcXUyQ1llU1VUQjh1ZjBPRG5lOTVpOEpFR0RVT1RObzlXaTJjOWxKRFVQVnY1Y1prdWRKcjBZaXpUSHVpV21mbHItWE5Va3lwWFVwOFRUTEVnQ21xOWptZzY5dWVaLWpKcXI1WUF0Z2lHUHpzY2hVcw?oc=5\" target=\"_blank\">Springwell Solar Farm: The UK’s new largest power-producing solar farm</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Open Access Government</font>"
+      }
+    ]
+  },
+  {
+    "id": "rss-23861",
+    "date": "Tue, 14 Ap",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "Solar panels aren’t as “clean” as we like to think - resilience.org",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxPTnFRWmVGeVZZUENaaWZFXzkxR1hHQjVLcF9ibzFmUlFoNDVLdjU4R25nc1BSOHUzTFdya2I3QWQ0VXkxMDQ3bEtfbHRvRVlsR0EwYXFRUXNJT0pMUEprZmlqbV9UOXpnaEVtMngzcn",
+    "sources": [
+      {
+        "type": "news",
+        "title": "Solar panels aren’t as “clean” as we like to think - resilience.org",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPTnFRWmVGeVZZUENaaWZFXzkxR1hHQjVLcF9ibzFmUlFoNDVLdjU4R25nc1BSOHUzTFdya2I3QWQ0VXkxMDQ3bEtfbHRvRVlsR0EwYXFRUXNJT0pMUEprZmlqbV9UOXpnaEVtMngzcnZ3TGttV0ozdFFPZ0JtRHFwQWhYUFpKR0MzYVNXTmt0a3NraEt0ZkJfRGNn?oc=5",
+        "fetchedAt": "2026-04-15T09:11:17.042633Z",
+        "excerpt": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxPTnFRWmVGeVZZUENaaWZFXzkxR1hHQjVLcF9ibzFmUlFoNDVLdjU4R25nc1BSOHUzTFdya2I3QWQ0VXkxMDQ3bEtfbHRvRVlsR0EwYXFRUXNJT0pMUEprZmlqbV9UOXpnaEVtMngzcnZ3TGttV0ozdFFPZ0JtRHFwQWhYUFpKR0MzYVNXTmt0a3NraEt0ZkJfRGNn?oc=5\" target=\"_blank\">Solar panels aren’t as “clean” as we like to think</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">resilience.org</font>"
+      }
+    ]
+  },
+  {
+    "id": "rss-49131",
     "date": "Sun, 12 Ap",
     "companies": [],
     "topics": [
       "news"
     ],
     "impact": "neutral",
-    "title": "Silent Data Corruption:  A Major Reliability Challenge in Large-Scale LLM Training (TU Berlin)",
-    "summary": "<p>A new technical paper, &#8220;Exploring Silent Data Corruption as a Reliability Challenge in LLM Training,&#8221; was published by researchers at Technische Universitat Berlin. Abstract &#8220;As L",
+    "title": "Scientists Set New Record for Solar Cell Efficiency - Futurism",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE9XMm03MENQaDkxUW9PUElIVUpLaG1YdEZEUmNCRXJPeVFZenlfMTdsdXV4NzVFaUt3a3k1SnVpRGtEMlF4amswZ2hCcEZtTWV4R0E2TW1pcmlla0htQ0drUzVZMlI0RDF2VUZzMzRRS2",
     "sources": [
       {
         "type": "news",
-        "title": "Silent Data Corruption:  A Major Reliability Challenge in Large-Scale LLM Training (TU Berlin)",
-        "url": "https://semiengineering.com/silent-data-corruption-a-major-reliability-challenge-in-large-scale-llm-training-tu-berlin/",
-        "fetchedAt": "2026-04-14T23:00:19.379377Z",
-        "excerpt": "<p>A new technical paper, &#8220;Exploring Silent Data Corruption as a Reliability Challenge in LLM Training,&#8221; was published by researchers at Technische Universitat Berlin. Abstract &#8220;As Large Language Models (LLMs) scale in size and complexity, the consequences of failures during training become increasingly severe. A major challenge arises from Silent Data Corruption (SDC): hardware-induced faults that... <a class=\"read_more\" href=\"https://semiengineering.com/silent-data-corruption"
+        "title": "Scientists Set New Record for Solar Cell Efficiency - Futurism",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9XMm03MENQaDkxUW9PUElIVUpLaG1YdEZEUmNCRXJPeVFZenlfMTdsdXV4NzVFaUt3a3k1SnVpRGtEMlF4amswZ2hCcEZtTWV4R0E2TW1pcmlla0htQ0drUzVZMlI0RDF2VUZzMzRRS2w?oc=5",
+        "fetchedAt": "2026-04-15T09:11:17.042635Z",
+        "excerpt": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE9XMm03MENQaDkxUW9PUElIVUpLaG1YdEZEUmNCRXJPeVFZenlfMTdsdXV4NzVFaUt3a3k1SnVpRGtEMlF4amswZ2hCcEZtTWV4R0E2TW1pcmlla0htQ0drUzVZMlI0RDF2VUZzMzRRS2w?oc=5\" target=\"_blank\">Scientists Set New Record for Solar Cell Efficiency</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Futurism</font>"
       }
     ]
   },
   {
-    "id": "rss-27383",
-    "date": "Sun, 12 Ap",
+    "id": "rss-63643",
+    "date": "Tue, 14 Ap",
     "companies": [],
     "topics": [
       "news"
     ],
     "impact": "neutral",
-    "title": "An Engineering Roadmap Toward Completely Neural Computers (Meta AI, KAUST)",
-    "summary": "<p>A new technical paper, &#8220;Neural Computers,&#8221; was published by researchers at Meta AI and KAUST. Abstract &#8220;We propose a new frontier: Neural Computers (NCs) &#8212; an emerging machi",
+    "title": "Ameresco & Miami-Dade County Launch Solar & LED Retrofit Project - News and Statistics - IndexBox",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxPSUJjODlRWUEydzhWaHktMjh1N2ZHZmEwTmxNcXNrOTRBQ1huRmlFSUd3eV9rVHJERE5LODg5TlZzVXU4clU2clhTb25VWHh4ZUxDS3NmX1I4WkRtUVBROWdUOVlpN0JaU2dkZjJ6cj",
     "sources": [
       {
         "type": "news",
-        "title": "An Engineering Roadmap Toward Completely Neural Computers (Meta AI, KAUST)",
-        "url": "https://semiengineering.com/an-engineering-roadmap-toward-completely-neural-computers-meta-ai-kaust/",
-        "fetchedAt": "2026-04-14T23:00:19.379379Z",
-        "excerpt": "<p>A new technical paper, &#8220;Neural Computers,&#8221; was published by researchers at Meta AI and KAUST. Abstract &#8220;We propose a new frontier: Neural Computers (NCs) &#8212; an emerging machine form that unifies computation, memory, and I/O in a learned runtime state. Unlike conventional computers, which execute explicit programs, agents, which act over external execution environments, and... <a class=\"read_more\" href=\"https://semiengineering.com/an-engineering-roadmap-toward-completely"
+        "title": "Ameresco & Miami-Dade County Launch Solar & LED Retrofit Project - News and Statistics - IndexBox",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPSUJjODlRWUEydzhWaHktMjh1N2ZHZmEwTmxNcXNrOTRBQ1huRmlFSUd3eV9rVHJERE5LODg5TlZzVXU4clU2clhTb25VWHh4ZUxDS3NmX1I4WkRtUVBROWdUOVlpN0JaU2dkZjJ6cjBjMFh6WDExcFVIaWRiT0I3VnFtRGIwR1lLc3Y0Y1lCN1d0a1FSdnRPSV9pbEZ1LWNP?oc=5",
+        "fetchedAt": "2026-04-15T09:11:17.042638Z",
+        "excerpt": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxPSUJjODlRWUEydzhWaHktMjh1N2ZHZmEwTmxNcXNrOTRBQ1huRmlFSUd3eV9rVHJERE5LODg5TlZzVXU4clU2clhTb25VWHh4ZUxDS3NmX1I4WkRtUVBROWdUOVlpN0JaU2dkZjJ6cjBjMFh6WDExcFVIaWRiT0I3VnFtRGIwR1lLc3Y0Y1lCN1d0a1FSdnRPSV9pbEZ1LWNP?oc=5\" target=\"_blank\">Ameresco & Miami-Dade County Launch Solar & LED Retrofit Project - News and Statistics</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">IndexBox</font>"
       }
     ]
   },
   {
-    "id": "rss-48459",
-    "date": "Fri, 10 Ap",
+    "id": "rss-86722",
+    "date": "Tue, 14 Ap",
     "companies": [],
     "topics": [
       "news"
     ],
     "impact": "neutral",
-    "title": " After jumping 2,200% over the last twelve months, DDR4 spot prices fall 5%, the first decline in nearly a year — DDR5 pricing sees some relief in China channel market ",
-    "summary": "\n                             DDR4 16Gb spot prices fell about 5% over the past month to roughly $74.10, ending nearly a year of consecutive monthly gains. \n                                           ",
+    "title": "Germany Pushes for New Solar Farms to Be Equipped With Batteries - Bloomberg",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxORDN1MFlqd1RHQVpQTmtmdHVHbmpNSl9MU3hmX1ZnRGxXcFQtX2ZVT09PSktBWVRhdllzUzFoSGlLUEItMWIxcnhfUUR2Xzk2WmxTbTdEdDRoQ0FmdVpraW5TcFdpZjNzUDZWZlUwQz",
     "sources": [
       {
         "type": "news",
-        "title": " After jumping 2,200% over the last twelve months, DDR4 spot prices fall 5%, the first decline in nearly a year — DDR5 pricing sees some relief in China channel market ",
-        "url": "https://www.tomshardware.com/tech-industry/ddr4-spot-prices-fall-for-first-time-in-nearly-a-year-as-chinese-channel-inventory-clears",
-        "fetchedAt": "2026-04-14T23:00:19.901306Z",
-        "excerpt": "\n                             DDR4 16Gb spot prices fell about 5% over the past month to roughly $74.10, ending nearly a year of consecutive monthly gains. \n                                                                                                            "
+        "title": "Germany Pushes for New Solar Farms to Be Equipped With Batteries - Bloomberg",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxORDN1MFlqd1RHQVpQTmtmdHVHbmpNSl9MU3hmX1ZnRGxXcFQtX2ZVT09PSktBWVRhdllzUzFoSGlLUEItMWIxcnhfUUR2Xzk2WmxTbTdEdDRoQ0FmdVpraW5TcFdpZjNzUDZWZlUwQzdsOVdXT09mX1BuR1pMbzR3a3gyR3A2bWNQMG5RUDdHT09MQnlZREtmdHctTmt1MlotN0M5ZnAyOGpKWDRqcGNSQlFaMjktZw?oc=5",
+        "fetchedAt": "2026-04-15T09:11:17.042640Z",
+        "excerpt": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxORDN1MFlqd1RHQVpQTmtmdHVHbmpNSl9MU3hmX1ZnRGxXcFQtX2ZVT09PSktBWVRhdllzUzFoSGlLUEItMWIxcnhfUUR2Xzk2WmxTbTdEdDRoQ0FmdVpraW5TcFdpZjNzUDZWZlUwQzdsOVdXT09mX1BuR1pMbzR3a3gyR3A2bWNQMG5RUDdHT09MQnlZREtmdHctTmt1MlotN0M5ZnAyOGpKWDRqcGNSQlFaMjktZw?oc=5\" target=\"_blank\">Germany Pushes for New Solar Farms to Be Equipped With Batteries</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg</font>"
       }
     ]
   },
   {
-    "id": "rss-7644",
-    "date": "Fri, 03 Ap",
+    "id": "rss-52576",
+    "date": "Tue, 14 Ap",
     "companies": [],
     "topics": [
       "news"
     ],
     "impact": "neutral",
-    "title": " Memory will consume 30% of hyperscaler AI data center spending this year, a 4X increase over 2023 — Nvidia gets preferential supply terms well below standard market rates, says analyst firm ",
-    "summary": "\n                             SemiAnalysis estimates on Thursday that memory will account for roughly 30% of total hyperscaler capex in calendar year 2026. \n                                           ",
+    "title": "\"Spin-flip\" system pushes solar cell energy conversion efficiency past 100% - New Atlas",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxPWEQtdldhREwwMEJhOUg5Rm54aHBqOXdZaHU3S2c3X005TW5wVlFBbnJ3YTBjTTMzdkNneGN4WEprZFFieTVZVWFleE1qRGM4VFd4dDBNVkVsbzhPOWRiRjBBSFNjcFdJT3BmbVFWT3",
     "sources": [
       {
         "type": "news",
-        "title": " Memory will consume 30% of hyperscaler AI data center spending this year, a 4X increase over 2023 — Nvidia gets preferential supply terms well below standard market rates, says analyst firm ",
-        "url": "https://www.tomshardware.com/tech-industry/memory-will-consume-30-percent-of-hyperscaler-spending-this-year",
-        "fetchedAt": "2026-04-14T23:00:19.901315Z",
-        "excerpt": "\n                             SemiAnalysis estimates on Thursday that memory will account for roughly 30% of total hyperscaler capex in calendar year 2026. \n                                                                                                            "
+        "title": "\"Spin-flip\" system pushes solar cell energy conversion efficiency past 100% - New Atlas",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPWEQtdldhREwwMEJhOUg5Rm54aHBqOXdZaHU3S2c3X005TW5wVlFBbnJ3YTBjTTMzdkNneGN4WEprZFFieTVZVWFleE1qRGM4VFd4dDBNVkVsbzhPOWRiRjBBSFNjcFdJT3BmbVFWT3U0VW91VTdxa25TYzNGcTJsTEJzRHY?oc=5",
+        "fetchedAt": "2026-04-15T09:11:17.042642Z",
+        "excerpt": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxPWEQtdldhREwwMEJhOUg5Rm54aHBqOXdZaHU3S2c3X005TW5wVlFBbnJ3YTBjTTMzdkNneGN4WEprZFFieTVZVWFleE1qRGM4VFd4dDBNVkVsbzhPOWRiRjBBSFNjcFdJT3BmbVFWT3U0VW91VTdxa25TYzNGcTJsTEJzRHY?oc=5\" target=\"_blank\">\"Spin-flip\" system pushes solar cell energy conversion efficiency past 100%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">New Atlas</font>"
       }
     ]
   },
   {
-    "id": "rss-39569",
-    "date": "Sun, 22 Ma",
+    "id": "rss-39162",
+    "date": "Mon, 13 Ap",
     "companies": [],
     "topics": [
       "news"
     ],
     "impact": "neutral",
-    "title": " Micron predicts that cars will need 300GB of RAM — memory-laden vehicles could exacerbate shortages but create 'robust long-term growth in automotive memory demand' ",
-    "summary": "\n                             Micron CEO Sanjay Mehrotra predicts that self-driving vehicles would require at least 300GB of RAM, meaning increasing demand could drive another memory chip shortage as ",
+    "title": "Scientists Bought Centuries-Old Musket Balls on eBay and Turned Them into Cutting Edge Solar Panels - ZME Science",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE1iSDRHM1ZYc3FfV0tVNU9KLTh1anQzTmZLWjNPZVZhc1F4dktBN2NZMVd5d2dzSDRzcS14V3pDdFhUeTdudTVqdk9Qd2VWV2JWamU5RHdyblptWE5pcjd5bmw4N3diMVd6SkxkUDBjen",
     "sources": [
       {
         "type": "news",
-        "title": " Micron predicts that cars will need 300GB of RAM — memory-laden vehicles could exacerbate shortages but create 'robust long-term growth in automotive memory demand' ",
-        "url": "https://www.tomshardware.com/pc-components/dram/micron-predicts-that-cars-will-need-300gb-of-ram-memory-laden-vehicles-could-exacerbate-shortages-but-create-robust-long-term-growth-in-automotive-memory-demand",
-        "fetchedAt": "2026-04-14T23:00:19.901318Z",
-        "excerpt": "\n                             Micron CEO Sanjay Mehrotra predicts that self-driving vehicles would require at least 300GB of RAM, meaning increasing demand could drive another memory chip shortage as these cars are essentially AI supercomputers on wheels. \n                                                                                                            "
+        "title": "Scientists Bought Centuries-Old Musket Balls on eBay and Turned Them into Cutting Edge Solar Panels - ZME Science",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1iSDRHM1ZYc3FfV0tVNU9KLTh1anQzTmZLWjNPZVZhc1F4dktBN2NZMVd5d2dzSDRzcS14V3pDdFhUeTdudTVqdk9Qd2VWV2JWamU5RHdyblptWE5pcjd5bmw4N3diMVd6SkxkUDBjenpxUkFteUpJ?oc=5",
+        "fetchedAt": "2026-04-15T09:11:17.042644Z",
+        "excerpt": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE1iSDRHM1ZYc3FfV0tVNU9KLTh1anQzTmZLWjNPZVZhc1F4dktBN2NZMVd5d2dzSDRzcS14V3pDdFhUeTdudTVqdk9Qd2VWV2JWamU5RHdyblptWE5pcjd5bmw4N3diMVd6SkxkUDBjenpxUkFteUpJ?oc=5\" target=\"_blank\">Scientists Bought Centuries-Old Musket Balls on eBay and Turned Them into Cutting Edge Solar Panels</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ZME Science</font>"
       }
     ]
   },
   {
-    "id": "rss-16783",
-    "date": "Sun, 22 Ma",
+    "id": "rss-40910",
+    "date": "Tue, 14 Ap",
     "companies": [],
     "topics": [
       "news"
     ],
     "impact": "neutral",
-    "title": " Corsair’s limited-time memory sale brings 25% savings, but persistent DDR5 price hikes paint a grim outlook for buyers ",
-    "summary": "\n                             While Corsair’s DDR5 deal offers notable discounts, rising DRAM prices mean buyers still pay significantly more than before. \n                                            ",
+    "title": "How to generate hydrogen at home with recycled solar panels - pv magazine International",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxPdVZITTlaeEQ1dHlVRmhfaTYzckhhYUlCQVlBRlZZQ2xqZGdJZDJlellOOTZLSnNzQ2xndGlrRjRWTFNIb1Y4c1c3Zkhxb3VkOFdZWUd0TXBOQ1JBZ3hZLTdSa3lia1NGbVZUQ3FDdz",
     "sources": [
       {
         "type": "news",
-        "title": " Corsair’s limited-time memory sale brings 25% savings, but persistent DDR5 price hikes paint a grim outlook for buyers ",
-        "url": "https://www.tomshardware.com/pc-components/ram/corsairs-limited-time-memory-sale-brings-25-percent-savings-but-persistent-ddr5-price-hikes-paint-a-grim-outlook-for-buyers",
-        "fetchedAt": "2026-04-14T23:00:19.901320Z",
-        "excerpt": "\n                             While Corsair’s DDR5 deal offers notable discounts, rising DRAM prices mean buyers still pay significantly more than before. \n                                                                                                            "
+        "title": "How to generate hydrogen at home with recycled solar panels - pv magazine International",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPdVZITTlaeEQ1dHlVRmhfaTYzckhhYUlCQVlBRlZZQ2xqZGdJZDJlellOOTZLSnNzQ2xndGlrRjRWTFNIb1Y4c1c3Zkhxb3VkOFdZWUd0TXBOQ1JBZ3hZLTdSa3lia1NGbVZUQ3FDdzFhc3BReWFWUkloZ0gwUFZSeC11V2VDMHdLb3BfVk55ZjA0YUJQaXowVVRaSDNubTUy?oc=5",
+        "fetchedAt": "2026-04-15T09:11:17.042646Z",
+        "excerpt": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxPdVZITTlaeEQ1dHlVRmhfaTYzckhhYUlCQVlBRlZZQ2xqZGdJZDJlellOOTZLSnNzQ2xndGlrRjRWTFNIb1Y4c1c3Zkhxb3VkOFdZWUd0TXBOQ1JBZ3hZLTdSa3lia1NGbVZUQ3FDdzFhc3BReWFWUkloZ0gwUFZSeC11V2VDMHdLb3BfVk55ZjA0YUJQaXowVVRaSDNubTUy?oc=5\" target=\"_blank\">How to generate hydrogen at home with recycled solar panels</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">pv magazine International</font>"
       }
     ]
   },
   {
-    "id": "rss-32084",
-    "date": "Wed, 18 Ma",
+    "id": "rss-15703",
+    "date": "Wed, 15 Ap",
     "companies": [],
     "topics": [
       "news"
     ],
     "impact": "neutral",
-    "title": " SK Group chairman says memory chip shortage will last until 2030 — wafer supply trails demand by 20% ",
-    "summary": "\n                             SK Group chairman Chey Tae-won told reporters at Nvidia's GTC conference in San Jose on Monday that the global memory chip shortage is likely to persist for another four ",
+    "title": "Europe Polycrystalline Silicon Market Size, Share, 2034 - Market Data Forecast",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxPdVkySkQyMlBNUW9OT240Rjd6Smo0blppbzhFajNneUUzUEhhTU5rSDhxUmJmTkYwa1NQTEExYXlPQW9yU3JsaE1YMlJYaFlsQ3JxVm9GZ182Qy1IMjQwakdMZFpGcUpBTU4tSGNmYU",
     "sources": [
       {
         "type": "news",
-        "title": " SK Group chairman says memory chip shortage will last until 2030 — wafer supply trails demand by 20% ",
-        "url": "https://www.tomshardware.com/pc-components/dram/sk-group-chairman-says-memory-chip-shortage-will-last-until-2030",
-        "fetchedAt": "2026-04-14T23:00:19.901322Z",
-        "excerpt": "\n                             SK Group chairman Chey Tae-won told reporters at Nvidia's GTC conference in San Jose on Monday that the global memory chip shortage is likely to persist for another four to five years. \n                                                                                                            "
+        "title": "Europe Polycrystalline Silicon Market Size, Share, 2034 - Market Data Forecast",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPdVkySkQyMlBNUW9OT240Rjd6Smo0blppbzhFajNneUUzUEhhTU5rSDhxUmJmTkYwa1NQTEExYXlPQW9yU3JsaE1YMlJYaFlsQ3JxVm9GZ182Qy1IMjQwakdMZFpGcUpBTU4tSGNmYU13aTBNWXdBUjd5TkFGUVJ5T1A0OG5TY3lqcGJPOEMwOVg?oc=5",
+        "fetchedAt": "2026-04-15T09:11:17.042648Z",
+        "excerpt": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxPdVkySkQyMlBNUW9OT240Rjd6Smo0blppbzhFajNneUUzUEhhTU5rSDhxUmJmTkYwa1NQTEExYXlPQW9yU3JsaE1YMlJYaFlsQ3JxVm9GZ182Qy1IMjQwakdMZFpGcUpBTU4tSGNmYU13aTBNWXdBUjd5TkFGUVJ5T1A0OG5TY3lqcGJPOEMwOVg?oc=5\" target=\"_blank\">Europe Polycrystalline Silicon Market Size, Share, 2034</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Market Data Forecast</font>"
       }
     ]
   },
   {
-    "id": "rss-17933",
-    "date": "Wed, 11 Ma",
+    "id": "rss-19106",
+    "date": "Wed, 15 Ap",
     "companies": [],
     "topics": [
       "news"
     ],
     "impact": "neutral",
-    "title": " Seagate CCO says storage price hikes are ‘the new normal’ — demand enters an unprecedented ‘supercycle’ driven by AI growth  ",
-    "summary": "\n                             Seagate CCO Ban-Seng Teh said this week that memory price hikes are \"the new normal\" for the storage industry, describing current market conditions as a supercycle driven",
+    "title": "Solar Panel Operation and Maintenance Market Set to Boom - openPR.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxOaHZ0NmpPdFV3ME44TFZNMjh5dXJzRktKa3M0azRkX2J3d2NEa1VZV3ROQUJNdW9ObEdWd01IVk1fbjJFeG5KS3ljRWhRZnJHVnVTcXlxSlMyeXdqeC1PS2xCWjluODQ1clJrMTh1WV",
     "sources": [
       {
         "type": "news",
-        "title": " Seagate CCO says storage price hikes are ‘the new normal’ — demand enters an unprecedented ‘supercycle’ driven by AI growth  ",
-        "url": "https://www.tomshardware.com/tech-industry/seagate-cco-says-memory-price-hikes-are-the-new-normal",
-        "fetchedAt": "2026-04-14T23:00:19.901324Z",
-        "excerpt": "\n                             Seagate CCO Ban-Seng Teh said this week that memory price hikes are \"the new normal\" for the storage industry, describing current market conditions as a supercycle driven by AI data center demand that shows no sign of following historical patterns of recovery. \n                                                                                                            "
+        "title": "Solar Panel Operation and Maintenance Market Set to Boom - openPR.com",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOaHZ0NmpPdFV3ME44TFZNMjh5dXJzRktKa3M0azRkX2J3d2NEa1VZV3ROQUJNdW9ObEdWd01IVk1fbjJFeG5KS3ljRWhRZnJHVnVTcXlxSlMyeXdqeC1PS2xCWjluODQ1clJrMTh1WVRRem5lcWszai1NM0RHdm1vY3dlLUxBZzRFUzFuUU8zVzNKZkYyV1RV?oc=5",
+        "fetchedAt": "2026-04-15T09:11:17.042650Z",
+        "excerpt": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxOaHZ0NmpPdFV3ME44TFZNMjh5dXJzRktKa3M0azRkX2J3d2NEa1VZV3ROQUJNdW9ObEdWd01IVk1fbjJFeG5KS3ljRWhRZnJHVnVTcXlxSlMyeXdqeC1PS2xCWjluODQ1clJrMTh1WVRRem5lcWszai1NM0RHdm1vY3dlLUxBZzRFUzFuUU8zVzNKZkYyV1RV?oc=5\" target=\"_blank\">Solar Panel Operation and Maintenance Market Set to Boom</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">openPR.com</font>"
       }
     ]
   },
   {
-    "id": "rss-66001",
-    "date": "Sun, 08 Ma",
+    "id": "rss-47468",
+    "date": "Thu, 26 Ma",
     "companies": [],
     "topics": [
       "news"
     ],
     "impact": "neutral",
-    "title": " Memory bit flips cause up to 15% of Firefox crashes, asserts Mozilla engineer — figure inferred from 470,000 auto-submitted crash reports ",
-    "summary": "\n                             A Mozilla engineer has shared survey data and calculations suggesting that up to 15% of Firefox crashes are due to a bit flip. \n                                          ",
+    "title": "Agrivoltaics: Solar and Agriculture Co-Location - Department of Energy (.gov)",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxOUldjc1BGWmtNMTF2X25rNlNhMXVpSGxGS2FxWGZwYUdNNHI5REhJcHozazh6NzRKSDkyOWJCeUlwSlgyNkYzd3pKLU5NTVA4OGx0cGJRWGVEU3Y1ajFlM2V2NVJpYkZ2UTN4blZFWF",
     "sources": [
       {
         "type": "news",
-        "title": " Memory bit flips cause up to 15% of Firefox crashes, asserts Mozilla engineer — figure inferred from 470,000 auto-submitted crash reports ",
-        "url": "https://www.tomshardware.com/pc-components/ram/bit-flips-cause-up-to-15-percent-of-firefox-crashes-asserts-mozilla-engineer-figure-inferred-from-470-000-auto-submitted-crash-reports",
-        "fetchedAt": "2026-04-14T23:00:19.901326Z",
-        "excerpt": "\n                             A Mozilla engineer has shared survey data and calculations suggesting that up to 15% of Firefox crashes are due to a bit flip. \n                                                                                                            "
+        "title": "Agrivoltaics: Solar and Agriculture Co-Location - Department of Energy (.gov)",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOUldjc1BGWmtNMTF2X25rNlNhMXVpSGxGS2FxWGZwYUdNNHI5REhJcHozazh6NzRKSDkyOWJCeUlwSlgyNkYzd3pKLU5NTVA4OGx0cGJRWGVEU3Y1ajFlM2V2NVJpYkZ2UTN4blZFWFNVcktPRURjYUtZM0t5X20zMUpvdXZueXduN0E?oc=5",
+        "fetchedAt": "2026-04-15T09:11:17.042652Z",
+        "excerpt": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxOUldjc1BGWmtNMTF2X25rNlNhMXVpSGxGS2FxWGZwYUdNNHI5REhJcHozazh6NzRKSDkyOWJCeUlwSlgyNkYzd3pKLU5NTVA4OGx0cGJRWGVEU3Y1ajFlM2V2NVJpYkZ2UTN4blZFWFNVcktPRURjYUtZM0t5X20zMUpvdXZueXduN0E?oc=5\" target=\"_blank\">Agrivoltaics: Solar and Agriculture Co-Location</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Department of Energy (.gov)</font>"
       }
     ]
   },
   {
-    "id": "rss-2679",
-    "date": "Fri, 06 Ma",
+    "id": "rss-38462",
+    "date": "Wed, 13 Au",
     "companies": [],
     "topics": [
       "news"
     ],
     "impact": "neutral",
-    "title": " Apple pulls $4,000 512GB Mac Studio upgrade option as AI RAM squeeze continues, raises 256GB upgrade price — M3 256GB upgrade now costs $2,000 ",
-    "summary": "\n                             The 512GB option, which was exclusive to the M3 Ultra chip and previously cost $4,000, no longer appears on Apple's configuration page. \n                                 ",
+    "title": "End-of-Life Solar Panels: Regulations and Management - U.S. Environmental Protection Agency (.gov)",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE9VLWxPWUZjU0syN0hBQ1VBRnVsX19JSFAtNnlTVUdpUkUzMHkwZk5hM3hSUm1iNk1oTkFZNlJ5UGs3cUMwUVdHZ3EwODhfeW9vX2Z5N0lHN2JYbkFaNE82Z0xEdXJjSFlXR2xnRlhZdU",
     "sources": [
       {
         "type": "news",
-        "title": " Apple pulls $4,000 512GB Mac Studio upgrade option as AI RAM squeeze continues, raises 256GB upgrade price — M3 256GB upgrade now costs $2,000 ",
-        "url": "https://www.tomshardware.com/tech-industry/apple-pulls-512-mac-studio-upgrade-option",
-        "fetchedAt": "2026-04-14T23:00:19.901328Z",
-        "excerpt": "\n                             The 512GB option, which was exclusive to the M3 Ultra chip and previously cost $4,000, no longer appears on Apple's configuration page. \n                                                                                                            "
+        "title": "End-of-Life Solar Panels: Regulations and Management - U.S. Environmental Protection Agency (.gov)",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9VLWxPWUZjU0syN0hBQ1VBRnVsX19JSFAtNnlTVUdpUkUzMHkwZk5hM3hSUm1iNk1oTkFZNlJ5UGs3cUMwUVdHZ3EwODhfeW9vX2Z5N0lHN2JYbkFaNE82Z0xEdXJjSFlXR2xnRlhZdUFpWjdKdmlvNDRfZw?oc=5",
+        "fetchedAt": "2026-04-15T09:11:17.042654Z",
+        "excerpt": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE9VLWxPWUZjU0syN0hBQ1VBRnVsX19JSFAtNnlTVUdpUkUzMHkwZk5hM3hSUm1iNk1oTkFZNlJ5UGs3cUMwUVdHZ3EwODhfeW9vX2Z5N0lHN2JYbkFaNE82Z0xEdXJjSFlXR2xnRlhZdUFpWjdKdmlvNDRfZw?oc=5\" target=\"_blank\">End-of-Life Solar Panels: Regulations and Management</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">U.S. Environmental Protection Agency (.gov)</font>"
       }
     ]
   },
   {
-    "id": "rss-85395",
-    "date": "Thu, 05 Ma",
+    "id": "rss-60907",
+    "date": "Sat, 28 Ma",
     "companies": [],
     "topics": [
       "news"
     ],
     "impact": "neutral",
-    "title": " Spiralling memory spot prices could trigger 'industry cycle collapse,' report warns — NAND wafer costs surge 25% in a single month ",
-    "summary": "\n                             DDR5 16G (2Gx8) chips averaged $39, up 7.4% month-over-month, while 1Tb TLC flash wafers jumped 25% to $25. \n                                                             ",
+    "title": "Solar cells just did the “impossible” with this 130% breakthrough - ScienceDaily",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE5ETGZPUS1paFE1aWxfaWxYTG1GUEM2STMxdnNJc3dvTVdKVmUtQkZaeXROYWVSVzlrakpjSUFDS29ab2kxbHRoeTY4cVJMeXRqMGZUR2VBbWpwZFdmUGF2Rm1VRnJLRkNySjhHZHRIYw",
     "sources": [
       {
         "type": "news",
-        "title": " Spiralling memory spot prices could trigger 'industry cycle collapse,' report warns — NAND wafer costs surge 25% in a single month ",
-        "url": "https://www.tomshardware.com/tech-industry/memory-spot-prices-climbed-again-in-february-nand-wafer-costs-surge-25-percent",
-        "fetchedAt": "2026-04-14T23:00:19.901330Z",
-        "excerpt": "\n                             DDR5 16G (2Gx8) chips averaged $39, up 7.4% month-over-month, while 1Tb TLC flash wafers jumped 25% to $25. \n                                                                                                            "
+        "title": "Solar cells just did the “impossible” with this 130% breakthrough - ScienceDaily",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5ETGZPUS1paFE1aWxfaWxYTG1GUEM2STMxdnNJc3dvTVdKVmUtQkZaeXROYWVSVzlrakpjSUFDS29ab2kxbHRoeTY4cVJMeXRqMGZUR2VBbWpwZFdmUGF2Rm1VRnJLRkNySjhHZHRIYw?oc=5",
+        "fetchedAt": "2026-04-15T09:11:17.042656Z",
+        "excerpt": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE5ETGZPUS1paFE1aWxfaWxYTG1GUEM2STMxdnNJc3dvTVdKVmUtQkZaeXROYWVSVzlrakpjSUFDS29ab2kxbHRoeTY4cVJMeXRqMGZUR2VBbWpwZFdmUGF2Rm1VRnJLRkNySjhHZHRIYw?oc=5\" target=\"_blank\">Solar cells just did the “impossible” with this 130% breakthrough</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ScienceDaily</font>"
       }
     ]
   },
   {
-    "id": "rss-6954",
-    "date": "Tue, 03 Ma",
+    "id": "rss-52929",
+    "date": "Tue, 14 Ap",
     "companies": [],
     "topics": [
       "news"
     ],
     "impact": "neutral",
-    "title": " AI memory crunch forces DRAM market into 'hourly pricing' model, report claims — small and medium-sized businesses fighting for survival ",
-    "summary": "\n                             According to DigiTimes, these companies began struggling to absorb soaring memory costs in the second half of 2025. \n                                                     ",
+    "title": "Tunisia launches four solar power plants to boost renewable energy - Qazinform",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxOZDhsTk5jcFg4MVQ5OE1mOWw2QUgyMmVxazJSbm1oclpXMEZ5VW5xNjlCY3k3N21fclZCTjlnNTRpcmJtR204YWQxQk5jSlY0Z2Q2Rm9fQmNTc0syQWFETkE5YjhoM1A5c2VZcGdDZU",
     "sources": [
       {
         "type": "news",
-        "title": " AI memory crunch forces DRAM market into 'hourly pricing' model, report claims — small and medium-sized businesses fighting for survival ",
-        "url": "https://www.tomshardware.com/pc-components/ram/memory-prices-now-shifting-hourly-as-smaller-firms-fight-over-scraps",
-        "fetchedAt": "2026-04-14T23:00:19.901332Z",
-        "excerpt": "\n                             According to DigiTimes, these companies began struggling to absorb soaring memory costs in the second half of 2025. \n                                                                                                            "
+        "title": "Tunisia launches four solar power plants to boost renewable energy - Qazinform",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOZDhsTk5jcFg4MVQ5OE1mOWw2QUgyMmVxazJSbm1oclpXMEZ5VW5xNjlCY3k3N21fclZCTjlnNTRpcmJtR204YWQxQk5jSlY0Z2Q2Rm9fQmNTc0syQWFETkE5YjhoM1A5c2VZcGdDZU1Ndk1aZ2pQRExPRUJNMzJEMnZGNVhCajN4YjAxT05xTXRKYi1GbDBCajZnaVlna0U4Y2fSAaIBQVVfeXFMT3BSU0kzTHBHR29lLXlrbF9ITmo0eG9nak1abHdxemozUmM0cjVpeDhyZDdBUGdxOFF3akpyRnpEVlVuRVNzNFp1LWlXcmlIMVJDU0V0emdpS2ZMcXpTNkhhbkc0RU9VOGVHWmw5WFNwYlhRLXpzalNDTURHYnJFOTZzM3U5TFA2cnZma2p2QTVzZDFzTUJMUFFxS21vWXZIMDBR?oc=5",
+        "fetchedAt": "2026-04-15T09:11:17.042658Z",
+        "excerpt": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxOZDhsTk5jcFg4MVQ5OE1mOWw2QUgyMmVxazJSbm1oclpXMEZ5VW5xNjlCY3k3N21fclZCTjlnNTRpcmJtR204YWQxQk5jSlY0Z2Q2Rm9fQmNTc0syQWFETkE5YjhoM1A5c2VZcGdDZU1Ndk1aZ2pQRExPRUJNMzJEMnZGNVhCajN4YjAxT05xTXRKYi1GbDBCajZnaVlna0U4Y2fSAaIBQVVfeXFMT3BSU0kzTHBHR29lLXlrbF9ITmo0eG9nak1abHdxemozUmM0cjVpeDhyZDdBUGdxOFF3akpyRnpEVlVuRVNzNFp1LWlXcmlIMVJDU0V0emdpS2ZMcXpTNkhhbkc0RU9VOGVHWmw5WFNwYlhRLXpzalNDTURHYnJFOTZzM3U5TFA2cnZma2p2QTVzZDFzTUJMUFFxS21vWXZIMDBR?oc=5\" tar"
       }
     ]
   },
   {
-    "id": "rss-58387",
-    "date": "Tue, 03 Ma",
+    "id": "rss-69797",
+    "date": "Mon, 30 Ma",
     "companies": [],
     "topics": [
       "news"
     ],
     "impact": "neutral",
-    "title": " 2026 will bring sharpest PC declines in over a decade — PC shipments to fall 10.4% ",
-    "summary": "\n                             The forecast puts 2026 on track for the steepest device shipment contraction in over a decade, according to Ranjit Atwal, senior director analyst at Gartner. \n           ",
+    "title": "Topic: Solar photovoltaic energy in France - Statista",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE13Um9RV3ZFaTUxcUNnR3lJLUotdTltVWl1aFRITGlnZ2Z4eHJabkI3czNpWlN1Q05iQ1hOcmVfclEyZ3ZtSFZBMWhNMVpOc0RqRVl6eDNVWVpRTm5xR045WlRzc2tTclk?oc=5\" targ",
     "sources": [
       {
         "type": "news",
-        "title": " 2026 will bring sharpest PC declines in over a decade — PC shipments to fall 10.4% ",
-        "url": "https://www.tomshardware.com/tech-industry/2026-will-bring-sharpest-pc-declines-in-over-a-decade",
-        "fetchedAt": "2026-04-14T23:00:19.901334Z",
-        "excerpt": "\n                             The forecast puts 2026 on track for the steepest device shipment contraction in over a decade, according to Ranjit Atwal, senior director analyst at Gartner. \n                                                                                                            "
+        "title": "Topic: Solar photovoltaic energy in France - Statista",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE13Um9RV3ZFaTUxcUNnR3lJLUotdTltVWl1aFRITGlnZ2Z4eHJabkI3czNpWlN1Q05iQ1hOcmVfclEyZ3ZtSFZBMWhNMVpOc0RqRVl6eDNVWVpRTm5xR045WlRzc2tTclk?oc=5",
+        "fetchedAt": "2026-04-15T09:11:17.042660Z",
+        "excerpt": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE13Um9RV3ZFaTUxcUNnR3lJLUotdTltVWl1aFRITGlnZ2Z4eHJabkI3czNpWlN1Q05iQ1hOcmVfclEyZ3ZtSFZBMWhNMVpOc0RqRVl6eDNVWVpRTm5xR045WlRzc2tTclk?oc=5\" target=\"_blank\">Topic: Solar photovoltaic energy in France</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Statista</font>"
       }
     ]
   },
   {
-    "id": "rss-61095",
-    "date": "Mon, 02 Ma",
+    "id": "rss-79104",
+    "date": "Wed, 15 Ap",
     "companies": [],
     "topics": [
       "news"
     ],
     "impact": "neutral",
-    "title": " Entry-level PC market to ‘disappear’ by 2028 — rising memory prices pile more strain on consumer PC market ",
-    "summary": "\n                             A 130% surge in combined DRAM and SSD prices by the end of 2026 will push PC prices up 17% compared to 2025 levels and wipe out the sub-$500 PC market. \n                 ",
+    "title": "Solar panel plans revealed for waste water treatment works - East Lothian Courier",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxPVDc5X1Fid1JidnZHY1Fsb2x6YndldXozcHd0NHdzbXQ0UldjdGppM243YnNrSUhDNFk3VG1qd1l2eVpackVmZTBPZTd3aHFVeUUwb1lza1oyVHY3eTRST29maDczQ2NKcXJHU0ZycU",
     "sources": [
       {
         "type": "news",
-        "title": " Entry-level PC market to ‘disappear’ by 2028 — rising memory prices pile more strain on consumer PC market ",
-        "url": "https://www.tomshardware.com/tech-industry/rising-memory-prices-pile-more-strain-on-consumer-pc-market",
-        "fetchedAt": "2026-04-14T23:00:19.901335Z",
-        "excerpt": "\n                             A 130% surge in combined DRAM and SSD prices by the end of 2026 will push PC prices up 17% compared to 2025 levels and wipe out the sub-$500 PC market. \n                                                                                                            "
+        "title": "Solar panel plans revealed for waste water treatment works - East Lothian Courier",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPVDc5X1Fid1JidnZHY1Fsb2x6YndldXozcHd0NHdzbXQ0UldjdGppM243YnNrSUhDNFk3VG1qd1l2eVpackVmZTBPZTd3aHFVeUUwb1lza1oyVHY3eTRST29maDczQ2NKcXJHU0ZycUtYLUlfNEVVY1pUTjlvZ0pCZG5NYmRKWUR6OWIxYTl2NlAxWFpoYnc5cFF4TFNfeEJGaU1JdTJxcEU?oc=5",
+        "fetchedAt": "2026-04-15T09:11:17.042662Z",
+        "excerpt": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxPVDc5X1Fid1JidnZHY1Fsb2x6YndldXozcHd0NHdzbXQ0UldjdGppM243YnNrSUhDNFk3VG1qd1l2eVpackVmZTBPZTd3aHFVeUUwb1lza1oyVHY3eTRST29maDczQ2NKcXJHU0ZycUtYLUlfNEVVY1pUTjlvZ0pCZG5NYmRKWUR6OWIxYTl2NlAxWFpoYnc5cFF4TFNfeEJGaU1JdTJxcEU?oc=5\" target=\"_blank\">Solar panel plans revealed for waste water treatment works</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">East Lothian Courier</font>"
       }
     ]
   },
   {
-    "id": "rss-69008",
-    "date": "Sun, 22 Fe",
+    "id": "rss-29236",
+    "date": "Tue, 14 Ap",
     "companies": [],
     "topics": [
       "news"
     ],
     "impact": "neutral",
-    "title": " 55 years ago, the first computer search warrant was issued — in February 1971, a Santa Clara judge authorized police to seize punch cards and a 'computer memory bank' ",
-    "summary": "\n                             In February 1971, an order authorized Oakland Police to enter offices in Palo Alto and homes in Menlo Park to look not just for papers but also for data stored on machine",
+    "title": "Unprecedented: How Cleaning Photovoltaic Panels in Curitiba Unlocks a Brilliant and Profitable Performance with Renewable Energy - CPG Click Petróleo e Gás",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwJBVV95cUxPWDdGc3VqNXFHSVA3NFgyZ3NQcXF5UzRubmQzU00tbWFBRWdoNUVYeTNzcjZxWVdQaGFDbWU4S3dkdURYZ2hiSVdxVFBpdG4zNlN4R3B2cFVOb0RxclJid3l5bEhtMnRJcmVidXAzcl",
     "sources": [
       {
         "type": "news",
-        "title": " 55 years ago, the first computer search warrant was issued — in February 1971, a Santa Clara judge authorized police to seize punch cards and a 'computer memory bank' ",
-        "url": "https://www.tomshardware.com/tech-industry/55-years-ago-today-the-first-computer-search-warrant-was-issued",
-        "fetchedAt": "2026-04-14T23:00:19.901337Z",
-        "excerpt": "\n                             In February 1971, an order authorized Oakland Police to enter offices in Palo Alto and homes in Menlo Park to look not just for papers but also for data stored on machines. \n                                                                                                            "
+        "title": "Unprecedented: How Cleaning Photovoltaic Panels in Curitiba Unlocks a Brilliant and Profitable Performance with Renewable Energy - CPG Click Petróleo e Gás",
+        "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPWDdGc3VqNXFHSVA3NFgyZ3NQcXF5UzRubmQzU00tbWFBRWdoNUVYeTNzcjZxWVdQaGFDbWU4S3dkdURYZ2hiSVdxVFBpdG4zNlN4R3B2cFVOb0RxclJid3l5bEhtMnRJcmVidXAzclJiNWNEbTdVWGRFOU5CbkdJcjE5ejlrckdIang5Z0dWNWFES2VwbnZGNTJHOWFidW9xQTZYS0hJczdPbThYTzNHN1UwWkRfSzA3OEJncVRMVnQ1d1g4ZkZNNElGZ0VoakpDODJfSHp5YW4teDhseGtaR2F0SWhqQUpDZ3FUSzBEZG0yUnEtUmNlWThDaUN3ejVyeC15dGZIZw?oc=5",
+        "fetchedAt": "2026-04-15T09:11:17.042665Z",
+        "excerpt": "<a href=\"https://news.google.com/rss/articles/CBMihwJBVV95cUxPWDdGc3VqNXFHSVA3NFgyZ3NQcXF5UzRubmQzU00tbWFBRWdoNUVYeTNzcjZxWVdQaGFDbWU4S3dkdURYZ2hiSVdxVFBpdG4zNlN4R3B2cFVOb0RxclJid3l5bEhtMnRJcmVidXAzclJiNWNEbTdVWGRFOU5CbkdJcjE5ejlrckdIang5Z0dWNWFES2VwbnZGNTJHOWFidW9xQTZYS0hJczdPbThYTzNHN1UwWkRfSzA3OEJncVRMVnQ1d1g4ZkZNNElGZ0VoakpDODJfSHp5YW4teDhseGtaR2F0SWhqQUpDZ3FUSzBEZG0yUnEtUmNlWThDaUN3ejVyeC15dGZIZw?oc=5\" target=\"_blank\">Unprecedented: How Cleaning Photovoltaic Panels in Curitiba Unlocks a Bri"
       }
     ]
   },
   {
-    "id": "rss-85490",
-    "date": "Mon, 16 Fe",
+    "id": "rss-92290",
+    "date": "Tue, 14 Ap",
     "companies": [],
     "topics": [
       "news"
     ],
     "impact": "neutral",
-    "title": " Turkish wedding party receives Nvidia RTX 5090, RAM necklaces, and Intel CPU for elaborate wedding gifts — A Turkish tech delight for the age of PC shortages  ",
-    "summary": "\n                             A video from a Turkish wedding reveals a delighted bride and groom being showered with opulent PC tech gifts. \n                                                           ",
+    "title": "Perovskite Solar Module Durability Progress | 2026 Report - News and Statistics - IndexBox",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxPSV9JQy1OVmRMWTlNaTFwWmR6Q045SWVqS1MzcDFmdTNlQnY4TWx5a0ppZ3NvTlNMaWxQX3pIbmJCY0k4YkhqeUV6aUR0Q0k1TnlYVHFYYVEtbldiMWlQNHd2NFM1Y0pXc0g0dThZME",
     "sources": [
       {
         "type": "news",
-        "title": " Turkish wedding party receives Nvidia RTX 5090, RAM necklaces, and Intel CPU for elaborate wedding gifts — A Turkish tech delight for the age of PC shortages  ",
-        "url": "https://www.tomshardware.com/pc-components/ddr5/turkish-wedding-party-receive-rtx-5090-ram-and-intel-cpu-wedding-gifts-a-turkish-tech-delight-for-the-ai-age",
-        "fetchedAt": "2026-04-14T23:00:19.901338Z",
-        "excerpt": "\n                             A video from a Turkish wedding reveals a delighted bride and groom being showered with opulent PC tech gifts. \n                                                                                                            "
+        "title": "Perovskite Solar Module Durability Progress | 2026 Report - News and Statistics - IndexBox",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPSV9JQy1OVmRMWTlNaTFwWmR6Q045SWVqS1MzcDFmdTNlQnY4TWx5a0ppZ3NvTlNMaWxQX3pIbmJCY0k4YkhqeUV6aUR0Q0k1TnlYVHFYYVEtbldiMWlQNHd2NFM1Y0pXc0g0dThZMEk1dmJVT3l6V3ZWTFA5ZTVMNTEzbkMtdmhvbnB0SmdkVQ?oc=5",
+        "fetchedAt": "2026-04-15T09:11:17.042667Z",
+        "excerpt": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxPSV9JQy1OVmRMWTlNaTFwWmR6Q045SWVqS1MzcDFmdTNlQnY4TWx5a0ppZ3NvTlNMaWxQX3pIbmJCY0k4YkhqeUV6aUR0Q0k1TnlYVHFYYVEtbldiMWlQNHd2NFM1Y0pXc0g0dThZMEk1dmJVT3l6V3ZWTFA5ZTVMNTEzbkMtdmhvbnB0SmdkVQ?oc=5\" target=\"_blank\">Perovskite Solar Module Durability Progress | 2026 Report - News and Statistics</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">IndexBox</font>"
       }
     ]
   },
   {
-    "id": "rss-72148",
-    "date": "Sun, 15 Fe",
+    "id": "rss-83218",
+    "date": "Mon, 13 Ap",
     "companies": [],
     "topics": [
       "news"
     ],
     "impact": "neutral",
-    "title": " OpenClaw-fueled ordering frenzy creates Apple Mac shortage — delivery for high Unified Memory units now ranges from 6 days to 6 weeks ",
-    "summary": "\n                             The Unified Memory architecture used by Apple Macs and MacBooks make it the ideal device for locally run agentic AI, driving demand for high-memory models and increasing ",
+    "title": "Future of Solar PV Panels Market (2026-2033) | Supported - openPR.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxNb2g4NUw3bTlDbWZ5WUllS3I5bWtRUUpBUUxieEZBYlVNLVM0XzRRcVF3ZVdtdVRyTVBlUGRoMmRlWHZwdjFJMVV0U0l6a1FEYlNwUzV5TGwwRW5haVFMRE5zWjBGbjJRWEZwaDBjdk",
     "sources": [
       {
         "type": "news",
-        "title": " OpenClaw-fueled ordering frenzy creates Apple Mac shortage — delivery for high Unified Memory units now ranges from 6 days to 6 weeks ",
-        "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/openclaw-fueled-ordering-frenzy-creates-apple-mac-shortage-delivery-for-high-unified-memory-units-now-ranges-from-6-days-to-6-weeks",
-        "fetchedAt": "2026-04-14T23:00:19.901340Z",
-        "excerpt": "\n                             The Unified Memory architecture used by Apple Macs and MacBooks make it the ideal device for locally run agentic AI, driving demand for high-memory models and increasing order lead times to more than a month. \n                                                                                                            "
+        "title": "Future of Solar PV Panels Market (2026-2033) | Supported - openPR.com",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNb2g4NUw3bTlDbWZ5WUllS3I5bWtRUUpBUUxieEZBYlVNLVM0XzRRcVF3ZVdtdVRyTVBlUGRoMmRlWHZwdjFJMVV0U0l6a1FEYlNwUzV5TGwwRW5haVFMRE5zWjBGbjJRWEZwaDBjdkRXbk5RWWNITlF3TnhuMEFNSHlsVzZ3Z3VFbjc0NzYxQzlwQQ?oc=5",
+        "fetchedAt": "2026-04-15T09:11:17.042669Z",
+        "excerpt": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxNb2g4NUw3bTlDbWZ5WUllS3I5bWtRUUpBUUxieEZBYlVNLVM0XzRRcVF3ZVdtdVRyTVBlUGRoMmRlWHZwdjFJMVV0U0l6a1FEYlNwUzV5TGwwRW5haVFMRE5zWjBGbjJRWEZwaDBjdkRXbk5RWWNITlF3TnhuMEFNSHlsVzZ3Z3VFbjc0NzYxQzlwQQ?oc=5\" target=\"_blank\">Future of Solar PV Panels Market (2026-2033) | Supported</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">openPR.com</font>"
       }
     ]
   },
   {
-    "id": "rss-79260",
-    "date": "Sat, 14 Fe",
+    "id": "rss-17088",
+    "date": "Tue, 14 Ap",
     "companies": [],
     "topics": [
       "news"
     ],
     "impact": "neutral",
-    "title": " 7x increase in memory costs fueling price increases in ISP-provided routers, gateways, and set-top boxes — home fiber rollouts may slow, and installations could become more expensive ",
-    "summary": "\n                             7x DRAM price jump affecting ISP routers, gateways, and STBs \n                                                                                                            ",
+    "title": "Solar Cell Market Growth Fueled by Rising Demand for Clean Energy Solutions - openPR.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxQVnc4c0pmZFB0S19wZU5SaGZxSHZQdVkyblR0SEJfUnUyZHpxRUhfbHhCbXh4eWkxX3dzQXVPYVBlRGtfTWpBT2NrSm4zcEJnT21rTXo0TXp2ZjR4YmNOZC1UX0xYSmUtbUpjNXhjVz",
     "sources": [
       {
         "type": "news",
-        "title": " 7x increase in memory costs fueling price increases in ISP-provided routers, gateways, and set-top boxes — home fiber rollouts may slow, and installations could become more expensive ",
-        "url": "https://www.tomshardware.com/networking/routers/isp-provided-routers-gateways-and-set-top-boxes-face-price-increases-due-to-7x-uplift-in-memory-costs-home-fiber-rollouts-may-slow-and-installations-could-become-more-expensive",
-        "fetchedAt": "2026-04-14T23:00:19.901342Z",
-        "excerpt": "\n                             7x DRAM price jump affecting ISP routers, gateways, and STBs \n                                                                                                            "
+        "title": "Solar Cell Market Growth Fueled by Rising Demand for Clean Energy Solutions - openPR.com",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQVnc4c0pmZFB0S19wZU5SaGZxSHZQdVkyblR0SEJfUnUyZHpxRUhfbHhCbXh4eWkxX3dzQXVPYVBlRGtfTWpBT2NrSm4zcEJnT21rTXo0TXp2ZjR4YmNOZC1UX0xYSmUtbUpjNXhjVzVCMGozNmU5RU1uelVKVG41UHBrMG5DZm4tQTVWRjExLTV5NWVXS1RuVDhKR1NLaXVia2NZ?oc=5",
+        "fetchedAt": "2026-04-15T09:11:17.042670Z",
+        "excerpt": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxQVnc4c0pmZFB0S19wZU5SaGZxSHZQdVkyblR0SEJfUnUyZHpxRUhfbHhCbXh4eWkxX3dzQXVPYVBlRGtfTWpBT2NrSm4zcEJnT21rTXo0TXp2ZjR4YmNOZC1UX0xYSmUtbUpjNXhjVzVCMGozNmU5RU1uelVKVG41UHBrMG5DZm4tQTVWRjExLTV5NWVXS1RuVDhKR1NLaXVia2NZ?oc=5\" target=\"_blank\">Solar Cell Market Growth Fueled by Rising Demand for Clean Energy Solutions</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">openPR.com</font>"
       }
     ]
   },
   {
-    "id": "rss-32093",
-    "date": "Fri, 13 Fe",
-    "companies": [],
-    "topics": [
-      "news"
-    ],
-    "impact": "neutral",
-    "title": " Framework's latest update brings more bad news about memory and storage pricing crisis — RAM costs increased to $12 to $16 per GB, recommends purchasing some models elsewhere for Framework Laptop DIY Edition customers ",
-    "summary": "\n                             Framework said that it's releasing a monthly update to monitor the memory chip situation and also announced that it will try to keep its RAM pricing as close as possible ",
-    "sources": [
-      {
-        "type": "news",
-        "title": " Framework's latest update brings more bad news about memory and storage pricing crisis — RAM costs increased to $12 to $16 per GB, recommends purchasing some models elsewhere for Framework Laptop DIY Edition customers ",
-        "url": "https://www.tomshardware.com/laptops/framework-releases-monthly-update-about-memory-and-storage-pricing-woes-ram-costs-increased-to-usd12-to-usd16-per-gb-recommends-purchasing-some-models-elsewhere-for-framework-laptop-diy-edition-customers",
-        "fetchedAt": "2026-04-14T23:00:19.901343Z",
-        "excerpt": "\n                             Framework said that it's releasing a monthly update to monitor the memory chip situation and also announced that it will try to keep its RAM pricing as close as possible to the weighted average of its costs. \n                                                                                                            "
-      }
-    ]
-  },
-  {
-    "id": "rss-90469",
-    "date": "Wed, 11 Fe",
-    "companies": [],
-    "topics": [
-      "news"
-    ],
-    "impact": "neutral",
-    "title": " Samsung and SK hynix shorten memory contracts as pricing power shifts back to suppliers — both companies now at 40-50% operating margins  ",
-    "summary": "\n                             Samsung and SK hynix have begun moving away from long-term, fixed-price supply contracts, replacing them with shorter agreements and post-settlement pricing mechanisms. \n",
-    "sources": [
-      {
-        "type": "news",
-        "title": " Samsung and SK hynix shorten memory contracts as pricing power shifts back to suppliers — both companies now at 40-50% operating margins  ",
-        "url": "https://www.tomshardware.com/tech-industry/samsung-and-sk-hynix-shorten-memory-contracts-as-pricing-power-shifts-back-to-suppliers",
-        "fetchedAt": "2026-04-14T23:00:19.901345Z",
-        "excerpt": "\n                             Samsung and SK hynix have begun moving away from long-term, fixed-price supply contracts, replacing them with shorter agreements and post-settlement pricing mechanisms. \n                                                                                                            "
-      }
-    ]
-  },
-  {
-    "id": "rss-62421",
-    "date": "Thu, 05 Fe",
-    "companies": [],
-    "topics": [
-      "news"
-    ],
-    "impact": "neutral",
-    "title": " Leading PC manufacturers considering using Chinese memory chips, report claims — HP and Dell qualifying CXMT DRAM, Acer and Asus asking Chinese partners to source locally-made memory chips ",
-    "summary": "\n                             HP and Dell are reportedly qualifying CXMT memory chips for their products, while Asus and Acer are asking their partners to source locally-made memory modules. The ongoi",
-    "sources": [
-      {
-        "type": "news",
-        "title": " Leading PC manufacturers considering using Chinese memory chips, report claims — HP and Dell qualifying CXMT DRAM, Acer and Asus asking Chinese partners to source locally-made memory chips ",
-        "url": "https://www.tomshardware.com/pc-components/dram/leading-pc-manufacturers-considering-using-chinese-memory-chips-report-claims-hp-and-dell-qualifying-cxmt-dram-acer-and-asus-asking-chinese-partners-to-source-locally-made-memory-chips",
-        "fetchedAt": "2026-04-14T23:00:19.901347Z",
-        "excerpt": "\n                             HP and Dell are reportedly qualifying CXMT memory chips for their products, while Asus and Acer are asking their partners to source locally-made memory modules. The ongoing memory chip shortage is forcing even big companies to look for alternative sources to Micron, Samsung, and SK hynix. \n                                                                                                            "
-      }
-    ]
-  },
-  {
-    "id": "rss-10155",
-    "date": "Mon, 02 Fe",
-    "companies": [],
-    "topics": [
-      "news"
-    ],
-    "impact": "neutral",
-    "title": " AI infrastructure surge begins squeezing Apple’s component costs — company considering supplier other than TSMC for lower-end chips, report claims ",
-    "summary": "\n                             Apple is beginning to feel the downstream effects of the AI infrastructure boom, as surging demand for data center hardware pushes up component costs and weakens its leve",
-    "sources": [
-      {
-        "type": "news",
-        "title": " AI infrastructure surge begins squeezing Apple’s component costs — company considering supplier other than TSMC for lower-end chips, report claims ",
-        "url": "https://www.tomshardware.com/tech-industry/ai-infrastructure-surge-begins-squeezing-apples-component-costs",
-        "fetchedAt": "2026-04-14T23:00:19.901348Z",
-        "excerpt": "\n                             Apple is beginning to feel the downstream effects of the AI infrastructure boom, as surging demand for data center hardware pushes up component costs and weakens its leverage. \n                                                                                                            "
-      }
-    ]
-  },
-  {
-    "id": "rss-26591",
-    "date": "Sun, 12 Ap",
-    "companies": [],
-    "topics": [
-      "news"
-    ],
-    "impact": "neutral",
-    "title": " $27 platypus PCIe adapter converts half-height GPUs into full-height while adding two M.2 slots for SSDs — enthusiast demos low-profile RTX 4060 with two SSDs thanks to PCIe bifurcation ",
-    "summary": "\n                             A Redditor got his hands on this PCIe adapter that does the job of two different ones at the same time. It converts half-height GPUs into full height while adding M.2 slo",
-    "sources": [
-      {
-        "type": "news",
-        "title": " $27 platypus PCIe adapter converts half-height GPUs into full-height while adding two M.2 slots for SSDs — enthusiast demos low-profile RTX 4060 with two SSDs thanks to PCIe bifurcation ",
-        "url": "https://www.tomshardware.com/pc-components/ssds/usd27-platypus-pcie-adapter-converts-half-height-gpus-into-full-height-while-adding-two-m-2-slots-for-ssds-enthusiast-demos-low-profile-rtx-4060-with-two-ssds-thanks-to-pcie-bifurcation",
-        "fetchedAt": "2026-04-14T23:00:19.936792Z",
-        "excerpt": "\n                             A Redditor got his hands on this PCIe adapter that does the job of two different ones at the same time. It converts half-height GPUs into full height while adding M.2 slots for storage expansion. All this is possible thanks to PCIe bifurcation, splitting an x16 slot into x8 for the GPU, and two x4 lanes for the SSDs. \n                                                                                                            "
-      }
-    ]
-  },
-  {
-    "id": "rss-43581",
-    "date": "Sat, 11 Ap",
-    "companies": [],
-    "topics": [
-      "news"
-    ],
-    "impact": "neutral",
-    "title": " Two manufacturers commit to keep Blu-ray alive after others quit manufacturing — Verbatim and I-O Data extend Blu-ray supply pledge as manufacturers exit the market ",
-    "summary": "\n                             Verbatim Japan and I-O Data have widened their joint commitment to keep recordable Blu-ray products on shelves in Japan, this time covering drive hardware as well as medi",
-    "sources": [
-      {
-        "type": "news",
-        "title": " Two manufacturers commit to keep Blu-ray alive after others quit manufacturing — Verbatim and I-O Data extend Blu-ray supply pledge as manufacturers exit the market ",
-        "url": "https://www.tomshardware.com/tech-industry/verbatim-and-i-o-data-extend-blu-ray-supply-pledge-as-manufacturers-exit-the-market",
-        "fetchedAt": "2026-04-14T23:00:19.936800Z",
-        "excerpt": "\n                             Verbatim Japan and I-O Data have widened their joint commitment to keep recordable Blu-ray products on shelves in Japan, this time covering drive hardware as well as media. \n                                                                                                            "
-      }
-    ]
-  },
-  {
-    "id": "rss-44173",
-    "date": "Fri, 10 Ap",
-    "companies": [],
-    "topics": [
-      "news"
-    ],
-    "impact": "neutral",
-    "title": " Vdura hikes its enterprise SSD pricing, now costs 22.6x more than hard drives — the price of a 30TB SSD has climbed 472% ",
-    "summary": "\n                             Vdura has materially revised the enterprise SSD pricing figures in its Flash Volatility Index, telling customers in an April 8 update that the cost of a 30TB TLC enterpri",
-    "sources": [
-      {
-        "type": "news",
-        "title": " Vdura hikes its enterprise SSD pricing, now costs 22.6x more than hard drives — the price of a 30TB SSD has climbed 472% ",
-        "url": "https://www.tomshardware.com/pc-components/ssds/vdura-sharply-revises-its-enterprise-ssd-pricing-figures",
-        "fetchedAt": "2026-04-14T23:00:19.936802Z",
-        "excerpt": "\n                             Vdura has materially revised the enterprise SSD pricing figures in its Flash Volatility Index, telling customers in an April 8 update that the cost of a 30TB TLC enterprise drive climbed 472%. \n                                                                                                            "
-      }
-    ]
-  },
-  {
-    "id": "rss-33331",
-    "date": "Fri, 10 Ap",
-    "companies": [],
-    "topics": [
-      "news"
-    ],
-    "impact": "neutral",
-    "title": " 30 years of Lexar: What a look inside its R&D labs and factory reveals about its plans for an AI-ready future ",
-    "summary": "\n                             Lexar toured us around its R&D labs and production facilities to see how it's building storage solutions for today and tomorrow. \n                                        ",
-    "sources": [
-      {
-        "type": "news",
-        "title": " 30 years of Lexar: What a look inside its R&D labs and factory reveals about its plans for an AI-ready future ",
-        "url": "https://www.tomshardware.com/pc-components/storage/30-years-of-lexar-what-a-look-inside-its-r-and-d-labs-and-factory-reveals-about-its-plans-for-an-ai-ready-future",
-        "fetchedAt": "2026-04-14T23:00:19.936808Z",
-        "excerpt": "\n                             Lexar toured us around its R&D labs and production facilities to see how it's building storage solutions for today and tomorrow. \n                                                                                                            "
-      }
-    ]
-  },
-  {
-    "id": "rss-32498",
-    "date": "Fri, 10 Ap",
-    "companies": [],
-    "topics": [
-      "news"
-    ],
-    "impact": "neutral",
-    "title": " Engineer installs 3.5-inch floppy drive in a Tesla — modern EV recognizes and runs ancient storage device, even plays an MP3 file from diskette ",
-    "summary": "\n                             An engineer and software developer was able to make a 3.5-inch floppy drive work seamlessly with the Tesla with just a USB-to-FDD converter. \n                            ",
-    "sources": [
-      {
-        "type": "news",
-        "title": " Engineer installs 3.5-inch floppy drive in a Tesla — modern EV recognizes and runs ancient storage device, even plays an MP3 file from diskette ",
-        "url": "https://www.tomshardware.com/pc-components/storage/engineer-installs-3-5-inch-floppy-drive-in-a-tesla-modern-ev-recognizes-and-runs-ancient-storage-device-even-plays-an-mp3-file-from-diskette",
-        "fetchedAt": "2026-04-14T23:00:19.936810Z",
-        "excerpt": "\n                             An engineer and software developer was able to make a 3.5-inch floppy drive work seamlessly with the Tesla with just a USB-to-FDD converter. \n                                                                                                            "
-      }
-    ]
-  },
-  {
-    "id": "rss-9358",
-    "date": "Tue, 07 Ap",
-    "companies": [],
-    "topics": [
-      "news"
-    ],
-    "impact": "neutral",
-    "title": " 2TB SanDisk memory card card surfaces for eye-watering $2,000 — top-tier Extreme Pro UHS-II SD promises more than 300 MB/s sequential read and write performance ",
-    "summary": "\n                             The 2TB SanDisk Extreme Pro UHS-II SD card costs $2,000, bringing its price per GB to nearly $1, making it more than four times more expensive than much faster microSD Ex",
-    "sources": [
-      {
-        "type": "news",
-        "title": " 2TB SanDisk memory card card surfaces for eye-watering $2,000 — top-tier Extreme Pro UHS-II SD promises more than 300 MB/s sequential read and write performance ",
-        "url": "https://www.tomshardware.com/pc-components/storage/2tb-sandisk-memory-card-card-surfaces-for-eye-watering-usd2-000-top-tier-extreme-pro-uhs-ii-sd-promises-more-than-300-mb-s-sequential-read-and-write-performance",
-        "fetchedAt": "2026-04-14T23:00:19.936812Z",
-        "excerpt": "\n                             The 2TB SanDisk Extreme Pro UHS-II SD card costs $2,000, bringing its price per GB to nearly $1, making it more than four times more expensive than much faster microSD Express cards. \n                                                                                                            "
-      }
-    ]
-  },
-  {
-    "id": "rss-19147",
+    "id": "rss-58434",
     "date": "Mon, 06 Ap",
     "companies": [],
     "topics": [
       "news"
     ],
     "impact": "neutral",
-    "title": " WD Innovation Day 2026 press Q&A transcript: roadmap plans to reach 60TB with ePMR and 100TB via HAMR by 2029 — 'at some point, the laws of physics will require us to transition to HAMR' ",
-    "summary": "\n                             WD's leadership, now fully split from Sandisk, talks about its expectations for the future with industry analysts. We cover the full transcript of the press-only session ",
+    "title": "US solar module prices face upward pressure - pv magazine International",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxPUVJJandoQ3RHSDNNdHM5OWVCeWVJSEk4LXJXTndsVjh1bXotaXVvQXNjSWxmSnBJalRhcGxOOW1qdG5LOHpvdWhuUnlQbHhjVG5rdXc5ZEt5RFRUdExUQlJJdmV5czFfTXRqUkxFUX",
     "sources": [
       {
         "type": "news",
-        "title": " WD Innovation Day 2026 press Q&A transcript: roadmap plans to reach 60TB with ePMR and 100TB via HAMR by 2029 — 'at some point, the laws of physics will require us to transition to HAMR' ",
-        "url": "https://www.tomshardware.com/pc-components/hdds/wd-innovation-day-2026-press-q-and-a-transcript-roadmap-plans-to-reach-60tb-with-epmr-and-100tb-via-hamr-by-2029-at-some-point-the-laws-of-physics-will-require-us-to-transition-to-hamr",
-        "fetchedAt": "2026-04-14T23:00:19.936814Z",
-        "excerpt": "\n                             WD's leadership, now fully split from Sandisk, talks about its expectations for the future with industry analysts. We cover the full transcript of the press-only session right here. \n                                                                                                            "
+        "title": "US solar module prices face upward pressure - pv magazine International",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPUVJJandoQ3RHSDNNdHM5OWVCeWVJSEk4LXJXTndsVjh1bXotaXVvQXNjSWxmSnBJalRhcGxOOW1qdG5LOHpvdWhuUnlQbHhjVG5rdXc5ZEt5RFRUdExUQlJJdmV5czFfTXRqUkxFUXV4Y25TSW9ZaXdfbzl6bUVBaHFTVGE4WUNIaklvRA?oc=5",
+        "fetchedAt": "2026-04-15T09:11:17.485755Z",
+        "excerpt": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxPUVJJandoQ3RHSDNNdHM5OWVCeWVJSEk4LXJXTndsVjh1bXotaXVvQXNjSWxmSnBJalRhcGxOOW1qdG5LOHpvdWhuUnlQbHhjVG5rdXc5ZEt5RFRUdExUQlJJdmV5czFfTXRqUkxFUXV4Y25TSW9ZaXdfbzl6bUVBaHFTVGE4WUNIaklvRA?oc=5\" target=\"_blank\">US solar module prices face upward pressure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">pv magazine International</font>"
       }
     ]
   },
   {
-    "id": "rss-7597",
-    "date": "Sat, 04 Ap",
+    "id": "rss-43155",
+    "date": "Wed, 25 Fe",
     "companies": [],
     "topics": [
       "news"
     ],
     "impact": "neutral",
-    "title": " Sharge Disk Pro 2TB review: Great sustained writes, active cooling, and a built-in hub ",
-    "summary": "\n                             Sharge's Disk Pro pairs a snappy 10 Gbps SSD with a handy port hub and active cooling, all in a compact, eye-catching shell with a magnetic back. It's an impressive packa",
+    "title": "Solar stocks in pain on Trump's 126% tariff shock but experts see limited long-term impact - TradingView — Track All Markets",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5wFBVV95cUxQalRQUk1CNmlmaTc5UlYycHpiTUR5aGVacjUwVFRxcmFWYWtWR3FHeHRCWTI3MDFGYnlsSDJFZEhWTzBhcFBNMXBDeDZlYXJBQjlGRXJKdjRqSmNkTGVVNFVMTjd1Sl83TGJpUFkyaD",
     "sources": [
       {
         "type": "news",
-        "title": " Sharge Disk Pro 2TB review: Great sustained writes, active cooling, and a built-in hub ",
-        "url": "https://www.tomshardware.com/pc-components/external-ssds/sharge-disk-pro-2tb-review",
-        "fetchedAt": "2026-04-14T23:00:19.936816Z",
-        "excerpt": "\n                             Sharge's Disk Pro pairs a snappy 10 Gbps SSD with a handy port hub and active cooling, all in a compact, eye-catching shell with a magnetic back. It's an impressive package for gamers and road warriors, but you'll pay a high price for all these features. \n                                                                                                            "
+        "title": "Solar stocks in pain on Trump's 126% tariff shock but experts see limited long-term impact - TradingView — Track All Markets",
+        "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQalRQUk1CNmlmaTc5UlYycHpiTUR5aGVacjUwVFRxcmFWYWtWR3FHeHRCWTI3MDFGYnlsSDJFZEhWTzBhcFBNMXBDeDZlYXJBQjlGRXJKdjRqSmNkTGVVNFVMTjd1Sl83TGJpUFkyaDhyWnZhcWpZQnpnZ001UktrU2JUNkVSWmdqVmtHMWJNQkVUV0pvbEZuQmNHeDZlVFRFd0RpQkc5RU0zRFEyVXZ4VmlPZFA3bmx4NkM2N1FGTGwwekczYU8tc1BLcTFoclFTZ2J3THF4cW9rZlhuT0FTYlpaV3B6TEk?oc=5",
+        "fetchedAt": "2026-04-15T09:11:17.485765Z",
+        "excerpt": "<a href=\"https://news.google.com/rss/articles/CBMi5wFBVV95cUxQalRQUk1CNmlmaTc5UlYycHpiTUR5aGVacjUwVFRxcmFWYWtWR3FHeHRCWTI3MDFGYnlsSDJFZEhWTzBhcFBNMXBDeDZlYXJBQjlGRXJKdjRqSmNkTGVVNFVMTjd1Sl83TGJpUFkyaDhyWnZhcWpZQnpnZ001UktrU2JUNkVSWmdqVmtHMWJNQkVUV0pvbEZuQmNHeDZlVFRFd0RpQkc5RU0zRFEyVXZ4VmlPZFA3bmx4NkM2N1FGTGwwekczYU8tc1BLcTFoclFTZ2J3THF4cW9rZlhuT0FTYlpaV3B6TEk?oc=5\" target=\"_blank\">Solar stocks in pain on Trump's 126% tariff shock but experts see limited long-term impact</a>&nbsp;&nbsp;<font colo"
       }
     ]
   },
   {
-    "id": "rss-12842",
-    "date": "Thu, 02 Ap",
+    "id": "rss-92666",
+    "date": "Wed, 25 Fe",
     "companies": [],
     "topics": [
       "news"
     ],
     "impact": "neutral",
-    "title": " GameStop NVMe SSD 2TB SSD Review: A surprisingly capable budget drive for the PS5 ",
-    "summary": "\n                             The GameStop NVMe SSD is a decent gamer-oriented drive with good performance and a nice heatsink at a reasonable price. SMI and Samsung hardware come together for a compe",
+    "title": "US imposes 126% tariff on Indian solar imports: How it impacts domestic manufacturers - Moneycontrol.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxNcGlpZGdEbGdlazA1Q3V3azlLa2I5MTY0Q1IyM0NlZkp2QldUSzhOZmVxYkdfa21Gb2JCRHR5NDBZUFBWTXQyYlB3UzJ5bzBjZHZ4VWdWQlBxQ1o0RUo0ZHZpMHVsUGcyXzlNRU8xRH",
     "sources": [
       {
         "type": "news",
-        "title": " GameStop NVMe SSD 2TB SSD Review: A surprisingly capable budget drive for the PS5 ",
-        "url": "https://www.tomshardware.com/pc-components/ssds/gamestop-nvme-ssd-2tb-ssd-review",
-        "fetchedAt": "2026-04-14T23:00:19.936818Z",
-        "excerpt": "\n                             The GameStop NVMe SSD is a decent gamer-oriented drive with good performance and a nice heatsink at a reasonable price. SMI and Samsung hardware come together for a compelling package. \n                                                                                                            "
+        "title": "US imposes 126% tariff on Indian solar imports: How it impacts domestic manufacturers - Moneycontrol.com",
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNcGlpZGdEbGdlazA1Q3V3azlLa2I5MTY0Q1IyM0NlZkp2QldUSzhOZmVxYkdfa21Gb2JCRHR5NDBZUFBWTXQyYlB3UzJ5bzBjZHZ4VWdWQlBxQ1o0RUo0ZHZpMHVsUGcyXzlNRU8xRHVDazd0NEpSeHV6Q2xtZnc4M1lScENkM1dMSEVkQzdnLUU2VGtsZXpKeWdWOHEtZ3FobjRfUnJRNXhtUVd3Y0l1QTF1S0ZsWjE2RkRzT3lkYm9kd1czS1ctNkc0b05BVC1Ka1J5Ni02a9IB3AFBVV95cUxQWDYyTy1fQTNHVi1BTFFCWERRSUdRQmgtVmtPOW1HY01ITHl6bGoyUnE5MklpdndEdzgwWW1GT0QyZm1aNVlKeVdUZER0TzZMUWktSVRQOGhKa0lnQURKX2R3Y2xZRlVCaDY2T0RXdjBzU2dFemN0VkhXU2NPM3hXbGoxajE1bE04TEgybGNsQnh6Tk8tR3M4YWpGUFlGekYxYTdfSnRodjQ3Tm80bDRidEFjUUhMMXdYZVUtUHZCWUMxZE9rMVBPZjhCR3NtWE5pU0JpSkt3WU96LXQ0?oc=5",
+        "fetchedAt": "2026-04-15T09:11:17.485768Z",
+        "excerpt": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxNcGlpZGdEbGdlazA1Q3V3azlLa2I5MTY0Q1IyM0NlZkp2QldUSzhOZmVxYkdfa21Gb2JCRHR5NDBZUFBWTXQyYlB3UzJ5bzBjZHZ4VWdWQlBxQ1o0RUo0ZHZpMHVsUGcyXzlNRU8xRHVDazd0NEpSeHV6Q2xtZnc4M1lScENkM1dMSEVkQzdnLUU2VGtsZXpKeWdWOHEtZ3FobjRfUnJRNXhtUVd3Y0l1QTF1S0ZsWjE2RkRzT3lkYm9kd1czS1ctNkc0b05BVC1Ka1J5Ni02a9IB3AFBVV95cUxQWDYyTy1fQTNHVi1BTFFCWERRSUdRQmgtVmtPOW1HY01ITHl6bGoyUnE5MklpdndEdzgwWW1GT0QyZm1aNVlKeVdUZER0TzZMUWktSVRQOGhKa0lnQURKX2R3Y2xZRlVCaDY2T0RXdjBzU2dFem"
       }
     ]
   },
   {
-    "id": "rss-68597",
-    "date": "Tue, 31 Ma",
+    "id": "rss-36997",
+    "date": "Wed, 04 Fe",
     "companies": [],
     "topics": [
       "news"
     ],
     "impact": "neutral",
-    "title": " Kioxia discontinues 2D NAND products, last shipments to be made in 2028 — 1980s planar NAND memory reaches end of life ",
-    "summary": "\n                             After nearly four decades in production, Kioxia is set to discontinue its final 2D NAND devices by late 2028. \n                                                           ",
+    "title": "Tariff cut sparks optimism across solar panel makers and exporters - The Financial Express",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxPcG0wN282ODRmY2RYVm5LdGUyQ1UxUW5XdDR1M1hQZGM0bDJYSzB4elRETGt2MHVPWHJxYl9vQjRMaFNUN0kyYlhKcUkyX2F6a2lHR3oxdkRUY1ZFanEwSmxVQ3FnZ3NIRlpnVzJRcX",
     "sources": [
       {
         "type": "news",
-        "title": " Kioxia discontinues 2D NAND products, last shipments to be made in 2028 — 1980s planar NAND memory reaches end of life ",
-        "url": "https://www.tomshardware.com/pc-components/ssds/kioxia-discontinues-2d-nand-products-last-shipments-to-be-made-in-2028-1980s-planar-nand-memory-reaches-end-of-life",
-        "fetchedAt": "2026-04-14T23:00:19.936819Z",
-        "excerpt": "\n                             After nearly four decades in production, Kioxia is set to discontinue its final 2D NAND devices by late 2028. \n                                                                                                            "
+        "title": "Tariff cut sparks optimism across solar panel makers and exporters - The Financial Express",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPcG0wN282ODRmY2RYVm5LdGUyQ1UxUW5XdDR1M1hQZGM0bDJYSzB4elRETGt2MHVPWHJxYl9vQjRMaFNUN0kyYlhKcUkyX2F6a2lHR3oxdkRUY1ZFanEwSmxVQ3FnZ3NIRlpnVzJRcXNQcU9EZmFNaTZhbUwzcEtFZlRWc1MzOElPRHJXUXhOSTNtbkY3NkJvWDVWbmFTXzZDb093NWpnWTRzVjdPWWFQSXltMHlnbUZMU1BlQVNCelNraVnSAcoBQVVfeXFMTjBwa01neXU1bGZEVTVQMzNpZ1hRZU1QX1d1WUVtMFBCeGxLZ0I5M0JNX2FmZDI1WF9LVmdzd3haUXdFQkdYQy1Qd3B2THR1OWZLRVVNcE9lRFdleTZiZmNpTC1aV1Zab0dzNXVSZjZVZjZkOUcyV0FjTFNpUWttWG15NjBUeUpBVFlnMWs1N0F5ZWVNLWtMVFY2U21IY2d6MGZITV9MOVhJd29sRGNEb0JBMDdNb3VkNHFPVlBhODFlUlJKSV92TXNEQQ?oc=5",
+        "fetchedAt": "2026-04-15T09:11:17.485771Z",
+        "excerpt": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxPcG0wN282ODRmY2RYVm5LdGUyQ1UxUW5XdDR1M1hQZGM0bDJYSzB4elRETGt2MHVPWHJxYl9vQjRMaFNUN0kyYlhKcUkyX2F6a2lHR3oxdkRUY1ZFanEwSmxVQ3FnZ3NIRlpnVzJRcXNQcU9EZmFNaTZhbUwzcEtFZlRWc1MzOElPRHJXUXhOSTNtbkY3NkJvWDVWbmFTXzZDb093NWpnWTRzVjdPWWFQSXltMHlnbUZMU1BlQVNCelNraVnSAcoBQVVfeXFMTjBwa01neXU1bGZEVTVQMzNpZ1hRZU1QX1d1WUVtMFBCeGxLZ0I5M0JNX2FmZDI1WF9LVmdzd3haUXdFQkdYQy1Qd3B2THR1OWZLRVVNcE9lRFdleTZiZmNpTC1aV1Zab0dzNXVSZjZVZjZkOUcyV0FjTFNpUWttWG15NjBUeUpBVF"
       }
     ]
   },
   {
-    "id": "rss-15500",
-    "date": "Tue, 31 Ma",
+    "id": "rss-59233",
+    "date": "Mon, 04 Au",
     "companies": [],
     "topics": [
       "news"
     ],
     "impact": "neutral",
-    "title": " At just $17.68 per Terabyte, this 22TB external Seagate Expansion HDD is one of the cheapest hard drives on the market — backup copious amounts of data for $389 ",
-    "summary": "\n                             It's World Backup Day! Have you considered how your data is protected and stored? \n                                                                                       ",
+    "title": "Tariff Trial and Error in the Solar Energy Sector - Energy Institute Blog",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxOd1EyVXM3TjNhc0g3TG5mNEYzTU1CMkhZVEVaUDJqaVhNUkV3ZnNQVHFwMXJOcU1pVnM5R01mN25WeC1rZmVSeDZ2UnhHSFNDamxKUW1QVjNMQXcwanVWZ1RTS3lUcXFfazdXMkFYdC",
     "sources": [
       {
         "type": "news",
-        "title": " At just $17.68 per Terabyte, this 22TB external Seagate Expansion HDD is one of the cheapest hard drives on the market — backup copious amounts of data for $389 ",
-        "url": "https://www.tomshardware.com/pc-components/external-hdds/at-just-usd17-68-per-terabyte-this-22tb-external-seagate-expansion-hdd-is-one-of-the-cheapest-hard-drives-on-the-market-backup-copious-amounts-of-data-for-usd389",
-        "fetchedAt": "2026-04-14T23:00:19.936821Z",
-        "excerpt": "\n                             It's World Backup Day! Have you considered how your data is protected and stored? \n                                                                                                            "
+        "title": "Tariff Trial and Error in the Solar Energy Sector - Energy Institute Blog",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOd1EyVXM3TjNhc0g3TG5mNEYzTU1CMkhZVEVaUDJqaVhNUkV3ZnNQVHFwMXJOcU1pVnM5R01mN25WeC1rZmVSeDZ2UnhHSFNDamxKUW1QVjNMQXcwanVWZ1RTS3lUcXFfazdXMkFYdC1EdGtUY1VyREhnLUEyc1lrZEV2OXlmT3FMVnFrNkJBRlNaYnVWTnBxQU13RzY?oc=5",
+        "fetchedAt": "2026-04-15T09:11:17.485772Z",
+        "excerpt": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxOd1EyVXM3TjNhc0g3TG5mNEYzTU1CMkhZVEVaUDJqaVhNUkV3ZnNQVHFwMXJOcU1pVnM5R01mN25WeC1rZmVSeDZ2UnhHSFNDamxKUW1QVjNMQXcwanVWZ1RTS3lUcXFfazdXMkFYdC1EdGtUY1VyREhnLUEyc1lrZEV2OXlmT3FMVnFrNkJBRlNaYnVWTnBxQU13RzY?oc=5\" target=\"_blank\">Tariff Trial and Error in the Solar Energy Sector</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Energy Institute Blog</font>"
       }
     ]
   },
   {
-    "id": "rss-75031",
-    "date": "Tue, 31 Ma",
+    "id": "rss-67125",
+    "date": "Wed, 04 Ju",
     "companies": [],
     "topics": [
       "news"
     ],
     "impact": "neutral",
-    "title": " Grab an SSD or HDD upgrade for World Backup Day 2026 to keep your files safe, with 1TB drives starting from $109 — beat the AI-fueled storage price hikes with these savings on internal and external drives, enclosures, and accessories ",
-    "summary": "\n                             It's time to celebrate World Backup Day 2026 with these huge promotional deals on storage, from discounted hard drives to SSD cloners, flash drives, and more. \n          ",
+    "title": "Tariffs to ‘significantly’ increase costs and disrupt US solar and energy storage - PV Tech",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxQV2p0RnVUdnl2ZnppRExRRGU0SUxJZ182LVBkS3hHQS1iYlFRUnlkQVZfQlY1cmdpXzJkZllkdUVHbDFSTXZjeUZCZ05kV1NLdTNVSWpnQlQ4V05Gcl9tbUdBZm5jWnlzbXlZNnVaZH",
     "sources": [
       {
         "type": "news",
-        "title": " Grab an SSD or HDD upgrade for World Backup Day 2026 to keep your files safe, with 1TB drives starting from $109 — beat the AI-fueled storage price hikes with these savings on internal and external drives, enclosures, and accessories ",
-        "url": "https://www.tomshardware.com/pc-components/storage/grab-an-ssd-or-hdd-upgrade-for-world-backup-day-2026-to-keep-your-files-safe-with-1tb-drives-starting-from-usd109-beat-the-ai-fueled-storage-price-hikes-with-these-savings-on-internal-and-external-drives-enclosures-and-accessories",
-        "fetchedAt": "2026-04-14T23:00:19.936823Z",
-        "excerpt": "\n                             It's time to celebrate World Backup Day 2026 with these huge promotional deals on storage, from discounted hard drives to SSD cloners, flash drives, and more. \n                                                                                                            "
+        "title": "Tariffs to ‘significantly’ increase costs and disrupt US solar and energy storage - PV Tech",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQV2p0RnVUdnl2ZnppRExRRGU0SUxJZ182LVBkS3hHQS1iYlFRUnlkQVZfQlY1cmdpXzJkZllkdUVHbDFSTXZjeUZCZ05kV1NLdTNVSWpnQlQ4V05Gcl9tbUdBZm5jWnlzbXlZNnVaZHBCZ0pOM0pydlpzRzlGSE9nbVM0a1FMTUlSS3MwTDhwd3pvc3RTZk9pYXljUmxZbS04dHJ0TnNLUQ?oc=5",
+        "fetchedAt": "2026-04-15T09:11:17.485775Z",
+        "excerpt": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxQV2p0RnVUdnl2ZnppRExRRGU0SUxJZ182LVBkS3hHQS1iYlFRUnlkQVZfQlY1cmdpXzJkZllkdUVHbDFSTXZjeUZCZ05kV1NLdTNVSWpnQlQ4V05Gcl9tbUdBZm5jWnlzbXlZNnVaZHBCZ0pOM0pydlpzRzlGSE9nbVM0a1FMTUlSS3MwTDhwd3pvc3RTZk9pYXljUmxZbS04dHJ0TnNLUQ?oc=5\" target=\"_blank\">Tariffs to ‘significantly’ increase costs and disrupt US solar and energy storage</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PV Tech</font>"
       }
     ]
   },
   {
-    "id": "rss-23654",
-    "date": "Tue, 31 Ma",
+    "id": "rss-95240",
+    "date": "Fri, 19 Se",
     "companies": [],
     "topics": [
       "news"
     ],
     "impact": "neutral",
-    "title": " This $28 floppy disk SSD enclosure is a fun and fast way to keep your storage safe — both practical and nostalgic, this rugged USB-C aluminum enclosure for M.2 drives supports speeds of up to 1,200 MB/s ",
-    "summary": "\n                             Take your files on-the-go with this classic-looking SSD enclosure from Hagibis in celeberation of World Backup Day. Just $27.99 nets you this USB-C 3.2 Gen 2 M.2 NVMe SSD",
+    "title": "A tightened U.S. solar trade environment - pv magazine USA",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxPWjBaTzBtcldUdDJnaFM1bWtUYVFnUjF5amphdl96Y1JFTzR4SzBsa3ZpcnI0dzh5S3NOMHNTLV84bjNya3poWjVjX1VvN2pfMEFxVDlXcjU5ZTBIbWpOZEwwVFBhSjNFZ0VhUUhQcH",
     "sources": [
       {
         "type": "news",
-        "title": " This $28 floppy disk SSD enclosure is a fun and fast way to keep your storage safe — both practical and nostalgic, this rugged USB-C aluminum enclosure for M.2 drives supports speeds of up to 1,200 MB/s ",
-        "url": "https://www.tomshardware.com/pc-components/storage/this-usd28-floppy-disk-ssd-enclosure-is-a-fun-and-fast-way-to-keep-your-storage-safe-both-practical-and-nostalgic-this-rugged-usb-c-aluminum-enclosure-for-m-2-drives-supports-speeds-of-up-to-1-200-mb-s",
-        "fetchedAt": "2026-04-14T23:00:19.936824Z",
-        "excerpt": "\n                             Take your files on-the-go with this classic-looking SSD enclosure from Hagibis in celeberation of World Backup Day. Just $27.99 nets you this USB-C 3.2 Gen 2 M.2 NVMe SSD enclosure, shaped like an old floppy disk. \n                                                                                                            "
+        "title": "A tightened U.S. solar trade environment - pv magazine USA",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPWjBaTzBtcldUdDJnaFM1bWtUYVFnUjF5amphdl96Y1JFTzR4SzBsa3ZpcnI0dzh5S3NOMHNTLV84bjNya3poWjVjX1VvN2pfMEFxVDlXcjU5ZTBIbWpOZEwwVFBhSjNFZ0VhUUhQcHJraFcyaUsydHdBUlBEa3FKMURHMVA2QQ?oc=5",
+        "fetchedAt": "2026-04-15T09:11:17.485777Z",
+        "excerpt": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxPWjBaTzBtcldUdDJnaFM1bWtUYVFnUjF5amphdl96Y1JFTzR4SzBsa3ZpcnI0dzh5S3NOMHNTLV84bjNya3poWjVjX1VvN2pfMEFxVDlXcjU5ZTBIbWpOZEwwVFBhSjNFZ0VhUUhQcHJraFcyaUsydHdBUlBEa3FKMURHMVA2QQ?oc=5\" target=\"_blank\">A tightened U.S. solar trade environment</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">pv magazine USA</font>"
       }
     ]
   },
   {
-    "id": "rss-64263",
-    "date": "Sat, 28 Ma",
+    "id": "rss-61172",
+    "date": "Mon, 21 Ap",
     "companies": [],
     "topics": [
       "news"
     ],
     "impact": "neutral",
-    "title": " Samsung preps PCIe 5.0 QLC SSD with a controller based on open-source RISC-V architecture — BM9K1 delivers speeds up to 11.4 GB/s for 'personal AI workloads' ",
-    "summary": "\n                             The BM9K1 reportedly delivers sequential read speeds of up to 11.4 GB/s, which Samsung said is 1.6 times faster than its predecessor, the PCIe 4.0 BM9C1. \n               ",
+    "title": "Commerce reveals final tariff amounts on Southeast Asian solar imports - Solar Power World",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxQeWhYR1RTaUFPejNGckZ4aTYzSkxTZGJZdWlzQ0ViZ0ZFUmF2dkRlU01XdWxTWUZLZlZhU1lla0JwVE9sYkt5ZFBKRWlaM1hhRVBEY01ZWXYyUGRtSHN6MzRudVJ6NnZvT0oyeXBmaW",
     "sources": [
       {
         "type": "news",
-        "title": " Samsung preps PCIe 5.0 QLC SSD with a controller based on open-source RISC-V architecture — BM9K1 delivers speeds up to 11.4 GB/s for 'personal AI workloads' ",
-        "url": "https://www.tomshardware.com/pc-components/ssds/samsung-announces-bm9k1-pcie-5-0-qlc-ssd",
-        "fetchedAt": "2026-04-14T23:00:19.936826Z",
-        "excerpt": "\n                             The BM9K1 reportedly delivers sequential read speeds of up to 11.4 GB/s, which Samsung said is 1.6 times faster than its predecessor, the PCIe 4.0 BM9C1. \n                                                                                                            "
+        "title": "Commerce reveals final tariff amounts on Southeast Asian solar imports - Solar Power World",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQeWhYR1RTaUFPejNGckZ4aTYzSkxTZGJZdWlzQ0ViZ0ZFUmF2dkRlU01XdWxTWUZLZlZhU1lla0JwVE9sYkt5ZFBKRWlaM1hhRVBEY01ZWXYyUGRtSHN6MzRudVJ6NnZvT0oyeXBmaWtYYkczUzFzcWNfczQtQlIyeHRhbmJuNS1DQ0dTQW5SdjdRUC1ZYUxOTTRJSTZySC1OQ3BFRkRlMXRjb0UyZ1dyVUFKN3hqbzdU?oc=5",
+        "fetchedAt": "2026-04-15T09:11:17.485779Z",
+        "excerpt": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxQeWhYR1RTaUFPejNGckZ4aTYzSkxTZGJZdWlzQ0ViZ0ZFUmF2dkRlU01XdWxTWUZLZlZhU1lla0JwVE9sYkt5ZFBKRWlaM1hhRVBEY01ZWXYyUGRtSHN6MzRudVJ6NnZvT0oyeXBmaWtYYkczUzFzcWNfczQtQlIyeHRhbmJuNS1DQ0dTQW5SdjdRUC1ZYUxOTTRJSTZySC1OQ3BFRkRlMXRjb0UyZ1dyVUFKN3hqbzdU?oc=5\" target=\"_blank\">Commerce reveals final tariff amounts on Southeast Asian solar imports</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Solar Power World</font>"
       }
     ]
   },
   {
-    "id": "rss-48065",
-    "date": "Sat, 28 Ma",
+    "id": "rss-86886",
+    "date": "Thu, 01 Ma",
     "companies": [],
     "topics": [
       "news"
     ],
     "impact": "neutral",
-    "title": " Sony freezes memory card orders in Japan amid growing storage crisis — the company attributes the cause to ‘shortage of semiconductors’ ",
-    "summary": "\n                             Sony Japan has announced that it will no longer accept orders for almost its entire lineup of CFexpress and SD memory cards as of March 27. \n                             ",
+    "title": "Will Tariffs on Solar Cell Imports Invigorate the U.S. Manufacturing Market? - Inside Climate News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxNY3FqRENodXlVQ01QS2dYdVhOeHZ2ZWVlMzVTTDNraTZ0TlNocTdiQlMxRDRhUFpNY21XRnEyRWY4SlRyNWdCdWRYUVhGVzRfdjBDRkVHUW5MRjRzcHplUW8tdTl4Q0loZDgtR3Vncn",
     "sources": [
       {
         "type": "news",
-        "title": " Sony freezes memory card orders in Japan amid growing storage crisis — the company attributes the cause to ‘shortage of semiconductors’ ",
-        "url": "https://www.tomshardware.com/tech-industry/sony-suspends-nearly-all-memory-card-orders-in-japan",
-        "fetchedAt": "2026-04-14T23:00:19.936828Z",
-        "excerpt": "\n                             Sony Japan has announced that it will no longer accept orders for almost its entire lineup of CFexpress and SD memory cards as of March 27. \n                                                                                                            "
+        "title": "Will Tariffs on Solar Cell Imports Invigorate the U.S. Manufacturing Market? - Inside Climate News",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNY3FqRENodXlVQ01QS2dYdVhOeHZ2ZWVlMzVTTDNraTZ0TlNocTdiQlMxRDRhUFpNY21XRnEyRWY4SlRyNWdCdWRYUVhGVzRfdjBDRkVHUW5MRjRzcHplUW8tdTl4Q0loZDgtR3VncnZGeHA2eEVHRXphSE1wYmFWQm00bmhFTmhqLTk0?oc=5",
+        "fetchedAt": "2026-04-15T09:11:17.485781Z",
+        "excerpt": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxNY3FqRENodXlVQ01QS2dYdVhOeHZ2ZWVlMzVTTDNraTZ0TlNocTdiQlMxRDRhUFpNY21XRnEyRWY4SlRyNWdCdWRYUVhGVzRfdjBDRkVHUW5MRjRzcHplUW8tdTl4Q0loZDgtR3VncnZGeHA2eEVHRXphSE1wYmFWQm00bmhFTmhqLTk0?oc=5\" target=\"_blank\">Will Tariffs on Solar Cell Imports Invigorate the U.S. Manufacturing Market?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Inside Climate News</font>"
       }
     ]
   },
   {
-    "id": "rss-43320",
-    "date": "Fri, 27 Ma",
+    "id": "rss-86663",
+    "date": "Tue, 22 Ju",
     "companies": [],
     "topics": [
       "news"
     ],
     "impact": "neutral",
-    "title": " Exceptional fake SSD clone of Samsung 990 Pro is almost impossible to spot — near-identical performance blurs the line between real and fake as AI crunch drives knock-off market ",
-    "summary": "\n                             Japanese news outlet Akiba PC Hotline! examines a fake Samsung 990 Pro SSD that's starting to show up in the Japanese market. \n                                           ",
+    "title": "Solar Module Prices Rise 12% as US Tariffs Disrupt Trade Flows: WoodMac - Saur Energy",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxQQTYtbVdRdU5lSFBFVXlDc3dfVWZVaVljclN5STRRdklZeFFjWE1kLWI0UmNaNndNMDlPZnczdFhjWEV3VmlKYXZaUDBFN0JvY3ZSblFtdzBYZWktbDNzTDMwdjNPOV9qWGJDMnZnR1",
     "sources": [
       {
         "type": "news",
-        "title": " Exceptional fake SSD clone of Samsung 990 Pro is almost impossible to spot — near-identical performance blurs the line between real and fake as AI crunch drives knock-off market ",
-        "url": "https://www.tomshardware.com/pc-components/ssds/exceptional-fake-ssd-clone-of-samsung-990-pro-is-almost-impossible-to-spot-near-identical-performance-blurs-the-line-between-real-and-fake-as-ai-crunch-drives-knock-off-market",
-        "fetchedAt": "2026-04-14T23:00:19.936829Z",
-        "excerpt": "\n                             Japanese news outlet Akiba PC Hotline! examines a fake Samsung 990 Pro SSD that's starting to show up in the Japanese market. \n                                                                                                            "
+        "title": "Solar Module Prices Rise 12% as US Tariffs Disrupt Trade Flows: WoodMac - Saur Energy",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQQTYtbVdRdU5lSFBFVXlDc3dfVWZVaVljclN5STRRdklZeFFjWE1kLWI0UmNaNndNMDlPZnczdFhjWEV3VmlKYXZaUDBFN0JvY3ZSblFtdzBYZWktbDNzTDMwdjNPOV9qWGJDMnZnR1dXYlF2TllIVVRaVzhITzlpTUFVa19CcklUblhrS2NNTFNhQUZhTnJFYnhHd0dOYlZpOGtqTDJ3TkJDaFF1UUpkM0ZLX1RobkdZN3pPVkJ2aw?oc=5",
+        "fetchedAt": "2026-04-15T09:11:17.485783Z",
+        "excerpt": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxQQTYtbVdRdU5lSFBFVXlDc3dfVWZVaVljclN5STRRdklZeFFjWE1kLWI0UmNaNndNMDlPZnczdFhjWEV3VmlKYXZaUDBFN0JvY3ZSblFtdzBYZWktbDNzTDMwdjNPOV9qWGJDMnZnR1dXYlF2TllIVVRaVzhITzlpTUFVa19CcklUblhrS2NNTFNhQUZhTnJFYnhHd0dOYlZpOGtqTDJ3TkJDaFF1UUpkM0ZLX1RobkdZN3pPVkJ2aw?oc=5\" target=\"_blank\">Solar Module Prices Rise 12% as US Tariffs Disrupt Trade Flows: WoodMac</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Saur Energy</font>"
       }
     ]
   },
   {
-    "id": "rss-22974",
-    "date": "Wed, 25 Ma",
+    "id": "rss-14463",
+    "date": "Wed, 23 Ap",
     "companies": [],
     "topics": [
       "news"
     ],
     "impact": "neutral",
-    "title": " Samsung’s 870 EVO SATA SSD quietly gets 8TB variant despite storage shortage and skyrocketing pricing — new model spotted in Europe for €1,300 with higher cache and endurance ",
-    "summary": "\n                             Samsung’s unlisted 870 EVO 8TB model appears at European retailers with pricing starting at €1,300. \n                                                                     ",
+    "title": "Commerce finalizes tariff rates on solar imports from Southeast Asia - Utility Dive",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxOY1RfRE9hSG9fVl81QUJmU0x1N3JPUENtclgtMWFDZlNlRUFESVBkNVgwcEUxSmxkZWNRamE2bmJmdWRJem5Dd2VPVXktbk5OZmlscjRTTFk2ZUlZR3kxcm9tY2RLaEZWM2NsV0RJMj",
     "sources": [
       {
         "type": "news",
-        "title": " Samsung’s 870 EVO SATA SSD quietly gets 8TB variant despite storage shortage and skyrocketing pricing — new model spotted in Europe for €1,300 with higher cache and endurance ",
-        "url": "https://www.tomshardware.com/pc-components/ssds/samsungs-870-evo-sata-ssd-quietly-gets-8tb-variant-despite-ai-storage-struggle-new-model-spotted-in-europe-for-eur1-300-with-higher-cache-and-endurance",
-        "fetchedAt": "2026-04-14T23:00:19.936831Z",
-        "excerpt": "\n                             Samsung’s unlisted 870 EVO 8TB model appears at European retailers with pricing starting at €1,300. \n                                                                                                            "
+        "title": "Commerce finalizes tariff rates on solar imports from Southeast Asia - Utility Dive",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOY1RfRE9hSG9fVl81QUJmU0x1N3JPUENtclgtMWFDZlNlRUFESVBkNVgwcEUxSmxkZWNRamE2bmJmdWRJem5Dd2VPVXktbk5OZmlscjRTTFk2ZUlZR3kxcm9tY2RLaEZWM2NsV0RJMjEtVU9JbVQtM29LNks0U2hhNmxTVWRUbDZtRU85Qm45TGQ0R281c0pn?oc=5",
+        "fetchedAt": "2026-04-15T09:11:17.485785Z",
+        "excerpt": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxOY1RfRE9hSG9fVl81QUJmU0x1N3JPUENtclgtMWFDZlNlRUFESVBkNVgwcEUxSmxkZWNRamE2bmJmdWRJem5Dd2VPVXktbk5OZmlscjRTTFk2ZUlZR3kxcm9tY2RLaEZWM2NsV0RJMjEtVU9JbVQtM29LNks0U2hhNmxTVWRUbDZtRU85Qm45TGQ0R281c0pn?oc=5\" target=\"_blank\">Commerce finalizes tariff rates on solar imports from Southeast Asia</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Utility Dive</font>"
       }
     ]
   },
   {
-    "id": "rss-64139",
-    "date": "Wed, 25 Ma",
+    "id": "rss-44779",
+    "date": "Mon, 21 Ap",
     "companies": [],
     "topics": [
       "news"
     ],
     "impact": "neutral",
-    "title": " Seagate FireCuda 530R 2TB SSD Review: A stealthy workstation powerhouse ",
-    "summary": "\n                             The Seagate FireCuda 530R is a specialized workstation SSD that prioritizes reliability and performance consistency. With high write endurance and bundled data recovery s",
+    "title": "US finalizes tariffs on Southeast Asian solar imports - Reuters",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxPM2pqbnRha210aFlJdjRhVDRtd2F6R285YUFZM1QyckxWTG90dkJsNVNmclNYOHVOTnNBMzBCUHNsVVc4Y3UzOGxsa2tyMUNjejBZYnpzU1UtZ0tJOEtQOE9CVUdOdW53OTh4Skt4dF",
     "sources": [
       {
         "type": "news",
-        "title": " Seagate FireCuda 530R 2TB SSD Review: A stealthy workstation powerhouse ",
-        "url": "https://www.tomshardware.com/pc-components/ssds/seagate-firecuda-530r-2tb-ssd-review",
-        "fetchedAt": "2026-04-14T23:00:19.936833Z",
-        "excerpt": "\n                             The Seagate FireCuda 530R is a specialized workstation SSD that prioritizes reliability and performance consistency. With high write endurance and bundled data recovery services, it provides extra peace of mind. \n                                                                                                            "
+        "title": "US finalizes tariffs on Southeast Asian solar imports - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPM2pqbnRha210aFlJdjRhVDRtd2F6R285YUFZM1QyckxWTG90dkJsNVNmclNYOHVOTnNBMzBCUHNsVVc4Y3UzOGxsa2tyMUNjejBZYnpzU1UtZ0tJOEtQOE9CVUdOdW53OTh4Skt4dFlHdDV2VFVJZVhCRFBBQ1NSLWVaWmJzamlXbXVZSDI1MWNXTkI0QmY2OHhBTXRRbUpyeHpNMWpEb1dLSHlyRUdyNGV2YVZ1TGJnZjNnaDhjaUZfcUVZQXdCTzBMSVY?oc=5",
+        "fetchedAt": "2026-04-15T09:11:17.485787Z",
+        "excerpt": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxPM2pqbnRha210aFlJdjRhVDRtd2F6R285YUFZM1QyckxWTG90dkJsNVNmclNYOHVOTnNBMzBCUHNsVVc4Y3UzOGxsa2tyMUNjejBZYnpzU1UtZ0tJOEtQOE9CVUdOdW53OTh4Skt4dFlHdDV2VFVJZVhCRFBBQ1NSLWVaWmJzamlXbXVZSDI1MWNXTkI0QmY2OHhBTXRRbUpyeHpNMWpEb1dLSHlyRUdyNGV2YVZ1TGJnZjNnaDhjaUZfcUVZQXdCTzBMSVY?oc=5\" target=\"_blank\">US finalizes tariffs on Southeast Asian solar imports</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>"
       }
     ]
   },
   {
-    "id": "rss-89091",
-    "date": "Mon, 23 Ma",
+    "id": "rss-91289",
+    "date": "Thu, 24 Ap",
     "companies": [],
     "topics": [
       "news"
     ],
     "impact": "neutral",
-    "title": " MacBook Neo costs more in Portugal due to copyright levy for piracy compensation taxes — storage costs extra in multiple countries, thanks to draconian laws that pre-punish buyers ",
-    "summary": "\n                             Macbook Neo Portuguese copyright levy fee highlights draconian piracy compensation laws \n                                                                                 ",
+    "title": "What does it mean to have up to 3,521% US tariffs on solar imports? - ING THINK economic and financial analysis | ING THINK",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxPb0VuRTI1b2N6SzJaSThzaHo3cFZvNVZSRTB6ZnZ5d2NBZXFPZ1l1VVVhdXJvbFluUDFFNEkzOGRfeGVjQXk4cXllOTh4bUZMTGFuM3c5TlRkaDVoYmNObi13UjlQUmh4LUdzS2ZPUT",
     "sources": [
       {
         "type": "news",
-        "title": " MacBook Neo costs more in Portugal due to copyright levy for piracy compensation taxes — storage costs extra in multiple countries, thanks to draconian laws that pre-punish buyers ",
-        "url": "https://www.tomshardware.com/pc-components/storage/macbook-neo-costs-more-in-portugal-due-to-copyright-levy-for-piracy-compensation-taxes-storage-costs-extra-in-multiple-countries-thanks-to-draconian-laws-that-pre-punish-buyers",
-        "fetchedAt": "2026-04-14T23:00:19.936835Z",
-        "excerpt": "\n                             Macbook Neo Portuguese copyright levy fee highlights draconian piracy compensation laws \n                                                                                                            "
+        "title": "What does it mean to have up to 3,521% US tariffs on solar imports? - ING THINK economic and financial analysis | ING THINK",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPb0VuRTI1b2N6SzJaSThzaHo3cFZvNVZSRTB6ZnZ5d2NBZXFPZ1l1VVVhdXJvbFluUDFFNEkzOGRfeGVjQXk4cXllOTh4bUZMTGFuM3c5TlRkaDVoYmNObi13UjlQUmh4LUdzS2ZPUTRiOXhMcG43WHl3WENyOHB1TWhpMVRMc094OWhCcno0YjJkZ09uT3NieUhaTHIxbFlkcVNJaVlxR09lTWZDV0Z5a3BB?oc=5",
+        "fetchedAt": "2026-04-15T09:11:17.485789Z",
+        "excerpt": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxPb0VuRTI1b2N6SzJaSThzaHo3cFZvNVZSRTB6ZnZ5d2NBZXFPZ1l1VVVhdXJvbFluUDFFNEkzOGRfeGVjQXk4cXllOTh4bUZMTGFuM3c5TlRkaDVoYmNObi13UjlQUmh4LUdzS2ZPUTRiOXhMcG43WHl3WENyOHB1TWhpMVRMc094OWhCcno0YjJkZ09uT3NieUhaTHIxbFlkcVNJaVlxR09lTWZDV0Z5a3BB?oc=5\" target=\"_blank\">What does it mean to have up to 3,521% US tariffs on solar imports?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ING THINK economic and financial analysis | ING THINK</font>"
       }
     ]
   },
   {
-    "id": "rss-11203",
-    "date": "Sun, 22 Ma",
+    "id": "rss-96443",
+    "date": "Wed, 24 Ap",
     "companies": [],
     "topics": [
       "news"
     ],
     "impact": "neutral",
-    "title": " City has roads named Tape Drive and Disk Drive from bygone HDD-making era — area was once home to the StorageTek empire ",
-    "summary": "\n                             Tape Drive and Disk Drive rods in the Louisville/Broomfield area are a relic of the STK diskmaker's time in the city. \n                                                   ",
+    "title": "Major US solar manufacturers call for strict new solar-panel tariffs - Canary Media",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxQc2h5anFza1lKbkotZ0tFVFRTNl9JYXkwejZOdUdJc3hxNXptQkdLMUc5dzRSbmt2SkI2X2w4aE1qMEx6QXBZa2U5QmVfWHFjUTJjV1EyNTloeXZrWVVDSjU2V2ZRc0xDN19QRS1Td0",
     "sources": [
       {
         "type": "news",
-        "title": " City has roads named Tape Drive and Disk Drive from bygone HDD-making era — area was once home to the StorageTek empire ",
-        "url": "https://www.tomshardware.com/tech-industry/city-has-roads-named-tape-drive-and-disk-drive-from-bygone-hdd-making-era-area-was-once-home-to-the-storagetek-empire",
-        "fetchedAt": "2026-04-14T23:00:19.936837Z",
-        "excerpt": "\n                             Tape Drive and Disk Drive rods in the Louisville/Broomfield area are a relic of the STK diskmaker's time in the city. \n                                                                                                            "
+        "title": "Major US solar manufacturers call for strict new solar-panel tariffs - Canary Media",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQc2h5anFza1lKbkotZ0tFVFRTNl9JYXkwejZOdUdJc3hxNXptQkdLMUc5dzRSbmt2SkI2X2w4aE1qMEx6QXBZa2U5QmVfWHFjUTJjV1EyNTloeXZrWVVDSjU2V2ZRc0xDN19QRS1Td01IM0hOdi1HZWFvbm9qeUhoQVZYejhXZ1N3aFRzc3BvNTFMV0lCVlRVLWFaTWk1ZXd1ZzFnY1hVZGdTM1NlQnktYg?oc=5",
+        "fetchedAt": "2026-04-15T09:11:17.485791Z",
+        "excerpt": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxQc2h5anFza1lKbkotZ0tFVFRTNl9JYXkwejZOdUdJc3hxNXptQkdLMUc5dzRSbmt2SkI2X2w4aE1qMEx6QXBZa2U5QmVfWHFjUTJjV1EyNTloeXZrWVVDSjU2V2ZRc0xDN19QRS1Td01IM0hOdi1HZWFvbm9qeUhoQVZYejhXZ1N3aFRzc3BvNTFMV0lCVlRVLWFaTWk1ZXd1ZzFnY1hVZGdTM1NlQnktYg?oc=5\" target=\"_blank\">Major US solar manufacturers call for strict new solar-panel tariffs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Canary Media</font>"
+      }
+    ]
+  },
+  {
+    "id": "rss-10117",
+    "date": "Wed, 23 Ap",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "Liberation Day tariffs threaten to disrupt US wind and solar industries - Wood Mackenzie",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxOTFlqdDZWU1dWdFZxY0RmbWVhRnV5MXZiNnFBeFRqYXl6VU9zVkMyOGpBWVpISXEzaE1Xc3dUQ3lfQnYwUEdGMVdrTzZONWV6MHI1UXZQVzJycGhPOGh1dnNnUHl6TkNVdmtIQ3VwOC",
+    "sources": [
+      {
+        "type": "news",
+        "title": "Liberation Day tariffs threaten to disrupt US wind and solar industries - Wood Mackenzie",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOTFlqdDZWU1dWdFZxY0RmbWVhRnV5MXZiNnFBeFRqYXl6VU9zVkMyOGpBWVpISXEzaE1Xc3dUQ3lfQnYwUEdGMVdrTzZONWV6MHI1UXZQVzJycGhPOGh1dnNnUHl6TkNVdmtIQ3VwOC1IV3kybGpheUZ2SnhpbjkyaEdTZlNWRUh6SVBuSnUyUnlXYnJYZjBheW54aFQ0TjFDTEhOdFNRN2kteDVzLUE?oc=5",
+        "fetchedAt": "2026-04-15T09:11:17.485792Z",
+        "excerpt": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxOTFlqdDZWU1dWdFZxY0RmbWVhRnV5MXZiNnFBeFRqYXl6VU9zVkMyOGpBWVpISXEzaE1Xc3dUQ3lfQnYwUEdGMVdrTzZONWV6MHI1UXZQVzJycGhPOGh1dnNnUHl6TkNVdmtIQ3VwOC1IV3kybGpheUZ2SnhpbjkyaEdTZlNWRUh6SVBuSnUyUnlXYnJYZjBheW54aFQ0TjFDTEhOdFNRN2kteDVzLUE?oc=5\" target=\"_blank\">Liberation Day tariffs threaten to disrupt US wind and solar industries</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Wood Mackenzie</font>"
+      }
+    ]
+  },
+  {
+    "id": "rss-74187",
+    "date": "Thu, 03 Ap",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "How Trump’s widespread tariffs affect the U.S. solar industry - pv magazine USA",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxNRXZyTTBUQlZEc2o2VEF4dHVTSVlXQkJXNW1xdzliSG5yc290T0RpcUFRN1h5TXpYdjdXY1hPc3J1TUVYa0tFUEtIdVYxRjRkYUhDX0R6cWNDS2E1NWp4blBSanBBaDVXbkw5bkxkNl",
+    "sources": [
+      {
+        "type": "news",
+        "title": "How Trump’s widespread tariffs affect the U.S. solar industry - pv magazine USA",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNRXZyTTBUQlZEc2o2VEF4dHVTSVlXQkJXNW1xdzliSG5yc290T0RpcUFRN1h5TXpYdjdXY1hPc3J1TUVYa0tFUEtIdVYxRjRkYUhDX0R6cWNDS2E1NWp4blBSanBBaDVXbkw5bkxkNlNLcC1relgwUGpKa2pIb2FCWVBFaVBkS2JrTWxfdVltd3daM2JhTzdRS3pGMjJjOXZN?oc=5",
+        "fetchedAt": "2026-04-15T09:11:17.485795Z",
+        "excerpt": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxNRXZyTTBUQlZEc2o2VEF4dHVTSVlXQkJXNW1xdzliSG5yc290T0RpcUFRN1h5TXpYdjdXY1hPc3J1TUVYa0tFUEtIdVYxRjRkYUhDX0R6cWNDS2E1NWp4blBSanBBaDVXbkw5bkxkNlNLcC1relgwUGpKa2pIb2FCWVBFaVBkS2JrTWxfdVltd3daM2JhTzdRS3pGMjJjOXZN?oc=5\" target=\"_blank\">How Trump’s widespread tariffs affect the U.S. solar industry</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">pv magazine USA</font>"
+      }
+    ]
+  },
+  {
+    "id": "rss-6990",
+    "date": "Tue, 08 Ap",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "Trump tariffs deal damage to US solar - pv magazine International",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxNelZKOGxHYzM0OFVMYmVsWTBrcFhUaWJoUDhVaDJJOVpIS1JNc1ZnQl9KRGNrWWF5SEM2TmtzbXlSRmFEcEg3YmRQU0Y3UmFqaWUwczIyTDlsWnRRUDNSTzJ5TVl0VkNsblBnTUo4Mm",
+    "sources": [
+      {
+        "type": "news",
+        "title": "Trump tariffs deal damage to US solar - pv magazine International",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNelZKOGxHYzM0OFVMYmVsWTBrcFhUaWJoUDhVaDJJOVpIS1JNc1ZnQl9KRGNrWWF5SEM2TmtzbXlSRmFEcEg3YmRQU0Y3UmFqaWUwczIyTDlsWnRRUDNSTzJ5TVl0VkNsblBnTUo4MmltTDFIOUtpQnRFaVNwZGpUMklFYw?oc=5",
+        "fetchedAt": "2026-04-15T09:11:17.485796Z",
+        "excerpt": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxNelZKOGxHYzM0OFVMYmVsWTBrcFhUaWJoUDhVaDJJOVpIS1JNc1ZnQl9KRGNrWWF5SEM2TmtzbXlSRmFEcEg3YmRQU0Y3UmFqaWUwczIyTDlsWnRRUDNSTzJ5TVl0VkNsblBnTUo4MmltTDFIOUtpQnRFaVNwZGpUMklFYw?oc=5\" target=\"_blank\">Trump tariffs deal damage to US solar</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">pv magazine International</font>"
+      }
+    ]
+  },
+  {
+    "id": "rss-51772",
+    "date": "Wed, 21 Ma",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "US to roll out AD/CVD tariffs on Southeast Asian solar cells, ITC finds injury to US industry - PV Tech",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxOREFhd0ZTcExNXzBnNzZrOW1nSzdfVUp3THBlR1Y2am1UVGNBYURLT2duXzU3cFM5TXdpSGNLZmFEbGZMcjJEdHlUQkFoa1lUUlF4bHFUelhFMXBpdDFBSlVaU0lNTjdzTHgyWEZhcl",
+    "sources": [
+      {
+        "type": "news",
+        "title": "US to roll out AD/CVD tariffs on Southeast Asian solar cells, ITC finds injury to US industry - PV Tech",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOREFhd0ZTcExNXzBnNzZrOW1nSzdfVUp3THBlR1Y2am1UVGNBYURLT2duXzU3cFM5TXdpSGNLZmFEbGZMcjJEdHlUQkFoa1lUUlF4bHFUelhFMXBpdDFBSlVaU0lNTjdzTHgyWEZhclVxMGs2MnhCODlRLXdJMTRDeDhaQnZlVFlMbm1VRk9n?oc=5",
+        "fetchedAt": "2026-04-15T09:11:17.485799Z",
+        "excerpt": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxOREFhd0ZTcExNXzBnNzZrOW1nSzdfVUp3THBlR1Y2am1UVGNBYURLT2duXzU3cFM5TXdpSGNLZmFEbGZMcjJEdHlUQkFoa1lUUlF4bHFUelhFMXBpdDFBSlVaU0lNTjdzTHgyWEZhclVxMGs2MnhCODlRLXdJMTRDeDhaQnZlVFlMbm1VRk9n?oc=5\" target=\"_blank\">US to roll out AD/CVD tariffs on Southeast Asian solar cells, ITC finds injury to US industry</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PV Tech</font>"
+      }
+    ]
+  },
+  {
+    "id": "rss-39964",
+    "date": "Tue, 22 Ap",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "U.S. Commerce Department slaps unexpectedly high tariffs on solar imports - pv magazine International",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxQQlhFbU1ISjJjNWpYX2I5bnJhZG85VFpSb0ZERHdfeXZMdzZpekkwN3MzSDVBc3M4Y01FQlFLelM0aWQxVkhwd1pYUjhSOWJ0TUZVb2NTS005TG1iRFhRSVR1bWZnQXd4dy1sRjc1Ul",
+    "sources": [
+      {
+        "type": "news",
+        "title": "U.S. Commerce Department slaps unexpectedly high tariffs on solar imports - pv magazine International",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQQlhFbU1ISjJjNWpYX2I5bnJhZG85VFpSb0ZERHdfeXZMdzZpekkwN3MzSDVBc3M4Y01FQlFLelM0aWQxVkhwd1pYUjhSOWJ0TUZVb2NTS005TG1iRFhRSVR1bWZnQXd4dy1sRjc1UldibHlTLV9XR1R4Sy1hQ0JsbWdfc0RwaHhHTmtFRVZ4RFM1TFJEdmhCeGFiMUZGUjVYaTdBTXQtalBqeDNrNEZzdHpB?oc=5",
+        "fetchedAt": "2026-04-15T09:11:17.485800Z",
+        "excerpt": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxQQlhFbU1ISjJjNWpYX2I5bnJhZG85VFpSb0ZERHdfeXZMdzZpekkwN3MzSDVBc3M4Y01FQlFLelM0aWQxVkhwd1pYUjhSOWJ0TUZVb2NTS005TG1iRFhRSVR1bWZnQXd4dy1sRjc1UldibHlTLV9XR1R4Sy1hQ0JsbWdfc0RwaHhHTmtFRVZ4RFM1TFJEdmhCeGFiMUZGUjVYaTdBTXQtalBqeDNrNEZzdHpB?oc=5\" target=\"_blank\">U.S. Commerce Department slaps unexpectedly high tariffs on solar imports</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">pv magazine International</font>"
+      }
+    ]
+  },
+  {
+    "id": "rss-22002",
+    "date": "Mon, 10 Ju",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "Solar panel import tariffs increase US module prices by up to 286% - pv magazine International",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxOUjI2VkxzQ2VpZENJYm05U3hUZWxtalhiamdEMnN0bDV3djN0R2h4S0hHQ0o3b2JQWnRqTlFUTm5lWnRsZ3lycWR6cGFFYlh6dW9WdzRKekt6MWdjY2xSSkZBNzgtX05pNkhJb1NTXz",
+    "sources": [
+      {
+        "type": "news",
+        "title": "Solar panel import tariffs increase US module prices by up to 286% - pv magazine International",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOUjI2VkxzQ2VpZENJYm05U3hUZWxtalhiamdEMnN0bDV3djN0R2h4S0hHQ0o3b2JQWnRqTlFUTm5lWnRsZ3lycWR6cGFFYlh6dW9WdzRKekt6MWdjY2xSSkZBNzgtX05pNkhJb1NTXzl4azBTdjA3OFlkcUdPVzNhUGszWU9qeTZ2QU4wMzZ3UWU0VmRoR2NMWDQ4ZHowczVmVmR1U0JLTlE?oc=5",
+        "fetchedAt": "2026-04-15T09:11:17.485802Z",
+        "excerpt": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxOUjI2VkxzQ2VpZENJYm05U3hUZWxtalhiamdEMnN0bDV3djN0R2h4S0hHQ0o3b2JQWnRqTlFUTm5lWnRsZ3lycWR6cGFFYlh6dW9WdzRKekt6MWdjY2xSSkZBNzgtX05pNkhJb1NTXzl4azBTdjA3OFlkcUdPVzNhUGszWU9qeTZ2QU4wMzZ3UWU0VmRoR2NMWDQ4ZHowczVmVmR1U0JLTlE?oc=5\" target=\"_blank\">Solar panel import tariffs increase US module prices by up to 286%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">pv magazine International</font>"
       }
     ]
   }
