@@ -131,6 +131,7 @@ companies:
   ticker: CSIQ
   market: NASDAQ
   currency: USD
+  rss_url: https://investors.canadiansolar.com/rss/news-releases.xml
   position: midstream
   role: 元件
   description: 加拿大太陽能元件與電站開發商
@@ -144,6 +145,7 @@ companies:
   ticker: FSLR
   market: NASDAQ
   currency: USD
+  rss_url: https://investor.firstsolar.com/rss/news-releases.xml
   position: midstream
   role: 薄膜元件
   description: 美國薄膜太陽能龍頭
@@ -218,6 +220,7 @@ companies:
   ticker: ENPH
   market: NASDAQ
   currency: USD
+  rss_url: https://newsroom.enphase.com/rss/news-releases.xml
   position: downstream
   role: 微型逆變器
   description: 家用微型逆變器龍頭
@@ -233,6 +236,7 @@ companies:
   ticker: SEDG
   market: NASDAQ
   currency: USD
+  rss_url: https://investors.solaredge.com/rss/news-releases.xml
   position: downstream
   role: 逆變器
   description: 智慧逆變器與優化器
