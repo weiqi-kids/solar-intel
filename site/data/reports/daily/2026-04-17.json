@@ -1,0 +1,78 @@
+{
+  "date": "2026-04-17",
+  "generated_at": "2026-04-17T09:09:50.744891Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "jinko-2026-04-17-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "JinkoSolar Holding Co Ltd (JKS) Q1 2026 Earnings Call Highlights - GuruFocus",
+      "companies": [
+        "jinko"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    },
+    {
+      "rank": 2,
+      "event_id": "jinko-2026-04-17-007",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "JinkoSolar Earnings Call: Tech Leader Under Pressure - TipRanks",
+      "companies": [
+        "jinko"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": null
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {},
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 2,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 1,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "jinko",
+        "count": 2
+      }
+    ],
+    "top_topics": []
+  },
+  "llm_analysis": {
+    "summary": "今日共 2 則事件，焦點為晶科能源相關動態：「JinkoSolar Holding Co Ltd (JKS) Q1 2026 Earnings Call Hig...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "JinkoSolar Holding Co Ltd (JKS) Q1 2026 Earnings Call Highlights - GuruFocus",
+        "level": "green"
+      },
+      {
+        "text": "JinkoSolar Earnings Call: Tech Leader Under Pressure - TipRanks",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
