@@ -24,6 +24,42 @@
     "sources": []
   },
   {
+    "id": "jinko-2026-04-17-001",
+    "date": "2026-04-17",
+    "companies": [
+      "jinko"
+    ],
+    "topics": [],
+    "impact": "negative",
+    "title": "JinkoSolar: Post-Earnings Weakness, Same Old Risks (NYSE:JKS) - Seeking Alpha",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxPT1pUbFI4amVUVUlvdmdvNk9wanUtQ3diM2FYRVp6TVNjX2ZpMVVUVXRVZHp2SjBPTE9oRTZpbTVUTElUNVJMUXl6bERvQVNjSE9OS25sNzlCSGpCS3MtNWNDUDNkUWJlUHZVRUtWUE",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-04-17-005",
+    "date": "2026-04-17",
+    "companies": [],
+    "topics": [
+      "grid_parity"
+    ],
+    "impact": "positive",
+    "title": "The Hydrogen Stream: Levelized cost of hydrogen at Mediterranean ports can be as low as €2.5/kg for hybrid systems",
+    "summary": "A study from the University of Naples Federico II finds hydrogen production at Mediterranean ports could cost €5.7–8.6/kg using only renewables and €2.5–13/kg in hybrid systems, with solar emerging as",
+    "sources": []
+  },
+  {
+    "id": "jinko-2026-04-17-006",
+    "date": "2026-04-17",
+    "companies": [
+      "jinko"
+    ],
+    "topics": [],
+    "impact": "negative",
+    "title": "Chinese PV Industry Brief: JinkoSolar, Hoshine Silicon posts significant losses for 2025",
+    "summary": "Hoshine Silicon reported 2025 revenue of CNY 20.499 billion ($2.82 billion) and a CNY 2.991 billion net loss driven by PV disruption and impairments. Meanwhile, polysilicon and wafer prices continued ",
+    "sources": []
+  },
+  {
     "id": "jinko-2026-04-16-002",
     "date": "2026-04-16",
     "companies": [
@@ -599,6 +635,18 @@
     "sources": []
   },
   {
+    "id": "nextracker-2026-01-27-004",
+    "date": "2026-01-27",
+    "companies": [
+      "nextracker"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Nextracker (NXT) Q3 Earnings and Revenues Beat Estimates - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxNdnFiWUtpcVF2R2FPemxBTWlzeW95TmM1QlcwUUhNeDBDMU5wMjh1QzVCRkwxc18wWTBrRDdjNHNNME8zUEtyeDd0cWdpclBNdk9wcmJpNklSUVZIb2F3T2t4TndoOGYxY1FGaVc3d0",
+    "sources": []
+  },
+  {
     "id": "jinko-2026-01-21-025",
     "date": "2026-01-21",
     "companies": [
@@ -720,6 +768,18 @@
     "impact": "negative",
     "title": "China’s Longi Green Narrows Loss as Solar Installations Surge - Bloomberg.com",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxNcUZBWXpTN3lYY0tVR2tycDY0dndfMGFOM1g5bjBCWWRUY2xuU2xkNzh5TDFVWHR0ajB2eHRLMFBfeDNfeWFxNFV0V20xcVhVZTdxc2k4eHN0Sk1fb0JMWlpacDFPc2U1U05lNnA4Q3",
+    "sources": []
+  },
+  {
+    "id": "maxeon-2025-08-15-003",
+    "date": "2025-08-15",
+    "companies": [
+      "maxeon"
+    ],
+    "topics": [],
+    "impact": "negative",
+    "title": "US customs delay woes weigh on Maxeon Solar's H1 revenue - Renewables Now",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxPRGh2S1pTdkx2VXhXd3ZCV2FhZTk4Nkd3SmVCWTN2WDRtWWo1U280VjdyZnhJUnJJbDFZa2xXSXhGWW9WXzNjUHdfTW1aOFBUYmc2d3RWdHBDM1oyaHh4Ry1LUklnU05qTERaSmtCZV",
     "sources": []
   },
   {
