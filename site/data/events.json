@@ -1,5 +1,17 @@
 [
   {
+    "id": "unknown-2026-04-18-006",
+    "date": "2026-04-18",
+    "companies": [],
+    "topics": [
+      "installation_demand"
+    ],
+    "impact": "neutral",
+    "title": "Backup power is the LEAST interesting thing your home battery can do [update]",
+    "summary": "<div class=\"feat-image\"><img src=\"https://electrek.co/wp-content/uploads/sites/3/2026/02/2024-Cadillac-Lyriq-GM-Energy-PowerBank-Home-Installation.jpg?quality=82&#038;strip=all&#038;w=1600\" /></div><p",
+    "sources": []
+  },
+  {
     "id": "jinko-2026-04-17-004",
     "date": "2026-04-17",
     "companies": [
@@ -143,6 +155,30 @@
     "impact": "neutral",
     "title": "PV module prices continue to rise unabated",
     "summary": "Photovoltaic module prices have risen for the fourth consecutive month, driven by strong demand for energy independence despite falling upstream costs such as polysilicon. At the same time, production",
+    "sources": []
+  },
+  {
+    "id": "daqo-2026-04-16-002",
+    "date": "2026-04-16",
+    "companies": [
+      "daqo"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Daqo New Energy to Announce Unaudited Financial Results for the First Quarter of 2026 on April 29, 2026 - Eastern Progress",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi_wFBVV95cUxOZnI3bzl2NVp0WDVxU00tY3JCck92TllQWDc1M2UxeUVWNGY1X3d0VFBBeU01WmM2WC16T2l0R1hlQjNvYmJJcDJwa2drV3ptazBzWWs1NnZIaXF2MlBmeEFQclRneGVxb0FqQ25BbG",
+    "sources": []
+  },
+  {
+    "id": "jinko-2026-04-16-004",
+    "date": "2026-04-16",
+    "companies": [
+      "jinko"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "JinkoSolar Q4 Earnings Call Highlights - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxPVGZKcDN1Yk15X2s1SWx5eE1rUzdfOEZZRVhmV2tUME5CYWJaWDA4TTBqTWdjQTdMQW9Id2JYUEJuUHJ5Ykp0WGMxZzBwYXNFcnYyOXdUYU5UTENCUzh4QzA5TUhiVm9zOFE5bkxaNz",
     "sources": []
   },
   {
@@ -331,6 +367,18 @@
     "sources": []
   },
   {
+    "id": "unknown-2026-04-10-003",
+    "date": "2026-04-10",
+    "companies": [],
+    "topics": [
+      "module_price"
+    ],
+    "impact": "positive",
+    "title": "European solar PV module price increase in March 2026 ‘may prove temporary’, says sun.store - PV Tech",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxOclBndERjQ21rUDhReFlhNnc5Y0pHVDlVMmlFV2VZejJ5NDl5WExrWVFpZWdhU19IZzNXako0eEVhZUExU2ZQRHlUZVBRMzByTnY2aENlUWpzVUhqaHNRcEY3TWNoRTVHaTRncE5kND",
+    "sources": []
+  },
+  {
     "id": "jinko-2026-04-09-024",
     "date": "2026-04-09",
     "companies": [
@@ -515,6 +563,18 @@
     "sources": []
   },
   {
+    "id": "xinyi_solar-2026-03-13-001",
+    "date": "2026-03-13",
+    "companies": [
+      "xinyi_solar"
+    ],
+    "topics": [],
+    "impact": "negative",
+    "title": "How Weaker 2025 Earnings and Modest Dividend Will Impact Xinyi Solar Holdings (SEHK:968) Investors - simplywall.st",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4gFBVV95cUxNTkctT1FLWVpyVnlSN1laMkRzeUFCTVQ4OHd1RzBVSUFfOHdyc3dsQ3pzbmN3bUlPeUV5MkpBVUF2NGRTaXo2ZVFUa1NKMWVKRWtSanFiWjFtQVAyVUw5M1pNYm1IeUp5OVNaUmxCd0",
+    "sources": []
+  },
+  {
     "id": "xinyi_solar-2026-02-27-002",
     "date": "2026-02-27",
     "companies": [
@@ -599,6 +659,18 @@
     "sources": []
   },
   {
+    "id": "array-2026-02-25-005",
+    "date": "2026-02-25",
+    "companies": [
+      "array"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "ARRAY Technologies Reports Financial Results for the Fourth Quarter and Full Year 2025 - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxOYzFUOTQ5ZDFlWUotUEJ0VGhMVFlRdnJjMTZMT3hsNUY3Slp2MXFlRmxNUzhXbXU3QW9iblRJX0dpcld1Vkp1V3dST3l3R2JXNGs3cExiellzQ1liRlQ3Sm5ON0w3MlJ6NEtyUlg3OD",
+    "sources": []
+  },
+  {
     "id": "array-2026-02-22-032",
     "date": "2026-02-22",
     "companies": [
@@ -632,6 +704,18 @@
     "impact": "neutral",
     "title": "ARRAY Technologies Announces Fourth Quarter and Full Year 2025 Earnings Release Date and Conference Call - Yahoo Finance",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxPTTJ6QjJHbUktVmpMTGY4UjBZU0VrLTJHbEZyUmxEWmZXbTJoMUNyeWlEXzJaN1NvRjhTYWVrYUpaWDZsTFlRcHU1dC1LWTNfb0FOekwyMEFtSUh6VG5FTXU3WXNhb2R2dmZxSEN0TW",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-02-04-007",
+    "date": "2026-02-04",
+    "companies": [],
+    "topics": [
+      "trade_tariff"
+    ],
+    "impact": "neutral",
+    "title": "U.S.-India trade deal reduces solar tariffs - pv magazine India",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxQUHVhS3BiTE0zaVJ1MlhZd25aTDQxemRhSDFjdkpjNDA4WTR1cWc1cHdBYmpGU2VHX2lOTFBId2xzVi1vVERHSHF4WnFZd1g1cjRUQzJpYVpLbjRTTnhVOWt1WXNyZEhBN3ZmVEZZNj",
     "sources": []
   },
   {
