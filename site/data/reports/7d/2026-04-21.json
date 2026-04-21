@@ -1,0 +1,119 @@
+{
+  "date": "2026-04-21",
+  "date_range": {
+    "start": "2026-04-15",
+    "end": "2026-04-21"
+  },
+  "generated_at": "2026-04-21T09:18:46.847780Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "nextracker-2026-04-15-036",
+      "date": "2026-04-15",
+      "title": "Solar Tracker Installation Market Is Going to Boom | NEXTracker • Soltec • First Solar - openPR.com",
+      "importance_score": 0.9
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "installation_demand": {
+      "this_week": 3,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    },
+    "module_price": {
+      "this_week": 1,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": -1.0
+    }
+  },
+  "company_7d_summary": {
+    "nextracker": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 2
+    },
+    "first_solar": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 3
+    },
+    "jinko": {
+      "event_count": 3,
+      "sentiment_avg": -0.5,
+      "rank": 1
+    },
+    "daqo": {
+      "event_count": 1,
+      "sentiment_avg": -1.0,
+      "rank": 4
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 7,
+        "last": 0,
+        "change_pct": 0
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-04-15",
+      "event_count": 2,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-04-16",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-04-17",
+      "event_count": 2,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-04-18",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-04-19",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-04-20",
+      "event_count": 1,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-04-21",
+      "event_count": 2,
+      "sentiment_avg": 0
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-04-15 ~ 2026-04-21）共 7 則事件，重點為「Solar Tracker Installation Market Is Going to B...」。晶科能源、大全新能源情緒偏負面，建議留意相關風險。",
+    "watchlist": [
+      {
+        "company": "晶科能源",
+        "reason": "本週情緒偏負面（-0.5），共 3 則相關事件，需關注後續發展。"
+      },
+      {
+        "company": "大全新能源",
+        "reason": "本週情緒偏負面（-1.0），共 1 則相關事件，需關注後續發展。"
+      },
+      {
+        "company": "First Solar",
+        "reason": "受元件價格議題影響，供應鏈壓力可能上升。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

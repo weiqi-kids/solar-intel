@@ -1,0 +1,100 @@
+{
+  "date": "2026-04-21",
+  "generated_at": "2026-04-21T09:18:46.788549Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "daqo-2026-04-21-001",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Xinjiang Daqo New Energy: Net loss narrowed 58.5% on 34.7% lower revenue, with strong cash and cost controls - TradingView",
+      "companies": [
+        "daqo"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": null
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-04-21-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Tesla Cybertruck becomes first AC vehicle-to-grid asset in California through PG&E",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "installation_demand"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "installation_demand": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 2,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 1,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "daqo",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "installation_demand",
+        "count": 1
+      }
+    ]
+  },
+  "llm_analysis": {
+    "summary": "今日共 2 則事件，焦點為大全新能源相關動態：「Xinjiang Daqo New Energy: Net loss narrowed 58.5% on 34.7...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "Xinjiang Daqo New Energy: Net loss narrowed 58.5% on 34.7% lower revenue, wit...",
+        "level": "green"
+      },
+      {
+        "text": "Tesla Cybertruck becomes first AC vehicle-to-grid asset in California through...（裝機需求）",
+        "level": "green"
+      },
+      {
+        "text": "裝機需求持續受關注，產業趨勢帶動需求成長。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
