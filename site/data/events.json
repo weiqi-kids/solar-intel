@@ -1,5 +1,17 @@
 [
   {
+    "id": "unknown-2026-04-22-004",
+    "date": "2026-04-22",
+    "companies": [],
+    "topics": [
+      "trade_tariff"
+    ],
+    "impact": "neutral",
+    "title": "Repowering key for Japanese solar assets approaching feed-in tariff expiry",
+    "summary": "The refinancing of GSSG Solar and Voltaiyo's 104 MW Jupiter Portfolio comes as Japan's first-generation feed-in tariff (FIT) projects approach the end of guaranteed rates, forcing owners to reassess r",
+    "sources": []
+  },
+  {
     "id": "daqo-2026-04-21-001",
     "date": "2026-04-21",
     "companies": [
@@ -340,6 +352,30 @@
     "impact": "neutral",
     "title": "How to generate hydrogen at home with recycled solar panels",
     "summary": "Scientists in Chile have developed a low-cost, easy-to-deploy hydrogen system powered by end-of-life solar panels. The residential solution reportedly achieves a levelized cost of hydrogen of approxim",
+    "sources": []
+  },
+  {
+    "id": "ja_solar-2026-04-14-001",
+    "date": "2026-04-14",
+    "companies": [
+      "ja_solar"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "JA Solar Technology (002459) Q3 2025 earnings summary - Quartr",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxPc29MX0dTSkZRMWpqODJkVVI2eHUwall2djAxVWhtSkxUb25rZ0JObVdrN2tjYlh3Zkk2TFJabG5OSUwzN3RMeFNKX3oydFhWOVdWWXRNTEt1YllTaGRVUFgwUUU2M2tBNzA5M3ZpeU",
+    "sources": []
+  },
+  {
+    "id": "ja_solar-2026-04-14-002",
+    "date": "2026-04-14",
+    "companies": [
+      "ja_solar"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "JA Solar Technology (002459) Q4 2023 earnings summary - Quartr",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxPRXRVaWNyeXJFRGhRQTVkVDlJbmxMLWVOM2IwLWhDelBhS3Q1WURhLW40aURpZkVaQW9SZE1kN1ctNkZnRkFqWHY3RTJDdGJZb3U1MUFSWHJDTUZzN1htTnJfOENSRzQ0UVhrYmZBMm",
     "sources": []
   },
   {
