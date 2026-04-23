@@ -1,0 +1,78 @@
+{
+  "date": "2026-04-23",
+  "generated_at": "2026-04-23T09:19:49.733193Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "jinko-2026-04-23-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "JinkoSolar (JKS) Projected to Post Quarterly Earnings on Wednesday - MarketBeat",
+      "companies": [
+        "jinko"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    },
+    {
+      "rank": 2,
+      "event_id": "jinko-2026-04-23-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "JinkoSolar Q4 2025 Earnings Call Transcript - MarketBeat",
+      "companies": [
+        "jinko"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {},
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 2,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 2,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "jinko",
+        "count": 2
+      }
+    ],
+    "top_topics": []
+  },
+  "llm_analysis": {
+    "summary": "今日共 2 則事件，焦點為晶科能源相關動態：「JinkoSolar (JKS) Projected to Post Quarterly Earnings on ...」。市場情緒中性，暫無明顯方向。",
+    "signals": [
+      {
+        "text": "JinkoSolar (JKS) Projected to Post Quarterly Earnings on Wednesday - MarketBeat",
+        "level": "green"
+      },
+      {
+        "text": "JinkoSolar Q4 2025 Earnings Call Transcript - MarketBeat",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
