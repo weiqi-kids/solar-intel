@@ -1,0 +1,111 @@
+{
+  "date": "2026-04-25",
+  "date_range": {
+    "start": "2026-04-19",
+    "end": "2026-04-25"
+  },
+  "generated_at": "2026-04-25T08:42:55.617361Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "jinko-2026-04-20-003",
+      "date": "2026-04-20",
+      "title": "Decline in Module Prices, Higher Raw Material Costs Hit JinkoSolar’s Q4 Revenue - Mercomindia.com",
+      "importance_score": 0.65
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "module_price": {
+      "this_week": 1,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": -1.0
+    },
+    "installation_demand": {
+      "this_week": 1,
+      "last_week": 2,
+      "week_over_week_change": "-50%",
+      "sentiment_this_week": 0.0
+    },
+    "trade_tariff": {
+      "this_week": 1,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "jinko": {
+      "event_count": 3,
+      "sentiment_avg": -0.33,
+      "rank": 1
+    },
+    "daqo": {
+      "event_count": 1,
+      "sentiment_avg": -1.0,
+      "rank": 2
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 6,
+        "last": 4,
+        "change_pct": 50.0
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-04-19",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-04-20",
+      "event_count": 1,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-04-21",
+      "event_count": 2,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-04-22",
+      "event_count": 1,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-04-23",
+      "event_count": 2,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-04-24",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-04-25",
+      "event_count": 0,
+      "sentiment_avg": 0
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-04-19 ~ 2026-04-25）共 6 則事件，重點為「Decline in Module Prices, Higher Raw Material C...」。晶科能源、大全新能源情緒偏負面，建議留意相關風險。",
+    "watchlist": [
+      {
+        "company": "晶科能源",
+        "reason": "本週情緒偏負面（-0.3），共 3 則相關事件，需關注後續發展。"
+      },
+      {
+        "company": "大全新能源",
+        "reason": "本週情緒偏負面（-1.0），共 1 則相關事件，需關注後續發展。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
