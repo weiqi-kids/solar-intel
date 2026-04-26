@@ -47,3 +47,30 @@ topics:
     - 反補貼
     - trade restriction
     - AD/CVD
+  industry_general:
+    display: 太陽能產業通用
+    keywords:
+    - solar
+    - photovoltaic
+    - PV
+    - module
+    - panel
+    - inverter
+    - cell
+    - wafer
+    - polysilicon
+    - perovskite
+    - tracker
+    - utility-scale
+    - rooftop
+    - grid
+    - MW
+    - GW
+    - 太陽能
+    - 光伏
+    - 矽晶圓
+    - renewable
+    - clean energy
+    - 綠能
+    - 再生能源
+    - 儲能
