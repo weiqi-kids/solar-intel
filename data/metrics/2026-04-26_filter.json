@@ -1,11 +1,11 @@
 {
-  "total_raw": 453,
-  "dup_title": 77,
+  "total_raw": 936,
+  "dup_title": 155,
   "no_date": 0,
-  "too_old": 202,
-  "gate1_fail": 141,
-  "gate2_fail": 27,
-  "passed": 6,
+  "too_old": 439,
+  "gate1_fail": 190,
+  "gate2_fail": 37,
+  "passed": 115,
   "gate2_samples": [
     "DAQO New Energy (NYSE:DQ) Stock Price Up 10.6% - Here's Why - MarketBeat",
     "Daqo New Energy Files Annual Report on Form 20-F for Fiscal Year 2025 - Yahoo Finance",

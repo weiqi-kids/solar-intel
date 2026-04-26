@@ -1,6 +1,6 @@
 {
   "date": "2026-04-26",
-  "total_events": 3,
+  "total_events": 6,
   "by_company": {
     "jinko": {
       "count": 1,
@@ -9,11 +9,23 @@
     "nextracker": {
       "count": 1,
       "sentiment_avg": 0.0
+    },
+    "daqo": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "ja_solar": {
+      "count": 1,
+      "sentiment_avg": 0.0
     }
   },
   "by_topic": {
     "installation_demand": {
       "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "industry_general": {
+      "count": 3,
       "sentiment_avg": 0.0
     }
   },
