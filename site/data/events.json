@@ -1,5 +1,23 @@
 [
   {
+    "id": "unknown-2026-04-26-001",
+    "date": "2026-04-26",
+    "companies": [],
+    "topics": [
+      "installation_demand"
+    ],
+    "impact": "neutral",
+    "title": "New bill in California senate could turn your home battery into a moneymaker",
+    "summary": "<div class=\"feat-image\"><img src=\"https://electrek.co/wp-content/uploads/sites/3/2024/06/Qmerit-home-installation.jpg?quality=82&#038;strip=all&#038;w=1400\" /></div><p>California senate bill 913 would",
+    "sources": [
+      {
+        "name": "electrek_solar",
+        "url": "https://electrek.co/2026/04/25/new-bill-in-california-senate-could-turn-your-home-battery-into-a-moneymaker/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "array-2026-04-24-002",
     "date": "2026-04-24",
     "companies": [
@@ -22,6 +40,24 @@
     "title": "Commerce sets preliminary anti-dumping duties on solar imports from India, Indonesia, and Laos",
     "summary": "The U.S. Department of Commerce has issued preliminary anti-dumping determinations for three key solar-exporting nations, establishing duties of up to 123% on crystalline silicon photovoltaic cells an",
     "sources": []
+  },
+  {
+    "id": "risen-2026-04-24-003",
+    "date": "2026-04-24",
+    "companies": [
+      "risen"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Risen Energy Co.,Ltd. Reports Earnings Results for the Full Year Ended December 31, 2025 - marketscreener.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxNcnk0b2lCZ2VVVVlJWElOZmJtUldXd2Fjdldnd2FUbHdBRjV1NGxOX1dpLWZpS0ZReUJQOGZ2QVA2MENiTmVtaEFISVVNZVdBV25kZG8yWmlEVWE2ZjgwcDlRZTdxa0kwQnZydkZDR3",
+    "sources": [
+      {
+        "name": "risen",
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNcnk0b2lCZ2VVVVlJWElOZmJtUldXd2Fjdldnd2FUbHdBRjV1NGxOX1dpLWZpS0ZReUJQOGZ2QVA2MENiTmVtaEFISVVNZVdBV25kZG8yWmlEVWE2ZjgwcDlRZTdxa0kwQnZydkZDR3lVay00dXNTbGp3czJOQ09nQkhKUFZNeHRHS0lBb3N4TURkTUJwNkJ3UUpSaGd5Z092NF9aWi1ZOUd2RFhxM3phTm44WWw1ZmF4cExnR0pLYzM0b3Y3N0FTa0phVXNNNl93NXJGcQ?oc=5",
+        "type": "rss"
+      }
+    ]
   },
   {
     "id": "jinko-2026-04-23-003",
