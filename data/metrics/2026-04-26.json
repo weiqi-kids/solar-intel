@@ -1,7 +1,16 @@
 {
   "date": "2026-04-26",
-  "total_events": 1,
-  "by_company": {},
+  "total_events": 3,
+  "by_company": {
+    "jinko": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "nextracker": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
   "by_topic": {
     "installation_demand": {
       "count": 1,

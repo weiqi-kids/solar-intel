@@ -4,15 +4,15 @@
     "start": "2026-04-20",
     "end": "2026-04-26"
   },
-  "generated_at": "2026-04-26T03:18:58.101246Z",
+  "generated_at": "2026-04-26T08:52:13.229974Z",
   "highlights": [
     {
       "rank": 1,
       "type": "top_event",
-      "event_id": "jinko-2026-04-20-003",
+      "event_id": "trina-2026-04-20-006",
       "date": "2026-04-20",
-      "title": "Decline in Module Prices, Higher Raw Material Costs Hit JinkoSolar’s Q4 Revenue - Mercomindia.com",
-      "importance_score": 0.65
+      "title": "USPTO throws out Trina Solar TOPCon patent claims against Canadian Solar, Runergy - PV Tech",
+      "importance_score": 0.7
     }
   ],
   "anomalies_7d": [],
@@ -38,22 +38,27 @@
   },
   "company_7d_summary": {
     "jinko": {
-      "event_count": 3,
-      "sentiment_avg": -0.33,
+      "event_count": 4,
+      "sentiment_avg": -0.25,
       "rank": 1
     },
     "daqo": {
       "event_count": 1,
       "sentiment_avg": -1.0,
       "rank": 2
+    },
+    "nextracker": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 3
     }
   },
   "comparisons": {
     "vs_last_week": {
       "event_count": {
-        "this": 7,
+        "this": 9,
         "last": 4,
-        "change_pct": 75.0
+        "change_pct": 125.0
       }
     }
   },
@@ -90,20 +95,24 @@
     },
     {
       "date": "2026-04-26",
-      "event_count": 1,
+      "event_count": 3,
       "sentiment_avg": 0
     }
   ],
   "llm_analysis": {
-    "summary": "本週（2026-04-20 ~ 2026-04-26）共 7 則事件，重點為「Decline in Module Prices, Higher Raw Material C...」。事件量較上週增加 75%，產業動態明顯升溫，需密切關注。",
+    "summary": "本週（2026-04-20 ~ 2026-04-26）共 9 則事件，重點為「USPTO throws out Trina Solar TOPCon patent clai...」。事件量較上週增加 125%，產業動態明顯升溫，需密切關注。",
     "watchlist": [
       {
         "company": "晶科能源",
-        "reason": "本週情緒偏負面（-0.3），共 3 則相關事件，需關注後續發展。"
+        "reason": "本週情緒偏負面（-0.2），共 4 則相關事件，需關注後續發展。"
       },
       {
         "company": "大全新能源",
         "reason": "本週情緒偏負面（-1.0），共 1 則相關事件，需關注後續發展。"
+      },
+      {
+        "company": "天合光能",
+        "reason": "受元件價格議題影響，供應鏈壓力可能上升。"
       }
     ]
   },

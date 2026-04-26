@@ -1,6 +1,6 @@
 {
   "date": "2026-04-26",
-  "generated_at": "2026-04-26T03:18:58.038609Z",
+  "generated_at": "2026-04-26T08:52:13.167680Z",
   "top_events": [
     {
       "rank": 1,
@@ -21,6 +21,46 @@
         "score": 0.0
       },
       "source_url": "https://electrek.co/2026/04/25/new-bill-in-california-senate-could-turn-your-home-battery-into-a-moneymaker/"
+    },
+    {
+      "rank": 2,
+      "event_id": "jinko-2026-04-26-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Why JinkoSolar stock is plummeting today - MSN",
+      "companies": [
+        "jinko"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizgJBVV95cUxNNnEtR3BFWWFGM1B4a25mV2Y3S3dKZVAyeENrcmhyM3EzSWdQVWpKQUw3X29mS0xpMmRfWnJHYzBRVm9oMzU5N2p6bjQwdVpocDFaZWFuZlBUVjVkWkVpZEd5NTZHOFNtT0Zyb2dGMGZvTGp6bEVnakhPdEE4NXdOb3A1SGJjNG5FN3h2eDhRQ1l0RC00c0ZEV2FudldUa3hmY2lhRmNDWUVrdndKeUlpa2dhS0hscGhOMEtBVWwxVUhMN0dPenpDM2N2Q1hpWURIR01zT0pDZk9NMXJ2TU5yeW1Ldko2OWU5QXFnTVRTYWlyTTBTWTNBODhRLXFheVAxczVkeVNBSHFxdVJPQ2FwaWJBSXdwc1BjX0F4VVRvaDZHT255Nnp0WUZ4NmlJdjh3Z2FVQUJDX0pKZDI5eC13bHlSM09pZ1N5ZkdaWEFB?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "nextracker-2026-04-26-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Nextracker (NXT) Is Up 9.0% After Another Earnings Beat and Estimate Upgrades - What's Changed - simplywall.st",
+      "companies": [
+        "nextracker"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNWEkxU0EwejJCOXhLdFIwWEh5YzdvazFLRElTekNBdTZ6SXZZR0w1bndvNWljS2ZNajdpQVlTOGtUbU1YY2ZZTVFtN2tnemNPVTNJVGhrSkxNXzdqelFVRHRRbFVQRWF0TkZuYXotVGlHajlFcFZLTkFsLVByU2o3VjZ1YUk0NFRCOWVIdDVYTUNQRFVJTHlsWTFlNUdkd1I3WHdrcTl2VVpaQmx5RVd5eVhBclB1ay1rYldIWENOSHQ2WGRWUkwtXzRoV1DSAdIBQVVfeXFMTTl0WmNxRTV2MWRNV1ozQmttcmIweDYtWXhUcFRiS0hxLWN2TUNoaUdZUTZ2X0pVMmxWNjRaM3dJU1dlTDZBa09QMm14Z1B3c1hiLTRhSmRMTmNSUTd5SmotSEg0cWFrVGl2LTBUaHZqbTVJR21rOGd6ZzBYMEliT2l6b085bDVHX1h3R2FGYjRncU5aOW4xUDFkd3M4RHV3VHM5emU5Skl5WW1rdnJWYUFJNDNxSWo0RjVtdkY0UlM5ZmlldTN6Y3V2Y2gzYXU4QUJn?oc=5"
     }
   ],
   "anomalies": [],
@@ -38,13 +78,22 @@
   },
   "supply_chain_activity": [],
   "stats": {
-    "total_events": 1,
+    "total_events": 3,
     "sentiment_distribution": {
       "positive": 0,
-      "neutral": 1,
+      "neutral": 3,
       "negative": 0
     },
-    "top_companies": [],
+    "top_companies": [
+      {
+        "id": "jinko",
+        "count": 1
+      },
+      {
+        "id": "nextracker",
+        "count": 1
+      }
+    ],
     "top_topics": [
       {
         "id": "installation_demand",
@@ -52,11 +101,33 @@
       }
     ]
   },
+  "filter_audit": {
+    "total_raw": 453,
+    "dup_title": 77,
+    "too_old": 202,
+    "gate1_blocked": 141,
+    "gate2_blocked": 27,
+    "passed": 6,
+    "pass_rate": "1.6%",
+    "gate2_block_rate": "7.2%",
+    "gate2_samples": [
+      "DAQO New Energy (NYSE:DQ) Stock Price Up 10.6% - Here's Why - MarketBeat",
+      "Daqo New Energy Files Annual Report on Form 20-F for Fiscal Year 2025 - Yahoo Finance",
+      "Audited 2025 financials land as Daqo posts SEC annual report - Stock Titan",
+      "[20-F] DAQO NEW ENERGY CORP. Files Annual Report (Foreign Issuer) | DQ SEC Filing - Form 20-F - Stoc",
+      "Ariose Capital Management Ltd Boosts Holdings in DAQO New Energy Corp. $DQ - MarketBeat"
+    ],
+    "alert": false
+  },
   "llm_analysis": {
-    "summary": "今日共 1 則事件，焦點為裝機需求相關動態：「New bill in California senate could turn your home batter...」。主要關注主題為裝機需求，市場情緒中性。",
+    "summary": "今日共 3 則事件，焦點為晶科能源、Nextracker相關動態：「New bill in California senate could turn your home batter...」。主要關注主題為裝機需求，市場情緒中性。",
     "signals": [
       {
         "text": "New bill in California senate could turn your home battery into a moneymaker（裝機需求）",
+        "level": "green"
+      },
+      {
+        "text": "Why JinkoSolar stock is plummeting today - MSN",
         "level": "green"
       },
       {

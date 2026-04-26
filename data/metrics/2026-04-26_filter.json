@@ -1,16 +1,16 @@
 {
-  "total_raw": 388,
-  "dup_title": 78,
+  "total_raw": 453,
+  "dup_title": 77,
   "no_date": 0,
-  "too_old": 204,
-  "gate1_fail": 77,
-  "gate2_fail": 28,
-  "passed": 1,
+  "too_old": 202,
+  "gate1_fail": 141,
+  "gate2_fail": 27,
+  "passed": 6,
   "gate2_samples": [
-    "Xinyi Solar Holdings Ltd stock (KYG9829N1025): Is its solar glass dominance strong enough for U.S. i",
-    "Ariose Capital Management Ltd Boosts Holdings in DAQO New Energy Corp. $DQ - MarketBeat",
+    "DAQO New Energy (NYSE:DQ) Stock Price Up 10.6% - Here's Why - MarketBeat",
     "Daqo New Energy Files Annual Report on Form 20-F for Fiscal Year 2025 - Yahoo Finance",
     "Audited 2025 financials land as Daqo posts SEC annual report - Stock Titan",
-    "DAQO New Energy (NYSE:DQ) Stock Price Up 10.6% - Here's Why - MarketBeat"
+    "[20-F] DAQO NEW ENERGY CORP. Files Annual Report (Foreign Issuer) | DQ SEC Filing - Form 20-F - Stoc",
+    "Ariose Capital Management Ltd Boosts Holdings in DAQO New Energy Corp. $DQ - MarketBeat"
   ]
 }
