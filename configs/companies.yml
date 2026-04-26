@@ -15,6 +15,7 @@ companies:
   - ja_solar
   - trina
   - jinko
+  fetch_mode: http
 - id: daqo
   name: Daqo New Energy
   aliases:
@@ -32,6 +33,7 @@ companies:
   - ja_solar
   - trina
   - jinko
+  fetch_mode: http
 - id: tongwei
   name: Tongwei
   aliases:
@@ -48,6 +50,7 @@ companies:
   - longi
   - ja_solar
   - trina
+  fetch_mode: http
 - id: gcl
   name: GCL Technology
   aliases:
@@ -63,6 +66,7 @@ companies:
   downstream:
   - longi
   - ja_solar
+  fetch_mode: http
 - id: meyer_burger
   name: Meyer Burger
   aliases: []
@@ -76,6 +80,7 @@ companies:
   downstream:
   - longi
   - first_solar
+  fetch_mode: http
 - id: longi
   name: LONGi Green Energy
   aliases:
@@ -96,6 +101,7 @@ companies:
   - enphase
   - solaredge
   - sungrow
+  fetch_mode: http
 - id: ja_solar
   name: JA Solar
   aliases:
@@ -115,6 +121,7 @@ companies:
   downstream:
   - enphase
   - sungrow
+  fetch_mode: http
 - id: trina
   name: Trina Solar
   aliases:
@@ -133,6 +140,7 @@ companies:
   downstream:
   - enphase
   - sungrow
+  fetch_mode: http
 - id: canadian_solar
   name: Canadian Solar
   aliases: []
@@ -147,6 +155,7 @@ companies:
   - daqo
   downstream:
   - enphase
+  fetch_mode: http
 - id: first_solar
   name: First Solar
   aliases: []
@@ -161,6 +170,7 @@ companies:
   - meyer_burger
   downstream:
   - nextracker
+  fetch_mode: http
 - id: jinko
   name: JinkoSolar
   aliases:
@@ -179,6 +189,7 @@ companies:
   downstream:
   - enphase
   - sungrow
+  fetch_mode: http
 - id: risen
   name: Risen Energy
   aliases:
@@ -194,6 +205,7 @@ companies:
   - tongwei
   downstream:
   - sungrow
+  fetch_mode: http
 - id: maxeon
   name: Maxeon Solar Technologies
   aliases: []
@@ -204,6 +216,7 @@ companies:
   role: 元件
   description: 高效太陽能電池技術
   rss_url: https://news.google.com/rss/search?q="Maxeon+Solar+Technologies"&hl=en&gl=US&ceid=US:en
+  fetch_mode: http
 - id: yuan_jing
   name: Yuan Jing Solar
   aliases:
@@ -216,6 +229,7 @@ companies:
   role: 元件
   description: 台灣太陽能電池與元件製造商
   rss_url: https://news.google.com/rss/search?q="Yuan+Jing+Solar"&hl=en&gl=US&ceid=US:en
+  fetch_mode: http
 - id: motech
   name: Motech Industries
   aliases:
@@ -227,6 +241,7 @@ companies:
   role: 電池片
   description: 台灣太陽能電池片製造商
   rss_url: https://news.google.com/rss/search?q="Motech+Industries"&hl=en&gl=US&ceid=US:en
+  fetch_mode: http
 - id: enphase
   name: Enphase Energy
   aliases: []
@@ -243,6 +258,7 @@ companies:
   - ja_solar
   - trina
   - canadian_solar
+  fetch_mode: http
 - id: solaredge
   name: SolarEdge Technologies
   aliases: []
@@ -255,6 +271,7 @@ companies:
   description: 智慧逆變器與優化器
   upstream:
   - longi
+  fetch_mode: http
 - id: array
   name: Array Technologies
   aliases: []
@@ -265,6 +282,7 @@ companies:
   role: 追日系統
   description: 太陽能追蹤系統製造商
   rss_url: https://news.google.com/rss/search?q="Array+Technologies"&hl=en&gl=US&ceid=US:en
+  fetch_mode: http
 - id: sungrow
   name: Sungrow Power Supply
   aliases:
@@ -281,6 +299,7 @@ companies:
   - jinko
   - trina
   - ja_solar
+  fetch_mode: http
 - id: nextracker
   name: Nextracker
   aliases: []
@@ -293,6 +312,7 @@ companies:
   rss_url: https://news.google.com/rss/search?q="Nextracker"&hl=en&gl=US&ceid=US:en
   upstream:
   - first_solar
+  fetch_mode: http
 etfs:
 - id: tan
   name: Invesco Solar ETF

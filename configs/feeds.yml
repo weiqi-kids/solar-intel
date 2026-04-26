@@ -1,26 +1,37 @@
-# Solar energy industry news feeds
-
 feeds:
-  # Industry media
-  - id: pv_magazine
-    name: pv magazine International
-    url: https://www.pv-magazine.com/feed/
-    description: Global photovoltaic and storage industry news
-  - id: pv_magazine_usa
-    name: pv magazine USA
-    url: https://pv-magazine-usa.com/feed/
-    description: US solar and energy storage trade media
-  - id: electrek_solar
-    name: Electrek
-    url: https://electrek.co/feed/
-    description: Solar, EV and green energy news
-
-  # Google News topic feeds
-  - id: google_news_solar
-    name: Google News - Solar Energy
-    url: https://news.google.com/rss/search?q=solar+energy+photovoltaic+panel&hl=en
-    description: Google News aggregation for solar energy industry
-  - id: google_news_solar_trade
-    name: Google News - Solar Trade
-    url: https://news.google.com/rss/search?q=solar+panel+tariff+trade+module+price&hl=en
-    description: Google News aggregation for solar trade and pricing
+- id: pv_magazine
+  name: pv magazine International
+  url: https://www.pv-magazine.com/feed/
+  description: Global photovoltaic and storage industry news
+- id: pv_magazine_usa
+  name: pv magazine USA
+  url: https://pv-magazine-usa.com/feed/
+  description: US solar and energy storage trade media
+- id: electrek_solar
+  name: Electrek
+  url: https://electrek.co/feed/
+  description: Solar, EV and green energy news
+- id: google_news_solar
+  name: Google News - Solar Energy
+  url: https://news.google.com/rss/search?q=solar+energy+photovoltaic+panel&hl=en
+  description: Google News aggregation for solar energy industry
+- id: google_news_solar_trade
+  name: Google News - Solar Trade
+  url: https://news.google.com/rss/search?q=solar+panel+tariff+trade+module+price&hl=en
+  description: Google News aggregation for solar trade and pricing
+- id: renewableenergyw
+  name: Renewable Energy World
+  url: https://www.renewableenergyworld.com/feed/
+  description: Renewable Energy World RSS feed
+- id: solar_power_world
+  name: Solar Power World
+  url: https://www.solarpowerworldonline.com/feed/
+  description: Solar Power World RSS feed
+- id: energy_storage_news
+  name: Energy Storage News
+  url: https://www.energy-storage.news/feed/
+  description: Energy Storage News RSS feed
+- id: cleantechnica
+  name: CleanTechnica
+  url: https://cleantechnica.com/feed/
+  description: CleanTechnica RSS feed
