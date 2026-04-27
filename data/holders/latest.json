@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-26T14:10:58.202344+00:00",
+  "updated_at": "2026-04-27T01:42:06.088534+00:00",
   "companies": {
     "xinyi_solar": {
       "name": "Xinyi Solar",
@@ -90,7 +90,7 @@
           "holder": "Winch Advisory Services LLC",
           "shares": 4000,
           "pct_held": 0.0,
-          "value": 4000
+          "value": 3960
         }
       ]
     },
