@@ -228,6 +228,42 @@
     ]
   },
   {
+    "id": "gcl-2026-04-26-013",
+    "date": "2026-04-26",
+    "companies": [
+      "gcl"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "GCL Technology (3800) H2 2024 earnings summary - Quartr",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxOTkVvLXg1bEJKNFdkUE52dUI1S0R1SEZ1YlNCVFFVWmhRa3BMOXVpbnRRRnRvSlIzbU1ndkhzdGo5NTBobjFBYUx1N3N3TkRLQVl0R0VhSUktSktXS3Z5OWl6LVdlMDM0amVvSS0zNG",
+    "sources": [
+      {
+        "name": "gcl",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOTkVvLXg1bEJKNFdkUE52dUI1S0R1SEZ1YlNCVFFVWmhRa3BMOXVpbnRRRnRvSlIzbU1ndkhzdGo5NTBobjFBYUx1N3N3TkRLQVl0R0VhSUktSktXS3Z5OWl6LVdlMDM0amVvSS0zNGduNE1KVEsxalFqNVZCREROV1BKSk5rZw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "gcl-2026-04-26-014",
+    "date": "2026-04-26",
+    "companies": [
+      "gcl"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "GCL Technology (3800) H1 2025 earnings summary - Quartr",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxOdk4ybkQ3T0FqWkkyNTlGRmV5blJjWTl3OTRhenk0bTUyLXFhM3Z3eGtfOC1oQlJCa3ZUek1KTkpwblYyNzNKQktTRUlXenF1TS1wSEd5eUFuQ1BPamt2MU5XOWpUcDNRMTU1cURwU0",
+    "sources": [
+      {
+        "name": "gcl",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOdk4ybkQ3T0FqWkkyNTlGRmV5blJjWTl3OTRhenk0bTUyLXFhM3Z3eGtfOC1oQlJCa3ZUek1KTkpwblYyNzNKQktTRUlXenF1TS1wSEd5eUFuQ1BPamt2MU5XOWpUcDNRMTU1cURwU0VKejMtZ0MyYWpaVV9RTC1rMnpRMEd3QQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "daqo-2026-04-25-001",
     "date": "2026-04-25",
     "companies": [
@@ -1291,6 +1327,24 @@
       {
         "name": "nextracker",
         "url": "https://news.google.com/rss/articles/CBMi-AJBVV95cUxPV1p5aHE4WEE3dmtsdW1hRkExNkEzWHNyTUI2MVBSUnhzclN5ZjNqT2dtSU1feGlURTFLdWd3UUxNVzRZaDE3Yks5SmRxMmt2ZDltVWl0SzVVMFNNY0NMVElGTHg0djRXci1yWVFXa3JodS1IY3VaWHM4RjJrVGIzMEpZSTNqcHhLclhLRGVPY3dCa2JQUGlrLUhHck8wVDk3TmljNWgwa2docG9MTGRxbVRQdjdibHlTMVM3MzdabUxvUi0xQTVzSWxGeHN2VWE5ZkpHQlhJQVE2MGZEZjk2Q09EQmFQS2hhdUJzS3A0M1lDRW5ndzNSOXdsMTFwa285U1NVS1l2LVJDY0dhaFFkSlRwamxhOG1PTGVkZUFPQUdEUTNvWGxscG0yRlRKY1lTcEpKdWNKallfU1l6RTZWM3FrVmYzcmp0VExBbk5JalR2VzB1T0JHckRlblJDaGRod2J6bDVFbHVxX0FaM1VCN3dkUW5TZDYy?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-04-24-052",
+    "date": "2026-04-24",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "These designer roof tiles are actually efficient solar panels - New Atlas",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxObldQUG1fTjROSVNRcHRRYjZFUkFSVEJCSXRHa015LS1xSmtWUFJ0ZlZOdEJ6aTRWZ3loSVZ6NmRGT2pnOVdoeUZqY0UwU1dzZW14enVCcTJuQW90cUVtYmxfblNqbFVBbUF3V1dPaE",
+    "sources": [
+      {
+        "name": "google_news_solar",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxObldQUG1fTjROSVNRcHRRYjZFUkFSVEJCSXRHa015LS1xSmtWUFJ0ZlZOdEJ6aTRWZ3loSVZ6NmRGT2pnOVdoeUZqY0UwU1dzZW14enVCcTJuQW90cUVtYmxfblNqbFVBbUF3V1dPaEg4b1VtcDI1eUdxc185djRKN1BfUQ?oc=5",
         "type": "rss"
       }
     ]
