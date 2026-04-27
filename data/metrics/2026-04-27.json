@@ -1,8 +1,34 @@
 {
   "date": "2026-04-27",
-  "total_events": 0,
-  "by_company": {},
-  "by_topic": {},
+  "total_events": 20,
+  "by_company": {
+    "jinko": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "array": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "sungrow": {
+      "count": 3,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "industry_general": {
+      "count": 18,
+      "sentiment_avg": 0.06
+    },
+    "installation_demand": {
+      "count": 1,
+      "sentiment_avg": 0.5
+    },
+    "trade_tariff": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
   "baselines_used": {
     "companies": {},
     "topics": {}

@@ -1,11 +1,11 @@
 {
-  "total_raw": 967,
-  "dup_title": 370,
+  "total_raw": 1449,
+  "dup_title": 545,
   "no_date": 0,
-  "too_old": 460,
-  "gate1_fail": 99,
-  "gate2_fail": 18,
-  "passed": 20,
+  "too_old": 682,
+  "gate1_fail": 147,
+  "gate2_fail": 28,
+  "passed": 47,
   "gate2_samples": [
     "Daqo New Energy Files Annual Report on Form 20-F for Fiscal Year 2025 - Yahoo Finance",
     "Audited 2025 financials land as Daqo posts SEC annual report - Stock Titan",

@@ -1,29 +1,193 @@
 {
   "date": "2026-04-27",
-  "generated_at": "2026-04-27T03:38:40.646647Z",
-  "top_events": [],
+  "generated_at": "2026-04-27T10:06:48.112978Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-04-27-007",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Chinese scientists build silver-free heterojunction solar cell with 25.2% efficiency",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.75
+      },
+      "source_url": "https://www.pv-magazine.com/2026/04/27/chinese-scientists-build-silver-free-heterojunction-solar-cell-with-25-2-efficiency/"
+    },
+    {
+      "rank": 2,
+      "event_id": "jinko-2026-04-27-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Protect Your Investment: Contact Levi & Korsinsky About the JinkoSolar Holding Co., Ltd. (JKS) Investigation - TMX Newsfile",
+      "companies": [
+        "jinko"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNTVVYQzFfT2o1QWNJOU15aDJENlJEeW4xYmYyZzlMRldkNDRaS1h6NzlpSFZ0U2s0RkNzOHNLQ2V6dzFmeGJTREZjc2VwWkdzaE1aS0VYazZKOExiUkFfUkszT3c0bU1mZ1pGNk1Pa3lYeTE3LURHbzJlWGl4TFFodEVxX3lyNGx6RXlzellGcEVFSDFxT3NjejZqSzhpbHhnQkplYmptMmF3TTA4UTR2dU13MTBjVmFud0RRaUhPdXZyUlFLcjNtVFFMaHYwQ200U2RDamRFYWk5dEFpOU5z?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "array-2026-04-27-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "UBS Maintains Array Technologies (ARRY) Buy Recommendation - MSN",
+      "companies": [
+        "array"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi7gJBVV95cUxNSmRuVG1NcDlFTzVFQi1YRlFXdXBiNzV4eUd3SU4wSUF5YjdlalFrdFotclJWYk0xX1pndkVrVW9ZQ2Jxd25jclpGYUhtczRCOVV3M0JVWGtCYnNvVjJvTlB0cjZtTl85SFJrZkJPR2Yxb20tX2lrVkE4M2s3U2VsY2FSR2F2dTJuWS1SSE9JU3VmTmRENDE0NEt4Uk1hLTFOQ3hvalJsRlI5V1dGRVJvOXJPS3o1emlHMllkYjQzak9qanFMRUlDcE1Bem14cUc0TjNQNEV5eDB6ZUVYbjZPWGhKSXU1R1VVcWNKS1k2aUxsMEVLT2pqcFBoTVlVaEFoLU90YWYwTFliOTc1Q3hNRG84Tk1nV0d2U19TMzVaYjBhU2Z2U0VLMzdvLWdOQ3IwTVVYQlFPNDgxMUJ0VHpPNERXcUl0QU9KdU5WeDFvcS1DeVNCT0VCN0w1M1lSb0xBSEZmVS1MQm4tV2szSGc?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "sungrow-2026-04-27-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Sungrow Unveils Full-Scenario Solution to Address Emerging Global Energy Challenges - PR Newswire",
+      "companies": [
+        "sungrow"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNdGZDdC1CRnhUWHFUUG14djlPODhZMXJIUkY2bUgxNmsxLVJMbkIzT1VIaXZWck84MUpxeW5QVEM0MndJRC16M1YtdG0zX0RFeUFsZWdLTmJuUVZ4SlJ1RDFmMFEzQUp5bm9PRnk0ZXRjaXYzVElJdThXUS00dW1hc19ZRDlYV2RUV254MmVpQ0VhaFc1UUFWcVFzNEZQSTJPMXhSVllvQTEtYm9vc0EwVlpsZHhteWM1NjhuYlBuLW4tRVgtNU5zNS1pMUJUeGg3UDNSZHZB?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "sungrow-2026-04-27-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "China’s solar giant Sungrow revives Hong Kong IPO plan amid clean energy boom - South China Morning Post",
+      "companies": [
+        "sungrow"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNcG16bHJ1UkhTM2xSYm54cjlTUDRLZktQXzVqdDhaTFM4VXdqbEd2TFM5LV9yU0tvVWR5VURpYUo4MTVwYWI2Tk5PQW82X3RfTkI2TXdEVm1qRmpIeGZYbTA4UlFodGY4NGhfTkh1VTVuWk9YejVmMjJVOVdMSlE1SmMwbHBHTko3MzRkZnZJR1d1R052NkJCVUw4bVNSbVRWUXNDWHMyQTd3eVI4cWMwb2U0NngwQWUzcHRYU3Q1X0hhQzhsN3VvaWc0UUxNTHV5QTVNOTgtUUJ1TW0wc2lr0gHfAUFVX3lxTE02aGJkd1dfYTlrY3pqeEZYWWNHdzR6UkdINGdFbEM0X09DOXFKZUNQQnFFRlRfMFJETXNhMGhtVjlGUUYxQzQxNG9ENXV0d0dLRFNfM1M2WTJRb0xwQnJleU5KcFRjU1pHMjhNY0FGSjBvdDBXTTkwLXl0aVFaTjBqRlp0OGZIMHVaaUVRTEpqVjFuNkFLVF9tQXNhcVUwSUhWTUJHS3BvYmpnNjF2bm9VWkFaTU5QVWZicFlEcjAxMmV2RHN5dlpyZXBZMkw5NU9tLWxIeUZ6TTJTYU1rYlE?oc=5"
+    }
+  ],
   "anomalies": [],
-  "topic_trends": {},
+  "topic_trends": {
+    "industry_general": {
+      "today": 18,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.06,
+      "sentiment_7d_avg": null
+    },
+    "installation_demand": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    },
+    "trade_tariff": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
   "supply_chain_activity": [],
   "stats": {
-    "total_events": 0,
+    "total_events": 20,
     "sentiment_distribution": {
-      "positive": 0,
-      "neutral": 0,
-      "negative": 0
+      "positive": 4,
+      "neutral": 14,
+      "negative": 2
     },
-    "top_companies": [],
-    "top_topics": []
+    "top_companies": [
+      {
+        "id": "sungrow",
+        "count": 3
+      },
+      {
+        "id": "jinko",
+        "count": 1
+      },
+      {
+        "id": "array",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 18
+      },
+      {
+        "id": "installation_demand",
+        "count": 1
+      },
+      {
+        "id": "trade_tariff",
+        "count": 1
+      }
+    ]
   },
   "filter_audit": {
-    "total_raw": 967,
-    "dup_title": 370,
-    "too_old": 460,
-    "gate1_blocked": 99,
-    "gate2_blocked": 18,
-    "passed": 20,
-    "pass_rate": "3.4%",
-    "gate2_block_rate": "3.0%",
+    "total_raw": 1449,
+    "dup_title": 545,
+    "too_old": 682,
+    "gate1_blocked": 147,
+    "gate2_blocked": 28,
+    "passed": 47,
+    "pass_rate": "5.2%",
+    "gate2_block_rate": "3.1%",
     "gate2_samples": [
       "Daqo New Energy Files Annual Report on Form 20-F for Fiscal Year 2025 - Yahoo Finance",
       "Audited 2025 financials land as Daqo posts SEC annual report - Stock Titan",
@@ -34,14 +198,18 @@
     "alert": false
   },
   "llm_analysis": {
-    "summary": "2026-04-27 無太陽能產業相關事件。市場處於平靜狀態，無重大訊號。",
+    "summary": "今日共 20 則事件，焦點為陽光電源、晶科能源、Array Technologies相關動態：「Chinese scientists build silver-free heterojunction solar...」。整體情緒偏正面，市場信心回溫。",
     "signals": [
       {
-        "text": "今日無重大異常訊號，產業動態平穩。",
+        "text": "Chinese scientists build silver-free heterojunction solar cell with 25.2% eff...（太陽能產業通用）",
         "level": "green"
       },
       {
-        "text": "建議持續監控後續發展動態。",
+        "text": "Protect Your Investment: Contact Levi & Korsinsky About the JinkoSolar Holdin...（太陽能產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "裝機需求持續受關注，產業趨勢帶動需求成長。",
         "level": "green"
       }
     ]

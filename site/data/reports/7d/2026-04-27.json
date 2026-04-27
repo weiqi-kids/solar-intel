@@ -4,7 +4,7 @@
     "start": "2026-04-21",
     "end": "2026-04-27"
   },
-  "generated_at": "2026-04-27T03:38:40.712649Z",
+  "generated_at": "2026-04-27T10:06:48.167591Z",
   "highlights": [
     {
       "rank": 1,
@@ -18,69 +18,79 @@
   "anomalies_7d": [],
   "topic_7d_summary": {
     "installation_demand": {
-      "this_week": 2,
+      "this_week": 3,
       "last_week": 2,
-      "week_over_week_change": "N/A",
-      "sentiment_this_week": 0.0
+      "week_over_week_change": "+50%",
+      "sentiment_this_week": 0.17
     },
     "trade_tariff": {
-      "this_week": 1,
+      "this_week": 2,
       "last_week": 0,
       "week_over_week_change": "N/A",
       "sentiment_this_week": 0.0
     },
     "industry_general": {
-      "this_week": 3,
+      "this_week": 21,
       "last_week": 0,
       "week_over_week_change": "N/A",
-      "sentiment_this_week": 0.0
+      "sentiment_this_week": 0.05
     }
   },
   "company_7d_summary": {
     "daqo": {
       "event_count": 2,
       "sentiment_avg": -0.5,
-      "rank": 2
+      "rank": 3
     },
     "jinko": {
-      "event_count": 3,
+      "event_count": 4,
       "sentiment_avg": 0.0,
       "rank": 1
     },
     "nextracker": {
       "event_count": 1,
       "sentiment_avg": 0.0,
-      "rank": 3
+      "rank": 4
     },
     "ja_solar": {
       "event_count": 1,
       "sentiment_avg": 0.0,
-      "rank": 4
+      "rank": 5
+    },
+    "array": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 6
+    },
+    "sungrow": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 2
     }
   },
   "comparisons": {
     "vs_last_week": {
       "event_count": {
-        "this": 164,
+        "this": 191,
         "last": 49,
-        "change_pct": 234.7
+        "change_pct": 289.8
       }
     }
   },
   "daily_breakdown": [
     {
       "date": "2026-04-21",
-      "event_count": 28,
+      "event_count": 29,
       "sentiment_avg": 0
     },
     {
       "date": "2026-04-22",
-      "event_count": 26,
+      "event_count": 28,
       "sentiment_avg": 0
     },
     {
       "date": "2026-04-23",
-      "event_count": 36,
+      "event_count": 38,
       "sentiment_avg": 0
     },
     {
@@ -95,17 +105,17 @@
     },
     {
       "date": "2026-04-26",
-      "event_count": 14,
+      "event_count": 16,
       "sentiment_avg": 0
     },
     {
       "date": "2026-04-27",
-      "event_count": 0,
+      "event_count": 20,
       "sentiment_avg": 0
     }
   ],
   "llm_analysis": {
-    "summary": "本週（2026-04-21 ~ 2026-04-27）共 164 則事件，重點為「Solar PV Market Outlook: LONGi, Trina Solar, an...」。事件量較上週增加 235%，產業動態明顯升溫，需密切關注。",
+    "summary": "本週（2026-04-21 ~ 2026-04-27）共 191 則事件，重點為「Solar PV Market Outlook: LONGi, Trina Solar, an...」。事件量較上週增加 290%，產業動態明顯升溫，需密切關注。",
     "watchlist": [
       {
         "company": "大全新能源",
@@ -113,6 +123,10 @@
       },
       {
         "company": "晶科能源",
+        "reason": "本週出現 4 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "陽光電源",
         "reason": "本週出現 3 則相關事件，為高關注企業，動態頻繁。"
       }
     ]
