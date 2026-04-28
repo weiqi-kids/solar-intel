@@ -1,0 +1,150 @@
+{
+  "date": "2026-04-28",
+  "date_range": {
+    "start": "2026-04-22",
+    "end": "2026-04-28"
+  },
+  "generated_at": "2026-04-28T10:07:07.622759Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "jinko-2026-04-22-026",
+      "date": "2026-04-22",
+      "title": "Renewable energy news: Green ammonia market, JA Solar, Standard Energy, JinkoSolar - GreentechLead",
+      "importance_score": 0.7
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "trade_tariff": {
+      "this_week": 2,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    },
+    "installation_demand": {
+      "this_week": 2,
+      "last_week": 3,
+      "week_over_week_change": "-33%",
+      "sentiment_this_week": 0.25
+    },
+    "industry_general": {
+      "this_week": 51,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.03
+    }
+  },
+  "company_7d_summary": {
+    "jinko": {
+      "event_count": 4,
+      "sentiment_avg": 0.0,
+      "rank": 2
+    },
+    "nextracker": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 5
+    },
+    "daqo": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 6
+    },
+    "ja_solar": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 7
+    },
+    "array": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 4
+    },
+    "sungrow": {
+      "event_count": 10,
+      "sentiment_avg": 0.0,
+      "rank": 1
+    },
+    "longi": {
+      "event_count": 3,
+      "sentiment_avg": 0.33,
+      "rank": 3
+    },
+    "trina": {
+      "event_count": 1,
+      "sentiment_avg": 1.0,
+      "rank": 8
+    },
+    "maxeon": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 9
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 238,
+        "last": 75,
+        "change_pct": 217.3
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-04-22",
+      "event_count": 29,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-04-23",
+      "event_count": 38,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-04-24",
+      "event_count": 55,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-04-25",
+      "event_count": 9,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-04-26",
+      "event_count": 17,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-04-27",
+      "event_count": 57,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-04-28",
+      "event_count": 33,
+      "sentiment_avg": 0
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-04-22 ~ 2026-04-28）共 238 則事件，重點為「Renewable energy news: Green ammonia market, JA...」。事件量較上週增加 217%，產業動態明顯升溫，需密切關注。",
+    "watchlist": [
+      {
+        "company": "晶科能源",
+        "reason": "本週出現 4 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "陽光電源",
+        "reason": "本週出現 10 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "隆基綠能",
+        "reason": "本週出現 3 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

@@ -1,0 +1,206 @@
+{
+  "date": "2026-04-28",
+  "generated_at": "2026-04-28T10:07:07.556220Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "longi-2026-04-28-002",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Longi sets world records for silicon solar cell and module efficiency - China Daily - Global Edition",
+      "companies": [
+        "longi"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPZUswX1hnaTR3NGFDdmVVUTRVQm96ZkxmNVlYQ3BXMFphMDBGTFZSMWVjWVV2b2puTjdaVjFoN1JmdXpNLXFfRFJ1MXU4clFUOUE4bWVNN0VibnFtV3FHWG03QVd3MzFVSzY4NXQ1Nk1SdU8zbFRpSThUeTgyeGgwbVNR?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "longi-2026-04-28-003",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "28.13%, 26.4%! LONGi Sets New World Records for Crystalline Silicon Solar Cell and Module Efficiency - SolarQuarter",
+      "companies": [
+        "longi"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPTVZLUXZIZ2NETmdZdklyOUtLbm5XTGI5R0NLUV8zeVNfUEtZYmhkM29ERlVmLTVYMjBJSDhLRHBnSWd3OXd2bnBHV2tnVHBsekpJcmRlYTBmRzE3QTI2akYydTkybW9ZSHVDVnVYQTVtSVlNdmNqUXRBQVRFd0dnRjVPWEtfT3ZrU2dvODhvYy02QmRkTzBDaFJwY2JrRFN0NG1zRzdxUzZUMjNFeC1sN1AzVXdkcTNLSWVpeUNCdzR1Ni14T3pDTjFSMUFsUQ?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "trina-2026-04-28-005",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Trina Solar breaks photovoltaic world record for 39th time - China Daily",
+      "companies": [
+        "trina"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFA4ejB1WVhPbnhZS0tXSU5fRHh2bkRBUElWZGlnUzVkQWtWc3BpRkMwOWVVTEFpUFlmOXNaYUFHUDRGNkstTlFreUYxeDVidTgxc3hpRkN3SmNKNmNuRXUyNzV1Q2x5dnFfVGQyc2tXSXhWU3RuOVpGSnRVUlNsdw?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-04-28-013",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "China Earnings Under Pressure as Yuan Strength Drives FX Losses - Bloomberg",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.75
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPazNhejUtTDFUQXBmcU55ZGw1YVlrd3daRGJIbG1mb3o2cF9JbGNtMEJ5UlA0WFpiMEpIeGRIQ3ZINWlranB1ZC1GOWxXclFJZ0pjaFQyalE5dV8yek9sNE1qZnhHWEtaM1VfbzdzNWlXTVUyZzNBUEstS3h1UmNUaWhXS2tWOFVLNHZ1VzVQZndmTmVCOXloMmNSYU9sSXJJeDNpYzc1YzBrc0tRUlAxLV83c3FpZjR6d1JsTHVZd1o3TUdoVXNqeVpFTlBjOTVPWHc?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "longi-2026-04-28-018",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Longi announces world record efficiency of 28.13% for silicon solar cell",
+      "companies": [
+        "longi"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://www.pv-magazine.com/2026/04/28/longi-announces-world-record-efficiency-of-28-13-for-silicon-solar-cell/"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 30,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.01,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 33,
+    "sentiment_distribution": {
+      "positive": 3,
+      "neutral": 26,
+      "negative": 4
+    },
+    "top_companies": [
+      {
+        "id": "sungrow",
+        "count": 7
+      },
+      {
+        "id": "longi",
+        "count": 3
+      },
+      {
+        "id": "trina",
+        "count": 1
+      },
+      {
+        "id": "maxeon",
+        "count": 1
+      },
+      {
+        "id": "array",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 30
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 484,
+    "dup_title": 146,
+    "too_old": 215,
+    "gate1_blocked": 42,
+    "gate2_blocked": 5,
+    "passed": 76,
+    "pass_rate": "22.5%",
+    "gate2_block_rate": "1.5%",
+    "gate2_samples": [
+      "Ariose Capital Management Ltd Boosts Holdings in DAQO New Energy Corp. $DQ - MarketBeat",
+      "Array Technologies, Inc. (ARRY) suffers a larger drop than the general market: Key insights - MSN",
+      "UK startup showcases all-in-one water cylinder heat pump prototype",
+      "‘As deployments grow, so does the need,’ says Sungrow North America cybersecurity director",
+      "Critical Minerals: China’s Grip, America’s Volatility, Europe’s Choice"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 33 則事件，焦點為陽光電源、隆基綠能、天合光能相關動態：「Longi sets world records for silicon solar cell and modul...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "Longi sets world records for silicon solar cell and module efficiency - China...（太陽能產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "28.13%, 26.4%! LONGi Sets New World Records for Crystalline Silicon Solar Cel...（太陽能產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

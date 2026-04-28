@@ -1,0 +1,16 @@
+{
+  "total_raw": 484,
+  "dup_title": 146,
+  "no_date": 0,
+  "too_old": 215,
+  "gate1_fail": 42,
+  "gate2_fail": 5,
+  "passed": 76,
+  "gate2_samples": [
+    "Ariose Capital Management Ltd Boosts Holdings in DAQO New Energy Corp. $DQ - MarketBeat",
+    "Array Technologies, Inc. (ARRY) suffers a larger drop than the general market: Key insights - MSN",
+    "UK startup showcases all-in-one water cylinder heat pump prototype",
+    "‘As deployments grow, so does the need,’ says Sungrow North America cybersecurity director",
+    "Critical Minerals: China’s Grip, America’s Volatility, Europe’s Choice"
+  ]
+}
