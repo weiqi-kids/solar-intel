@@ -1,0 +1,37 @@
+{
+  "date": "2026-04-29",
+  "total_events": 19,
+  "by_company": {
+    "longi": {
+      "count": 2,
+      "sentiment_avg": -1.0
+    },
+    "trina": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "jinko": {
+      "count": 3,
+      "sentiment_avg": 0.0
+    },
+    "nextracker": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "sungrow": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "industry_general": {
+      "count": 19,
+      "sentiment_avg": -0.09
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

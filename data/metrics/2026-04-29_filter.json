@@ -1,0 +1,16 @@
+{
+  "total_raw": 482,
+  "dup_title": 161,
+  "no_date": 0,
+  "too_old": 197,
+  "gate1_fail": 42,
+  "gate2_fail": 10,
+  "passed": 72,
+  "gate2_samples": [
+    "FengHe Fund Management Pte. Ltd. Trims Stock Holdings in DAQO New Energy Corp. $DQ - MarketBeat",
+    "DQ News | DAQO NEW ENERGY CORP-ADR (NYSE:DQ) - ChartMill",
+    "Ariose Capital Management Ltd Boosts Holdings in DAQO New Energy Corp. $DQ - MarketBeat",
+    "Risen Energy says Q1 net loss at 361 million yuan - marketscreener.com",
+    "Array Technologies, Inc. (ARRY) suffers a larger drop than the general market: Key insights - MSN"
+  ]
+}

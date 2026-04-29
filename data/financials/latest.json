@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-28T10:07:03.924155Z",
+  "updated_at": "2026-04-29T09:58:16.670671Z",
   "quarter": "2025-06-30, 2025-09-30, 2025-12-31",
   "companies": [
     {
@@ -161,14 +161,14 @@
       "name": "東方日升",
       "ticker": "300118.SZ",
       "currency": "CNY",
-      "ar": 2601223453,
-      "ar_prev": 3922764973,
-      "ar_qoq": "-34%",
-      "inventory": 1471629763,
-      "inv_prev": 2471678892,
-      "inv_qoq": "-40%",
-      "alert": true,
-      "quarter_date": "2025-12-31"
+      "ar": 2754633870,
+      "ar_prev": 2601223453,
+      "ar_qoq": "+6%",
+      "inventory": 1336042276,
+      "inv_prev": 1471629763,
+      "inv_qoq": "-9%",
+      "alert": false,
+      "quarter_date": "2026-03-31"
     },
     {
       "id": "solaredge",
@@ -189,14 +189,14 @@
       "name": "陽光電源",
       "ticker": "300274.SZ",
       "currency": "CNY",
-      "ar": 23499559286,
-      "ar_prev": 27499171699,
-      "ar_qoq": "-15%",
-      "inventory": 27255416854,
-      "inv_prev": 29706314497,
-      "inv_qoq": "-8%",
+      "ar": 22425525530,
+      "ar_prev": 23499559286,
+      "ar_qoq": "-5%",
+      "inventory": 27758417454,
+      "inv_prev": 27255416854,
+      "inv_qoq": "+2%",
       "alert": false,
-      "quarter_date": "2025-12-31"
+      "quarter_date": "2026-03-31"
     },
     {
       "id": "tongwei",
