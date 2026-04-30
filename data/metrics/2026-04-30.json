@@ -1,0 +1,65 @@
+{
+  "date": "2026-04-30",
+  "total_events": 33,
+  "by_company": {
+    "xinyi_solar": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "daqo": {
+      "count": 3,
+      "sentiment_avg": 0.33
+    },
+    "gcl": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "longi": {
+      "count": 2,
+      "sentiment_avg": -0.25
+    },
+    "canadian_solar": {
+      "count": 1,
+      "sentiment_avg": 0.5
+    },
+    "trina": {
+      "count": 3,
+      "sentiment_avg": 0.17
+    },
+    "jinko": {
+      "count": 6,
+      "sentiment_avg": -0.04
+    },
+    "risen": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "array": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "sungrow": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "enphase": {
+      "count": 1,
+      "sentiment_avg": -1.0
+    }
+  },
+  "by_topic": {
+    "industry_general": {
+      "count": 30,
+      "sentiment_avg": 0.03
+    },
+    "installation_demand": {
+      "count": 2,
+      "sentiment_avg": -0.25
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

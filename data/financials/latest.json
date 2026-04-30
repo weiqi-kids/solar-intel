@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-29T09:58:16.670671Z",
+  "updated_at": "2026-04-30T09:58:46.889634Z",
   "quarter": "2025-06-30, 2025-09-30, 2025-12-31",
   "companies": [
     {
@@ -49,14 +49,14 @@
       "name": "Enphase Energy",
       "ticker": "ENPH",
       "currency": "USD",
-      "ar": 229881000,
-      "ar_prev": 265513000,
-      "ar_qoq": "-13%",
-      "inventory": 288047000,
-      "inv_prev": 188652000,
-      "inv_qoq": "+53%",
-      "alert": true,
-      "quarter_date": "2025-12-31"
+      "ar": 196578000,
+      "ar_prev": 229881000,
+      "ar_qoq": "-14%",
+      "inventory": 290701000,
+      "inv_prev": 288047000,
+      "inv_qoq": "+1%",
+      "alert": false,
+      "quarter_date": "2026-03-31"
     },
     {
       "id": "first_solar",
@@ -91,14 +91,14 @@
       "name": "晶澳科技",
       "ticker": "002459.SZ",
       "currency": "CNY",
-      "ar": 8923895314,
-      "ar_prev": 8736274359,
-      "ar_qoq": "+2%",
-      "inventory": 9980820994,
-      "inv_prev": 12160001086,
-      "inv_qoq": "-18%",
+      "ar": 8791673257,
+      "ar_prev": 9208013845,
+      "ar_qoq": "-5%",
+      "inventory": 11398640012,
+      "inv_prev": 10058466745,
+      "inv_qoq": "+13%",
       "alert": false,
-      "quarter_date": "2025-06-30"
+      "quarter_date": "2026-03-31"
     },
     {
       "id": "jinko",
@@ -119,14 +119,14 @@
       "name": "隆基綠能",
       "ticker": "601012.SS",
       "currency": "CNY",
-      "ar": 11908490906,
-      "ar_prev": 10785010352,
-      "ar_qoq": "+10%",
-      "inventory": 14459934052,
-      "inv_prev": 13635073437,
-      "inv_qoq": "+6%",
-      "alert": false,
-      "quarter_date": "2025-06-30"
+      "ar": 10413835875,
+      "ar_prev": 11551104332,
+      "ar_qoq": "-10%",
+      "inventory": 18157647498,
+      "inv_prev": 14541724708,
+      "inv_qoq": "+25%",
+      "alert": true,
+      "quarter_date": "2026-03-31"
     },
     {
       "id": "maxeon",

@@ -1,0 +1,227 @@
+{
+  "date": "2026-04-30",
+  "generated_at": "2026-04-30T09:58:51.565824Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "canadian_solar-2026-04-30-008",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "Bifacial Solar Market to Get an Explosive Growth | Trina Solar, JinkoSolar, Canadian Solar, LONGi Solar - openPR.com",
+      "companies": [
+        "canadian_solar",
+        "longi",
+        "trina",
+        "jinko"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOUUtlbGtWbmg0OFdlZmNQZWFkWHVCTTV1am5mZTNMakFUbWllc1EtVXRlanVTaTE1MENTWi1uZU9VMnpHeHVSVmswNHh4VkpYcFFleHUwZzAtZ1lTbW1DdVFjODh4WUVkUkVtU2NrTTltS05oa1RySWI3LUZHUU9jNThlck43WE55RTZ4STl6anFBRVBEYjZFRVhkb3k?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "daqo-2026-04-30-003",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Falling revenues push Daqo New Energy into deeper Q1 loss - Renewables Now",
+      "companies": [
+        "daqo"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPWnFHdFJJVnc3aFlCX2MxRlRHV3NhRlhNTFRvelhtVjdNR1RyYmlSZEhqbWw2Q3cxZWVMUGtxbC1VSWhFYVpSUkhrUngtazg4ZTM0cDNJa3pvMG9pUVRXaEN2V2xYYVA3QVdXb3hqc0hjZWtJMnN6U2MwZ3N4UHlRcjU1RmZrNkZsZUV3TnBiVXBBQnh6Z3ZMZ0lyY0xoUQ?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "longi-2026-04-30-007",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "LONGi Reports 2025 Revenue Above CNY 70 Billion as Cost Reductions and Efficiency Gains Drive Sharp Loss Narrowing - SolarQuarter",
+      "companies": [
+        "longi"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPc3lqd2NWZVJFbEYxZGlpUXdodVU3c1l4NW8yeUhxSUlmOFhDWVJXWTlOcWVZc2xZUEhFajhFajJmUklLaTNNMXIwSkFZOEZ4NHIxUmNLMzEyR1V3NW4ydmFBaDRSVGoxVEROYzRvV3NtUHUtc1E0RWhKNWNEdTdCakpMMGlKd2htQ2dXN29zVnFJYzRsU1JQRGdHVldsaDNOc1gtU25HaDVhYVJJSmp6WF81SGMzUW0waVNtaWpUaTFMMS14RVFudl9QckZfSlJmQVpVdERLbXFmRC1LV1ljTU02ZXN6UQ?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "jinko-2026-04-30-011",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "JinkoSolar’s Q1 net loss shrinks, gross margin improves to 8.3% - Renewables Now",
+      "companies": [
+        "jinko"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.75
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPaTB1QmJ5QzB4Yk1VZFpDMDk4TTBIX1hqb3R6cF9lNzRSMWhaYXBxQ2hhMVdiMl9udE00ck4xeWI1aVZpY3ZRVFRneXlDSUZsbUphVzZCcDNQX2tBaVVGWVFkT0oyRnEwRVlYcHN4VTlVMkxXbk9SeWRCZEhtS1Z0cndsaEpMQmxZNW9RclRPSEJsT3FBbDI1YXg2THlHNExKc2RBbzVBYXdXUEtX?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-04-30-021",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Chile reaches 4.6 GW of energy storage under construction",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://www.pv-magazine.com/2026/04/30/chile-reaches-4-6-gw-of-energy-storage-under-construction/"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 30,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.03,
+      "sentiment_7d_avg": null
+    },
+    "installation_demand": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.25,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 33,
+    "sentiment_distribution": {
+      "positive": 6,
+      "neutral": 22,
+      "negative": 5
+    },
+    "top_companies": [
+      {
+        "id": "jinko",
+        "count": 6
+      },
+      {
+        "id": "daqo",
+        "count": 3
+      },
+      {
+        "id": "trina",
+        "count": 3
+      },
+      {
+        "id": "xinyi_solar",
+        "count": 2
+      },
+      {
+        "id": "longi",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 30
+      },
+      {
+        "id": "installation_demand",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 486,
+    "dup_title": 162,
+    "too_old": 174,
+    "gate1_blocked": 41,
+    "gate2_blocked": 12,
+    "passed": 97,
+    "pass_rate": "29.9%",
+    "gate2_block_rate": "3.7%",
+    "gate2_samples": [
+      "DAQO New Energy (NYSE:DQ) Shares Gap Down - Time to Sell? - MarketBeat",
+      "FengHe Fund Management Pte. Ltd. Trims Stock Holdings in DAQO New Energy Corp. $DQ - MarketBeat",
+      "Ariose Capital Management Ltd Boosts Holdings in DAQO New Energy Corp. $DQ - MarketBeat",
+      "Risen Energy Says Q1 Net Loss At 361 Million Yuan - TradingView",
+      "Risen Energy says Q1 net loss at 361 million yuan - marketscreener.com"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 33 則事件，焦點為晶科能源、大全新能源、天合光能相關動態：「Bifacial Solar Market to Get an Explosive Growth | Trina ...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Bifacial Solar Market to Get an Explosive Growth | Trina Solar, JinkoSolar, C...（太陽能產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Falling revenues push Daqo New Energy into deeper Q1 loss - Renewables Now（太陽能產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "裝機需求持續受關注，產業趨勢帶動需求成長。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
