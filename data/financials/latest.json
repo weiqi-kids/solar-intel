@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-04-30T09:58:46.889634Z",
-  "quarter": "2025-06-30, 2025-09-30, 2025-12-31",
+  "updated_at": "2026-05-01T09:26:40.140136Z",
+  "quarter": "2025-06-30, 2025-12-31, 2026-03-31",
   "companies": [
     {
       "id": "array",
@@ -38,11 +38,11 @@
       "ar": null,
       "ar_prev": null,
       "ar_qoq": "N/A",
-      "inventory": 121437000,
-      "inv_prev": 167601000,
-      "inv_qoq": "-28%",
+      "inventory": 258284000,
+      "inv_prev": 121437000,
+      "inv_qoq": "+113%",
       "alert": true,
-      "quarter_date": "2025-09-30"
+      "quarter_date": "2026-03-31"
     },
     {
       "id": "enphase",
@@ -77,14 +77,14 @@
       "name": "協鑫科技",
       "ticker": "3800.HK",
       "currency": "HKD",
-      "ar": 1220087000,
-      "ar_prev": 1251449000,
-      "ar_qoq": "-3%",
-      "inventory": 1975526000,
-      "inv_prev": 2014044000,
-      "inv_qoq": "-2%",
+      "ar": 1323636000,
+      "ar_prev": 1220087000,
+      "ar_qoq": "+8%",
+      "inventory": 1896879000,
+      "inv_prev": 1975526000,
+      "inv_qoq": "-4%",
       "alert": false,
-      "quarter_date": "2025-06-30"
+      "quarter_date": "2025-12-31"
     },
     {
       "id": "ja_solar",
@@ -106,13 +106,13 @@
       "ticker": "JKS",
       "currency": "USD",
       "ar": null,
-      "ar_prev": null,
+      "ar_prev": 700333000,
       "ar_qoq": "N/A",
-      "inventory": 14939226000,
-      "inv_prev": 13258752000,
-      "inv_qoq": "+13%",
-      "alert": false,
-      "quarter_date": "2025-09-30"
+      "inventory": 17708534000,
+      "inv_prev": 14484828000,
+      "inv_qoq": "+22%",
+      "alert": true,
+      "quarter_date": "2026-03-31"
     },
     {
       "id": "longi",
@@ -203,28 +203,28 @@
       "name": "通威",
       "ticker": "600438.SS",
       "currency": "CNY",
-      "ar": 7691176900,
-      "ar_prev": 6258690082,
-      "ar_qoq": "+23%",
-      "inventory": 13702210829,
-      "inv_prev": 15455394417,
-      "inv_qoq": "-11%",
+      "ar": 7290711489,
+      "ar_prev": 6863715377,
+      "ar_qoq": "+6%",
+      "inventory": 17981843655,
+      "inv_prev": 14880555929,
+      "inv_qoq": "+21%",
       "alert": true,
-      "quarter_date": "2025-06-30"
+      "quarter_date": "2026-03-31"
     },
     {
       "id": "trina",
       "name": "天合光能",
       "ticker": "688599.SS",
       "currency": "CNY",
-      "ar": 15977220730,
-      "ar_prev": 16381873553,
-      "ar_qoq": "-2%",
-      "inventory": 26531074784,
-      "inv_prev": 24441534890,
-      "inv_qoq": "+9%",
+      "ar": 13999527046,
+      "ar_prev": 12985688034,
+      "ar_qoq": "+8%",
+      "inventory": 24254043558,
+      "inv_prev": 25257854455,
+      "inv_qoq": "-4%",
       "alert": false,
-      "quarter_date": "2025-06-30"
+      "quarter_date": "2026-03-31"
     },
     {
       "id": "xinyi_solar",

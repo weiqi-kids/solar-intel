@@ -1,0 +1,196 @@
+{
+  "date": "2026-05-01",
+  "generated_at": "2026-05-01T09:26:44.012964Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-05-01-011",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Australian researchers develop vapour-based manufacturing process for lead-free perovskite solar",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://www.pv-magazine.com/2026/05/01/australian-researchers-develop-vapour-based-manufacturing-process-for-lead-free-perovskite-solar/"
+    },
+    {
+      "rank": 2,
+      "event_id": "risen-2026-05-01-015",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Record Month for EV Sales in Europe!",
+      "companies": [
+        "risen"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://cleantechnica.com/2026/04/30/record-month-for-ev-sales-in-europe/"
+    },
+    {
+      "rank": 3,
+      "event_id": "xinyi_solar-2026-05-01-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Bearish block trade of XINYI SOLAR(00968) 5.6M shares at $2.86, $16.016M turnover - AASTOCKS.com",
+      "companies": [
+        "xinyi_solar"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQQXNNUWFCZXk4YjFlVGlwSy05WlBmeU1rNzg5UXlZMTZQa2JiNGpDcVdqaERBakVrZFRtOHVTdFdxUXJzQTdyWmFINTk5ZWI0aXJseHoyVHNfYVhZMmVDS3BLanhJYjJFM0NTRmNfOWUzWUw3QkdkZ29oVWdMU3V5UmxWbDVlZw?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "daqo-2026-05-01-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Daqo New Energy Earnings Call Highlights Deep Strain - TipRanks",
+      "companies": [
+        "daqo"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOck5WZUdYVGRwZmlOZUQ1eTBIeEZJVVBGSmFJcDlWRHFBd2hTX2ZZOXNHN0RGUHBQUDF2UkVNZUkzOHUtTVhNSDBkX0FtT3FHX0l5cjh1TElJN09wODZYRjdWRldVRlRycnBHdUNTRklNSDdCbVhveDd0R0NxUGlnbUJzcTg4VmtHTDRmZFk2NE9CR2tOemp0WkNjYUJSTXZQRVlfSk1XTQ?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "jinko-2026-05-01-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Bronstein, Gewirtz & Grossman, LLC Encourages JinkoSolar Holding - The National Law Review",
+      "companies": [
+        "jinko"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOYnB2QjdaZ3ZSYXdzbEthdm90RmtLQ050dm00VEFRMjdlWFlEVW9yQ1ltUWtWaDFndzBhTVZTQXVUYkxiVmYwWFZnR1FZSUNqU3dSVjVKS3g2WFJ6UE5QTmxyakFYOHduUHMyWUg3eHVMOEctNWN2c1NtTDN3cE9zX3dKMzBmUG5XeXBFWUI3RVVaYnc2UjN4Z19QbXpfX3EyR2QtSVM0aVVYbEIzeURDYg?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 14,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.14,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 16,
+    "sentiment_distribution": {
+      "positive": 4,
+      "neutral": 12,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "jinko",
+        "count": 2
+      },
+      {
+        "id": "risen",
+        "count": 2
+      },
+      {
+        "id": "xinyi_solar",
+        "count": 1
+      },
+      {
+        "id": "daqo",
+        "count": 1
+      },
+      {
+        "id": "sungrow",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 14
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 487,
+    "dup_title": 193,
+    "too_old": 166,
+    "gate1_blocked": 44,
+    "gate2_blocked": 11,
+    "passed": 73,
+    "pass_rate": "24.8%",
+    "gate2_block_rate": "3.7%",
+    "gate2_samples": [
+      "DAQO New Energy (NYSE:DQ) Shares Gap Down - Time to Sell? - MarketBeat",
+      "FengHe Fund Management Pte. Ltd. Trims Stock Holdings in DAQO New Energy Corp. $DQ - MarketBeat",
+      "Risen Energy Says Q1 Net Loss At 361 Million Yuan - TradingView",
+      "Risen Energy says Q1 net loss at 361 million yuan - marketscreener.com",
+      "Assessing Array Technologies (ARRY) Valuation After Recent Volatility And Conflicting Fair Value Sig"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 16 則事件，焦點為晶科能源、東方日升、信義光能相關動態：「Australian researchers develop vapour-based manufacturing...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Australian researchers develop vapour-based manufacturing process for lead-fr...（太陽能產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "Record Month for EV Sales in Europe!",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

@@ -1,0 +1,16 @@
+{
+  "total_raw": 487,
+  "dup_title": 193,
+  "no_date": 0,
+  "too_old": 166,
+  "gate1_fail": 44,
+  "gate2_fail": 11,
+  "passed": 73,
+  "gate2_samples": [
+    "DAQO New Energy (NYSE:DQ) Shares Gap Down - Time to Sell? - MarketBeat",
+    "FengHe Fund Management Pte. Ltd. Trims Stock Holdings in DAQO New Energy Corp. $DQ - MarketBeat",
+    "Risen Energy Says Q1 Net Loss At 361 Million Yuan - TradingView",
+    "Risen Energy says Q1 net loss at 361 million yuan - marketscreener.com",
+    "Assessing Array Technologies (ARRY) Valuation After Recent Volatility And Conflicting Fair Value Sig"
+  ]
+}
