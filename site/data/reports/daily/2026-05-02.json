@@ -1,0 +1,176 @@
+{
+  "date": "2026-05-02",
+  "generated_at": "2026-05-02T08:58:27.797844Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "daqo-2026-05-02-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "DAQO New Energy Corp. (NYSE:DQ) Receives Average Recommendation of \"Hold\" from Analysts - MarketBeat",
+      "companies": [
+        "daqo"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQb3h1eU1PUExxU2hvd3BEeFdtMmd4ZHMtdTFEcXZySmlqNmozbFlmYzVUU09FMzU3RmRTZnY4UGpMRlF2QmZVbTdETmQzSElMQ2xOUHY0NTNsVVhOQllqY3ItTzVQSG5kZjVxclJtalV2cEc5U3AydWdJZDdURnU4Zk01d1U3ZlZ4ZnZYYjJVbEV0eWtKSDFtb1Y5SU1PdnZnTFJSdzdwaDNPZXBZdi1vWERNc3hORlpzdHlhckg4VXlYM1c5N0RheVduMnJibWxU?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "daqo-2026-05-02-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Daqo New Energy Earnings Call Highlights Deep Strain - The Globe and Mail",
+      "companies": [
+        "daqo"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOeU05RGM5NnY5bnBVZnU5NDg4T083UDZCVW1reWpDbVJ3VTNGWEt4QnBqeUFmSllYbHdvSU0tc1ZMbVBITHkxaEtNTk42ZzhmWW0yMDlpNUtPU0ZzcWxTYU85TnZaVDZxTG1RZ3FRR0NsLUdDcmRLaHpOeGgyenJvOEpmWTFSd0RqUms1SlRsMk96YkFqWVpkNHktZ0hCNTNjSjIwY0lIdkgtQUFLblRhbDB2dUVMU3dmZ2dFd1lOSXU3Tm5qbW1kMGg0bHFuWFBx?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "daqo-2026-05-02-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "DAQO New Energy (NYSE:DQ) Releases Earnings Results, Misses Expectations By $1.18 EPS - MarketBeat",
+      "companies": [
+        "daqo"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOTTd5YkZ5ZW53MmNfWkRRdWRBbVQ1eVpndDhPYXFMeC1yUkNQWTdVemRMcnV4djQxRWJFS1F1NXJJSGdxbWxrdU5DNUtMbkt4N2pXdkxuamdjdVloVTlfWS04MTd3aFpvMmtCLUtNM3BZZFNNWGlkRFdFenNfVm1ndl90VTk5a1l3U3FyMUlFU1R6ZGw3cWctcTBVaEUxNXdERDF5b3BReUxVVy1tTF9iQWI1MVNZOWY3T0s3VW9vRVVkdTVXdFNDQW9TWVB6UQ?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-05-02-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "I tested this portable solar generator and it managed to bring power to places my home solar system couldn't reach - Tom's Guide",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPd0ZRUzNWSUw0a05fbTdSNlU1dElaWUR0bTkwRUI2ZWZzajBIdG1YQ0pXSW1fc2taZVk5Tzd4Z2FCb2g4OHFwdVZQc084Z0ZoSG1lMzBaaF92dmc2R3YxYmw1elRqZzRnV2hrNDA5cFY4NzBZZjB6clhXRVZOZzAtM21jeXEwUEV6NTVLRHR6QzB6MmU5SVdvUVd2M0laMXRqalF2UnV0c3RGQmFVX09RcUNnRW9UdTVtLXlfUFEzMlh5V2pPUFN4eXRNeV9adWc?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-05-02-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Sierra Club, Allies Applaud Approval of Accelergen’s East Side Energy Storage for Wyandotte County",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://cleantechnica.com/2026/05/01/sierra-club-allies-applaud-approval-of-accelergens-east-side-energy-storage-for-wyandotte-county/"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 5,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 5,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "daqo",
+        "count": 3
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 4
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 485,
+    "dup_title": 202,
+    "too_old": 158,
+    "gate1_blocked": 47,
+    "gate2_blocked": 12,
+    "passed": 66,
+    "pass_rate": "23.3%",
+    "gate2_block_rate": "4.2%",
+    "gate2_samples": [
+      "DAQO New Energy (NYSE:DQ) Rating Lowered to \"Strong Sell\" at Wall Street Zen - MarketBeat",
+      "FengHe Fund Management Pte. Ltd. Trims Stock Holdings in DAQO New Energy Corp. $DQ - MarketBeat",
+      "Risen Energy Says Q1 Net Loss At 361 Million Yuan - TradingView",
+      "Risen Energy says Q1 net loss at 361 million yuan - marketscreener.com",
+      "Assessing Array Technologies (ARRY) Valuation After Recent Volatility And Conflicting Fair Value Sig"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 5 則事件，焦點為大全新能源相關動態：「DAQO New Energy Corp. (NYSE:DQ) Receives Average Recommen...」。主要關注主題為太陽能產業通用，市場情緒中性。",
+    "signals": [
+      {
+        "text": "DAQO New Energy Corp. (NYSE:DQ) Receives Average Recommendation of \"Hold\" fro...",
+        "level": "green"
+      },
+      {
+        "text": "Daqo New Energy Earnings Call Highlights Deep Strain - The Globe and Mail（太陽能產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
