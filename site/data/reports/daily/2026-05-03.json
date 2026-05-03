@@ -1,0 +1,180 @@
+{
+  "date": "2026-05-03",
+  "generated_at": "2026-05-03T09:14:16.608179Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "jinko-2026-05-03-001",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "JinkoSolar Fraud Probe Puts Reporting Trust Against Record Shipment Story - Yahoo Finance",
+      "companies": [
+        "jinko"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNcEZ1c29hUy1UcHZDUm9MdHpaYV84NmZSZHVPOElkdm14SEtpUFZBcm5fS2pCNGVBX0dMb04zV3RvM2xaUzhnb2EwTV9MMS1MVkVkSGNua1VwUzhxanI2Q3ZCVTdERmpxRDh3YzFwWnVrQkxnZVMwQUhfSldzWXBTQ2kwTUxNS0xGZVFON0JVNFVtTmh3VHBybXJoZGR0cDdhOW92UA?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "jinko-2026-05-03-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Assessing JinkoSolar Holding (NYSE:JKS) Valuation After Its Recent Share Price Rebound - simplywall.st",
+      "companies": [
+        "jinko"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQWUhrTHdjc0VQTGNsZGM1RlFYbHZLVmtTWklvcmM5eWR2aHVwVkw1Tnp1VGV4NS03bHkzRTFSZXlmZVJCQlFwTlJzdEs4M1ZUNU1SSUhjM3otTV9IbjhuTk91QzZ3S2FxeUVLUm5ZMDBuQmp0NUtiOG0yeng4Qmx1T1d3UUZyVGdzNUZXdWpxQWVjUVpGbE80OW55bEYxYzRnekRKMWd5SS03ODh2ZDkybTZvSEhhNW5iTDdNVUw4aEFBNjZfemFicU5sX1NUeWxpdGdaU3BBMNIB3AFBVV95cUxQSTRDWGVQSGlaTkhJY3d4X2Q4TTRxMG1CN1ZOeFpIRFJJNGxWQmxvbk42MXEwN1Jfd3BWWlV3UlpFdlRiZVZScnJHSDUtSE1uOWtYWFYxejZyZ0lFU3BhaVhCdE9uSnFKYWJTZFVYMFZUb0tpMUZVaGp1cVlMNkllN3FEN25PQ1BHTzhUbVFleEpVUTFfWWE2TENnSGF3YTRHamZJQkRIUEQ3Q3FwanV2WDFmYUI0cFVlN1d2YVl5dHpIU0lsZDhlYkI3SFZIRFhWbGpfSmRrOG9mU2NM?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "jinko-2026-05-03-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "A Look At JinkoSolar Holding (NYSE:JKS) Valuation After Recent Share Price Moves - Yahoo Finance",
+      "companies": [
+        "jinko"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNcFdoNkltX1FUakx1NWwzazIzLWE4RmJ0Z0RxSGdnX0JfNEt4Y0JwOVV3eTNGQ2RFY1R6LXp1eEY5NTcyaGdrVHlkMVh4eVc4U29WcDdZSzdtSTd3eHl5NGFzR1dCVFJLQlMwZjJselRrRk1jaVVoTjkweG9RWDNPV3FNdUdjU21oMW9Fc3RzeUtKWi1FZWtrVThvMm00Zw?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-05-03-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Segway launches 60 MPH electric dirt bike – and it’s basically a full e-motorcycle",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": "https://electrek.co/2026/05/02/segway-launches-60-mph-electric-dirt-bike-and-its-basically-a-full-e-motorcycle/"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-05-03-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Obama-backed $2.2B solar power plant is a 'money pit' leaving taxpayers to foot the bill - MSN",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPVERsall4Mkl3MklNX2dobjdjbUdxTWRibkNjZnZJV3FzbGxINFFtSm5wZVNrUkdYTW55VnA2Y0RtTUczTWRWQkx4RVFJUEhDd1VsTE5PbW1vR1BJd0ZNenZqTUlscVFRaHBVNVoyUjBPUlBYQTFZNlAyMEN1RFNOTEJieU5yYjFWNzU2Smh3SkFZTElvRTlfZGE1aHQ4bWFnaFUzOFk5eWY3eHdFR0dnYXZWWlFRRjgyNkU5eWs4LXVGcE5ORmpFeHNUUFZGaFN5YmtDNDA5UEM3clpTOTVhS1FQMHJUQXF5aS1qZzJVNy1kbDQ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 5,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.1,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 5,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 3,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "jinko",
+        "count": 3
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 5
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 483,
+    "dup_title": 233,
+    "too_old": 157,
+    "gate1_blocked": 47,
+    "gate2_blocked": 15,
+    "passed": 31,
+    "pass_rate": "12.4%",
+    "gate2_block_rate": "6.0%",
+    "gate2_samples": [
+      "Is Daqo New Energy (DQ) Pricing Look Attractive After Recent Share Price Slide - simplywall.st",
+      "DAQO New Energy (NYSE:DQ) Rating Lowered to \"Strong Sell\" at Wall Street Zen - MarketBeat",
+      "DAQO New Energy (NYSE:DQ) Shares Gap Down - Time to Sell? - MarketBeat",
+      "FengHe Fund Management Pte. Ltd. Trims Stock Holdings in DAQO New Energy Corp. $DQ - MarketBeat",
+      "Risen Energy Says Q1 Net Loss At 361 Million Yuan - TradingView"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 5 則事件，焦點為晶科能源相關動態：「JinkoSolar Fraud Probe Puts Reporting Trust Against Recor...」。主要關注主題為太陽能產業通用，市場情緒中性。",
+    "signals": [
+      {
+        "text": "JinkoSolar Fraud Probe Puts Reporting Trust Against Record Shipment Story - Y...（太陽能產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "Assessing JinkoSolar Holding (NYSE:JKS) Valuation After Its Recent Share Pric...（太陽能產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

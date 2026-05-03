@@ -1,0 +1,16 @@
+{
+  "total_raw": 483,
+  "dup_title": 233,
+  "no_date": 0,
+  "too_old": 157,
+  "gate1_fail": 47,
+  "gate2_fail": 15,
+  "passed": 31,
+  "gate2_samples": [
+    "Is Daqo New Energy (DQ) Pricing Look Attractive After Recent Share Price Slide - simplywall.st",
+    "DAQO New Energy (NYSE:DQ) Rating Lowered to \"Strong Sell\" at Wall Street Zen - MarketBeat",
+    "DAQO New Energy (NYSE:DQ) Shares Gap Down - Time to Sell? - MarketBeat",
+    "FengHe Fund Management Pte. Ltd. Trims Stock Holdings in DAQO New Energy Corp. $DQ - MarketBeat",
+    "Risen Energy Says Q1 Net Loss At 361 Million Yuan - TradingView"
+  ]
+}
