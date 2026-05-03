@@ -1,0 +1,44 @@
+{
+  "date": "2022-04-27",
+  "generated_at": "2026-05-03T02:44:30.241838Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "tongwei-2022-04-27-009",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Tongwei sets sizeable solar polysilicon, cell manufacturing capacity targets following Q1 profit leap - PV Tech",
+      "companies": [
+        "tongwei"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {},
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 1,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 1,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "tongwei",
+        "count": 1
+      }
+    ],
+    "top_topics": []
+  }
+}

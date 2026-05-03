@@ -1,0 +1,73 @@
+{
+  "date": "2025-10-02",
+  "date_range": {
+    "start": "2025-09-26",
+    "end": "2025-10-02"
+  },
+  "generated_at": "2026-05-03T02:44:36.305556Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "nextracker-2025-10-02-038",
+      "date": "2025-10-02",
+      "title": "Nextracker to Announce Second Quarter Fiscal 2026 Financial Results on October 23, 2025 - Nextpower",
+      "importance_score": 0.5
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {},
+  "company_7d_summary": {
+    "nextracker": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 1
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 1,
+        "last": 1,
+        "change_pct": 0.0
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2025-09-26",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2025-09-27",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2025-09-28",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2025-09-29",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2025-09-30",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2025-10-01",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2025-10-02",
+      "event_count": 1,
+      "sentiment_avg": 0
+    }
+  ]
+}

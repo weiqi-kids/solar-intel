@@ -1,0 +1,44 @@
+{
+  "date": "2025-09-23",
+  "generated_at": "2026-05-03T02:44:36.008432Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "xinyi_solar-2025-09-23-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Xinyi Solar Holdings Limited Just Missed Earnings And Its Revenue Numbers Were Weaker Than Expected - simplywall.st",
+      "companies": [
+        "xinyi_solar"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": null
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {},
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 1,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 0,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "xinyi_solar",
+        "count": 1
+      }
+    ],
+    "top_topics": []
+  }
+}

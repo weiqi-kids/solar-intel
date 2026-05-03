@@ -1,0 +1,44 @@
+{
+  "date": "2026-01-21",
+  "generated_at": "2026-05-03T02:44:37.285017Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "jinko-2026-01-21-025",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "JinkoSolar's Subsidiary, Jinko Solar Co., Ltd., Announces Estimates of Certain Preliminary Unaudited Financial Results for Full Year 2025 - Yahoo Finance",
+      "companies": [
+        "jinko"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {},
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 1,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 1,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "jinko",
+        "count": 1
+      }
+    ],
+    "top_topics": []
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "date": "2025-08-22",
+  "generated_at": "2026-05-03T02:44:35.372579Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "longi-2025-08-22-018",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "China’s Longi Green Narrows Loss as Solar Installations Surge - Bloomberg.com",
+      "companies": [
+        "longi"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "installation_demand"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": null
+    },
+    {
+      "rank": 2,
+      "event_id": "longi-2025-08-22-002",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "China’s Longi Green Narrows Loss as Solar Installations Surge - Bloomberg",
+      "companies": [
+        "longi"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "installation_demand"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": null
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "installation_demand": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -1.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 2,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 0,
+      "negative": 2
+    },
+    "top_companies": [
+      {
+        "id": "longi",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "installation_demand",
+        "count": 2
+      }
+    ]
+  }
+}

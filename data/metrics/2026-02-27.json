@@ -1,0 +1,24 @@
+{
+  "date": "2026-02-27",
+  "total_events": 3,
+  "by_company": {
+    "xinyi_solar": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "daqo": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "jinko": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {},
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

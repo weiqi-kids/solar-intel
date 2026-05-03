@@ -1,0 +1,104 @@
+{
+  "date": "2026-03-31",
+  "generated_at": "2026-05-03T02:44:40.112750Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "sungrow-2026-03-31-035",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Sungrow Power Supply Co., Ltd. Reports Earnings Results for the Full Year Ended December 31, 2025 - marketscreener.com",
+      "companies": [
+        "sungrow"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    },
+    {
+      "rank": 2,
+      "event_id": "sungrow-2026-03-31-006",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Sungrow Power Supply Says 2025 Net Profit Up 22.0% Y/Y - TradingView — Track All Markets",
+      "companies": [
+        "sungrow"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    },
+    {
+      "rank": 3,
+      "event_id": "sungrow-2026-03-31-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Sungrow Power Supply: Net profit up 22% to ¥13.46B on 14.6% revenue growth, led by energy storage and overseas markets - TradingView",
+      "companies": [
+        "sungrow"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": null
+    },
+    {
+      "rank": 4,
+      "event_id": "sungrow-2026-03-31-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Sungrow Power Supply Says 2025 Net Profit Up 22.0% Y/Y - TradingView",
+      "companies": [
+        "sungrow"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {},
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 4,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 3,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "sungrow",
+        "count": 4
+      }
+    ],
+    "top_topics": []
+  }
+}

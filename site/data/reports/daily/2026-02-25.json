@@ -1,0 +1,140 @@
+{
+  "date": "2026-02-25",
+  "generated_at": "2026-05-03T02:44:38.194187Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-02-25-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Solar stocks in pain on Trump's 126% tariff shock but experts see limited long-term impact - TradingView — Track All Markets",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "trade_tariff"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-02-25-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "US imposes 126% tariff on Indian solar imports: How it impacts domestic manufacturers - Moneycontrol.com",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "trade_tariff"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    },
+    {
+      "rank": 3,
+      "event_id": "array-2026-02-25-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "ARRAY Technologies Reports Financial Results for the Fourth Quarter and Full Year 2025 - Yahoo Finance",
+      "companies": [
+        "array"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-02-25-006",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Solar stocks in pain on Trump's 126% tariff shock but experts see limited long-term impact - TradingView",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "trade_tariff"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-02-25-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "[SMM Analysis] U.S.-India Tariff Agreement Finalized: The Latest Outlook for India's PV Market Trends in 2026 - Shanghai Metals Market",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "trade_tariff"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "trade_tariff": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 5,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 5,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "array",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "trade_tariff",
+        "count": 4
+      }
+    ]
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "date": "2026-02-26",
+  "generated_at": "2026-05-03T02:44:38.403689Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "daqo-2026-02-26-005",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Earnings call transcript: Daqo New Energy Q4 2025 sees narrowed losses, stock dips - Investing.com",
+      "companies": [
+        "daqo"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": null
+    },
+    {
+      "rank": 2,
+      "event_id": "daqo-2026-02-26-006",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "How Weak 2025 Results And Higher 2026 Output Guidance At Daqo New Energy (DQ) Has Changed Its Investment Story - Yahoo Finance",
+      "companies": [
+        "daqo"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": null
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {},
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 2,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 0,
+      "negative": 2
+    },
+    "top_companies": [
+      {
+        "id": "daqo",
+        "count": 2
+      }
+    ],
+    "top_topics": []
+  }
+}

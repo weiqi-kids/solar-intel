@@ -1,0 +1,74 @@
+{
+  "date": "2025-05-01",
+  "date_range": {
+    "start": "2025-04-25",
+    "end": "2025-05-01"
+  },
+  "generated_at": "2026-05-03T02:44:32.912711Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "unknown-2025-05-01-012",
+      "date": "2025-05-01",
+      "title": "Will Tariffs on Solar Cell Imports Invigorate the U.S. Manufacturing Market? - Inside Climate News",
+      "importance_score": 0.5
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "trade_tariff": {
+      "this_week": 1,
+      "last_week": 6,
+      "week_over_week_change": "-83%",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {},
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 1,
+        "last": 6,
+        "change_pct": -83.3
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2025-04-25",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2025-04-26",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2025-04-27",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2025-04-28",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2025-04-29",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2025-04-30",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2025-05-01",
+      "event_count": 1,
+      "sentiment_avg": 0
+    }
+  ]
+}

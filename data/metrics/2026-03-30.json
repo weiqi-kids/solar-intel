@@ -1,0 +1,16 @@
+{
+  "date": "2026-03-30",
+  "total_events": 7,
+  "by_company": {
+    "gcl": {
+      "count": 7,
+      "sentiment_avg": -0.29
+    }
+  },
+  "by_topic": {},
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

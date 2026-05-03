@@ -1,0 +1,44 @@
+{
+  "date": "2026-03-13",
+  "generated_at": "2026-05-03T02:44:39.044689Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "xinyi_solar-2026-03-13-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "How Weaker 2025 Earnings and Modest Dividend Will Impact Xinyi Solar Holdings (SEHK:968) Investors - simplywall.st",
+      "companies": [
+        "xinyi_solar"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": null
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {},
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 1,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 0,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "xinyi_solar",
+        "count": 1
+      }
+    ],
+    "top_topics": []
+  }
+}

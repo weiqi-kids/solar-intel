@@ -1,0 +1,92 @@
+{
+  "date": "2026-02-27",
+  "generated_at": "2026-05-03T02:44:38.617968Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "xinyi_solar-2026-02-27-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Xinyi Solar (0968.HK) pre-market: shares at HKD 3.42 after Feb 27 earnings update : what traders should watch next - Meyka",
+      "companies": [
+        "xinyi_solar"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    },
+    {
+      "rank": 2,
+      "event_id": "daqo-2026-02-27-007",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "DAQO New Energy Q4 Earnings Call Highlights - Yahoo Finance",
+      "companies": [
+        "daqo"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    },
+    {
+      "rank": 3,
+      "event_id": "jinko-2026-02-27-022",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "JinkoSolar's Subsidiary, Jinko Solar Co., Ltd., Announces Certain Preliminary Unaudited Financial Results for Full Year 2025 - Yahoo Finance",
+      "companies": [
+        "jinko"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {},
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 3,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 3,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "xinyi_solar",
+        "count": 1
+      },
+      {
+        "id": "daqo",
+        "count": 1
+      },
+      {
+        "id": "jinko",
+        "count": 1
+      }
+    ],
+    "top_topics": []
+  }
+}

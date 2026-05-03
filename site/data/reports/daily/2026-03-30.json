@@ -1,0 +1,128 @@
+{
+  "date": "2026-03-30",
+  "generated_at": "2026-05-03T02:44:39.900972Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "gcl-2026-03-30-012",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "GCL Technology: Gross profit margin turned positive and net loss narrowed sharply in 2025 - TradingView — Track All Markets",
+      "companies": [
+        "gcl"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": null
+    },
+    {
+      "rank": 2,
+      "event_id": "gcl-2026-03-30-001",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "GCL Technology: Gross profit margin turned positive and net loss narrowed sharply in 2025 - TradingView",
+      "companies": [
+        "gcl"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": null
+    },
+    {
+      "rank": 3,
+      "event_id": "gcl-2026-03-30-013",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "GCL Technology logs FY revenue RMB 14,425 mln - marketscreener.com",
+      "companies": [
+        "gcl"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    },
+    {
+      "rank": 4,
+      "event_id": "gcl-2026-03-30-015",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "GCL Technology Holdings Limited Reports Earnings Results for the Full Year Ended December 31, 2025 - marketscreener.com",
+      "companies": [
+        "gcl"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    },
+    {
+      "rank": 5,
+      "event_id": "gcl-2026-03-30-016",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "GCL Technology Logs FY Revenue RMB 14,425 Mln - TradingView — Track All Markets",
+      "companies": [
+        "gcl"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {},
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 7,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 5,
+      "negative": 2
+    },
+    "top_companies": [
+      {
+        "id": "gcl",
+        "count": 7
+      }
+    ],
+    "top_topics": []
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "date": "2025-07-22",
+  "total_events": 1,
+  "by_company": {},
+  "by_topic": {
+    "module_price": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "trade_tariff": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}
