@@ -1,0 +1,164 @@
+{
+  "date": "2026-05-04",
+  "date_range": {
+    "start": "2026-04-28",
+    "end": "2026-05-04"
+  },
+  "generated_at": "2026-05-04T10:06:37.664556Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "array-2026-04-29-057",
+      "date": "2026-04-29",
+      "title": "After nearly 15 years at First Solar, Wickersham joins ARRAY - Stock Titan",
+      "importance_score": 0.9
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "industry_general": {
+      "this_week": 111,
+      "last_week": 21,
+      "week_over_week_change": "+429%",
+      "sentiment_this_week": 0.03
+    },
+    "installation_demand": {
+      "this_week": 2,
+      "last_week": 3,
+      "week_over_week_change": "-33%",
+      "sentiment_this_week": -0.25
+    }
+  },
+  "company_7d_summary": {
+    "longi": {
+      "event_count": 8,
+      "sentiment_avg": -0.19,
+      "rank": 3
+    },
+    "trina": {
+      "event_count": 5,
+      "sentiment_avg": 0.3,
+      "rank": 5
+    },
+    "maxeon": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 9
+    },
+    "sungrow": {
+      "event_count": 10,
+      "sentiment_avg": 0.0,
+      "rank": 2
+    },
+    "array": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 8
+    },
+    "jinko": {
+      "event_count": 14,
+      "sentiment_avg": 0.05,
+      "rank": 1
+    },
+    "nextracker": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 10
+    },
+    "xinyi_solar": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 6
+    },
+    "daqo": {
+      "event_count": 8,
+      "sentiment_avg": 0.12,
+      "rank": 4
+    },
+    "gcl": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 11
+    },
+    "canadian_solar": {
+      "event_count": 1,
+      "sentiment_avg": 0.5,
+      "rank": 12
+    },
+    "risen": {
+      "event_count": 3,
+      "sentiment_avg": 0.33,
+      "rank": 7
+    },
+    "enphase": {
+      "event_count": 1,
+      "sentiment_avg": -1.0,
+      "rank": 13
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 388,
+        "last": 244,
+        "change_pct": 59.0
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-04-28",
+      "event_count": 92,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-04-29",
+      "event_count": 95,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-04-30",
+      "event_count": 79,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-05-01",
+      "event_count": 85,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-05-02",
+      "event_count": 21,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-05-03",
+      "event_count": 7,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-05-04",
+      "event_count": 9,
+      "sentiment_avg": 0
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-04-28 ~ 2026-05-04）共 388 則事件，重點為「After nearly 15 years at First Solar, Wickersha...」。事件量較上週增加 59%，產業動態明顯升溫，需密切關注。",
+    "watchlist": [
+      {
+        "company": "Enphase Energy",
+        "reason": "本週情緒偏負面（-1.0），共 1 則相關事件，需關注後續發展。"
+      },
+      {
+        "company": "隆基綠能",
+        "reason": "本週出現 8 則相關事件且情緒偏負面，需特別關注。"
+      },
+      {
+        "company": "天合光能",
+        "reason": "本週出現 5 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

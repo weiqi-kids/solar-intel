@@ -1,5 +1,171 @@
 [
   {
+    "id": "daqo-2026-05-04-001",
+    "date": "2026-05-04",
+    "companies": [
+      "daqo"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Daqo New Energy’s Q1 2026 Revenue Down 79% Due to Lower Sales Volume - Mercomindia.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxONF9iNE43bGQtei13blU2OUhMXzFsQ3NWMWxWemJhRDNtOTExSWw2d0JySFRCWUI5T2RsRG0wTTJVdTVGcVBXelNoX0k5VndMbTZURVJnR2lNSTY3enFxblNIaXcxVERmWnM4dml2Rl",
+    "sources": [
+      {
+        "name": "daqo",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxONF9iNE43bGQtei13blU2OUhMXzFsQ3NWMWxWemJhRDNtOTExSWw2d0JySFRCWUI5T2RsRG0wTTJVdTVGcVBXelNoX0k5VndMbTZURVJnR2lNSTY3enFxblNIaXcxVERmWnM4dml2RllPb0lIR193VHlwVlFPQmJNNjQ1V2ZUNnNMTmVIRmdTUS1sak90YVJWeEdR?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-04-002",
+    "date": "2026-05-04",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "China Datang brings online 500 MW solar farm for direct data center supply",
+    "summary": "The project is integrated into a larger 2 GW first-phase build-out combining solar, wind, and storage, and uses dedicated transmission lines plus market trading to match renewable supply with data cen",
+    "sources": [
+      {
+        "name": "pv_magazine",
+        "url": "https://www.pv-magazine.com/2026/05/04/china-datang-brings-online-500-mw-solar-farm-for-direct-data-center-supply/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-04-003",
+    "date": "2026-05-04",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Japan reopens NEDO perovskite solar call with single-junction focus",
+    "summary": "Japan’s New Energy and Industrial Technology Development Organization (NEDO) has opened a supplementary call for proposals on mass production of next-generation single-junction perovskite solar cells,",
+    "sources": [
+      {
+        "name": "pv_magazine",
+        "url": "https://www.pv-magazine.com/2026/05/04/japan-reopens-nedo-perovskite-solar-call-with-single-junction-focus/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-04-004",
+    "date": "2026-05-04",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Study finds ‘relatively good’ agreement in worldwide solar cell calibrations, but flags key differences in testing methods",
+    "summary": "An interlaboratory comparison across nine metrology institutes found generally good agreement in solar cell calibration under the World Photovoltaic Scale, but still revealed measurable differences in",
+    "sources": [
+      {
+        "name": "pv_magazine",
+        "url": "https://www.pv-magazine.com/2026/05/04/study-finds-relatively-good-agreement-in-worldwide-solar-cell-calibrations-but-flags-key-differences-in-testing-methods/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-04-005",
+    "date": "2026-05-04",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Free market, curtailment, and storage reshaping Brazilian solar sector",
+    "summary": "Brazil’s solar sector is entering a new phase marked by curtailment, grid constraints, and regulatory shifts, with growth increasingly tied to new business models and market dynamics. Industry leaders",
+    "sources": [
+      {
+        "name": "pv_magazine",
+        "url": "https://www.pv-magazine.com/2026/05/04/free-market-curtailment-and-storage-reshaping-brazilian-solar-sector/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-04-006",
+    "date": "2026-05-04",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "French IPP building mini solar farms via low-voltage extension",
+    "summary": "Solvéo Energies has expanded its Bélesta-en-Lauragais solar plant to 3 MW with a new 300 kW unit, using a decentralized low-voltage “mini solar field” design.\nThe model enables faster permitting and g",
+    "sources": [
+      {
+        "name": "pv_magazine",
+        "url": "https://www.pv-magazine.com/2026/05/04/french-ipp-building-mini-solar-farms-via-low-voltage-extension/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-04-007",
+    "date": "2026-05-04",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "The best performing utility-scale PV asset in Australia",
+    "summary": "The 204 MW Edenvale Solar Park in Queensland’s Western Downs region has been identified by energy consultancy Rystad Energy as the best performing large-scale PV asset in Australia last month.",
+    "sources": [
+      {
+        "name": "pv_magazine",
+        "url": "https://www.pv-magazine.com/2026/05/04/the-best-performing-utility-scale-pv-asset-in-australia/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-04-008",
+    "date": "2026-05-04",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Can Solar Panels Clean Themselves? Liquid Droplet Mops Offer 90% Water Savings for Arid Climate Energy - Intelligent Living",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE5yZDFCZmx0dEZ3cEdWbEVZNXZOSFl2YW8xWk9Sd3pQbTJydGJBUnJaUUdwa1Z2YUlyU3B3R1NIRk1YaGRCTmo5cWpQU1hNSzhEc29lVEdSdW43dXphVWZ5czlVM2xXZ1hZamVqd2otR1",
+    "sources": [
+      {
+        "name": "google_news_solar",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5yZDFCZmx0dEZ3cEdWbEVZNXZOSFl2YW8xWk9Sd3pQbTJydGJBUnJaUUdwa1Z2YUlyU3B3R1NIRk1YaGRCTmo5cWpQU1hNSzhEc29lVEdSdW43dXphVWZ5czlVM2xXZ1hZamVqd2otR1FfU05JS1VDN0hKMA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "longi-2026-05-04-009",
+    "date": "2026-05-04",
+    "companies": [
+      "longi"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "LONGi Reports Q1 2026 Revenue of CNY 11.19 Billion as Solar-Storage Integration Strategy Accelerates - SolarQuarter",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxOQ2xsMkFBblMwa0JoVm9RWE1ZMi1YVDdjMzN5bThmRlFRQkRmWWZyRkxmb2Z6NUhqeVlydW5PdEdZTkZRZDN3cVFJQWt4c0xPN0dBcFBXa0dSMkFYLUpLbmpYRmttMTZhd1NhRGFrc2",
+    "sources": [
+      {
+        "name": "google_news_solar",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOQ2xsMkFBblMwa0JoVm9RWE1ZMi1YVDdjMzN5bThmRlFRQkRmWWZyRkxmb2Z6NUhqeVlydW5PdEdZTkZRZDN3cVFJQWt4c0xPN0dBcFBXa0dSMkFYLUpLbmpYRmttMTZhd1NhRGFrc2wxbkRjT2Vic3VNX1kzUEtEV0pPQWRteDZyYnJ0dHZZelRiWDRWbmpBUEV2TTVXYU45SEdxMlhpQXZLdDFqTC0zQ01rNzBXOEtHS0ZKQ1Q1dnZEXy10SlE3Z3FwWHMtNTVybENj?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "jinko-2026-05-03-001",
     "date": "2026-05-03",
     "companies": [
@@ -91,6 +257,44 @@
       {
         "name": "google_news_solar",
         "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPVERsall4Mkl3MklNX2dobjdjbUdxTWRibkNjZnZJV3FzbGxINFFtSm5wZVNrUkdYTW55VnA2Y0RtTUczTWRWQkx4RVFJUEhDd1VsTE5PbW1vR1BJd0ZNenZqTUlscVFRaHBVNVoyUjBPUlBYQTFZNlAyMEN1RFNOTEJieU5yYjFWNzU2Smh3SkFZTElvRTlfZGE1aHQ4bWFnaFUzOFk5eWY3eHdFR0dnYXZWWlFRRjgyNkU5eWs4LXVGcE5ORmpFeHNUUFZGaFN5YmtDNDA5UEM3clpTOTVhS1FQMHJUQXF5aS1qZzJVNy1kbDQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "jinko-2026-05-03-006",
+    "date": "2026-05-03",
+    "companies": [
+      "jinko"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "UBS Stays Neutral on JinkoSolar Holding Co., Ltd. (JKS) After Earnings, What Are They Seeing? - Insider Monkey",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxPQWNQelJ2WHpSdXBMQ3Z2QUdMZXluaENxVnAxdVRlZ0VsUmlFSXZ4WWUxVnJObmExc2puamdIUGJaclpjZkhxUWtUSXRzMmFIYmVvNmN1c0RNR3dWamMxZmc4NzUyQzNfQklzMkw4TV",
+    "sources": [
+      {
+        "name": "jinko",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPQWNQelJ2WHpSdXBMQ3Z2QUdMZXluaENxVnAxdVRlZ0VsUmlFSXZ4WWUxVnJObmExc2puamdIUGJaclpjZkhxUWtUSXRzMmFIYmVvNmN1c0RNR3dWamMxZmc4NzUyQzNfQklzMkw4TVc5UVpjWGo5a29ETWNiY0RFX2N1Nk4xX21TUEk4VDNVTl9leFBkTDRJSzhyeDE5Mm5ieG9tVEM2WjQwbGRoY0NTVWFxb2YxNXlNVjVMOUNSOWtybjB6NHBqaXp30gHSAUFVX3lxTE5rT0hOMzJKdVJMcmdjdFRlY0NRWWo1Q1dLQ2pLb05ucDZyQ1FWOExGY1VjUC1lZS01OG5qTTJxM3Zpc29yd2kza2NmX2V2Ty0yeDZUODlZeEFMU2UyVEN0QktOZnljay0tSzdvYmZKeXgzc2pGMmozdlptb1M1QVFDdXdYN0VaZWplVkdxUG1SWnhtUWRTSl9jVWRYU1RKWEpINUM1SUVaYzRCLTRlNnNhNlFlS2Z2ei1ZbENaLTFLck1oeDJmVkZuSmNrdW5MOXdGUQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-03-007",
+    "date": "2026-05-03",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "EU Green Hydrogen Scheme Embraces High-Tech Solar Foods",
+    "summary": "<p>The Finnish startup Solar Foods leverages a natural microorganism, renewable energy, and green hydrogen to produce Solein, a protein-rich food supplement produced through gas fermentation.</p>\n<p>T",
+    "sources": [
+      {
+        "name": "cleantechnica",
+        "url": "https://cleantechnica.com/2026/05/03/eu-green-hydrogen-scheme-embraces-high-tech-solar-foods/",
         "type": "rss"
       }
     ]
@@ -480,6 +684,24 @@
       {
         "name": "cleantechnica",
         "url": "https://cleantechnica.com/2026/05/02/3-2-million-awarded-for-tribal-solar-projects/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-02-021",
+    "date": "2026-05-02",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "SCC denies Dominion Energy request to slash rooftop solar reimbursements - Augusta Free Press",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxNM21Odl9XSEpQMmh1Wk1FM1pLOWNUQ0dOTEk0bTRUWFEzaDFZaWl2M2pNa2NoODdpLVd0NGNxYVJpaWFCeHh6cFgteXRNUTFNd3p1Mlo1ZHFWT1pUcmtCWmE1c3ktM0IyRHZjTnNhRz",
+    "sources": [
+      {
+        "name": "google_news_solar",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNM21Odl9XSEpQMmh1Wk1FM1pLOWNUQ0dOTEk0bTRUWFEzaDFZaWl2M2pNa2NoODdpLVd0NGNxYVJpaWFCeHh6cFgteXRNUTFNd3p1Mlo1ZHFWT1pUcmtCWmE1c3ktM0IyRHZjTnNhRzFzeXVIQ3hPVy1aZDdRVXBDeDVqQ1hkLUs1NFRhS3FsdGtiaHhvb3RUUkI3SHNqTF9VaEFoaEdaOUdyV28?oc=5",
         "type": "rss"
       }
     ]
@@ -1895,6 +2117,224 @@
       {
         "name": "maxeon",
         "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQU01yX3EyZE9fNVc4QVhueEhVMDJ0UXhPNHFWN0FPdEtPUE1MclRUQTVITGIwd1pleUtFVGJxUXNJVkxEYkMwMkdwZjQxSnQ2cVY4YjU3QTdhYk01bG1FVFdvNXFjaUpmUzhoczVNV3BZaWotYS1ySHphYTlhb0kzaW51dFA3ckQ1RFE1OWRHR29BVm5wZll2NU00cWgtTTJyMmZZSFItaw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "maxeon-2026-05-01-075",
+    "date": "2026-05-01",
+    "companies": [
+      "maxeon"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Return on assets % of Maxeon Solar Technologies, Ltd. – OTC:MAXNQ - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxQRGZvT1J6czN2MTZYU1JuVTAtVTd3RTMtbmcxTFhybjZnTmh0aXNkd2JRNm1maFpXRkVWYmFsM0xBTlFpazE3TUdhZUNwbGNoSE1OMDc5R2ZEal9SeVZhSko4V0M1VzM0TGFZRm14bH",
+    "sources": [
+      {
+        "name": "maxeon",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQRGZvT1J6czN2MTZYU1JuVTAtVTd3RTMtbmcxTFhybjZnTmh0aXNkd2JRNm1maFpXRkVWYmFsM0xBTlFpazE3TUdhZUNwbGNoSE1OMDc5R2ZEal9SeVZhSko4V0M1VzM0TGFZRm14bHJTYjFCZGN2cU1WRVB5SC14Zi05eXFiYVprWGdmMlVqSUtwNVNfVDlsQ1NVTXY?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "maxeon-2026-05-01-076",
+    "date": "2026-05-01",
+    "companies": [
+      "maxeon"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Maxeon Solar Technologies, Ltd. Earnings and Revenue – OTC:MAXNQ - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE0wVTRaUXVHbFlFRWVOQklkbXZjcnJfNXpsVkxRQUxzbnlYaGhyOHR5d0RfbGY4dE96YWVfNWhCRE1KV2FSaV9RaDlsRkdRRTkwd05ReUhxMWpId2Q0a21GZEtmcVdmRmtheFBxN1RESH",
+    "sources": [
+      {
+        "name": "maxeon",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE0wVTRaUXVHbFlFRWVOQklkbXZjcnJfNXpsVkxRQUxzbnlYaGhyOHR5d0RfbGY4dE96YWVfNWhCRE1KV2FSaV9RaDlsRkdRRTkwd05ReUhxMWpId2Q0a21GZEtmcVdmRmtheFBxN1RESHpWUm9n?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "maxeon-2026-05-01-077",
+    "date": "2026-05-01",
+    "companies": [
+      "maxeon"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "EBITDA margin % of Maxeon Solar Technologies, Ltd. – OTC:MAXNQ - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxQcGpqeGdtamJfWEJ1V2RFcDNvUC1SZnppOHlpRUVlU2JndVU5Mjk0czhUWmRwMXJsNnp0eTRNTEN2bTVITGVOMFZnWV9CQ2RWbko3QkR0WlVsOHdXRmZHY1BjWTdGS3lPbVczbzFWU0",
+    "sources": [
+      {
+        "name": "maxeon",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQcGpqeGdtamJfWEJ1V2RFcDNvUC1SZnppOHlpRUVlU2JndVU5Mjk0czhUWmRwMXJsNnp0eTRNTEN2bTVITGVOMFZnWV9CQ2RWbko3QkR0WlVsOHdXRmZHY1BjWTdGS3lPbVczbzFWU080OFR5S25rZUtrRERSdE1TNk9qUTNMWFFwZVZMODNkU1QtS3JYRkc5YQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "maxeon-2026-05-01-078",
+    "date": "2026-05-01",
+    "companies": [
+      "maxeon"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Net margin % of MAXEON SOLAR TECHNOLOGIES LTD – OTC:MAXNQ - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxOUHdCVW1LS2JWcDh6TWRPSXVoeDFRMnJXQ2VlUEdSOVNSbW50TW1Hbng3X0FIYlFCNlRpSWktTHhldWFtak5iY3dJR0NTaV9vRWtYcEI3aHZwNkgwN2xXaXYzblpwVEl6NUhUSUdwcn",
+    "sources": [
+      {
+        "name": "maxeon",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOUHdCVW1LS2JWcDh6TWRPSXVoeDFRMnJXQ2VlUEdSOVNSbW50TW1Hbng3X0FIYlFCNlRpSWktTHhldWFtak5iY3dJR0NTaV9vRWtYcEI3aHZwNkgwN2xXaXYzblpwVEl6NUhUSUdwcnVHV0NuZ0JTbndGUEd4OXRQSE5MTi0yZ2FieDVYUlJ0MTd5ejlW?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "maxeon-2026-05-01-079",
+    "date": "2026-05-01",
+    "companies": [
+      "maxeon"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Pretax income of MAXEON SOLAR TECHNOLOGIES LTD – OTC:MAXNQ - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxPM2hjbzliay0yS2VpZlVqR09TQVB3NEE4bDdYeVpxQmpyRWF5ai1qYmVQYUpkcjlmM3JUWlJPcGFMU2x3S2F6VlRCTUFOTnN0SzJ1TjFvOUNFTTl6VlduaXJyaVhMa0x1TU1BM0JqMm",
+    "sources": [
+      {
+        "name": "maxeon",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPM2hjbzliay0yS2VpZlVqR09TQVB3NEE4bDdYeVpxQmpyRWF5ai1qYmVQYUpkcjlmM3JUWlJPcGFMU2x3S2F6VlRCTUFOTnN0SzJ1TjFvOUNFTTl6VlduaXJyaVhMa0x1TU1BM0JqMmFBQ2pyODJSczZUV2d6S09FWHVCSXZncEkzaFVJc1d6Y29GZw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "maxeon-2026-05-01-080",
+    "date": "2026-05-01",
+    "companies": [
+      "maxeon"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "CapEx per share of MAXEON SOLAR TECHNOLOGIES LTD – OTC:MAXNQ - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxOdFFMb29nbk5rNE03TmdkLVRQRmMteS13NzNDbHlTZV9RUVVoTmRMd2pzdlRETEhVeFhuVUNBRXJ2YTZyRHBOTVlNdkhrZ21odHQwdHBtRG9iOTBhU3lKV0JwX01ta1pod1dFTmdNS2",
+    "sources": [
+      {
+        "name": "maxeon",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOdFFMb29nbk5rNE03TmdkLVRQRmMteS13NzNDbHlTZV9RUVVoTmRMd2pzdlRETEhVeFhuVUNBRXJ2YTZyRHBOTVlNdkhrZ21odHQwdHBtRG9iOTBhU3lKV0JwX01ta1pod1dFTmdNS2lvS1dQRFpxOE90Tk81TGxLVFVyZmxVUXNxdUg4d2taX2doblIyd0t1Rmhjcw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "maxeon-2026-05-01-081",
+    "date": "2026-05-01",
+    "companies": [
+      "maxeon"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Debt to equity ratio of MAXEON SOLAR TECHNOLOGIES LTD – OTC:MAXNQ - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxQaHdPRVVQNzlGUkMtYmJuU3hHVWVmVFdQT00ySl9UYnF1Zkw2MHowNVM5ZVJleUtFVk1RWW1qRG9tMmR2aWs0UmJqemJoWUhpcHdJakpocHd0a2xsNFhNZmxsU3pwQ1d2eWo5aTBrN0",
+    "sources": [
+      {
+        "name": "maxeon",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQaHdPRVVQNzlGUkMtYmJuU3hHVWVmVFdQT00ySl9UYnF1Zkw2MHowNVM5ZVJleUtFVk1RWW1qRG9tMmR2aWs0UmJqemJoWUhpcHdJakpocHd0a2xsNFhNZmxsU3pwQ1d2eWo5aTBrN01vZk13Ym5FTEtOT1VMWm54S3JUWW5FdXNWa3JNSVRXTGRWQ1VIaHAzTm13?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "maxeon-2026-05-01-082",
+    "date": "2026-05-01",
+    "companies": [
+      "maxeon"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Taxes of MAXEON SOLAR TECHNOLOGIES LTD – OTC:MAXNQ - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxOS1M0WUlpaGQ3RHhFYW80aTUtNm5OTXhKa09CLTRVbTljWUF6SmQwZlFFYWlTYWtlZnU0TnpWY2xla3V4cTZOTUYwSE9Sc3E2UXFNdDdfZ2RXd2lQOGlHcVNYdllZakt5VzNpSnVKQ1",
+    "sources": [
+      {
+        "name": "maxeon",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOS1M0WUlpaGQ3RHhFYW80aTUtNm5OTXhKa09CLTRVbTljWUF6SmQwZlFFYWlTYWtlZnU0TnpWY2xla3V4cTZOTUYwSE9Sc3E2UXFNdDdfZ2RXd2lQOGlHcVNYdllZakt5VzNpSnVKQ19HOGhUckZiNmluWDVrX0xzelRScnIwakhqdFR1MDdR?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "maxeon-2026-05-01-083",
+    "date": "2026-05-01",
+    "companies": [
+      "maxeon"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Operating expenses (excl. COGS) of MAXEON SOLAR TECHNOLOGIES LTD – OTC:MAXNQ - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxNaS03aUtleE0xcWhjaEx4TFY5YmdVX1J0NzJHdmx0T1NTa3ZfS1kxdXBjQ0pzY1dLRmRGOEpteG0zTVY4ZnBCQVA5SEUxWW1zLVRId2JLWW5vTU5scGlKVk9hbjZQMHhjQ3JvSkl4TT",
+    "sources": [
+      {
+        "name": "maxeon",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNaS03aUtleE0xcWhjaEx4TFY5YmdVX1J0NzJHdmx0T1NTa3ZfS1kxdXBjQ0pzY1dLRmRGOEpteG0zTVY4ZnBCQVA5SEUxWW1zLVRId2JLWW5vTU5scGlKVk9hbjZQMHhjQ3JvSkl4TTlrbjJqOXlfVERjeC13ejJ5dGlQb005c3dObDBzaFl6RU5haEdIRE9VbQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "maxeon-2026-05-01-084",
+    "date": "2026-05-01",
+    "companies": [
+      "maxeon"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Debt to assets ratio of MAXEON SOLAR TECHNOLOGIES LTD – OTC:MAXNQ - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxPTkdhOU1taHRrTDdIaFJuaTVJZmVRUk5hUHZVVTc5UUt2QmN2dEdNMS1nbVhjSGR4UXAzN0FTeThtLXZTQ2V1UDdUcl9TQnJadDhqWWg4ZjI3WEpkNTlqWDZKN0VhaUFINUdFX2VMdl",
+    "sources": [
+      {
+        "name": "maxeon",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPTkdhOU1taHRrTDdIaFJuaTVJZmVRUk5hUHZVVTc5UUt2QmN2dEdNMS1nbVhjSGR4UXAzN0FTeThtLXZTQ2V1UDdUcl9TQnJadDhqWWg4ZjI3WEpkNTlqWDZKN0VhaUFINUdFX2VMdll0MmtibG9iTklfcnM0YmQtSk14ZkZJTGNSTHB5cURvc2Y2VmJhQTJ2Sg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-01-085",
+    "date": "2026-05-01",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "New panels produce hydrogen fuel using only water, sunlight and no electricity - Interesting Engineering",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxNcDBQWHdTdl9weG5pUllkT09fZ2UyNzZHZUpCSlI4dHdMWVVKcHhkSm0tYXl0dWliUTNOVnJjS2pKbG5SbWhSbWtVUThqR1ppN3gzYnM4SGJ5Rm9rQU9UZEFoeWRHN0s0czlxMlVYNF",
+    "sources": [
+      {
+        "name": "google_news_solar",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNcDBQWHdTdl9weG5pUllkT09fZ2UyNzZHZUpCSlI4dHdMWVVKcHhkSm0tYXl0dWliUTNOVnJjS2pKbG5SbWhSbWtVUThqR1ppN3gzYnM4SGJ5Rm9rQU9UZEFoeWRHN0s0czlxMlVYNFNOWHlVUUhBVFZDU0VYREJlZFRwM2dqRTNVTDNuRGh3?oc=5",
         "type": "rss"
       }
     ]
@@ -3355,6 +3795,42 @@
       {
         "name": "jinko",
         "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNTlREVzBxVEpadzcxRkVnUGsxUGZ6eEVMeXVtUkJxcmgyemYybWRqcDZqeVkweUxoZ3VxYXYzeVlyWGRQcm5CU3ozLS1KdEp1U245UjRRMlBtSnVaZ2hvZWotOXl1QjJ6SnZIaTNqUFhYLVFibGV2MzVxZldacThQaTAzWkxjQkNsaFlDX0Q1a0tKZWNYcDdWWkd0Z3JibWNfdmRCNm5R?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "longi-2026-04-30-078",
+    "date": "2026-04-30",
+    "companies": [
+      "longi"
+    ],
+    "topics": [],
+    "impact": "negative",
+    "title": "LONGi FY2025 Loss Narrows; Revenue Falls, Q1 Weak - TaiyangNews",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE1nellJSmJ3S0xPYU9TSDZUb3Z4ZFBEdDhURlhSbkJpZWhNM0Nia0VIajVCQnhEcll0Z0JxS0Vuay16NzFOb2VyLXlQOXZRSUcyczlPZ0FvNmRuTzl0eVhtVkRIUVhpdGc0aGlyLXdWRm",
+    "sources": [
+      {
+        "name": "longi",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1nellJSmJ3S0xPYU9TSDZUb3Z4ZFBEdDhURlhSbkJpZWhNM0Nia0VIajVCQnhEcll0Z0JxS0Vuay16NzFOb2VyLXlQOXZRSUcyczlPZ0FvNmRuTzl0eVhtVkRIUVhpdGc0aGlyLXdWRmpWdkXSAYABQVVfeXFMTktGY2c4Ti0xQWFPMGtNZkVqZXVsLUFhdE5IUDlyc3o0Qk5ENVRsbFoxZ1JGOHpheDZrWk4wMjNaaERLUzBLR1VRZEJla3czVnZNcXNnOHZPM051cUtVZm51eVg3eWZ3VERWcGJhZVRsTkswWF9IcklYZFhLbEJTNGE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-04-30-079",
+    "date": "2026-04-30",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Let it Snow: How Solar Panels Can Thrive in Winter Weather - Department of Energy (.gov)",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxQdGxPYnlyTkVYeWxITWxCWTZRVTZTeDlDY0NZdEdOdnRZS2dabmc1UHFwYnpJT0dSOXVSV25vbjBfWV9yRnFJZWRPeUFCckhMbjluWll2S2NsNGhaUDFKLVVydTFQVEFUNThJYXBPaE",
+    "sources": [
+      {
+        "name": "google_news_solar",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQdGxPYnlyTkVYeWxITWxCWTZRVTZTeDlDY0NZdEdOdnRZS2dabmc1UHFwYnpJT0dSOXVSV25vbjBfWV9yRnFJZWRPeUFCckhMbjluWll2S2NsNGhaUDFKLVVydTFQVEFUNThJYXBPaEFVOHBQSWhzWkdNYi1yOTQwbzdUMXNoTDFCeTNzTkhtQnZuamRXeHc?oc=5",
         "type": "rss"
       }
     ]
@@ -5156,6 +5632,26 @@
       {
         "name": "array",
         "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQZDNsRWVUMG9DWmprdEJOYkpfVW1vSW4xMHdsdU9CQWJJZkstUDFTRGZ5TlpiaUhnNnM2Xzd1NUFCTU1aVkFCay00YmZ5cm9SMVpiei1LeTJRbDhNM25VOGpraUpiR0g2SWUxU2tZRmk2MUJYV2c0NVdUZHloVFEySndDdklsTHBvanhWak5vaE1TQWU1R1R6R012MjRLeS1SQmdtOEZUMzNrLWZFMUhqdm1NSWpIN3JqU2JOVDJTRE9QMVBhREJkU19BcG4wUzhsdF90Rg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "trina-2026-04-29-095",
+    "date": "2026-04-29",
+    "companies": [
+      "trina"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Trina Solar posts over 70% reduction in Q1 losses; several leading photovoltaic firms to reach pivotal year for turning losses into profits by 2026 | Earnings Report Analysis - 富途牛牛",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxQV1JEQUZVMU1sZ0dHcDc0eWdkclNXT0EzVE1sUXJkQ2Jwd0l5dnZXX0NGdUNFZTdzeUVuZkRncWZtMlFpekdSZ2dWTC16NlZkYzZOeC12SmhwR2VuZm5pRlJvNEdXMDZxUTBLREU5Mm",
+    "sources": [
+      {
+        "name": "trina",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQV1JEQUZVMU1sZ0dHcDc0eWdkclNXT0EzVE1sUXJkQ2Jwd0l5dnZXX0NGdUNFZTdzeUVuZkRncWZtMlFpekdSZ2dWTC16NlZkYzZOeC12SmhwR2VuZm5pRlJvNEdXMDZxUTBLREU5Mm9kUmo3VGtOQ1JKMUFlampkRFNTSFhYNjU2NVRad0hHcmhUdkt5bHRQcGRaYlJiUQ?oc=5",
         "type": "rss"
       }
     ]

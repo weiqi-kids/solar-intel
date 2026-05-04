@@ -1,0 +1,16 @@
+{
+  "total_raw": 483,
+  "dup_title": 229,
+  "no_date": 0,
+  "too_old": 164,
+  "gate1_fail": 47,
+  "gate2_fail": 17,
+  "passed": 26,
+  "gate2_samples": [
+    "Is Daqo New Energy (DQ) Pricing Look Attractive After Recent Share Price Slide - simplywall.st",
+    "Daqo New Energy Corp. (DQ) Under Pressure: Roth Capital Warns of What’s Next - Insider Monkey",
+    "DAQO New Energy Corp. (NYSE:DQ) Short Interest Up 15.7% in April - MarketBeat",
+    "DAQO New Energy (NYSE:DQ) Rating Lowered to \"Strong Sell\" at Wall Street Zen - MarketBeat",
+    "DAQO New Energy (NYSE:DQ) Shares Gap Down - Time to Sell? - MarketBeat"
+  ]
+}

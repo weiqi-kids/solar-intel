@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-03T09:14:16.255007+00:00",
+  "updated_at": "2026-05-04T10:06:37.210473+00:00",
   "companies": {
     "xinyi_solar": {
       "name": "Xinyi Solar",
@@ -10,7 +10,7 @@
           "holder": "Boston Common Asset Management, LLC",
           "shares": 4141443,
           "pct_held": 0.05,
-          "value": 11844526
+          "value": 12507157
         }
       ]
     },
@@ -90,7 +90,7 @@
           "holder": "Winch Advisory Services LLC",
           "shares": 4000,
           "pct_held": 0.0,
-          "value": 3599
+          "value": 3640
         }
       ]
     },
@@ -103,61 +103,61 @@
           "holder": "Mackenzie Financial Corporation",
           "shares": 2884415,
           "pct_held": 4.25,
-          "value": 48256261
+          "value": 48285106
         },
         {
           "holder": "Shaw D.E. & Co., Inc.",
           "shares": 2678941,
           "pct_held": 3.95,
-          "value": 44818681
+          "value": 44845471
         },
         {
           "holder": "Invesco Ltd.",
           "shares": 2095909,
           "pct_held": 3.09,
-          "value": 35064556
+          "value": 35085516
         },
         {
           "holder": "Polunin Capital Partners Ltd",
           "shares": 2001869,
           "pct_held": 2.95,
-          "value": 33491267
+          "value": 33511286
         },
         {
           "holder": "Morgan Stanley",
           "shares": 1688944,
           "pct_held": 2.49,
-          "value": 28256032
+          "value": 28272922
         },
         {
           "holder": "Legal & General Group PLC",
           "shares": 1523837,
           "pct_held": 2.25,
-          "value": 25493792
+          "value": 25509031
         },
         {
           "holder": "Two Sigma Investments, LP",
           "shares": 1133276,
           "pct_held": 1.67,
-          "value": 18959706
+          "value": 18971039
         },
         {
           "holder": "Blackrock Inc.",
           "shares": 1056431,
           "pct_held": 1.56,
-          "value": 17674090
+          "value": 17684654
         },
         {
           "holder": "Shah Capital Management",
           "shares": 964557,
           "pct_held": 1.42,
-          "value": 16137038
+          "value": 16146683
         },
         {
           "holder": "BNP Paribas Financial Markets",
           "shares": 744259,
           "pct_held": 1.1,
-          "value": 12451452
+          "value": 12458895
         }
       ]
     },
