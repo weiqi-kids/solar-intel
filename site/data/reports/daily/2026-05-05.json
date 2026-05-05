@@ -1,0 +1,180 @@
+{
+  "date": "2026-05-05",
+  "generated_at": "2026-05-05T09:53:27.249824Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "jinko-2026-05-05-004",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "JinkoSolar’s Q1 module shipments plunge 21.9% - Asian Power",
+      "companies": [
+        "jinko"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9va3Q0U0RVM1dSSTlWZDEwR05NenhvSmR6c0FsNE85MEhjWU1iTXZOUkxUZDkzM2JFb3pKMkJLX1JaTk5ucWVwZHdfSC1XSnRfSlpiaTh0RklxMXJLMnFONTh2QWhTTC1Yb25EbGZlbmxyYkdqdUxqbmJLTQ?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-05-05-010",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Rooftop solar surges to new high in Australia on back of battery boom",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://www.pv-magazine.com/2026/05/05/rooftop-solar-surges-to-new-high-in-australian-on-back-of-battery-boom/"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-05-05-014",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Fluorine use in PV backsheets dropped sharply over past three decades",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.75
+      },
+      "source_url": "https://www.pv-magazine.com/2026/05/05/fluorine-use-in-pv-backsheets-dropped-sharply-over-past-three-decades/"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-05-05-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Why Solar Cars Are Yet to Hit the Roads Despite Multiple Trials - Saur Energy",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQSFk3WHlNTGptZWdzNmhvNUJQUXJ0QUJUWkNIV0JMeFhkRlRQdXl4RG9KQzJVZVF0WTRqczhYcm8xMGJBcTJqWjVpTGUtSUVNY1JYbnRnckhBeDhINzBrQXR3aFJ5ejRLeENzcFJXdDdUV2pQQ1B4WlFNaUxUMURFNVlEWW50WkNtcy1YckxsZ0lJck5CNktQVWdabWNGQU85RHF6NmZncmdzSXMydG04RGxvejUxZ280?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-05-05-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "China’s Solar Majors Reel Under Price War, Pivot To Storage To Stay Afloat - Saur Energy",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPdmxrcXVRWTc4VjFDVlVNeGtfZWFvanFsQXJmTzk5ajRkTkVxTnlMOWZyQUhsTFdsZG5DV3dGRS1hWjJDcVFfb1Zhb1dmcm9UZ1ViakExRUYzX3VIcWotZ2FGTmV0VXI3TDJmbWw1X3JHcjVSNlRYQmpIbHZPVE0tTkRfcnBIYk10RDVULTIwdzMxRGlPaUlGalFWSS0xSFlneHBLSHk5dGRJUXY4SzdEWVUzSFMtY3ZsQkxXZVAwRE9xc0ZQ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 26,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.03,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 26,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 23,
+      "negative": 2
+    },
+    "top_companies": [
+      {
+        "id": "jinko",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 26
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 484,
+    "dup_title": 177,
+    "too_old": 166,
+    "gate1_blocked": 47,
+    "gate2_blocked": 16,
+    "passed": 78,
+    "pass_rate": "25.4%",
+    "gate2_block_rate": "5.2%",
+    "gate2_samples": [
+      "Assessing Daqo New Energy (DQ) Valuation After Weak Q1 Results And Policy Dependent Recovery Hopes -",
+      "Daqo New Energy Weighs Pricing Discipline Against Losses And Policy Risks - Yahoo Finance",
+      "DAQO New Energy (NYSE:DQ) Rating Lowered to \"Strong Sell\" at Wall Street Zen - MarketBeat",
+      "Is Daqo New Energy (DQ) Pricing Look Attractive After Recent Share Price Slide - simplywall.st",
+      "DAQO New Energy Corp. (NYSE:DQ) Short Interest Up 15.7% in April - MarketBeat"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 26 則事件，焦點為晶科能源相關動態：「JinkoSolar’s Q1 module shipments plunge 21.9% - Asian Power」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "JinkoSolar’s Q1 module shipments plunge 21.9% - Asian Power（太陽能產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "Rooftop solar surges to new high in Australia on back of battery boom（太陽能產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
