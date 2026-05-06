@@ -1,0 +1,199 @@
+{
+  "date": "2026-05-06",
+  "generated_at": "2026-05-06T08:11:18.402117Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "canadian_solar-2026-05-06-005",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "Canadian Solar Wins Key U.S. Patent Ruling As The PTAB Of The U.S. Patent And Trademark Office Invalidates All claims In two TOPCon Patents Asserted By Trina Solar - SolarQuarter",
+      "companies": [
+        "canadian_solar",
+        "trina"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxNdnc4Qk16al9GT3lSdkFMTlRuOXh1REhDTmx6eUxqRVpYOHM1Uzd6ZjMtMmJ6TU8xOVI4RVJEQnlWTjVUdjgxMmxCZzFxbGNmam80YWljd2F0UkRWaGRYSzh0YUhwZ0hoVTdaY3NuR29kQjU1WmllSzVJdzI5SXFkR0k5bThRV2pNcmJObERsNFhEUkxyNG1wcGMyc0t2emQ0NHNsUnFHR19LZnUyNnRkQ1UzeGtMeUhMM1NOaW9BS1ZtMExMRkg1RXkyR2VTSlFOdmRwZW44SXpjb25fSGh3VER6dlhwQ0l4YXk5SXVaWkRsa2IwWFNMQjRiN0NWSFM5LWNjdldnNFlEbGI5Vk04MFUtUGVzRS1hNG92SGhoVlRwVG9J?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "xinyi_solar-2026-05-06-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Bullish block trade of XINYI SOLAR(00968) 798K shares at $2.96, $2.362M turnover - AASTOCKS.com",
+      "companies": [
+        "xinyi_solar"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPNTYwRTJNTWNWazVGalhhM3cxTWhfMk5jV0puOVhGaWM2dzZoM2xNZDZqeVYwNlZrUlVGcFdBNVlZZTl1UTk1TnBBcG5qNFNIaUIwWjJiYWh2TWlRQUwyN2JwT1hCd19peTZROUhkWUFvbVlxSGc2akRxeTRoNks2X19uTmI?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "gcl-2026-05-06-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "GCL Technology Details Use of US$148 Million Convertible Bond Proceeds to Bolster Liquidity and Repay Debt - TipRanks",
+      "companies": [
+        "gcl"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOdWZSVmZVY2M4WTZ2YklsT2ROYi1EN1BhXzg2QWFaMUhRTXp2R3hBYkdUZlgtSHBqb2V4UF9LVE9RaFdaTGY3UXFneDlmaV8xektqdVFGUlFpdXhrXzRfcF93b0Q1dFF3RjVlbmhabVdmOXRKVzVaOEtaR191ZVR3dWRGQlpEcFJuN3U4X05OYkJVS3AzOGo4ZHJVWTNpZ1doSk9wazBEenJJakN1WWFPNEw0cFlKSkJrUFBhejUxRHVZOHlYTEd3aUZwSWNzWTRhbEVwZ09vU2FDX1RPR3d3VW1xMzFSRnhzU2EzSFFn?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "ja_solar-2026-05-06-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Ja Solar expands DeepBlue 5.0 series with new modules - pv Europe",
+      "companies": [
+        "ja_solar"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPUmNaSGM4SUpvWmFSMUZiM09SVVlBeUFkRng2Q185aDRuT2xxNjZMNFlOajZBN19vTkhILVhXQ1Z5WGFZSDFvc2VramxscFBHMVBiRFhyN1FwckRQOUFKTkxRMDFRLWVpX0E1THN2eEktSk9wenROTzB3SDh4U28wdUVPeVpGTVYzSEZMcXln?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "trina-2026-05-06-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Trina launches rooftop solar module with lower-voltage design - pv magazine International",
+      "companies": [
+        "trina"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQN3N2QlgwZTRFWklvbTBBU0oyYnlLU3JhdXhmTjdvSGE0RW94MHE1X1NKZ1RsMEF5eFVzaVB3aENjZzdURzZkdlB3cEU0V2poSVZGUUFTT2I1dS0xRlNOYkl4Y19KTEZLamprUUhpTDZVa2l6Wmg5NF9jdDFPelY5UjBnb0g1SW84N01jeWQyWlEzSUQxMGxYWE5pSXpmcjFkQzFN?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 20,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.15,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 21,
+    "sentiment_distribution": {
+      "positive": 6,
+      "neutral": 15,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "trina",
+        "count": 6
+      },
+      {
+        "id": "xinyi_solar",
+        "count": 1
+      },
+      {
+        "id": "gcl",
+        "count": 1
+      },
+      {
+        "id": "ja_solar",
+        "count": 1
+      },
+      {
+        "id": "canadian_solar",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 20
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 484,
+    "dup_title": 198,
+    "too_old": 165,
+    "gate1_blocked": 43,
+    "gate2_blocked": 18,
+    "passed": 60,
+    "pass_rate": "21.0%",
+    "gate2_block_rate": "6.3%",
+    "gate2_samples": [
+      "Daqo New Energy Weighs Pricing Discipline Against Losses And Policy Risks - Yahoo Finance",
+      "Is Daqo New Energy (DQ) Pricing Look Attractive After Recent Share Price Slide - simplywall.st",
+      "Assessing Daqo New Energy (DQ) Valuation After Weak Q1 Results And Policy Dependent Recovery Hopes -",
+      "DAQO New Energy Corp. (NYSE:DQ) Short Interest Up 15.7% in April - MarketBeat",
+      "DAQO New Energy (NYSE:DQ) Rating Lowered to \"Strong Sell\" at Wall Street Zen - MarketBeat"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 21 則事件，焦點為天合光能、信義光能、協鑫科技相關動態：「Canadian Solar Wins Key U.S. Patent Ruling As The PTAB Of...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Canadian Solar Wins Key U.S. Patent Ruling As The PTAB Of The U.S. Patent And...（太陽能產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Bullish block trade of XINYI SOLAR(00968) 798K shares at $2.96, $2.362M turno...（太陽能產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
