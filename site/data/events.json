@@ -395,6 +395,42 @@
     ]
   },
   {
+    "id": "unknown-2026-05-06-022",
+    "date": "2026-05-06",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Angola switches on Africa’s largest off-grid solar-plus-storage park",
+    "summary": "The off-grid solar project, encompassing 31.85 MW of solar connected to 75.26 MWh of battery energy storage, will supply energy to over 90,000 people in eastern Angola.",
+    "sources": [
+      {
+        "name": "pv_magazine",
+        "url": "https://www.pv-magazine.com/2026/05/06/angola-switches-on-africas-largest-off-grid-solar-plus-storage-park/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-06-023",
+    "date": "2026-05-06",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Fortescue’s chairman says AI and battery storage ‘healed’ Australian mining grid in nanoseconds",
+    "summary": "Fortescue's AI-enabled batteries stabilised its Pilbara mining grid without spinning generators, reversing electron flow in nanoseconds during disruption.",
+    "sources": [
+      {
+        "name": "energy_storage_news",
+        "url": "https://www.energy-storage.news/fortescues-chairman-says-ai-and-battery-storage-healed-australian-mining-grid-in-nanoseconds/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "unknown-2026-05-05-001",
     "date": "2026-05-05",
     "companies": [],
@@ -1372,6 +1408,46 @@
       {
         "name": "cleantechnica",
         "url": "https://cleantechnica.com/2026/05/05/over-800-new-ev-chargers-may-be-coming-to-philadelphia/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "maxeon-2026-05-05-055",
+    "date": "2026-05-05",
+    "companies": [
+      "maxeon"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Maxeon Solar Technologies Ltd (MAXNQ) Stock PDF (Updated: 2026/05/05) - GuruFocus",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE5EYUIteElOUzNlcVVBRFZLUnRsRGVHQ21YU0tHODcxOWlEUmIyTHBZb1NBVE9nUlUyQ2NiSWlKbDgybHRka051QzZSQXhxWFA2cTZoVWNyaw?oc=5\" target=\"_blank\">Maxeon So",
+    "sources": [
+      {
+        "name": "maxeon",
+        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5EYUIteElOUzNlcVVBRFZLUnRsRGVHQ21YU0tHODcxOWlEUmIyTHBZb1NBVE9nUlUyQ2NiSWlKbDgybHRka051QzZSQXhxWFA2cTZoVWNyaw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "maxeon-2026-05-05-056",
+    "date": "2026-05-05",
+    "companies": [
+      "maxeon"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Maxeon Solar Technologies Ltd (MAXNQ) Stock Price & 30 Year Financial Data - GuruFocus",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE0tMkluX1JiNkg1bGRwdjhSU0s1VmZDTHJ3WkhwRHMwbHMxNU5fY0lfV2p2eHU1N2hvd3dzOEtxazI4SGQ4OEhzT09uRTlMOE52WXlOZDRoM3VTU3lU?oc=5\" target=\"_blank\">Max",
+    "sources": [
+      {
+        "name": "maxeon",
+        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE0tMkluX1JiNkg1bGRwdjhSU0s1VmZDTHJ3WkhwRHMwbHMxNU5fY0lfV2p2eHU1N2hvd3dzOEtxazI4SGQ4OEhzT09uRTlMOE52WXlOZDRoM3VTU3lU?oc=5",
         "type": "rss"
       }
     ]
@@ -4738,6 +4814,66 @@
       {
         "name": "maxeon",
         "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOZG5YSkN0bEtzT1dIS3B0SDhaX3VHYWJWOEF5aGRtLS1QYWJURzlvdTN3SFE5V0ROa0xzMnBhbDluU19IS0ozXzkzRmZYX3VnQVExYlg1RnBvdHAtTG43Z3N2VFc5UDQ4TDI5UDVkZ1gxQUk4N2l1Q0tzd2prQmVFbVZDMTBoZDBGYjBSODkwWno1MXNBd2tvSnlyTnFKbFdHVjlkM0lLV3E?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "maxeon-2026-05-01-095",
+    "date": "2026-05-01",
+    "companies": [
+      "maxeon"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Preferred dividends of MAXEON SOLAR TECHNOLOGIES LTD – OTC:MAXNQ - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxNS0hidlB1ZVlfNmsyY3A2S2lJS1B0bWFsLWxNWlZBY2IyaXB3ZWI0OExNRTA2Vk5TQ1dwUzFFTzZOQjVOc09rcmxhY3BPZC1CSGtsbE9NWWkzOGJTS2FFa2x3eVN4VWNaWFViMlNIUF",
+    "sources": [
+      {
+        "name": "maxeon",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNS0hidlB1ZVlfNmsyY3A2S2lJS1B0bWFsLWxNWlZBY2IyaXB3ZWI0OExNRTA2Vk5TQ1dwUzFFTzZOQjVOc09rcmxhY3BPZC1CSGtsbE9NWWkzOGJTS2FFa2x3eVN4VWNaWFViMlNIUFVpcGUyY25QNGRIZ05ERGxpQ2tWRFVwUTVJT3oyNW90VEpNcUtiY2FoTGt3?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "maxeon-2026-05-01-096",
+    "date": "2026-05-01",
+    "companies": [
+      "maxeon"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "CapEx per share of Maxeon Solar Technologies, Ltd. – OTC:MAXNQ - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxOdFFMb29nbk5rNE03TmdkLVRQRmMteS13NzNDbHlTZV9RUVVoTmRMd2pzdlRETEhVeFhuVUNBRXJ2YTZyRHBOTVlNdkhrZ21odHQwdHBtRG9iOTBhU3lKV0JwX01ta1pod1dFTmdNS2",
+    "sources": [
+      {
+        "name": "maxeon",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOdFFMb29nbk5rNE03TmdkLVRQRmMteS13NzNDbHlTZV9RUVVoTmRMd2pzdlRETEhVeFhuVUNBRXJ2YTZyRHBOTVlNdkhrZ21odHQwdHBtRG9iOTBhU3lKV0JwX01ta1pod1dFTmdNS2lvS1dQRFpxOE90Tk81TGxLVFVyZmxVUXNxdUg4d2taX2doblIyd0t1Rmhjcw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "maxeon-2026-05-01-097",
+    "date": "2026-05-01",
+    "companies": [
+      "maxeon"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Debt to equity ratio of Maxeon Solar Technologies, Ltd. – OTC:MAXNQ - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxQaHdPRVVQNzlGUkMtYmJuU3hHVWVmVFdQT00ySl9UYnF1Zkw2MHowNVM5ZVJleUtFVk1RWW1qRG9tMmR2aWs0UmJqemJoWUhpcHdJakpocHd0a2xsNFhNZmxsU3pwQ1d2eWo5aTBrN0",
+    "sources": [
+      {
+        "name": "maxeon",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQaHdPRVVQNzlGUkMtYmJuU3hHVWVmVFdQT00ySl9UYnF1Zkw2MHowNVM5ZVJleUtFVk1RWW1qRG9tMmR2aWs0UmJqemJoWUhpcHdJakpocHd0a2xsNFhNZmxsU3pwQ1d2eWo5aTBrN01vZk13Ym5FTEtOT1VMWm54S3JUWW5FdXNWa3JNSVRXTGRWQ1VIaHAzTm13?oc=5",
         "type": "rss"
       }
     ]

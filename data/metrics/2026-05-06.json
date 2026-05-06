@@ -1,6 +1,6 @@
 {
   "date": "2026-05-06",
-  "total_events": 21,
+  "total_events": 23,
   "by_company": {
     "xinyi_solar": {
       "count": 1,
@@ -25,8 +25,8 @@
   },
   "by_topic": {
     "industry_general": {
-      "count": 20,
-      "sentiment_avg": 0.15
+      "count": 22,
+      "sentiment_avg": 0.14
     }
   },
   "baselines_used": {
