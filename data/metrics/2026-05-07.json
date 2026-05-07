@@ -1,0 +1,57 @@
+{
+  "date": "2026-05-07",
+  "total_events": 32,
+  "by_company": {
+    "daqo": {
+      "count": 1,
+      "sentiment_avg": -1.0
+    },
+    "gcl": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "longi": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "trina": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "jinko": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "maxeon": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "array": {
+      "count": 4,
+      "sentiment_avg": 0.0
+    },
+    "canadian_solar": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "first_solar": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "sungrow": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "industry_general": {
+      "count": 31,
+      "sentiment_avg": 0.02
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

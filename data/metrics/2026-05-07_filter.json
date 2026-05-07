@@ -1,0 +1,16 @@
+{
+  "total_raw": 483,
+  "dup_title": 176,
+  "no_date": 0,
+  "too_old": 162,
+  "gate1_fail": 41,
+  "gate2_fail": 12,
+  "passed": 92,
+  "gate2_samples": [
+    "Daqo New Energy Weighs Pricing Discipline Against Losses And Policy Risks - Yahoo Finance",
+    "Is Daqo New Energy (DQ) Pricing Look Attractive After Recent Share Price Slide - simplywall.st",
+    "DAQO New Energy (NYSE:DQ) Rating Lowered to \"Strong Sell\" at Wall Street Zen - MarketBeat",
+    "Assessing Daqo New Energy (DQ) Valuation After Weak Q1 Results And Policy Dependent Recovery Hopes -",
+    "DAQO New Energy Corp. (NYSE:DQ) Short Interest Up 15.7% in April - MarketBeat"
+  ]
+}

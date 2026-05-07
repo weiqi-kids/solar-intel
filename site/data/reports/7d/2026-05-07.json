@@ -1,0 +1,167 @@
+{
+  "date": "2026-05-07",
+  "date_range": {
+    "start": "2026-05-01",
+    "end": "2026-05-07"
+  },
+  "generated_at": "2026-05-07T10:15:12.457403Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "first_solar-2026-05-04-019",
+      "date": "2026-05-04",
+      "title": "Hiring Ex‑First Solar Tech Leader Might Change The Case For Investing In Array Technologies (ARRY) - simplywall.st",
+      "importance_score": 0.9
+    },
+    {
+      "type": "sentiment_reversal",
+      "subject": "daqo",
+      "subject_type": "company",
+      "this_week_sentiment": -0.17,
+      "last_week_sentiment": 0.25,
+      "delta": -0.41,
+      "rank": 2
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "industry_general": {
+      "this_week": 111,
+      "last_week": 100,
+      "week_over_week_change": "+11%",
+      "sentiment_this_week": 0.06
+    }
+  },
+  "company_7d_summary": {
+    "xinyi_solar": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 5
+    },
+    "daqo": {
+      "event_count": 6,
+      "sentiment_avg": -0.17,
+      "rank": 3
+    },
+    "jinko": {
+      "event_count": 9,
+      "sentiment_avg": -0.0,
+      "rank": 1
+    },
+    "risen": {
+      "event_count": 2,
+      "sentiment_avg": 0.5,
+      "rank": 6
+    },
+    "sungrow": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 7
+    },
+    "longi": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 8
+    },
+    "gcl": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 9
+    },
+    "ja_solar": {
+      "event_count": 1,
+      "sentiment_avg": 0.5,
+      "rank": 11
+    },
+    "trina": {
+      "event_count": 7,
+      "sentiment_avg": 0.0,
+      "rank": 2
+    },
+    "canadian_solar": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 10
+    },
+    "maxeon": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 12
+    },
+    "array": {
+      "event_count": 4,
+      "sentiment_avg": 0.0,
+      "rank": 4
+    },
+    "first_solar": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 13
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 350,
+        "last": 423,
+        "change_pct": -17.3
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-05-01",
+      "event_count": 102,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-05-02",
+      "event_count": 21,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-05-03",
+      "event_count": 13,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-05-04",
+      "event_count": 48,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-05-05",
+      "event_count": 57,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-05-06",
+      "event_count": 77,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-05-07",
+      "event_count": 32,
+      "sentiment_avg": 0
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-05-01 ~ 2026-05-07）共 350 則事件，重點為「Hiring Ex‑First Solar Tech Leader Might Change ...」。東方日升、晶澳科技表現正面，整體氣氛穩健。",
+    "watchlist": [
+      {
+        "company": "大全新能源",
+        "reason": "本週出現 6 則相關事件且情緒偏負面，需特別關注。"
+      },
+      {
+        "company": "晶科能源",
+        "reason": "本週出現 9 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "天合光能",
+        "reason": "本週出現 7 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
