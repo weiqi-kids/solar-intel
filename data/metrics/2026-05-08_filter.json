@@ -1,0 +1,16 @@
+{
+  "total_raw": 486,
+  "dup_title": 190,
+  "no_date": 0,
+  "too_old": 171,
+  "gate1_fail": 47,
+  "gate2_fail": 16,
+  "passed": 62,
+  "gate2_samples": [
+    "Daqo New Energy Weighs Pricing Discipline Against Losses And Policy Risks - Yahoo Finance",
+    "Is Daqo New Energy (DQ) Pricing Look Attractive After Recent Share Price Slide - simplywall.st",
+    "Assessing Daqo New Energy (DQ) Valuation After Weak Q1 Results And Policy Dependent Recovery Hopes -",
+    "DAQO New Energy (NYSE:DQ) Rating Lowered to \"Strong Sell\" at Wall Street Zen - MarketBeat",
+    "Katrin Wehr-Seiter Nominated as Member of the Board of Directors of Meyer Burger - I-Connect007"
+  ]
+}

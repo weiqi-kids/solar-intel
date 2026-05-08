@@ -1,0 +1,29 @@
+{
+  "date": "2026-05-08",
+  "total_events": 17,
+  "by_company": {
+    "gcl": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "ja_solar": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "array": {
+      "count": 2,
+      "sentiment_avg": 0.12
+    }
+  },
+  "by_topic": {
+    "industry_general": {
+      "count": 16,
+      "sentiment_avg": 0.05
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}
