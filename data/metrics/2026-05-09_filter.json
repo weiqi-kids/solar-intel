@@ -1,0 +1,16 @@
+{
+  "total_raw": 484,
+  "dup_title": 195,
+  "no_date": 0,
+  "too_old": 164,
+  "gate1_fail": 51,
+  "gate2_fail": 15,
+  "passed": 59,
+  "gate2_samples": [
+    "Daqo New Energy Weighs Pricing Discipline Against Losses And Policy Risks - Yahoo Finance",
+    "We're Not Worried About Daqo New Energy's (NYSE:DQ) Cash Burn - Moomoo",
+    "Assessing Daqo New Energy (DQ) Valuation After Weak Q1 Results And Policy Dependent Recovery Hopes -",
+    "Is Daqo New Energy (DQ) Pricing Look Attractive After Recent Share Price Slide - simplywall.st",
+    "LONGi Awarded Q2 2026 BloombergNEF Tier 1 List - Longi"
+  ]
+}

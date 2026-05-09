@@ -1,0 +1,191 @@
+{
+  "date": "2026-05-09",
+  "generated_at": "2026-05-09T09:08:46.776998Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "longi-2026-05-09-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Longi's first energy storage project in Finland goes operational - China Daily",
+      "companies": [
+        "longi"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFB0RTk0dUkybnN3RnM4eG1EWVNYR0tPem9ldEhQMm5PUGVwdi12THRwcGQyR2hPdDU0djZ5QWkxYmRhVk9NcXZPNmVFa2xZRW16MTQwMWp0bzg2UU1YY2NFQ1BNRkxKNTdGbE9VODczcHU1Y2N3S21lVGtsMzhuUQ?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "longi-2026-05-09-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "LONGi Green Energy stock (CNE100001FR6): Solar giant faces headwinds amid global oversupply - AD HOC NEWS",
+      "companies": [
+        "longi"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPZi1lcGpwYmF5Skt5Z3ZmeGhpMWl4YVFBZllHQTFmdng0ZnRjQXRXYnp4R25KQWtUNks4T1JkdUN5WkZYd05wNWxVLWJHTzIwY3U5Q0RVRkxRczM0ZWVuRkJsSndCSXMyS21rcGV5YUJMWFA4R3FNTzJzNEpPTThhVU9Ia2ctWWNoVHhKX0ROd1NBWHo2eEkxWWp4RUdMUHlEckxsYTFFN1ZjdFdHbGRLMjI2ZHprVTkwZ3RxVkcxMldzOGZDX2lzRA?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-05-09-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "EVA prices have recently fluctuated and pulled back, mainly under the - Shanghai Metals Market",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNOHJwLWI2RkFWTFVlYXROaFNxdldpV0VxdVFFLUZFNEx6TTdybFB3MGpPNnJsYkROb0VCekFVYzZOSFdPQjJNN2c4UHU1NjJNME5xNXFKdURBTGZNSTlMT2l0M1d3SGNtUXRFZFdZYWRCMlFqTGt2SmpsNUUyUVZGNFlsOVhBcEk1WEpfNjZkZl9jRUlPYlN0ZUlFU1BJYktHU0lRTW1NUWlxanVsQndvVmVMaDZ4LUp0RDhaNENFTzV4VzVvQTBvdDM3ZkJ6UHFHaXNveDI1M2ZHSWpI?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-05-09-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Sunwoda completes large-scale fire test for ‘5 MWh Liquid Cooling ESS’",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.pv-magazine.com/2026/05/09/sunwoda-completes-large-scale-fire-test-for-5-mwh-liquid-cooling-ess/"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-05-09-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Argentina sees strong growth in solar distributed generation amid electricity price hikes",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "trade_tariff",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://www.pv-magazine.com/2026/05/09/argentina-sees-strong-growth-in-solar-distributed-generation-amid-electricity-price-hikes/"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 9,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.06,
+      "sentiment_7d_avg": null
+    },
+    "trade_tariff": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.25,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 10,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 9,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "longi",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 9
+      },
+      {
+        "id": "trade_tariff",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 484,
+    "dup_title": 195,
+    "too_old": 164,
+    "gate1_blocked": 51,
+    "gate2_blocked": 15,
+    "passed": 59,
+    "pass_rate": "20.4%",
+    "gate2_block_rate": "5.2%",
+    "gate2_samples": [
+      "Daqo New Energy Weighs Pricing Discipline Against Losses And Policy Risks - Yahoo Finance",
+      "We're Not Worried About Daqo New Energy's (NYSE:DQ) Cash Burn - Moomoo",
+      "Assessing Daqo New Energy (DQ) Valuation After Weak Q1 Results And Policy Dependent Recovery Hopes -",
+      "Is Daqo New Energy (DQ) Pricing Look Attractive After Recent Share Price Slide - simplywall.st",
+      "LONGi Awarded Q2 2026 BloombergNEF Tier 1 List - Longi"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 10 則事件，焦點為隆基綠能相關動態：「Longi's first energy storage project in Finland goes oper...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Longi's first energy storage project in Finland goes operational - China Daily（太陽能產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "LONGi Green Energy stock (CNE100001FR6): Solar giant faces headwinds amid glo...（太陽能產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
