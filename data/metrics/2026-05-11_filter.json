@@ -1,0 +1,16 @@
+{
+  "total_raw": 484,
+  "dup_title": 217,
+  "no_date": 0,
+  "too_old": 174,
+  "gate1_fail": 52,
+  "gate2_fail": 13,
+  "passed": 28,
+  "gate2_samples": [
+    "Daqo New Energy (DQ) Reports Q1 2026 Loss Amid Strategic Sales Reduction - Yahoo Finance",
+    "Top DAQO New Energy (DQ) Competitors 2026 - MarketBeat",
+    "We're Not Worried About Daqo New Energy's (NYSE:DQ) Cash Burn - Moomoo",
+    "Assessing Daqo New Energy (DQ) Valuation After Weak Q1 Results And Policy Dependent Recovery Hopes -",
+    "Daqo New Energy Weighs Pricing Discipline Against Losses And Policy Risks - Yahoo Finance"
+  ]
+}
