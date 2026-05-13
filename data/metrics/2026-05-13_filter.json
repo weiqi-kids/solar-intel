@@ -1,0 +1,16 @@
+{
+  "total_raw": 482,
+  "dup_title": 201,
+  "no_date": 0,
+  "too_old": 157,
+  "gate1_fail": 45,
+  "gate2_fail": 6,
+  "passed": 73,
+  "gate2_samples": [
+    "Daqo New Energy (DQ) Reports Q1 2026 Loss Amid Strategic Sales Reduction - Yahoo Finance",
+    "Top DAQO New Energy (DQ) Competitors 2026 - MarketBeat",
+    "LONGi Awarded Q2 2026 BloombergNEF Tier 1 List - Longi",
+    "Sungrow Achieves Three No.1 Rankings in the 2026 SunWiz Awards - AAP News",
+    "The UK delivers Europe’s largest vanadium flow battery system"
+  ]
+}
