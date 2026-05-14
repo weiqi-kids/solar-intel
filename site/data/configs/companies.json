@@ -1,0 +1,430 @@
+{
+  "companies": [
+    {
+      "id": "xinyi_solar",
+      "name": "Xinyi Solar",
+      "aliases": [
+        "信義光能"
+      ],
+      "ticker": "0968.HK",
+      "market": "HKEX",
+      "currency": "HKD",
+      "position": "upstream",
+      "role": "光伏玻璃",
+      "description": "全球最大光伏玻璃製造商",
+      "rss_url": "https://news.google.com/rss/search?q=\"Xinyi+Solar\"&hl=en&gl=US&ceid=US:en",
+      "downstream": [
+        "longi",
+        "ja_solar",
+        "trina",
+        "jinko"
+      ],
+      "fetch_mode": "http"
+    },
+    {
+      "id": "daqo",
+      "name": "Daqo New Energy",
+      "aliases": [
+        "大全新能源",
+        "大全"
+      ],
+      "ticker": "DQ",
+      "market": "NYSE",
+      "currency": "USD",
+      "position": "upstream",
+      "role": "多晶矽",
+      "description": "高純度多晶矽製造商",
+      "rss_url": "https://news.google.com/rss/search?q=\"Daqo+New+Energy\"&hl=en&gl=US&ceid=US:en",
+      "downstream": [
+        "longi",
+        "ja_solar",
+        "trina",
+        "jinko"
+      ],
+      "fetch_mode": "http"
+    },
+    {
+      "id": "tongwei",
+      "name": "Tongwei",
+      "aliases": [
+        "通威",
+        "通威股份"
+      ],
+      "ticker": "600438.SS",
+      "market": "SSE",
+      "currency": "CNY",
+      "position": "upstream",
+      "role": "多晶矽/電池片",
+      "description": "多晶矽與電池片雙龍頭",
+      "rss_url": "https://news.google.com/rss/search?q=\"Tongwei\"+polysilicon+solar+cell&hl=en&gl=US&ceid=US:en",
+      "downstream": [
+        "longi",
+        "ja_solar",
+        "trina"
+      ],
+      "fetch_mode": "http"
+    },
+    {
+      "id": "gcl",
+      "name": "GCL Technology",
+      "aliases": [
+        "協鑫科技",
+        "協鑫"
+      ],
+      "ticker": "3800.HK",
+      "market": "HKEX",
+      "currency": "HKD",
+      "position": "upstream",
+      "role": "多晶矽",
+      "description": "顆粒矽技術先驅",
+      "rss_url": "https://news.google.com/rss/search?q=\"GCL+Technology\"&hl=en&gl=US&ceid=US:en",
+      "downstream": [
+        "longi",
+        "ja_solar"
+      ],
+      "fetch_mode": "http"
+    },
+    {
+      "id": "meyer_burger",
+      "name": "Meyer Burger",
+      "aliases": [],
+      "ticker": "MBTN.SW",
+      "market": "SIX",
+      "currency": "CHF",
+      "position": "upstream",
+      "role": "設備",
+      "description": "高效電池片製造設備",
+      "rss_url": "https://news.google.com/rss/search?q=\"Meyer+Burger\"&hl=en&gl=US&ceid=US:en",
+      "downstream": [
+        "longi",
+        "first_solar"
+      ],
+      "fetch_mode": "http"
+    },
+    {
+      "id": "longi",
+      "name": "LONGi Green Energy",
+      "aliases": [
+        "隆基綠能",
+        "隆基"
+      ],
+      "ticker": "601012.SS",
+      "market": "SSE",
+      "currency": "CNY",
+      "position": "midstream",
+      "role": "矽片/元件",
+      "description": "全球最大單晶矽片與元件製造商",
+      "rss_url": "https://news.google.com/rss/search?q=\"LONGi+Green+Energy\"&hl=en&gl=US&ceid=US:en",
+      "upstream": [
+        "daqo",
+        "tongwei",
+        "gcl"
+      ],
+      "downstream": [
+        "enphase",
+        "solaredge",
+        "sungrow"
+      ],
+      "fetch_mode": "http"
+    },
+    {
+      "id": "ja_solar",
+      "name": "JA Solar",
+      "aliases": [
+        "晶澳科技",
+        "晶澳"
+      ],
+      "ticker": "002459.SZ",
+      "market": "SZSE",
+      "currency": "CNY",
+      "position": "midstream",
+      "role": "元件",
+      "description": "全球前五大太陽能元件廠",
+      "rss_url": "https://news.google.com/rss/search?q=\"JA+Solar\"&hl=en&gl=US&ceid=US:en",
+      "upstream": [
+        "daqo",
+        "tongwei",
+        "gcl"
+      ],
+      "downstream": [
+        "enphase",
+        "sungrow"
+      ],
+      "fetch_mode": "http"
+    },
+    {
+      "id": "trina",
+      "name": "Trina Solar",
+      "aliases": [
+        "天合光能",
+        "天合"
+      ],
+      "ticker": "688599.SS",
+      "market": "SSE",
+      "currency": "CNY",
+      "position": "midstream",
+      "role": "元件",
+      "description": "全球前五大太陽能元件廠",
+      "rss_url": "https://news.google.com/rss/search?q=\"Trina+Solar\"&hl=en&gl=US&ceid=US:en",
+      "upstream": [
+        "daqo",
+        "tongwei"
+      ],
+      "downstream": [
+        "enphase",
+        "sungrow"
+      ],
+      "fetch_mode": "http"
+    },
+    {
+      "id": "canadian_solar",
+      "name": "Canadian Solar",
+      "aliases": [],
+      "ticker": "CSIQ",
+      "market": "NASDAQ",
+      "currency": "USD",
+      "rss_url": "https://investors.canadiansolar.com/rss/news-releases.xml",
+      "position": "midstream",
+      "role": "元件",
+      "description": "加拿大太陽能元件與電站開發商",
+      "upstream": [
+        "daqo"
+      ],
+      "downstream": [
+        "enphase"
+      ],
+      "fetch_mode": "http"
+    },
+    {
+      "id": "first_solar",
+      "name": "First Solar",
+      "aliases": [],
+      "ticker": "FSLR",
+      "market": "NASDAQ",
+      "currency": "USD",
+      "rss_url": "https://investor.firstsolar.com/rss/news-releases.xml",
+      "position": "midstream",
+      "role": "薄膜元件",
+      "description": "美國薄膜太陽能龍頭",
+      "upstream": [
+        "meyer_burger"
+      ],
+      "downstream": [
+        "nextracker"
+      ],
+      "fetch_mode": "http"
+    },
+    {
+      "id": "jinko",
+      "name": "JinkoSolar",
+      "aliases": [
+        "晶科能源",
+        "晶科"
+      ],
+      "ticker": "JKS",
+      "market": "NYSE",
+      "currency": "USD",
+      "position": "midstream",
+      "role": "元件",
+      "description": "全球出貨量最大太陽能元件廠",
+      "rss_url": "https://news.google.com/rss/search?q=\"JinkoSolar\"&hl=en&gl=US&ceid=US:en",
+      "upstream": [
+        "daqo",
+        "tongwei"
+      ],
+      "downstream": [
+        "enphase",
+        "sungrow"
+      ],
+      "fetch_mode": "http"
+    },
+    {
+      "id": "risen",
+      "name": "Risen Energy",
+      "aliases": [
+        "東方日升"
+      ],
+      "ticker": "300118.SZ",
+      "market": "SZSE",
+      "currency": "CNY",
+      "position": "midstream",
+      "role": "元件",
+      "description": "中國太陽能元件製造商",
+      "rss_url": "https://news.google.com/rss/search?q=\"Risen+Energy\"&hl=en&gl=US&ceid=US:en",
+      "upstream": [
+        "tongwei"
+      ],
+      "downstream": [
+        "sungrow"
+      ],
+      "fetch_mode": "http"
+    },
+    {
+      "id": "maxeon",
+      "name": "Maxeon Solar Technologies",
+      "aliases": [],
+      "ticker": "MAXN",
+      "market": "NASDAQ",
+      "currency": "USD",
+      "position": "midstream",
+      "role": "元件",
+      "description": "高效太陽能電池技術",
+      "rss_url": "https://news.google.com/rss/search?q=\"Maxeon+Solar+Technologies\"&hl=en&gl=US&ceid=US:en",
+      "fetch_mode": "http"
+    },
+    {
+      "id": "yuan_jing",
+      "name": "Yuan Jing Solar",
+      "aliases": [
+        "元晶太陽能",
+        "元晶"
+      ],
+      "ticker": "6443.TW",
+      "market": "TWSE",
+      "currency": "TWD",
+      "position": "midstream",
+      "role": "元件",
+      "description": "台灣太陽能電池與元件製造商",
+      "rss_url": "https://news.google.com/rss/search?q=\"Yuan+Jing+Solar\"&hl=en&gl=US&ceid=US:en",
+      "fetch_mode": "http"
+    },
+    {
+      "id": "motech",
+      "name": "Motech Industries",
+      "aliases": [
+        "茂迪"
+      ],
+      "ticker": "6244.TW",
+      "market": "TWSE",
+      "currency": "TWD",
+      "position": "midstream",
+      "role": "電池片",
+      "description": "台灣太陽能電池片製造商",
+      "rss_url": "https://news.google.com/rss/search?q=\"Motech+Industries\"&hl=en&gl=US&ceid=US:en",
+      "fetch_mode": "http"
+    },
+    {
+      "id": "enphase",
+      "name": "Enphase Energy",
+      "aliases": [],
+      "ticker": "ENPH",
+      "market": "NASDAQ",
+      "currency": "USD",
+      "rss_url": "https://newsroom.enphase.com/rss/news-releases.xml",
+      "position": "downstream",
+      "role": "微型逆變器",
+      "description": "家用微型逆變器龍頭",
+      "upstream": [
+        "longi",
+        "jinko",
+        "ja_solar",
+        "trina",
+        "canadian_solar"
+      ],
+      "fetch_mode": "http"
+    },
+    {
+      "id": "solaredge",
+      "name": "SolarEdge Technologies",
+      "aliases": [],
+      "ticker": "SEDG",
+      "market": "NASDAQ",
+      "currency": "USD",
+      "rss_url": "https://investors.solaredge.com/rss/news-releases.xml",
+      "position": "downstream",
+      "role": "逆變器",
+      "description": "智慧逆變器與優化器",
+      "upstream": [
+        "longi"
+      ],
+      "fetch_mode": "http"
+    },
+    {
+      "id": "array",
+      "name": "Array Technologies",
+      "aliases": [],
+      "ticker": "ARRY",
+      "market": "NASDAQ",
+      "currency": "USD",
+      "position": "downstream",
+      "role": "追日系統",
+      "description": "太陽能追蹤系統製造商",
+      "rss_url": "https://news.google.com/rss/search?q=\"Array+Technologies\"&hl=en&gl=US&ceid=US:en",
+      "fetch_mode": "http"
+    },
+    {
+      "id": "sungrow",
+      "name": "Sungrow Power Supply",
+      "aliases": [
+        "陽光電源"
+      ],
+      "ticker": "300274.SZ",
+      "market": "SZSE",
+      "currency": "CNY",
+      "position": "downstream",
+      "role": "逆變器",
+      "description": "中國最大逆變器製造商",
+      "rss_url": "https://news.google.com/rss/search?q=\"Sungrow+Power+Supply\"&hl=en&gl=US&ceid=US:en",
+      "upstream": [
+        "longi",
+        "jinko",
+        "trina",
+        "ja_solar"
+      ],
+      "fetch_mode": "http"
+    },
+    {
+      "id": "nextracker",
+      "name": "Nextracker",
+      "aliases": [],
+      "ticker": "NXT",
+      "market": "NASDAQ",
+      "currency": "USD",
+      "position": "downstream",
+      "role": "追日系統",
+      "description": "全球最大太陽能追蹤系統供應商",
+      "rss_url": "https://news.google.com/rss/search?q=\"Nextracker\"&hl=en&gl=US&ceid=US:en",
+      "upstream": [
+        "first_solar"
+      ],
+      "fetch_mode": "http"
+    }
+  ],
+  "etfs": [
+    {
+      "id": "tan",
+      "name": "Invesco Solar ETF",
+      "ticker": "TAN",
+      "market": "NYSE",
+      "currency": "USD",
+      "description": "太陽能產業 ETF"
+    },
+    {
+      "id": "icln",
+      "name": "iShares Global Clean Energy ETF",
+      "ticker": "ICLN",
+      "market": "NASDAQ",
+      "currency": "USD",
+      "description": "全球清潔能源 ETF"
+    }
+  ],
+  "supply_chain_positions": {
+    "upstream": [
+      "光伏玻璃",
+      "多晶矽",
+      "多晶矽/電池片",
+      "設備"
+    ],
+    "midstream": [
+      "矽片/元件",
+      "元件",
+      "薄膜元件",
+      "電池片"
+    ],
+    "downstream": [
+      "微型逆變器",
+      "逆變器",
+      "追日系統"
+    ]
+  }
+}

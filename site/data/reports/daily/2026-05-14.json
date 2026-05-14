@@ -1,0 +1,222 @@
+{
+  "date": "2026-05-14",
+  "generated_at": "2026-05-14T10:07:12.098837Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-05-14-001",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "The Hong Kong stock market saw a decline in photovoltaic stocks, with Flat Glass Group falling over 5%, hitting a new multi-period low. - 富途牛牛",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQaGdRNHRXRmgycXBjSVBYOVhCSHNKazZXbTFjUk5oUEcwSmlpZEl3MzdrZWllWVJnaHFJN29rUm1Ca2xXYTg4MVBEa2xkVnNYWUxBdGU0enNGYl8zd3Vmand5WUVnV0JiRVcya2UtZEFsb0lqcEN5TXVhVlBtaUlTT2hJM2NnMVRMRlFxRldXMlJMcWNWREdZTHBkcG4zZw?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-05-14-026",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Battery Breakthrough Initiative hit as Australia cuts AU$1.3 billion in clean energy funding",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://www.energy-storage.news/battery-breakthrough-initiative-hit-as-australia-cuts-au1-3-billion-in-clean-energy-funding/"
+    },
+    {
+      "rank": 3,
+      "event_id": "gcl-2026-05-14-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Citi has lowered its target price for GCL Technology (03800.HK) to HKD 1.3, expecting the company to record a full-year loss. - 富途牛牛",
+      "companies": [
+        "gcl"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOTGhFZU4xbUlaZjJXaFBSNTlBb091WGt5eGdHaWhuMVJhQXk4NC1vaEkwNm0yZ3l0Y19EQVIwTnR5WXVmMEd3Ykd4V1lrNnFieHQ4WHh1NkhJVjFtVWl5enJSd1JOZ2hocU5icFpMblU4VFNsT3puNGJPTW1RdlNTOGpLb3YzTldRb3cxOXpEMFM3RXdxMlE5VkVFYXNmOFdh?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "ja_solar-2026-05-14-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "FLASH: JA Solar secures 1 GW PV mod... - Mysteel",
+      "companies": [
+        "ja_solar"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQSG93R3Raa3hLajViTFlTUVV5ZmlnRVRDRDVXNWppR094OUFKaFNva1NrUE5ZbE5LOW9UODZJZ2FHbFY3WEtrOHhVUUJ4ZzU3MlJ4RThkQ0xsQUk4YXZGZm1YbUJDem9fcTFzMnVnbHR1MUxzTkkwNmxfRm5OWmU1LU82UGFfazJEZlBLOEFfS1VOR1doS25ua2FzZk9tQzBlRmtLQjdsT0tkZndqejNmbk53X2R4aVM0bjA1cFFWWGVkSWZkQ2R5YkhlMA?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "trina-2026-05-14-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Trinasolar Signs 1 GW Vertex S+ G3 Solar Module Supply Agreement with Solar Juice to Support Australia’s Expanding Rooftop Solar Market - SolarQuarter",
+      "companies": [
+        "trina"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNdE5mcVhhNkFibzNFb3ljdGVyZXB1ZUZSS3pBT3FkajFDOFBubjZqOUctOElBNjU2dzI4NS1mYmRzWlRVOUVULThrQkJ6bHRmOXh2YUp4all1ZjlfeDkyWmM3X0w4LWNoU0lhd2dLSXd4RDZBOHNHX1NrY21ubjdyRkNlUVFwOE54LXdMejU3dHFHTEtYQjFWTG5uaWs5dDlHaDVTMV9vLW5WQWw3cHhhWGFsaXJ1Y2JoZTVvaVUwNE9YM0VYMlVfWkRKSnlzRERlay1ndllXRFo5STQ3bkJjU1NuVThLWmYzWnY0dFROVjJmRDdZVzdEcDRCdEt2cWM?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 25,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "installation_demand": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "trade_tariff": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 26,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 22,
+      "negative": 2
+    },
+    "top_companies": [
+      {
+        "id": "gcl",
+        "count": 1
+      },
+      {
+        "id": "ja_solar",
+        "count": 1
+      },
+      {
+        "id": "trina",
+        "count": 1
+      },
+      {
+        "id": "canadian_solar",
+        "count": 1
+      },
+      {
+        "id": "jinko",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 25
+      },
+      {
+        "id": "installation_demand",
+        "count": 3
+      },
+      {
+        "id": "trade_tariff",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 419,
+    "dup_title": 182,
+    "too_old": 127,
+    "gate1_blocked": 45,
+    "gate2_blocked": 0,
+    "passed": 65,
+    "pass_rate": "27.4%",
+    "gate2_block_rate": "0.0%",
+    "gate2_samples": [],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 26 則事件，焦點為協鑫科技、晶澳科技、天合光能相關動態：「The Hong Kong stock market saw a decline in photovoltaic ...」。主要關注主題為太陽能產業通用、裝機需求、貿易關稅，市場情緒中性。",
+    "signals": [
+      {
+        "text": "The Hong Kong stock market saw a decline in photovoltaic stocks, with Flat Gl...（太陽能產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "Battery Breakthrough Initiative hit as Australia cuts AU$1.3 billion in clean...（太陽能產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "裝機需求持續受關注，產業趨勢帶動需求成長。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
