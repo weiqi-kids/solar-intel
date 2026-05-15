@@ -1,0 +1,231 @@
+{
+  "date": "2026-05-15",
+  "generated_at": "2026-05-15T10:14:09.884948Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "daqo-2026-05-15-008",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "Chinese PV Industry Brief: Daqo, Tongwei, Aiko Solar post Q1 losses",
+      "companies": [
+        "daqo",
+        "tongwei"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "module_price",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.38
+      },
+      "source_url": "https://www.pv-magazine.com/2026/05/15/chinese-pv-industry-brief-daqo-longi-aiko-solar-post-q1-losses/"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-05-15-007",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Fraunhofer ISE achieves 31.3% record solar-to-hydrogen efficiency in photovoltaic electrolysis",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://www.pv-magazine.com/2026/05/15/fraunhofer-ise-achieves-31-3-record-solar-to-hydrogen-efficiency-in-photovoltaic-electrolysis/"
+    },
+    {
+      "rank": 3,
+      "event_id": "trina-2026-05-15-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Trina Solar: Will supply 1GW of Vertex 3rd generation series modules to the Australian market within the next three years - Bitget",
+      "companies": [
+        "trina"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBYOUVHQUJxZC1vRGs1TDVFbFRham5ONEFRMl9OdTROSTFuMnFwRG9IMnBQS09kLWlzX1V3Sjl5aHBqWGtpSlZ5MHEtQU1aVWJRM1RJNjM3QXoySkZ1UTJBT1E0MNIBY0FVX3lxTFBYOUVHQUJxZC1vRGs1TDVFbFRham5ONEFRMl9OdTROSTFuMnFwRG9IMnBQS09kLWlzX1V3Sjl5aHBqWGtpSlZ5MHEtQU1aVWJRM1RJNjM3QXoySkZ1UTJBT1E0MA?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "jinko-2026-05-15-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "JinkoSolar Holding Co Ltd (JKS) Shares Fall 4.7% -- GF Value Says Still Overvalued - GuruFocus",
+      "companies": [
+        "jinko"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxObTFCQ09ULTIxWEoydGRGRUFYbTBfcGlkVXNEa0JrN3lMUnF2SkRVbzl6UEVZVW1CUDNHV1NIQi1ZMmQxTUdTZnI2bTF6MUZtWFR4d0Fqd3I0VkdPQ0Z3ckxlNUN3ZWd3dlI5ZXF4TjBvNlBMOFRsZlFNaHg4dVAzS0lPWnlTWl9iQ3FtWVZjLVQyYnRwUUxMOUlQeXVXWHVfOUNLNUZCLUxOdkNPWk0xOEx4OVU?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "array-2026-05-15-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Array Technologies, Inc. (ARRY) falls more steeply than broader market: What investors need to know - MSN",
+      "companies": [
+        "array"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOd3pZVFJOSXoyT2pLT0JqQ1ZiSkdhak1HQWtEckxybzVJZzg4TDlzZ1JJeEJhMXl2S3A2Sk9PQkdJVzM4aHV2YmJBNk1Ta2szTXI1UWYyeEYta185eFBkaUljSGVzOXBEY2tqVm95UEc3dHBhUlU1SU1zS3RzSmdlN3JrNGNpZWpTU3VJbzltMGpIMW9JMXhETkdFcVhIVkJ6LXp5dHBZQ2ZURkVjbncyWnhHQWJRWUo5Unh6TXVUMGNjblhocjZaNi16YURMVnVBVHVBMElLNGV5MkJVcXFxb3lHaFdyVDRCY3NGOHhHel9zQTBFQW1rTjRtcDJlU1JJVUVLWGtB?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 20,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.06,
+      "sentiment_7d_avg": null
+    },
+    "installation_demand": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.25,
+      "sentiment_7d_avg": null
+    },
+    "module_price": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.19,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 20,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 17,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "trina",
+        "count": 1
+      },
+      {
+        "id": "jinko",
+        "count": 1
+      },
+      {
+        "id": "array",
+        "count": 1
+      },
+      {
+        "id": "daqo",
+        "count": 1
+      },
+      {
+        "id": "tongwei",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 20
+      },
+      {
+        "id": "installation_demand",
+        "count": 2
+      },
+      {
+        "id": "module_price",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 481,
+    "dup_title": 219,
+    "too_old": 156,
+    "gate1_blocked": 43,
+    "gate2_blocked": 2,
+    "passed": 61,
+    "pass_rate": "23.3%",
+    "gate2_block_rate": "0.8%",
+    "gate2_samples": [
+      "Daqo New Energy (DQ) Reports Q1 2026 Loss Amid Strategic Sales Reduction - Yahoo Finance",
+      "Top DAQO New Energy (DQ) Competitors 2026 - MarketBeat"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 20 則事件，焦點為天合光能、晶科能源、Array Technologies相關動態：「Chinese PV Industry Brief: Daqo, Tongwei, Aiko Solar post...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Chinese PV Industry Brief: Daqo, Tongwei, Aiko Solar post Q1 losses（元件價格、太陽能產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Fraunhofer ISE achieves 31.3% record solar-to-hydrogen efficiency in photovol...（太陽能產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "裝機需求持續受關注，產業趨勢帶動需求成長。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
