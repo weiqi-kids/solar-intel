@@ -1,0 +1,186 @@
+{
+  "date": "2026-05-16",
+  "generated_at": "2026-05-16T09:22:32.815524Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-05-16-008",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "PV power generation to surpass coal in Texas",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://www.pv-magazine.com/2026/05/16/pv-power-generation-to-surpass-coal-in-texas/"
+    },
+    {
+      "rank": 2,
+      "event_id": "xinyi_solar-2026-05-16-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Xinyi Solar Holdings Ltd stock (KYG9829N1025): earnings and policy backdrop in focus - AD HOC NEWS",
+      "companies": [
+        "xinyi_solar"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNeTdSUTdFazlNZXgzeGxLS2UtZ0thdDdxYURUcXVwV2ZJQ01YN1hSY3hTdG1YV2dONUdveHhuMTJSdzNOMkdOakpwMFlOZGNKSmE2Slc1eFFTNDV5bm9iTmZUWTdrOGVYc2JjZzBGUnQ0UUctUVpiTTBwMkhQMUxkLURvdnpjZVVSajd3WUVfYUlKY3hQaW01eGhhVzhucHQ5VnB5M1pyY2tXejY3ckhYTG9BUXRUS01CY2VsbTdtWQ?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "longi-2026-05-16-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "LONGi Green Energy Technology stock (CNE100001FR6): ESG recognition highlights solar leader’s prof - AD HOC NEWS",
+      "companies": [
+        "longi"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNZlNxTnBuaWJpYlA5bnZham1aQ1V2WVMwQ2pEWXpCU0JCSnFIWTFtVHhQOWYxa01pc1NVaVp5amM5YXdNNExINFJNZ1pTcXM2MVpoV0tPNVd6MXA5RmRHdFRuUWJOelktZ0YxSHR3WlhWV3VuSVJ5ZU9pUHVYMkFSMkZfajFWdTJZeHhlMDZZMno1NS03VHl3eXczT2taM0NmMlFZVl9qUWlhVlRudEdQYjRZWVZ0ZmpITTFJamEyNWk?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "longi-2026-05-16-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "LONGi Green Energy stock (CNE100001FR6): earnings pressure and export headwinds for solar giant - AD HOC NEWS",
+      "companies": [
+        "longi"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPU3hOcFZWOEx3SVFuMW5sbHRaVGpoT2N4TTdkZVZ3cUxtY2FaWVFvb294b0tIQnF0UF9BLUhuSTl2STNXeGlUZG9ON2E5dmZzNjQ5c2dKYURQQkFiSFNKelFSS2VmVnRzSFZnRlpEUDVYbEptazFMYUx4MHFJTVVQaERsTkVxcW96RldNaHliWVVBbGJKemU4TF9PemQ4SnRBcVVCQ1llT0ZtZmxYeWZXRl90SjVUek00M21XTV9BSTVyODg?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "jinko-2026-05-16-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Major Insider Shake-Up as JinkoSolar Directors Unload Massive Stakes - TipRanks",
+      "companies": [
+        "jinko"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOUkZXWEQ5SXJUN2YxeDFkTlFHN0g2dE5BVmVRWjJrOTVSREhTVGV2QXY2a0FPd09HTFZMVVRzTXlWdVBNdF8yamtUQU5xU0RwOUFiOGIxSGJfUVJUZFJIdnppVVd4VXFzZ0RKT2lSTG5iN1Y1dXRPZEVsVFFZaXRiWC16MVNRVXQ5OV84MUtyS0EyV1hWMnRwUkhyMnFtRDhpNGhZODVqb3JtcUM4U18xdHhPVlY4STdBSDZNdFNxNHFFVkVMUG92SjI5blpSVlZj?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 12,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 12,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 9,
+      "negative": 2
+    },
+    "top_companies": [
+      {
+        "id": "longi",
+        "count": 2
+      },
+      {
+        "id": "xinyi_solar",
+        "count": 1
+      },
+      {
+        "id": "jinko",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 12
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 483,
+    "dup_title": 234,
+    "too_old": 154,
+    "gate1_blocked": 46,
+    "gate2_blocked": 1,
+    "passed": 48,
+    "pass_rate": "19.3%",
+    "gate2_block_rate": "0.4%",
+    "gate2_samples": [
+      "Daqo New Energy (DQ) Reports Q1 2026 Loss Amid Strategic Sales Reduction - Yahoo Finance"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 12 則事件，焦點為隆基綠能、信義光能、晶科能源相關動態：「PV power generation to surpass coal in Texas」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "PV power generation to surpass coal in Texas（太陽能產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "Xinyi Solar Holdings Ltd stock (KYG9829N1025): earnings and policy backdrop i...（太陽能產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
