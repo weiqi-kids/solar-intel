@@ -1,33 +1,33 @@
 {
   "xinyi_solar": {
-    "earliest": "2015-12-30",
+    "earliest": "2015-10-02",
     "latest": "2026-05-15",
-    "count": 2553
+    "count": 2614
   },
   "daqo": {
-    "earliest": "2015-12-29",
+    "earliest": "2015-09-30",
     "latest": "2026-05-15",
-    "count": 2610
+    "count": 2672
   },
   "tongwei": {
-    "earliest": "2015-12-25",
+    "earliest": "2015-09-28",
     "latest": "2026-05-15",
-    "count": 2518
+    "count": 2577
   },
   "gcl": {
-    "earliest": "2015-12-30",
+    "earliest": "2015-10-02",
     "latest": "2026-05-15",
-    "count": 2553
+    "count": 2614
   },
   "longi": {
-    "earliest": "2015-12-25",
+    "earliest": "2015-09-28",
     "latest": "2026-05-15",
-    "count": 2518
+    "count": 2577
   },
   "ja_solar": {
-    "earliest": "2015-12-25",
+    "earliest": "2015-09-28",
     "latest": "2026-05-15",
-    "count": 2518
+    "count": 2577
   },
   "trina": {
     "earliest": "2020-06-10",
@@ -36,24 +36,24 @@
     "history_complete": true
   },
   "canadian_solar": {
-    "earliest": "2015-12-29",
+    "earliest": "2015-09-30",
     "latest": "2026-05-15",
-    "count": 2610
+    "count": 2672
   },
   "first_solar": {
-    "earliest": "2015-12-29",
+    "earliest": "2015-09-30",
     "latest": "2026-05-15",
-    "count": 2610
+    "count": 2672
   },
   "jinko": {
-    "earliest": "2015-12-29",
+    "earliest": "2015-09-30",
     "latest": "2026-05-15",
-    "count": 2610
+    "count": 2672
   },
   "risen": {
-    "earliest": "2015-12-25",
+    "earliest": "2015-09-28",
     "latest": "2026-05-15",
-    "count": 2518
+    "count": 2577
   },
   "maxeon": {
     "earliest": "2020-08-26",
@@ -62,19 +62,19 @@
     "history_complete": true
   },
   "yuan_jing": {
-    "earliest": "2015-12-28",
+    "earliest": "2015-09-29",
     "latest": "2026-05-15",
-    "count": 2519
+    "count": 2582
   },
   "enphase": {
-    "earliest": "2015-12-29",
+    "earliest": "2015-09-30",
     "latest": "2026-05-15",
-    "count": 2610
+    "count": 2672
   },
   "solaredge": {
-    "earliest": "2015-12-29",
+    "earliest": "2015-09-30",
     "latest": "2026-05-15",
-    "count": 2610
+    "count": 2672
   },
   "array": {
     "earliest": "2020-10-15",
@@ -83,9 +83,9 @@
     "history_complete": true
   },
   "sungrow": {
-    "earliest": "2015-12-25",
+    "earliest": "2015-09-28",
     "latest": "2026-05-15",
-    "count": 2518
+    "count": 2577
   },
   "nextracker": {
     "earliest": "2023-02-09",
@@ -94,13 +94,13 @@
     "history_complete": true
   },
   "etf_tan": {
-    "earliest": "2015-12-29",
+    "earliest": "2015-09-30",
     "latest": "2026-05-15",
-    "count": 2610
+    "count": 2672
   },
   "etf_icln": {
-    "earliest": "2015-12-29",
+    "earliest": "2015-09-30",
     "latest": "2026-05-15",
-    "count": 2610
+    "count": 2672
   }
 }

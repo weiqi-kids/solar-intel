@@ -1,0 +1,12 @@
+{
+  "total_raw": 482,
+  "dup_title": 256,
+  "no_date": 0,
+  "too_old": 161,
+  "gate1_fail": 45,
+  "gate2_fail": 1,
+  "passed": 19,
+  "gate2_samples": [
+    "Daqo New Energy (DQ) Reports Q1 2026 Loss Amid Strategic Sales Reduction - Yahoo Finance"
+  ]
+}

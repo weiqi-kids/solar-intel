@@ -1,0 +1,193 @@
+{
+  "date": "2026-05-17",
+  "generated_at": "2026-05-17T09:29:10.022687Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "trina-2026-05-17-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "T1 Energy Posts First Profit After Trina Exit, Launches $285 Million Capital Raise for Austin Factor - AD HOC NEWS",
+      "companies": [
+        "trina"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOY2t1X1hpZ2dLYzg1RE5Ic0FMcHlDUGZvNU50U2ZabHh4ZmE0U0dMc3J5ZDZvNk02TTB5QXNIZzZzRTlkbU5URWkxZHlXNk93UjBnT1RabzFFV3Faam91WnI5OHVKMU5TcnJJME9Kb0cyWXVtUEprSzlXcFlDSzA1ek93dktKYXNHSEIybnlSWE4weGdMSGQ0NTdMQ1o5WjZqdlM1U2hsQlpiTFhQWkJndFNnQmhmOFR1TTlKSWkzV0ZmcGs?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "array-2026-05-17-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Array Technologies Q1 2026 Earnings: Revenue Beat, Guidance Reaffirmed - News and Statistics - IndexBox",
+      "companies": [
+        "array"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOSUV2cjYyQXlUQ0VVV3FKWEN1UFBZd0kzRW9NVVB3Y0JnenczNnBTMzR6d0VydFlQNHlpalhETkFWNG5WMi1JRmhUUWczbm4wcERxRmg3ZThpdkFZT1BqMGNKdmRSM3FqWG92YnNWc2o1enp5MmRiblBxSGF1RHVKZXNza3lzQUxRU1hQZ2MwTWVKQWFjcXR2NGNGSkdrMmYzT1FvV1RxMnFaUQ?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-05-17-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Why experts predict a looming surge in solar panel prices - Euronews.com",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "module_price",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZ2xjdDZVTnBMS1RXS1dvV29pSHZwaU5DNGc2VTRiNDRhMTN4TXFLY0xHNFhiVG4yWDVQd3lYaEZfeTU1T3FzdlY2WXVpU0YwbC1pQ3l3RHpUVF9rTndva3FBU3I1WUNFMEVaT1JqeHk4OS05Y2cxWVhYZ2RPWkJWbWlKTXRSWmg3RmtjUWh2S29LZ3FmWENGLVFDdDJjR29OazN5bTUycGMxVlBXdTV5M2JpY1lMQTZH?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-05-17-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Gaskin: America doubling down on the past — again - Boston Herald",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPMF8xWnR4ODZ5QXhqMWtnMnhnYWVKRmVtQWwzRWJtZXF5Q1h0ZndoSjV3TXJJQXJpQ20tNkdsT3ZYZEFfX0xvNDExYVBHNGtUU3hSWF9yU3YtaXg1RWtNR0Vwd0t0elpUQjdHYlFvRk5nSkJaNGVncmZ0ekNLVk5nenFOdjdxMlNFVExYUjc2dy0?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-05-17-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Solar & Farming Can Share Land, But The Details Matter - CleanTechnica",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOZEllOGdyWldXdkc1S1JyYTZPbElhWXJLQ0h5X0lMQUtNT1poOWR6aUdEODFHclJrTXFka181aUFsXy1VS2Iydmt1VHJoMlVMY2dWUG0wOHJDX01mMlkyUTVYMXFDRWk3djFWTG1MdlhYZGtoRDJZOHdfTHhaNDZyRTVPRmZ3em83YUVXREJEeE9kOUXSAZsBQVVfeXFMTkxyYWkzRGoxMWZWNTZuYzVwV1FvM3pMeGN1ZVl1ZXZkZlhyeHlJSWVhQmFRNC1kQ2xkODJ3VHdPelBIcXRfM3ZZRnI3YnJzLUxlUzJmWnhrUFVOWXlNSDlTOTJPdk9TdnViVEw3bnIwWllWUzkxNm1la2k4LV9VNGZWMGZvSFM0NTF2a3FYSm1WTndpajRwLWZfWkk?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 5,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "module_price": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 6,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 6,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "trina",
+        "count": 1
+      },
+      {
+        "id": "array",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 5
+      },
+      {
+        "id": "module_price",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 482,
+    "dup_title": 256,
+    "too_old": 161,
+    "gate1_blocked": 45,
+    "gate2_blocked": 1,
+    "passed": 19,
+    "pass_rate": "8.4%",
+    "gate2_block_rate": "0.4%",
+    "gate2_samples": [
+      "Daqo New Energy (DQ) Reports Q1 2026 Loss Amid Strategic Sales Reduction - Yahoo Finance"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 6 則事件，焦點為天合光能、Array Technologies相關動態：「T1 Energy Posts First Profit After Trina Exit, Launches $...」。主要關注主題為太陽能產業通用、元件價格，市場情緒中性。",
+    "signals": [
+      {
+        "text": "T1 Energy Posts First Profit After Trina Exit, Launches $285 Million Capital ...",
+        "level": "green"
+      },
+      {
+        "text": "Array Technologies Q1 2026 Earnings: Revenue Beat, Guidance Reaffirmed - News...（太陽能產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "元件價格話題出現 1 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
