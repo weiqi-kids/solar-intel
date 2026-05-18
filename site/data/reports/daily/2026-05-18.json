@@ -1,0 +1,205 @@
+{
+  "date": "2026-05-18",
+  "generated_at": "2026-05-18T11:39:01.121063Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-05-18-008",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Japanese scientists achieve world record 25.14% efficiency for perovskite-CIGS tandem solar cell",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://www.pv-magazine.com/2026/05/18/japanese-scientists-achieve-world-record-25-14-efficiency-for-perovskite-cigs-tandem-solar-cell/"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-05-18-015",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Australia hits 400,000 home battery installations with 11.2GWh capacity in under a year",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "installation_demand",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://www.energy-storage.news/australia-hits-400000-home-battery-installations-with-11-2gwh-capacity-in-under-a-year/"
+    },
+    {
+      "rank": 3,
+      "event_id": "xinyi_solar-2026-05-18-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Bullish block trade of XINYI SOLAR(00968) 854K shares at $2.83, $2.417M turnover - AASTOCKS.com",
+      "companies": [
+        "xinyi_solar"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNNGNsUDZzSWZzYWhqYVlXdzB3RkZibWI3QVNiWFJpeWVmOEtWNk8xZTBxNXBDREozNXg2OWpzdDVvUnhyaWljeHhQZTA2c0FQMnVvWjE0aHdVTGdaSk1fbXRNTjZQNXBKbjdTbm9BUXNnTWVaTnhDUmFsUTlDV0ptenNSYWpLZw?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "gcl-2026-05-18-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "GCL Technology Expands into Lithium-Ion Energy Storage with LFP Cathode Materials - News and Statistics - IndexBox",
+      "companies": [
+        "gcl"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOcFZaQkdMempFdXJWMmhKZ19GajZDbFlydnladThTQkdpS0Q2aGVoR09KSHBiMEh0Y3QtSm91RFliUVJnT0l4Q1Y5dWg4eW1UYWx0RThpOG9vczFxNUdHaEg3MFBJUTZiS2lzazl5eDctNGQ4eG1qY0JDTzRzMlVhOFB6UlJ2VzREUzF5QVpXbGJVYnNWdzBCWk1uQVBWaHR3a20td2Nha2tRdw?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "gcl-2026-05-18-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "GCL Technology expands beyond PV with new energy storage business - pv magazine International",
+      "companies": [
+        "gcl"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQQ0dBQjY3a1RxNXF4cXVTVTlISWh4dEVvR0UwdjRMTGtsRzJwUGJzYlB2a2xkSUFNckNxTnJLVk0wWk1wdVEyaUxxZmtqRUF0clFnZEV3a0RWaG10aFQyZEpnWDc1Zk1NbFFoQy1pS05yc0Y5T1Z0SkhBb3VfX2thZDVRTVpkQ1lIUmJXQ0xjeThHQk16UFZwQzhZdXhqblkzR0hoVHA4ZDc?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 15,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.05,
+      "sentiment_7d_avg": null
+    },
+    "installation_demand": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.75,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 16,
+    "sentiment_distribution": {
+      "positive": 3,
+      "neutral": 8,
+      "negative": 5
+    },
+    "top_companies": [
+      {
+        "id": "gcl",
+        "count": 3
+      },
+      {
+        "id": "xinyi_solar",
+        "count": 1
+      },
+      {
+        "id": "array",
+        "count": 1
+      },
+      {
+        "id": "canadian_solar",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 15
+      },
+      {
+        "id": "installation_demand",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 483,
+    "dup_title": 252,
+    "too_old": 156,
+    "gate1_blocked": 43,
+    "gate2_blocked": 0,
+    "passed": 32,
+    "pass_rate": "13.9%",
+    "gate2_block_rate": "0.0%",
+    "gate2_samples": [],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 16 則事件，焦點為協鑫科技、信義光能、Array Technologies相關動態：「Japanese scientists achieve world record 25.14% efficienc...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "Japanese scientists achieve world record 25.14% efficiency for perovskite-CIG...（太陽能產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "Australia hits 400,000 home battery installations with 11.2GWh capacity in un...（裝機需求、太陽能產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "裝機需求持續受關注，產業趨勢帶動需求成長。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

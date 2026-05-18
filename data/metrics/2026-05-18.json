@@ -1,0 +1,37 @@
+{
+  "date": "2026-05-18",
+  "total_events": 16,
+  "by_company": {
+    "xinyi_solar": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "gcl": {
+      "count": 3,
+      "sentiment_avg": -0.5
+    },
+    "array": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "canadian_solar": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "industry_general": {
+      "count": 15,
+      "sentiment_avg": 0.05
+    },
+    "installation_demand": {
+      "count": 2,
+      "sentiment_avg": 0.75
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}
