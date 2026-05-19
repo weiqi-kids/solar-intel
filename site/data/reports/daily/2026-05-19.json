@@ -1,0 +1,208 @@
+{
+  "date": "2026-05-19",
+  "generated_at": "2026-05-19T10:55:06.486663Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-05-19-027",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Electricity Generation from Solar Could Exceed Coal in ERCOT for the First Time in 2026",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://cleantechnica.com/2026/05/19/electricity-generation-from-solar-could-exceed-coal-in-ercot-for-the-first-time-in-2026/"
+    },
+    {
+      "rank": 2,
+      "event_id": "xinyi_solar-2026-05-19-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Xinyi Solar Holdings Ltd stock (HK0968003713): share slide in Hong Kong puts focus on solar glass de - AD HOC NEWS",
+      "companies": [
+        "xinyi_solar"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxORXVpSTdaZ1RqR1JtdnJLWTRDM1Mya29Gc2pkZy1Vc3I4ZEFGSnAzSV9lOGF6dkduc054Z1R4V1FMTjU2dlF4Zm8wT0pJYzJHT0czNFRfaG1OSFN3YTBybFlQdzc2c3FDOE9FQlZBUTlIeWZfWlduVlgtQ1NOSGI1QUJnUGtGTEdneUkyTE5WX3NHUV8wTEM5SEFOMUhtRk16OXpyci15Q2F6bjBHR2FwMVp3N3JWRHpkWVlmV3gxb3dVX215OGc?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-05-19-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Xinyi Energy Holdings Ltd stock (HK3868018318): earnings, dividend profile and business model explai - AD HOC NEWS",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOajM1Vmh4SVI3REdTeF9hUnNTeFlQN1pfckFtZC14LWpBTFZIMVMyQVZzMkRRZngtemlmdFQzR2xkbDVrb25lS3BmRHZPWkRxc20xdlZsYTlhZ2U4YU94SktTUU1FdW1zRFJTTXlTZWQ0YmhVNDZaTk9WSjQ1QlJXNFY2ZXlTNnBJeVRsUlB6RFF1RUtqVEdkclp1T0V6bXFZc0s3c1JoUUQtTXBmdnRpVWtXU1RyUXZKTmtNZXNQdEV4OG1wLTZMVQ?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "tongwei-2026-05-19-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Tongwei Co Ltd stock (CNE1000019K1): earnings momentum and solar demand shape outlook - AD HOC NEWS",
+      "companies": [
+        "tongwei"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNbVMyX2JMWEwyOTZoNE0tMndtX0hPdkZJYzgtRkozLU1SRjkzZjN4bFhjVDIyU1IxbmVDWHJfR3NrTzZqZjVMUU9ETXZ5Wm9sV0ZIajdsSGhHNU9YT05vWGFlUHF2YXhfUlB0ZFJEdHVJVEt1TjgwbTQ4N1pULWlKWDdOeDcxWnc2RDB2RkxJVUQ4M2hOWEZITlEwWkw0YzNDU0ZHZU9uelpBLVotVHRIT2dWN3E4ZktpLXpxUFhveHltdGk1NEE?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "gcl-2026-05-19-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Major Bank Ratings | JPMorgan: Preferences in H-shares of renewable energy companies include Goldwind Technologies, GCL Technology, and CGN Power. - 富途牛牛",
+      "companies": [
+        "gcl"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNN0FTTmI0V2M5SnBRZndRbl82UDVlRnRlNXJLMWhqemJUTTlCSm1yY1c5R24wSnNJSE5fdHJiMDZQTjRQN05WNzVna2NHbVhLelM5bFRNVDVxbWdBNVU2bGg0emJtZHp6TXRRbzZxQVV4S3p0NnFTeFFlUlljMkV6NGpMWFZicnAtbVJhbWhFUDM0WDFzbXBYWHZqNElZZzNMVDRWaGl1VHA?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 28,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.02,
+      "sentiment_7d_avg": null
+    },
+    "installation_demand": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 28,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 26,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "jinko",
+        "count": 2
+      },
+      {
+        "id": "xinyi_solar",
+        "count": 1
+      },
+      {
+        "id": "tongwei",
+        "count": 1
+      },
+      {
+        "id": "gcl",
+        "count": 1
+      },
+      {
+        "id": "ja_solar",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 28
+      },
+      {
+        "id": "installation_demand",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 482,
+    "dup_title": 217,
+    "too_old": 154,
+    "gate1_blocked": 49,
+    "gate2_blocked": 0,
+    "passed": 62,
+    "pass_rate": "23.4%",
+    "gate2_block_rate": "0.0%",
+    "gate2_samples": [],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 28 則事件，焦點為晶科能源、信義光能、通威相關動態：「Electricity Generation from Solar Could Exceed Coal in ER...」。主要關注主題為太陽能產業通用、裝機需求，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Electricity Generation from Solar Could Exceed Coal in ERCOT for the First Ti...（太陽能產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "Xinyi Solar Holdings Ltd stock (HK0968003713): share slide in Hong Kong puts ...（太陽能產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "裝機需求持續受關注，產業趨勢帶動需求成長。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

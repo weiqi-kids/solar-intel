@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-18T11:38:56.929618Z",
+  "updated_at": "2026-05-19T10:55:02.879714Z",
   "quarter": "2025-06-30, 2025-12-31, 2026-03-31",
   "companies": [
     {
@@ -7,28 +7,28 @@
       "name": "Array Technologies",
       "ticker": "ARRY",
       "currency": "USD",
-      "ar": 271578000,
-      "ar_prev": 378592000,
-      "ar_qoq": "-28%",
-      "inventory": 150374000,
-      "inv_prev": 180885000,
-      "inv_qoq": "-17%",
-      "alert": true,
-      "quarter_date": "2025-12-31"
+      "ar": 292327000,
+      "ar_prev": 271578000,
+      "ar_qoq": "+8%",
+      "inventory": 167973000,
+      "inv_prev": 150374000,
+      "inv_qoq": "+12%",
+      "alert": false,
+      "quarter_date": "2026-03-31"
     },
     {
       "id": "canadian_solar",
       "name": "Canadian Solar",
       "ticker": "CSIQ",
       "currency": "USD",
-      "ar": 76848000,
-      "ar_prev": 76813000,
-      "ar_qoq": "+0%",
-      "inventory": 1133539000,
-      "inv_prev": 1244397000,
-      "inv_qoq": "-9%",
-      "alert": false,
-      "quarter_date": "2025-12-31"
+      "ar": 84008000,
+      "ar_prev": 76848000,
+      "ar_qoq": "+9%",
+      "inventory": 1519211000,
+      "inv_prev": 1133539000,
+      "inv_qoq": "+34%",
+      "alert": true,
+      "quarter_date": "2026-03-31"
     },
     {
       "id": "daqo",
