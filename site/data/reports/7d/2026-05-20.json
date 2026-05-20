@@ -1,0 +1,170 @@
+{
+  "date": "2026-05-20",
+  "date_range": {
+    "start": "2026-05-14",
+    "end": "2026-05-20"
+  },
+  "generated_at": "2026-05-20T10:43:24.770740Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "tongwei-2026-05-14-030",
+      "date": "2026-05-14",
+      "title": "Tongwei Co Ltd stock (CNE1000019K1): Solar presence amid LONGi efficiency breakthrough - AD HOC NEWS",
+      "importance_score": 0.85
+    },
+    {
+      "type": "sentiment_reversal",
+      "subject": "installation_demand",
+      "subject_type": "topic",
+      "this_week_sentiment": 0.22,
+      "last_week_sentiment": -0.33,
+      "delta": 0.56,
+      "rank": 2
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "industry_general": {
+      "this_week": 131,
+      "last_week": 130,
+      "week_over_week_change": "+1%",
+      "sentiment_this_week": 0.02
+    },
+    "installation_demand": {
+      "this_week": 9,
+      "last_week": 3,
+      "week_over_week_change": "+200%",
+      "sentiment_this_week": 0.22
+    },
+    "trade_tariff": {
+      "this_week": 1,
+      "last_week": 3,
+      "week_over_week_change": "-67%",
+      "sentiment_this_week": 0.0
+    },
+    "module_price": {
+      "this_week": 3,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": -0.13
+    }
+  },
+  "company_7d_summary": {
+    "gcl": {
+      "event_count": 5,
+      "sentiment_avg": -0.3,
+      "rank": 3
+    },
+    "ja_solar": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 7
+    },
+    "trina": {
+      "event_count": 3,
+      "sentiment_avg": 0.17,
+      "rank": 5
+    },
+    "canadian_solar": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 8
+    },
+    "jinko": {
+      "event_count": 6,
+      "sentiment_avg": 0.0,
+      "rank": 1
+    },
+    "array": {
+      "event_count": 5,
+      "sentiment_avg": 0.0,
+      "rank": 4
+    },
+    "daqo": {
+      "event_count": 1,
+      "sentiment_avg": -0.38,
+      "rank": 10
+    },
+    "tongwei": {
+      "event_count": 2,
+      "sentiment_avg": -0.19,
+      "rank": 9
+    },
+    "xinyi_solar": {
+      "event_count": 6,
+      "sentiment_avg": -0.17,
+      "rank": 2
+    },
+    "longi": {
+      "event_count": 3,
+      "sentiment_avg": -0.17,
+      "rank": 6
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 295,
+        "last": 410,
+        "change_pct": -28.0
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-05-14",
+      "event_count": 67,
+      "sentiment_avg": 0.06
+    },
+    {
+      "date": "2026-05-15",
+      "event_count": 53,
+      "sentiment_avg": 0.08
+    },
+    {
+      "date": "2026-05-16",
+      "event_count": 18,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-05-17",
+      "event_count": 14,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-05-18",
+      "event_count": 52,
+      "sentiment_avg": 0.02
+    },
+    {
+      "date": "2026-05-19",
+      "event_count": 65,
+      "sentiment_avg": 0.05
+    },
+    {
+      "date": "2026-05-20",
+      "event_count": 26,
+      "sentiment_avg": -0.02
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-05-14 ~ 2026-05-20）共 295 則事件，重點為「Tongwei Co Ltd stock (CNE1000019K1): Solar pres...」。協鑫科技、大全新能源情緒偏負面，建議留意相關風險。",
+    "watchlist": [
+      {
+        "company": "協鑫科技",
+        "reason": "本週情緒偏負面（-0.3），共 5 則相關事件，需關注後續發展。"
+      },
+      {
+        "company": "大全新能源",
+        "reason": "本週情緒偏負面（-0.4），共 1 則相關事件，需關注後續發展。"
+      },
+      {
+        "company": "天合光能",
+        "reason": "本週出現 3 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

@@ -1,0 +1,13 @@
+{
+  "total_raw": 482,
+  "dup_title": 206,
+  "no_date": 0,
+  "too_old": 161,
+  "gate1_fail": 47,
+  "gate2_fail": 2,
+  "passed": 66,
+  "gate2_samples": [
+    "Top DAQO New Energy (DQ) Competitors 2026 - MarketBeat",
+    "American energy sector to invest $100B in battery storage by 2030 [update]"
+  ]
+}

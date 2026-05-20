@@ -1,0 +1,211 @@
+{
+  "date": "2026-05-20",
+  "generated_at": "2026-05-20T10:43:24.626919Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "xinyi_solar-2026-05-20-001",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Photovoltaic stocks declined across the board, with Lens Technology and Xinyi Solar falling during trading. - 富途牛牛",
+      "companies": [
+        "xinyi_solar"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNRTlRMy1YSkJYaXNSQ2xCS0NnN3JOanNhUzBOT0JjSFpJRDZjSkJPajZjNFNUeEJqbjAzSnpWOWdYTnBFTmZGY2o2eWc4VTZaYWdlQ0NTeXhuejlMSWV3TEM1Q08wUXdCYWxHYVV3SHIybVBOMllFR1dpS1FCRVRHLWtUZS1BS1BCemFPWVh6UjBvWmtlRUlTaU5mc3ROSlFNeVp0Z3JrMHhiQ0c4dnd0Sg?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-05-20-020",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "India solar industry seeks higher power prices amid record demand - Reuters",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNMXFMaC1lQVIzY0FTNVBtaFBqaHNSNnJrdVQxXzJSNXBybmdSR2ZzZ1JyNF9DUTFib21KNi1hVl95LUcya3NMeHZRY3N5X2tXMXNqZ0xaQ2E0VTI3LVJlOFVfNFRzdEhGVGNFbG9Zb3MyZ0pKYlFqM084cEdrbkRKbXZ3NG5aMkdicHpsb1JMUlpCQTl1cUFmaUxTVXlzQThocjdUX0gtMXhWVjI3MjBpTFpnRVhUck5v?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "xinyi_solar-2026-05-20-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Bearish block trade of XINYI SOLAR(00968) 820K shares at $2.71, $2.222M turnover - AASTOCKS.com",
+      "companies": [
+        "xinyi_solar"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBoLW1mODVrMENoNmF4YVl2OFNaUkVUa2pidkpZMy14QWg5RmozQVRmWWIwOUM0Wmk1REd4cFlBYlo0UmtkWlFYZ1FxVERPTmpKenFOa0ttaWVETWJmdDJwTm03dFRMck9TbTk4Nmw4VERjdw?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "xinyi_solar-2026-05-20-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "XINYI SOLAR (00968) has dropped 5.245%. The last price is HK$2.71AA Market Move - Price Dropped - AASTOCKS.com",
+      "companies": [
+        "xinyi_solar"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQZHB0OFF0a3JyeXBXdTZmaWdmQVpGdy14Q2RZUlhXaEM2TXZEV05DTl9uM19fdVRhZVRtcDd6SzM0b0xNc3h5MDFNcUJ4NmxiWjRYVVZGREI5WW9lVG1rZUhxMFZ4SDhiZkphbDV5S3VZMWZmazR2Nm1lS0xLVGIzb2xYM0RiZw?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "longi-2026-05-20-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "FLASH: China Huaneng Group signs a strategic cooperation agreement with LONGi Green Energy Technology - Mysteel",
+      "companies": [
+        "longi"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNeU00MmRqUzA3X25VaXhyY1o5c3lXWkQ3MmgzWVFhVWhmT3Y3aWVaS2o1WE1mY2lSUFc0S1NfaXBmQkdBRjZHdmRGb0tEaEx6Qk1iZkF4SnpQUTZRTnltXzZKbkUxOFI3VDdDLThXU3FUVGdBVEpONEF5UEFKekhOaFp0ZzRnMW1WQU92QmpSS0pJVnlMSUZoMlMtcWtJSTkxY2hrcUM4T0RfczBqeGxDOHZfN3BzdldkNGpIdF8weERXSjNpTHJPeUZTR2VuTTQtME1n?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 26,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.02,
+      "sentiment_7d_avg": null
+    },
+    "installation_demand": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 26,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 23,
+      "negative": 2
+    },
+    "top_companies": [
+      {
+        "id": "xinyi_solar",
+        "count": 3
+      },
+      {
+        "id": "longi",
+        "count": 1
+      },
+      {
+        "id": "jinko",
+        "count": 1
+      },
+      {
+        "id": "array",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 26
+      },
+      {
+        "id": "installation_demand",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 482,
+    "dup_title": 206,
+    "too_old": 161,
+    "gate1_blocked": 47,
+    "gate2_blocked": 2,
+    "passed": 66,
+    "pass_rate": "23.9%",
+    "gate2_block_rate": "0.7%",
+    "gate2_samples": [
+      "Top DAQO New Energy (DQ) Competitors 2026 - MarketBeat",
+      "American energy sector to invest $100B in battery storage by 2030 [update]"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 26 則事件，焦點為信義光能、隆基綠能、晶科能源相關動態：「Photovoltaic stocks declined across the board, with Lens ...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "Photovoltaic stocks declined across the board, with Lens Technology and Xinyi...（太陽能產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "India solar industry seeks higher power prices amid record demand - Reuters（太陽能產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "裝機需求持續受關注，產業趨勢帶動需求成長。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
