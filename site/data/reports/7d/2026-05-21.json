@@ -1,0 +1,164 @@
+{
+  "date": "2026-05-21",
+  "date_range": {
+    "start": "2026-05-15",
+    "end": "2026-05-21"
+  },
+  "generated_at": "2026-05-21T10:59:57.798012Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "daqo-2026-05-15-051",
+      "date": "2026-05-15",
+      "title": "Chinese PV Industry Brief: Daqo, Tongwei, Aiko Solar post Q1 losses - pv magazine International",
+      "importance_score": 0.85
+    },
+    {
+      "type": "sentiment_reversal",
+      "subject": "installation_demand",
+      "subject_type": "topic",
+      "this_week_sentiment": 0.43,
+      "last_week_sentiment": -0.17,
+      "delta": 0.6,
+      "rank": 2
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "industry_general": {
+      "this_week": 126,
+      "last_week": 124,
+      "week_over_week_change": "+2%",
+      "sentiment_this_week": 0.03
+    },
+    "installation_demand": {
+      "this_week": 7,
+      "last_week": 6,
+      "week_over_week_change": "+17%",
+      "sentiment_this_week": 0.43
+    },
+    "module_price": {
+      "this_week": 3,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": -0.13
+    }
+  },
+  "company_7d_summary": {
+    "trina": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 7
+    },
+    "jinko": {
+      "event_count": 6,
+      "sentiment_avg": 0.0,
+      "rank": 2
+    },
+    "array": {
+      "event_count": 5,
+      "sentiment_avg": 0.0,
+      "rank": 3
+    },
+    "daqo": {
+      "event_count": 1,
+      "sentiment_avg": -0.38,
+      "rank": 9
+    },
+    "tongwei": {
+      "event_count": 2,
+      "sentiment_avg": -0.19,
+      "rank": 8
+    },
+    "xinyi_solar": {
+      "event_count": 7,
+      "sentiment_avg": -0.14,
+      "rank": 1
+    },
+    "longi": {
+      "event_count": 3,
+      "sentiment_avg": -0.17,
+      "rank": 6
+    },
+    "gcl": {
+      "event_count": 4,
+      "sentiment_avg": -0.38,
+      "rank": 4
+    },
+    "canadian_solar": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 10
+    },
+    "ja_solar": {
+      "event_count": 4,
+      "sentiment_avg": 0.0,
+      "rank": 5
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 295,
+        "last": 391,
+        "change_pct": -24.6
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-05-15",
+      "event_count": 54,
+      "sentiment_avg": 0.08
+    },
+    {
+      "date": "2026-05-16",
+      "event_count": 19,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-05-17",
+      "event_count": 14,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-05-18",
+      "event_count": 53,
+      "sentiment_avg": 0.02
+    },
+    {
+      "date": "2026-05-19",
+      "event_count": 68,
+      "sentiment_avg": 0.04
+    },
+    {
+      "date": "2026-05-20",
+      "event_count": 67,
+      "sentiment_avg": -0.02
+    },
+    {
+      "date": "2026-05-21",
+      "event_count": 20,
+      "sentiment_avg": 0.12
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-05-15 ~ 2026-05-21）共 295 則事件，重點為「Chinese PV Industry Brief: Daqo, Tongwei, Aiko ...」。協鑫科技、大全新能源情緒偏負面，建議留意相關風險。",
+    "watchlist": [
+      {
+        "company": "大全新能源",
+        "reason": "本週情緒偏負面（-0.4），共 1 則相關事件，需關注後續發展。"
+      },
+      {
+        "company": "協鑫科技",
+        "reason": "本週情緒偏負面（-0.4），共 4 則相關事件，需關注後續發展。"
+      },
+      {
+        "company": "晶科能源",
+        "reason": "本週出現 6 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

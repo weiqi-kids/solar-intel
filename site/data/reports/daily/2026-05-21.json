@@ -1,0 +1,207 @@
+{
+  "date": "2026-05-21",
+  "generated_at": "2026-05-21T10:59:57.672198Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-05-21-013",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "US energy storage has record breaking Q1 2026",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "installation_demand",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://www.solarpowerworldonline.com/2026/05/us-energy-storage-has-record-breaking-quarter/"
+    },
+    {
+      "rank": 2,
+      "event_id": "xinyi_solar-2026-05-21-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Bearish block trade of XINYI SOLAR(00968) 800K shares at $2.74, $2.192M turnover - AASTOCKS.com",
+      "companies": [
+        "xinyi_solar"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9CY3RINVJSMFl6bjZNSUl2b3E2VzRkS2ZEN0R0bjdqem1weTJHR1k4QUpmUk1XbTJUb0hnaEtoc1NmYVZJZGI5LVlYUi1lSW8wRmxxbzcwMkNCX3pmZ19ocWNsY1FDakVhS2tVQWs1bnY2UQ?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "ja_solar-2026-05-21-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "JA Solar appoints head of energy storage subsidiary, effective immediately - Energy-Storage.News",
+      "companies": [
+        "ja_solar"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPbm5iYU9JMkJ5NW5kWVFiT0xoWUVvQm9TVk5kc2UzdzBCUEhVa1kyTmhBcmpHeDNpbHk0VGRCeEFSQnBZVVVJN2gxSE9nMWw1c3Rrd0xsOU5qemktMzcxQUdhR3VaSC1rUjJDOV9DLVlFNGVSSmZlSDdwR1AyLWUzdHgxQVRUNTNKMWZIdWhmX3NuMUF5U25kMnc4V29UYVJDYVBkODdfYVFwQQ?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "ja_solar-2026-05-21-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "JA Solar Appoints Wang Junsheng as Energy Storage President Amid Strategic Push - News and Statistics - IndexBox",
+      "companies": [
+        "ja_solar"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQZmtRV1ZXS3pWRkt6WldybXJCa0Zvbi1rQmFuRDF4dDhIT1J1TmIxRHQwblJJc2VHYWdYLW04a0JPT2xSa3JPMDVJeU50QWphaFpULUF6eXdJWm5CSTlGNkVxbHpnSXhFYU53dmJzamd1NTVpSTVON1V4S0E2TE16cURiUHA3WGppV2pQbDBmaFlRVXUxbDY0M0xuOUdFUQ?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-05-21-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Construction of 20ha solar farm begins in Reefton - The Press",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQRFBQYW92NXFlbXFaUnNwa3A1amZGcnV1WGxUTkc1SXctdk5EOWcxU0s5dDdwa3VfaEZKcWhIQnlOZGktQ1pMNkRUamw3dlczaWxRakFZN2lfTm5zY2J4cFFMUzJzWkstUC1LeF9vZFJFcVdDWmFwdWpUWTlwUUNkeEJlck9XZGpxRk9aVjZsVFdkdw?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 20,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.12,
+      "sentiment_7d_avg": null
+    },
+    "installation_demand": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 1.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 20,
+    "sentiment_distribution": {
+      "positive": 4,
+      "neutral": 16,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "ja_solar",
+        "count": 3
+      },
+      {
+        "id": "xinyi_solar",
+        "count": 1
+      },
+      {
+        "id": "jinko",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 20
+      },
+      {
+        "id": "installation_demand",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 480,
+    "dup_title": 201,
+    "too_old": 160,
+    "gate1_blocked": 47,
+    "gate2_blocked": 5,
+    "passed": 67,
+    "pass_rate": "24.0%",
+    "gate2_block_rate": "1.8%",
+    "gate2_samples": [
+      "DQ News | DAQO NEW ENERGY CORP-ADR (NYSE:DQ) - ChartMill",
+      "Top DAQO New Energy (DQ) Competitors 2026 - MarketBeat",
+      "Array Technologies (ARRY) investors back directors, auditor and Board declassification - Stock Titan",
+      "Keeping the GHG Protocol an engine of corporate PPA growth",
+      "SEIA: AI is fueling a massive US energy storage boom"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 20 則事件，焦點為晶澳科技、信義光能、晶科能源相關動態：「US energy storage has record breaking Q1 2026」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "US energy storage has record breaking Q1 2026（裝機需求、太陽能產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "Bearish block trade of XINYI SOLAR(00968) 800K shares at $2.74, $2.192M turno...（太陽能產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "裝機需求持續受關注，產業趨勢帶動需求成長。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

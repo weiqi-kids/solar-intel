@@ -1,0 +1,16 @@
+{
+  "total_raw": 480,
+  "dup_title": 201,
+  "no_date": 0,
+  "too_old": 160,
+  "gate1_fail": 47,
+  "gate2_fail": 5,
+  "passed": 67,
+  "gate2_samples": [
+    "DQ News | DAQO NEW ENERGY CORP-ADR (NYSE:DQ) - ChartMill",
+    "Top DAQO New Energy (DQ) Competitors 2026 - MarketBeat",
+    "Array Technologies (ARRY) investors back directors, auditor and Board declassification - Stock Titan",
+    "Keeping the GHG Protocol an engine of corporate PPA growth",
+    "SEIA: AI is fueling a massive US energy storage boom"
+  ]
+}
