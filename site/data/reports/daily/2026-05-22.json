@@ -1,0 +1,208 @@
+{
+  "date": "2026-05-22",
+  "generated_at": "2026-05-22T10:43:24.844019Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "sungrow-2026-05-22-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Sungrow and Masdar Sign 7.5GWh Energy Storage System for Abu Dhabi's World First RTC Project - PR Newswire",
+      "companies": [
+        "sungrow"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQWkY5bVZuRjFLaEhKZkhKZkNEZm9IWHUwd3d4Ul9OZTdkVGMxVVNvMXZMVHBvMkljM1FReEdxQjNuUGUweXo3cGpDOUNGVGY4VjgxRmZVcENWb2g2MlNEN1lmWkFWcFBMa1ZJLUxnYV9hTXY1MlhnTFRfRGVGTmtrdWRaNlhkNEhCT1F2amZFZ1Y3N2FmRmdGUjJ1Y3pnRnVyaWdrMWc4VjFJcG5jYzk1ZlhLM2NsZWNpSlM0R0hfQXdxc2oxeXZDYlNhZWxjT2ZucW1VTTlQd1pnVzVERDBCSA?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "sungrow-2026-05-22-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Sungrow tech picked for GW-scale solar-storage project in Abu Dhabi - Renewables Now",
+      "companies": [
+        "sungrow"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOYlFsc2dVM0w1ZlpVQ3dCVkh3ZnlsNlBzZWJhSmJMMVg3bnVYMk9SbG15Q0VHaVk0dWk2UUsxUG9nQThfZ2cwMzdWTWNubVc3NUxrR3FJX3ZZckxBX3BtOFlLUWdfXzlFQWl5bXg4bWhRWXR1bm9GcVJoeWxqdVUyMFdDcUxfT1FjTVJ3UWpIaFdOdUc0ZXNuQnNoX3RaTWdtcVVWMHE3SXExa1k?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-05-22-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Deye unveils 2.56 kWh hybrid battery for balcony, residential PV",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.pv-magazine.com/2026/05/22/deye-unveils-2-56-kwh-hybrid-battery-for-balcony-residential-pv/"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-05-22-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "SAJ unveils its ecosystem strategy and three new products at the elekeeper ecosystem partner conference",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.pv-magazine.com/2026/05/22/saj-unveils-its-ecosystem-strategy-and-three-new-products-at-the-elekeeper-ecosystem-partner-conference/"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-05-22-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Singapore team builds 19.7%-efficient ultrathin ‘biPoly’ TOPCon solar cell",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": "https://www.pv-magazine.com/2026/05/22/singaporean-scientists-build-19-7-efficient-ultrathin-bipoly-topcon-solar-cell/"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 15,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.03,
+      "sentiment_7d_avg": null
+    },
+    "trade_tariff": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    },
+    "installation_demand": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 15,
+    "sentiment_distribution": {
+      "positive": 3,
+      "neutral": 10,
+      "negative": 2
+    },
+    "top_companies": [
+      {
+        "id": "sungrow",
+        "count": 3
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 15
+      },
+      {
+        "id": "trade_tariff",
+        "count": 1
+      },
+      {
+        "id": "installation_demand",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 482,
+    "dup_title": 214,
+    "too_old": 162,
+    "gate1_blocked": 43,
+    "gate2_blocked": 11,
+    "passed": 52,
+    "pass_rate": "19.4%",
+    "gate2_block_rate": "4.1%",
+    "gate2_samples": [
+      "DQ News | DAQO NEW ENERGY CORP-ADR (NYSE:DQ) - ChartMill",
+      "Top DAQO New Energy (DQ) Competitors 2026 - MarketBeat",
+      "Array Technologies (NASDAQ: ARRY) director exercises RSUs and receives new equity grant - Stock Tita",
+      "Array Technologies (NASDAQ: ARRY) director receives RSUs, exercises 22,164 shares - Stock Titan",
+      "Array Technologies (NASDAQ: ARRY) director exercises RSUs and receives new stock unit grant - Stock "
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 15 則事件，焦點為陽光電源相關動態：「Sungrow and Masdar Sign 7.5GWh Energy Storage System for ...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Sungrow and Masdar Sign 7.5GWh Energy Storage System for Abu Dhabi's World Fi...（太陽能產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "Sungrow tech picked for GW-scale solar-storage project in Abu Dhabi - Renewab...（太陽能產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "裝機需求持續受關注，產業趨勢帶動需求成長。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

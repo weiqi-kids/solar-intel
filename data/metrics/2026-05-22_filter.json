@@ -1,0 +1,16 @@
+{
+  "total_raw": 482,
+  "dup_title": 214,
+  "no_date": 0,
+  "too_old": 162,
+  "gate1_fail": 43,
+  "gate2_fail": 11,
+  "passed": 52,
+  "gate2_samples": [
+    "DQ News | DAQO NEW ENERGY CORP-ADR (NYSE:DQ) - ChartMill",
+    "Top DAQO New Energy (DQ) Competitors 2026 - MarketBeat",
+    "Array Technologies (NASDAQ: ARRY) director exercises RSUs and receives new equity grant - Stock Tita",
+    "Array Technologies (NASDAQ: ARRY) director receives RSUs, exercises 22,164 shares - Stock Titan",
+    "Array Technologies (NASDAQ: ARRY) director exercises RSUs and receives new stock unit grant - Stock "
+  ]
+}
