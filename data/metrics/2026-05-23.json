@@ -1,0 +1,25 @@
+{
+  "date": "2026-05-23",
+  "total_events": 8,
+  "by_company": {
+    "xinyi_solar": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "industry_general": {
+      "count": 8,
+      "sentiment_avg": 0.12
+    },
+    "grid_parity": {
+      "count": 1,
+      "sentiment_avg": 0.5
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}
