@@ -1,5 +1,25 @@
 [
   {
+    "id": "jinko-2026-05-24-001",
+    "date": "2026-05-24",
+    "companies": [
+      "jinko"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Assessing JinkoSolar Holding’s (NYSE:JKS) Valuation After New PM Green Clean Energy Partnership - simplywall.st",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxQQWk3MDRZWVA3Z294UjFOSHlNd3Q2QTRjV19qWm16Rlp2QXBBMmxCVXItZ3NRZkg2b3VnWDFxSHVqR3ZmblZEWnljdmU5bk02S1BySXZWdV9zeFRtSEVWNU4xTHZPNm1ZSkdEYTI4bF",
+    "sources": [
+      {
+        "name": "jinko",
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQQWk3MDRZWVA3Z294UjFOSHlNd3Q2QTRjV19qWm16Rlp2QXBBMmxCVXItZ3NRZkg2b3VnWDFxSHVqR3ZmblZEWnljdmU5bk02S1BySXZWdV9zeFRtSEVWNU4xTHZPNm1ZSkdEYTI4bFp4TFRGMzJkcnp4MVN5YVAwaVRvX3oxRXduWWRETG9KeXI2YnlGU0Q0czJubmNsYXVZanJtUzZIcmlmZEtRQUdjMDVnQnpmd1U2UmpTb3RiNENRRWNYQjIxamg1UDhic2VOQTJzRXZfQdIB3AFBVV95cUxOVGo4VlNtTk9UWHlhZUVHdjVuTEp0SFdsYlM1b21lWTJFSURlTkZCdVA5bTJUWHhHN0FCeGRjTzJKZlNocU0zcEhsSUN5ei1KLS1HMkExendyLXA0S0NxZWg3OXNobzRxUWMzeUdkdG5hZnMwcmhHWlJCbkZPeXNRaHVPUVJjZUtCWk1pVWlQMXZtRUhIdFdNOGd3VTVZYm1QMDhGVjJOdU1mWnoybjUxTkF3bElHZUtiVzRHMEpVajJybjNCUGZNQm0xOG1NWUNiOFhWNTB1Z1VRUlFC?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "xinyi_solar-2026-05-23-001",
     "date": "2026-05-23",
     "companies": [
@@ -142,6 +162,150 @@
       {
         "name": "google_news_solar",
         "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxNWTM0MFN4Z2xVVGMzVEQtZXVkS2dFaDVRS1FMQjE0WUdVYUJLM3NBYWlxaFZOVlFiUHNjdXNhVDVNUVljd0RfLXY4TzR2b0paaElTMVp6dWg3c3RQVkZYY1BMRXJsLWVRT0dpLUtKZEcwVDRZWVNWNktIMmJvQXd6Rkk0T043eG00UDUwQk02ZHRGVXRpU25SX0ZIUzBKRmRSMDlPMVlVcm13d3NHLVZUV2hSMUI3aWNXWUJQd3J4OXg3SUhWX1hOb1c4OGZHY2Y5UGFlTHd2SU9JdDh4dXRXS0JtU1lneF9yUjZicDk4YjNjNkF1R013akF2ckNTVVBhTjVKYWhFR3BuN2JPSExuNg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-23-009",
+    "date": "2026-05-23",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "The leading solar-plus-storage company has doubled again. - 富途牛牛",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxOVVg5cDBrdENMNllNLTZ5Q0w2ZlBQdUdvWDJiVGNaeEktaFBieExheTZPdjBqNExlU0MyMlF4Z0N3ZTdCVHVReWFPV3ZHclJ4ZTVjNEJpZl8xNnZCSjVZVTBKNW1QLWUzdTVWME1KZn",
+    "sources": [
+      {
+        "name": "sungrow",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOVVg5cDBrdENMNllNLTZ5Q0w2ZlBQdUdvWDJiVGNaeEktaFBieExheTZPdjBqNExlU0MyMlF4Z0N3ZTdCVHVReWFPV3ZHclJ4ZTVjNEJpZl8xNnZCSjVZVTBKNW1QLWUzdTVWME1KZnN3Q2NLRlhMM1ItbDVyOElWN0lpX09SQU9fcDdWOU1HMXZUUjM4SG1vVkxpTzI0dw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-23-010",
+    "date": "2026-05-23",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Brazil falls short of its battery storage potential",
+    "summary": "The Brazilian Association of Energy Storage Solutions gathered executives to debate applications that could solve systemic challenges facing the Brazilian electricity sector. The issue, they argue, go",
+    "sources": [
+      {
+        "name": "pv_magazine",
+        "url": "https://www.pv-magazine.com/2026/05/23/brazil-falls-short-of-its-battery-storage-potential/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-23-011",
+    "date": "2026-05-23",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Solar surprise: rare cloud condition pushed this solar panel system OVER 100%",
+    "summary": "<div class=\"feat-image\"><img src=\"https://electrek.co/wp-content/uploads/sites/3/2026/05/DANADA_HOUSE.jpg?quality=82&#038;strip=all&#038;w=1600\" /></div><p>One Redditor got a big surprise this week, w",
+    "sources": [
+      {
+        "name": "electrek_solar",
+        "url": "https://electrek.co/2026/05/23/solar-surprise-rare-cloud-condition-pushed-this-solar-panel-system-over-100/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-23-012",
+    "date": "2026-05-23",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Solar surprise: rare cloud condition pushed this solar panel system OVER 100% - Electrek",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxOdlZmU3JnTnRCdEpCZnM5LXRzUTVwSW9wQVBqU2I0V204RnV3OGxhLWVyMDd4dWhoWWloMmdoXzEyM1JuVE9GMUhuUzNjeHBVWUVmdjM5SEJGMi05ZlVfTWhvTzkwazdBNmFsSVY5bl",
+    "sources": [
+      {
+        "name": "google_news_solar",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOdlZmU3JnTnRCdEpCZnM5LXRzUTVwSW9wQVBqU2I0V204RnV3OGxhLWVyMDd4dWhoWWloMmdoXzEyM1JuVE9GMUhuUzNjeHBVWUVmdjM5SEJGMi05ZlVfTWhvTzkwazdBNmFsSVY5bldzbWpVSnhGMWlMTVUzOHlKd3lrT1RNeXB1U010bkREN3F0ZFJvTksyZE1DX1NqdDIwZDU5cFJPem1CRDg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-23-013",
+    "date": "2026-05-23",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "World Floating Solar Panels - Market Analysis, Forecast, Size, Trends and Insights - IndexBox",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxNVzI2ZGVnVGhZS1ltemhweEVZR3F5LUtQVy01eVZ5LUpscUdWdl9DbW1iQl91akJvYkJ1c2JwTGlsVTdhdE5UWUkyWTZ4a2ZpSGpKRXg2Yjc5MDJaVzRSMEcwc2huZjN0d2VhVHR0LT",
+    "sources": [
+      {
+        "name": "google_news_solar",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNVzI2ZGVnVGhZS1ltemhweEVZR3F5LUtQVy01eVZ5LUpscUdWdl9DbW1iQl91akJvYkJ1c2JwTGlsVTdhdE5UWUkyWTZ4a2ZpSGpKRXg2Yjc5MDJaVzRSMEcwc2huZjN0d2VhVHR0LTk4V3pNb0l2UTFnY3NodlY0WHp0ME9WOWs4WXE5cTJQV21hTk1Camc0R1dtTHhnSUpaOGgzX2xxZVBGWnN1NHhLQkZiTk92QXROTDhyN0g0VllVcEhpN19ld2NmUndieVM5OFE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-23-014",
+    "date": "2026-05-23",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Soaring Energy Prices Are Driving a Home Solar Boom - Crude Oil Prices Today | OilPrice.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxNRXQ1UnZzWFV2YlpzUGRoSkJwa3FpWU1KRVVNdnlIWlc3TlFTV19kNUk1aG5TYUc1MVpHbGJJR1ZJVmlYaDFWUmdVYUprSHp3d3N3dUVSMXZnYmFqcjl6Nmt6X1ZOM0NqSDV5SEh4Vm",
+    "sources": [
+      {
+        "name": "google_news_solar",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNRXQ1UnZzWFV2YlpzUGRoSkJwa3FpWU1KRVVNdnlIWlc3TlFTV19kNUk1aG5TYUc1MVpHbGJJR1ZJVmlYaDFWUmdVYUprSHp3d3N3dUVSMXZnYmFqcjl6Nmt6X1ZOM0NqSDV5SEh4VmNGSkMxZEl3eGZDZm5nSlhpclFRcDgxSjQwMVRPWHM0cmdBNjBhNVFJV1MtSVFYRFBUYXhhQVNYVEp3WXNNVWfSAbMBQVVfeXFMTUs5cEtabWhMdEIwLXJ2S2RoSS13TUYwbGRTZVI2T1gwWU5fQ2t5RW5BdnFZYVZNbWxTd05WdjFETFpDSkRJc0ZTbEt0R2NwYzNJUmwzZXJiUldJT0RYaGJvMlFGaDlVamd5WGJZV25qanpDVTNUX1NQY2ZmdVE4NFpsb0dyWloyR2I3N1lGVk9GU3U0QllNSmpiajV4TDltOGNSS3lkbnZSYWx6amhtUFJkNUE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-23-015",
+    "date": "2026-05-23",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Why isn’t there more solar power in one of Canada’s sunniest provinces? - The Narwhal",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTE1fcVJpQkxFUktwcnZua3Ezb0pxbXhBQzlnb0JPMEI3S05rX0Q1VWtvRlMwYlBXLUtMV3BzTnAycHJVUGR1NUkxWjRrU0N4UHhla2tGel93?oc=5\" target=\"_blank\">Why isn’t t",
+    "sources": [
+      {
+        "name": "google_news_solar",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1fcVJpQkxFUktwcnZua3Ezb0pxbXhBQzlnb0JPMEI3S05rX0Q1VWtvRlMwYlBXLUtMV3BzTnAycHJVUGR1NUkxWjRrU0N4UHhla2tGel93?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-23-016",
+    "date": "2026-05-23",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Earth.org Debunks Clean Energy Myths",
+    "summary": "<p>Clean energy myths abound, but Earth.org has five strategies for countering disinformation that have proven effective. </p>\n<p>The post <a href=\"https://cleantechnica.com/2026/05/23/earth-org-debun",
+    "sources": [
+      {
+        "name": "cleantechnica",
+        "url": "https://cleantechnica.com/2026/05/23/earth-org-debunks-clean-energy-myths/",
         "type": "rss"
       }
     ]
@@ -902,6 +1066,26 @@
       {
         "name": "cleantechnica",
         "url": "https://cleantechnica.com/2026/05/22/more-utilities-governments-and-private-citizens-are-adopting-solar-than-ever-before/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "jinko-2026-05-22-042",
+    "date": "2026-05-22",
+    "companies": [
+      "jinko"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "JinkoSolar Featured in Climate Group’s \"RE100 China Guidebook\" as an Industry Benchmark - TaiyangNews",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxNal9WM0dkY2xoWnlQbThfQTRraE03MFpjYmdhSzlEYXczMjVZR3QwdzhnOGt6MDFIZmMzNkhzbV9MX2pwNF93Q2psV1ByQUpDbTc5VEU5c0JtQjhfanE0NGVqc1lOSk0xNnFXX2RBMF",
+    "sources": [
+      {
+        "name": "jinko",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNal9WM0dkY2xoWnlQbThfQTRraE03MFpjYmdhSzlEYXczMjVZR3QwdzhnOGt6MDFIZmMzNkhzbV9MX2pwNF93Q2psV1ByQUpDbTc5VEU5c0JtQjhfanE0NGVqc1lOSk0xNnFXX2RBMFFnQXdiWmJ1czhnNnRETEFJWEJwdDZTNDBTV0wyeU1jWlk3ZWFYZmE5QUt6N0RaT1prcXY1NFRpT2pNNjZpalVPa2FLckl1em1MalAzRHBDdkpFR29hTFZTQllFVFpDUdIBzgFBVV95cUxNal9WM0dkY2xoWnlQbThfQTRraE03MFpjYmdhSzlEYXczMjVZR3QwdzhnOGt6MDFIZmMzNkhzbV9MX2pwNF93Q2psV1ByQUpDbTc5VEU5c0JtQjhfanE0NGVqc1lOSk0xNnFXX2RBMFFnQXdiWmJ1czhnNnRETEFJWEJwdDZTNDBTV0wyeU1jWlk3ZWFYZmE5QUt6N0RaT1prcXY1NFRpT2pNNjZpalVPa2FLckl1em1MalAzRHBDdkpFR29hTFZTQllFVFpDUQ?oc=5",
         "type": "rss"
       }
     ]
@@ -3185,6 +3369,24 @@
     ]
   },
   {
+    "id": "unknown-2026-05-20-072",
+    "date": "2026-05-20",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "‘We’re not rich people’: How a Beavercreek homeowner uses 19 solar panels to cut energy costs - Dayton Daily News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi_wFBVV95cUxNNHhfY2JZNmVSbVo2ekdDUzNoOEFmR1VwRlBGa2hKdmVuRkY2bURuRlREb1djVG5HR29XVWZjdW1xZ1cwb3NQX3I5MGloajhCeUl4OThiaUZvVFZRM0EzZ2Rabms5bU9UZ19kQU1vVk",
+    "sources": [
+      {
+        "name": "google_news_solar",
+        "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNNHhfY2JZNmVSbVo2ekdDUzNoOEFmR1VwRlBGa2hKdmVuRkY2bURuRlREb1djVG5HR29XVWZjdW1xZ1cwb3NQX3I5MGloajhCeUl4OThiaUZvVFZRM0EzZ2Rabms5bU9UZ19kQU1vVkt2NGZxV2NINktHRUNELWhFcVNkeGFvMl9HZE83ZmVZNVgzb1pzcXRkZWlaREVGTVFmYzB3MDdqX3pkenNWZnJNWjAwWC05MWlhZXJaSHZwTVRQYmktX25SU0xhUUlOMnNOLTMxLW1VQy15Q09hYUJSUEFiR3U0TFdkYWdSWXRHQUc3QUZwak1qZ2pORGZsRVE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "xinyi_solar-2026-05-19-001",
     "date": "2026-05-19",
     "companies": [
@@ -4519,6 +4721,26 @@
       {
         "name": "google_news_solar",
         "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9yOWdaVlRxY3FvdWE4cDRLblVFRklsT2JUWVZ5Wm5ET3B6bi1LbFE2bHRYMjV4ME5JdDlLb2xMWC1ab0RCNmVsLXdJMUYxYTF3eHN5UVFHaTI1cGVRakZWMEt1ckFMaTd6cThNaV9sUTZaSmk3RGR3R3NjMA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "gcl-2026-05-19-073",
+    "date": "2026-05-19",
+    "companies": [
+      "gcl"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "GCL Technology expands beyond PV with new energy storage business - ESS News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxQOTNFdExLQkRFYmdrSXVzNlZZak9wR1FCMjRueFhFSDVYcFFzLUVfRmNOTWVhZnA2eXNzeTNuVTlGSzVXOGI2NlkydFBoUTZBeHY3RHk1LXNOTUlZZG1zMkI2Q3QzQ0pJRl82OUNBeT",
+    "sources": [
+      {
+        "name": "gcl",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQOTNFdExLQkRFYmdrSXVzNlZZak9wR1FCMjRueFhFSDVYcFFzLUVfRmNOTWVhZnA2eXNzeTNuVTlGSzVXOGI2NlkydFBoUTZBeHY3RHk1LXNOTUlZZG1zMkI2Q3QzQ0pJRl82OUNBeTY1M1RXMUc3Z1BVLWRHM3AwTjRFLXBEYkZaUjM4ckNabWN0cUk4bldpYzB4dFh6bjB4aUtsWQ?oc=5",
         "type": "rss"
       }
     ]

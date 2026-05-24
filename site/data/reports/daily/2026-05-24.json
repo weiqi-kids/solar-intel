@@ -1,0 +1,94 @@
+{
+  "date": "2026-05-24",
+  "generated_at": "2026-05-24T09:49:13.094206Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "jinko-2026-05-24-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Assessing JinkoSolar Holding’s (NYSE:JKS) Valuation After New PM Green Clean Energy Partnership - simplywall.st",
+      "companies": [
+        "jinko"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQQWk3MDRZWVA3Z294UjFOSHlNd3Q2QTRjV19qWm16Rlp2QXBBMmxCVXItZ3NRZkg2b3VnWDFxSHVqR3ZmblZEWnljdmU5bk02S1BySXZWdV9zeFRtSEVWNU4xTHZPNm1ZSkdEYTI4bFp4TFRGMzJkcnp4MVN5YVAwaVRvX3oxRXduWWRETG9KeXI2YnlGU0Q0czJubmNsYXVZanJtUzZIcmlmZEtRQUdjMDVnQnpmd1U2UmpTb3RiNENRRWNYQjIxamg1UDhic2VOQTJzRXZfQdIB3AFBVV95cUxOVGo4VlNtTk9UWHlhZUVHdjVuTEp0SFdsYlM1b21lWTJFSURlTkZCdVA5bTJUWHhHN0FCeGRjTzJKZlNocU0zcEhsSUN5ei1KLS1HMkExendyLXA0S0NxZWg3OXNobzRxUWMzeUdkdG5hZnMwcmhHWlJCbkZPeXNRaHVPUVJjZUtCWk1pVWlQMXZtRUhIdFdNOGd3VTVZYm1QMDhGVjJOdU1mWnoybjUxTkF3bElHZUtiVzRHMEpVajJybjNCUGZNQm0xOG1NWUNiOFhWNTB1Z1VRUlFC?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 1,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 1,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "jinko",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 480,
+    "dup_title": 245,
+    "too_old": 167,
+    "gate1_blocked": 47,
+    "gate2_blocked": 9,
+    "passed": 12,
+    "pass_rate": "5.1%",
+    "gate2_block_rate": "3.8%",
+    "gate2_samples": [
+      "Array Technologies (ARRY) investors back directors, auditor and Board declassification - Stock Titan",
+      "Array (NASDAQ: ARRY) director adds shares with 22,164 RSU vesting and new grant - Stock Titan",
+      "Array Technologies (NASDAQ: ARRY) director exercises RSUs and receives new equity grant - Stock Tita",
+      "Array Technologies (NASDAQ: ARRY) director receives RSUs, exercises 22,164 shares - Stock Titan",
+      "Array Technologies (ARRY) director adds equity through RSU vesting and new grant - Stock Titan"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 1 則事件，焦點為晶科能源相關動態：「Assessing JinkoSolar Holding’s (NYSE:JKS) Valuation After...」。主要關注主題為太陽能產業通用，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Assessing JinkoSolar Holding’s (NYSE:JKS) Valuation After New PM Green Clean ...（太陽能產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "晶科能源為今日主要關注企業。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
