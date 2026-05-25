@@ -1,0 +1,215 @@
+{
+  "date": "2026-05-25",
+  "generated_at": "2026-05-25T11:43:52.923768Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "first_solar-2026-05-25-011",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "JinkoSolar scores major TOPCon patent victory against First Solar in China - Green Building Africa",
+      "companies": [
+        "first_solar",
+        "jinko"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQR1ZOZ05ya3NUVU1lcnpadk9IRkdkZVdNZGlLVFRKbGU3ZThIcHFCWGNLWi1GS1liLUUweUJ1c00zTkJ5SGdERGJfZDZZODRGck42ZWFWQ08zTUh0anlzc2xoRHlKbnNGck5yM3FIaWFLVUZzWkVSbmUtWjlTT01EY091YW51cVJzc3pBLUdiWTE0bGxhOGxoTjZkMTExR1ZYd1NnaTBTbkVmUXoxY0VrTmtoUQ?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-05-25-015",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Pollution from coal plants can reduce solar generation by over 5%",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://www.pv-magazine.com/2026/05/25/pollution-from-coal-plants-can-reduce-solar-generation/"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-05-25-019",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "China solar exports hit all-time record in March as Africa, Asia demand jumps - news - Mongabay",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxON1NsRHV6dWZFTXdCQzlORjlvY1lwX2dmem1wLWJwVkR2NGlFWUtTR1JUUzlGckN0ZldoamI2azVELXZERHU5SXNtRFZ6TnFuUzRNZVRFVVBtOXFUUl81U1hveHp1TE9nZEZJQ3BxQVhfU25tYUhrTTlWWlBzOGI0RXJoWS1EZ2xVSE9BbVdab2ZzcUo2OGJnTVNoZ05SZjZUcVA3UXZsUjBGd1BVdWFoUHlrdEVxWU0xNmIxYjlBMHJwTDg?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "gcl-2026-05-25-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Assessing GCL Technology Holdings (SEHK:3800) Valuation After Sharp Revenue And Earnings Deterioration - simplywall.st",
+      "companies": [
+        "gcl"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPMWx2Vm85T1pMelpfTk9GVDMxQUVDOHhfNExUeGxNN2RyeldrS1pmWjJucDZ4X05Td2hUNl9aLU80YzNSbVFveXhQT2NEcTFBdENpRUw3TzJPRF8xTlZ2VEdnbDZ2LVlCcUlqMW9wTjA4aWotaE53LUQ3S1JiNnhoVTRiUlNCSXAzemRVeHBwcE40VlplQUxsSzlHaGcxTzh3U2d2Zlc1blJVSi02VGQ4UG9QcHNyeUZfZk1hNG5udDExcDhaRS1XdmJKLVpCaHBveGRmXy1XTE05TDdZUnJWY2Z5TGRiTUnSAewBQVVfeXFMTjU3T0d6RnNJQndLMXNQd1Z6R21lOW9ObGVWTmNuTzZwdkFCTTNKbWJFYjNIVndhVmF0QlBwY3pEQ0FrRUVDYkVWM2x6TUd6ZGx1WmFCci0wOHNBN0dLOFE0eGZfX1BsbUxaVmhKaUlZaV91MGZWUGxsYkNJRjZBRFZRT3FDT1FCTlllVzI4Tm9FRDl2N1ViTUk4RFk2eUNCc2NlYktqZ3VzMkQyLWpfeFBRdlRZS1RLWnFMbzNZa3N0czJXWEVnb1JBRHFlNFEtSDN3ZVFxUTdRSnVzaGs2aVJyZ1BVUlIwcTFNclU?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "gcl-2026-05-25-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "GCL SI to supply 1 GW of PV modules to Thailand’s Getz - Renewables Now",
+      "companies": [
+        "gcl"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPM2pKMUxmSnZxNEpfWmpvcFFPN1lyUW1WNml2Ny1kZ01qNVQwZi1oNTcyTE9NMnFua1JUTlAxUS01Rzc2dUwxZW5IRlA0YktsaU9BSkJzNlIyaTAyVk1OSDF0LWF6ZUU2dUptVGxaZEVyN091bG1MVzJUUURRWU8wVFBMVG5RQ3RpSHc2bWRFYVo1OTg4dXdQMA?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 23,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.02,
+      "sentiment_7d_avg": null
+    },
+    "installation_demand": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 23,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 20,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "jinko",
+        "count": 7
+      },
+      {
+        "id": "gcl",
+        "count": 2
+      },
+      {
+        "id": "trina",
+        "count": 2
+      },
+      {
+        "id": "first_solar",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 23
+      },
+      {
+        "id": "installation_demand",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 483,
+    "dup_title": 223,
+    "too_old": 177,
+    "gate1_blocked": 47,
+    "gate2_blocked": 8,
+    "passed": 28,
+    "pass_rate": "10.8%",
+    "gate2_block_rate": "3.1%",
+    "gate2_samples": [
+      "Array Technologies (ARRY) investors back directors, auditor and Board declassification - Stock Titan",
+      "Array Technologies (NASDAQ: ARRY) director receives RSUs, exercises 22,164 shares - Stock Titan",
+      "Array (NASDAQ: ARRY) director adds shares with 22,164 RSU vesting and new grant - Stock Titan",
+      "Array Technologies (NASDAQ: ARRY) director exercises RSUs and receives new equity grant - Stock Tita",
+      "Array Technologies (ARRY) director adds equity through RSU vesting and new grant - Stock Titan"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 23 則事件，焦點為晶科能源、協鑫科技、天合光能相關動態：「JinkoSolar scores major TOPCon patent victory against Fir...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "JinkoSolar scores major TOPCon patent victory against First Solar in China - ...（太陽能產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Pollution from coal plants can reduce solar generation by over 5%（太陽能產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "裝機需求持續受關注，產業趨勢帶動需求成長。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

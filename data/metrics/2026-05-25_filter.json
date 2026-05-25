@@ -1,0 +1,16 @@
+{
+  "total_raw": 483,
+  "dup_title": 223,
+  "no_date": 0,
+  "too_old": 177,
+  "gate1_fail": 47,
+  "gate2_fail": 8,
+  "passed": 28,
+  "gate2_samples": [
+    "Array Technologies (ARRY) investors back directors, auditor and Board declassification - Stock Titan",
+    "Array Technologies (NASDAQ: ARRY) director receives RSUs, exercises 22,164 shares - Stock Titan",
+    "Array (NASDAQ: ARRY) director adds shares with 22,164 RSU vesting and new grant - Stock Titan",
+    "Array Technologies (NASDAQ: ARRY) director exercises RSUs and receives new equity grant - Stock Tita",
+    "Array Technologies (ARRY) director adds equity through RSU vesting and new grant - Stock Titan"
+  ]
+}
