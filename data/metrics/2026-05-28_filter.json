@@ -1,0 +1,16 @@
+{
+  "total_raw": 462,
+  "dup_title": 142,
+  "no_date": 0,
+  "too_old": 185,
+  "gate1_fail": 35,
+  "gate2_fail": 7,
+  "passed": 93,
+  "gate2_samples": [
+    "Number of shareholders of Risen Energy Co., Ltd. Class A – SZSE:300118 - TradingView",
+    "Array Technologies (NASDAQ: ARRY) director exercises RSUs and receives new equity grant - Stock Tita",
+    "Array (NASDAQ: ARRY) director adds shares with 22,164 RSU vesting and new grant - Stock Titan",
+    "Array Technologies (NASDAQ: ARRY) director receives RSUs, exercises 22,164 shares - Stock Titan",
+    "Array Technologies (ARRY) director adds equity through RSU vesting and new grant - Stock Titan"
+  ]
+}

@@ -1,0 +1,180 @@
+{
+  "date": "2026-05-28",
+  "generated_at": "2026-05-28T11:30:02.393365Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "jinko-2026-05-28-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "JinkoSolar secures 20 GW order backlog for high-efficiency Tiger Neo 3.0 modules - pv magazine Global",
+      "companies": [
+        "jinko"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPeDVyQVhzdXFFZHdONzloSDQ5VlNMa3Zic3pydEVScjEwMjMxWVFNYTJhWWl2RjBodm5lMVpzVDR1a0dacl9MQzdnM2tXUnFYdUVGYmhfSWRQTXNnWDZBaXhIeFBVbzgtZjVSdlhiWS1kbkZrNUFlSWk3RjNEUFZ3ZXBpM1dSVEJfMlU5MlFFSkJmODh6M1JYU2stdnV0NE01MEROTUhucG81NXBsQ1FzbjlkbkhxOUdMUVBWRA?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "sungrow-2026-05-28-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Sonnedix orders Sungrow PowerTitans for 643.8-MWh BESS project in Chile - Renewables Now",
+      "companies": [
+        "sungrow"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOMmhJN2FSSU1LV1JZQ2EzOUMxOG4tRVhuaUZYbHByZUROQUg2WWdqcEVIaVdGTU1NTGFybFI5dkNfWlYtX0lJQVRaLUtKOWhYd0QxRHJsN2lNOXU1MzFOLWFWMWFRNWZ4MWFqbzRvTzdiVTNsZUV4LXlyQms5VzlpUEM2RWtDN25QRDBqaFBZQlhmdURVaFZ5Y2JjZ0pNdzd0RnJETDZyTkNLS0V0dlk3Tg?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-05-28-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Philippines imported 4 GW of Chinese solar panels in January-April",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.pv-magazine.com/2026/05/28/philippines-imported-4-gw-of-chinese-solar-panels-in-january-april/"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-05-28-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Swiss power distributor allowed to remunerate solar power at market rates",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.pv-magazine.com/2026/05/28/schweizer-verteilnetzbetreiber-duerfen-solarstrom-kuenftig-nach-marktpreis-vergueten/"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-05-28-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Alpha launches propane heat pump with reversible air-to-water inverter technology",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.pv-magazine.com/2026/05/28/alpha-launches-propane-heat-pump-with-reversible-air-to-water-inverter-technology/"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 17,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 17,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 15,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "jinko",
+        "count": 2
+      },
+      {
+        "id": "sungrow",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 17
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 462,
+    "dup_title": 142,
+    "too_old": 185,
+    "gate1_blocked": 35,
+    "gate2_blocked": 7,
+    "passed": 93,
+    "pass_rate": "29.1%",
+    "gate2_block_rate": "2.2%",
+    "gate2_samples": [
+      "Number of shareholders of Risen Energy Co., Ltd. Class A – SZSE:300118 - TradingView",
+      "Array Technologies (NASDAQ: ARRY) director exercises RSUs and receives new equity grant - Stock Tita",
+      "Array (NASDAQ: ARRY) director adds shares with 22,164 RSU vesting and new grant - Stock Titan",
+      "Array Technologies (NASDAQ: ARRY) director receives RSUs, exercises 22,164 shares - Stock Titan",
+      "Array Technologies (ARRY) director adds equity through RSU vesting and new grant - Stock Titan"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 17 則事件，焦點為晶科能源、陽光電源相關動態：「JinkoSolar secures 20 GW order backlog for high-efficienc...」。主要關注主題為太陽能產業通用，市場情緒中性。",
+    "signals": [
+      {
+        "text": "JinkoSolar secures 20 GW order backlog for high-efficiency Tiger Neo 3.0 modu...（太陽能產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "Sonnedix orders Sungrow PowerTitans for 643.8-MWh BESS project in Chile - Ren...（太陽能產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
