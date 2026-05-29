@@ -1,0 +1,29 @@
+{
+  "date": "2026-05-29",
+  "total_events": 17,
+  "by_company": {
+    "trina": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "jinko": {
+      "count": 3,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "industry_general": {
+      "count": 17,
+      "sentiment_avg": 0.06
+    },
+    "trade_tariff": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

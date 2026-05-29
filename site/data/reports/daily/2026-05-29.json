@@ -1,0 +1,199 @@
+{
+  "date": "2026-05-29",
+  "generated_at": "2026-05-29T11:20:25.245658Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-05-29-012",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Southeast Asia surged under clear skies while Japan’s storms capped solar gains",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://www.pv-magazine.com/2026/05/29/southeast-asia-surged-under-clear-skies-while-japans-storms-capped-solar-gains/"
+    },
+    {
+      "rank": 2,
+      "event_id": "trina-2026-05-29-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Trina Solar unveils THBC technology, TOPCon’s next frontier? - PV Tech",
+      "companies": [
+        "trina"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxORFpod0hoS202aVhRUEFOdVhxM3diV1pLckM2UVNmcE5VaU1kYWUtaG5aMXhGd2RmcUF5aWY1Rkd0ODhBS09rSTBHY3ZWd2F6dERrc1ZVX09YSkxFZEtwUW01SEFicTRPTnB5elVmLVhMSFJBSi1PVE16WmNDR3dmLVJYTEk2OEhN?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "jinko-2026-05-29-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "JinkoSolar secures 110.42 MW Tiger Neo 3.0 deal in Bulgaria - Solarbytes",
+      "companies": [
+        "jinko"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQWDJ1d2N0cVJ3Wkh1QXg5eTJwSWNtaGVud3JLSGNPNTZxenp4bGFsM1h6T0hpZ1cwOXozREd1c2FmUm9sdXRsSTJoRDNOX2ZxTUh5cUtxX2pZZG5PWnRFY0xSZVczNDZ3WXNxWnVjRTRjck9vWGg0cV9IaUF1cEt4N3RMaGhhamZIWlNhaGpycHhIYnh6ZndSM3hkdU4zci1CUjk3U04zZ0FOdC1UVk1mV21BclhUWHBmb0V3?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "jinko-2026-05-29-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "UBS raises JinkoSolar stock price target to $24 on margin gains - Investing.com Canada",
+      "companies": [
+        "jinko"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPOGxVUjJMZXdjWVRzQ3cyVGNXU0h5RGllcG5OTFpnWXJlT1NxaVdZSTdqYXhaRXl1MmRBOWhrZ0kwVG5kZFdKVTB1S2JlSjVPdWM0T1pvbWdZR0w3RzBsUWhkT01qd2taU0hfNENBYVNDWERDZExSOGxIR04zS3VBSTZJd0JaNC1jQnpjQ2hQN1U0ZDQ0blNxekIxeGFjTlg1RHNvQW5TZDdzWEdtdzZESFozaDdYcHk5VHdSeVpHbVE?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "jinko-2026-05-29-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "JinkoSolar Tiger Neo 3.0 hits 20 GW backlog as 670 W module pushes efficiency frontier - Green Building Africa",
+      "companies": [
+        "jinko"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNUGZBWVZ0al9UeDhhZTZtVEppNllFcVZkYUNJZm1Pbl92T1QwSVZnSHgwSXJTRFlVRWFpZ0cwMmFwQ2RUenlub1ZpSlNXM2pvYkJXRDBGZTB4WTBhWHROazBVdlpNRzJsS0c5bjFuT2xLYVJaeVJvRTY5ellVZUVnX0c1VWoxVUVmLUFXVFB2WmpzSF9TYjVrMjJMYjFVeHFWNzRPSldKNmY1RXZZVGxRN1lKUmt0NHZ3STg4ZnpHYmhHUkU?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 17,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.06,
+      "sentiment_7d_avg": null
+    },
+    "trade_tariff": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 17,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 14,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "jinko",
+        "count": 3
+      },
+      {
+        "id": "trina",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 17
+      },
+      {
+        "id": "trade_tariff",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 463,
+    "dup_title": 194,
+    "too_old": 181,
+    "gate1_blocked": 42,
+    "gate2_blocked": 4,
+    "passed": 42,
+    "pass_rate": "15.6%",
+    "gate2_block_rate": "1.5%",
+    "gate2_samples": [
+      "Number of shareholders of Risen Energy Co., Ltd. Class A – SZSE:300118 - TradingView",
+      "Assessing Array Technologies (ARRY) Valuation As Shareholders Approve Shift To Annual Board Election",
+      "SolaX ORI energy storage system completes large-scale fire test under extreme conditions",
+      "ProScore, United Rentals develop equipment operator training for energy sector"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 17 則事件，焦點為晶科能源、天合光能相關動態：「Southeast Asia surged under clear skies while Japan’s sto...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Southeast Asia surged under clear skies while Japan’s storms capped solar gains（太陽能產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "Trina Solar unveils THBC technology, TOPCon’s next frontier? - PV Tech（太陽能產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

@@ -1,109 +1,109 @@
 {
   "xinyi_solar": {
     "earliest": "2013-12-12",
-    "latest": "2026-05-28",
-    "count": 3065,
+    "latest": "2026-05-29",
+    "count": 3066,
     "history_complete": true
   },
   "daqo": {
-    "earliest": "2013-07-17",
-    "latest": "2026-05-27",
-    "count": 3235
+    "earliest": "2013-04-18",
+    "latest": "2026-05-28",
+    "count": 3298
   },
   "tongwei": {
-    "earliest": "2013-07-17",
-    "latest": "2026-05-28",
-    "count": 3124
+    "earliest": "2013-04-18",
+    "latest": "2026-05-29",
+    "count": 3183
   },
   "gcl": {
-    "earliest": "2013-07-19",
-    "latest": "2026-05-28",
-    "count": 3166
+    "earliest": "2013-04-22",
+    "latest": "2026-05-29",
+    "count": 3227
   },
   "longi": {
-    "earliest": "2013-07-17",
-    "latest": "2026-05-28",
-    "count": 3124
+    "earliest": "2013-04-18",
+    "latest": "2026-05-29",
+    "count": 3183
   },
   "ja_solar": {
-    "earliest": "2013-07-17",
-    "latest": "2026-05-28",
-    "count": 3124
+    "earliest": "2013-04-18",
+    "latest": "2026-05-29",
+    "count": 3183
   },
   "trina": {
     "earliest": "2020-06-10",
+    "latest": "2026-05-29",
+    "count": 1446,
+    "history_complete": true
+  },
+  "canadian_solar": {
+    "earliest": "2013-04-18",
+    "latest": "2026-05-28",
+    "count": 3298
+  },
+  "first_solar": {
+    "earliest": "2013-04-18",
+    "latest": "2026-05-28",
+    "count": 3298
+  },
+  "jinko": {
+    "earliest": "2013-04-18",
+    "latest": "2026-05-28",
+    "count": 3298
+  },
+  "risen": {
+    "earliest": "2013-04-18",
+    "latest": "2026-05-29",
+    "count": 3183
+  },
+  "maxeon": {
+    "earliest": "2020-08-26",
     "latest": "2026-05-28",
     "count": 1445,
     "history_complete": true
   },
-  "canadian_solar": {
-    "earliest": "2013-07-17",
-    "latest": "2026-05-27",
-    "count": 3235
-  },
-  "first_solar": {
-    "earliest": "2013-07-17",
-    "latest": "2026-05-27",
-    "count": 3235
-  },
-  "jinko": {
-    "earliest": "2013-07-17",
-    "latest": "2026-05-27",
-    "count": 3235
-  },
-  "risen": {
-    "earliest": "2013-07-17",
-    "latest": "2026-05-28",
-    "count": 3124
-  },
-  "maxeon": {
-    "earliest": "2020-08-26",
-    "latest": "2026-05-27",
-    "count": 1444,
-    "history_complete": true
-  },
   "yuan_jing": {
     "earliest": "2014-09-19",
-    "latest": "2026-05-28",
-    "count": 2843,
+    "latest": "2026-05-29",
+    "count": 2844,
     "history_complete": true
   },
   "enphase": {
-    "earliest": "2013-07-17",
-    "latest": "2026-05-27",
-    "count": 3235
+    "earliest": "2013-04-18",
+    "latest": "2026-05-28",
+    "count": 3298
   },
   "solaredge": {
     "earliest": "2015-03-26",
-    "latest": "2026-05-27",
-    "count": 2809,
+    "latest": "2026-05-28",
+    "count": 2810,
     "history_complete": true
   },
   "array": {
     "earliest": "2020-10-15",
-    "latest": "2026-05-27",
-    "count": 1409,
+    "latest": "2026-05-28",
+    "count": 1410,
     "history_complete": true
   },
   "sungrow": {
-    "earliest": "2013-07-17",
-    "latest": "2026-05-28",
-    "count": 3124
+    "earliest": "2013-04-18",
+    "latest": "2026-05-29",
+    "count": 3183
   },
   "nextracker": {
     "earliest": "2023-02-09",
-    "latest": "2026-05-27",
-    "count": 826,
+    "latest": "2026-05-28",
+    "count": 827,
     "history_complete": true
   },
   "etf_tan": {
-    "earliest": "2013-07-17",
-    "latest": "2026-05-27",
-    "count": 3235
+    "earliest": "2013-04-18",
+    "latest": "2026-05-28",
+    "count": 3298
   },
   "etf_icln": {
-    "earliest": "2013-07-17",
-    "latest": "2026-05-27",
-    "count": 3235
+    "earliest": "2013-04-18",
+    "latest": "2026-05-28",
+    "count": 3298
   }
 }

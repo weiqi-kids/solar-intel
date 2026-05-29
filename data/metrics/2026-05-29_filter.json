@@ -1,0 +1,15 @@
+{
+  "total_raw": 463,
+  "dup_title": 194,
+  "no_date": 0,
+  "too_old": 181,
+  "gate1_fail": 42,
+  "gate2_fail": 4,
+  "passed": 42,
+  "gate2_samples": [
+    "Number of shareholders of Risen Energy Co., Ltd. Class A – SZSE:300118 - TradingView",
+    "Assessing Array Technologies (ARRY) Valuation As Shareholders Approve Shift To Annual Board Election",
+    "SolaX ORI energy storage system completes large-scale fire test under extreme conditions",
+    "ProScore, United Rentals develop equipment operator training for energy sector"
+  ]
+}
