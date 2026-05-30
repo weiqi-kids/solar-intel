@@ -1,0 +1,16 @@
+{
+  "total_raw": 464,
+  "dup_title": 196,
+  "no_date": 0,
+  "too_old": 180,
+  "gate1_fail": 45,
+  "gate2_fail": 6,
+  "passed": 37,
+  "gate2_samples": [
+    "T1 Energy Faces Dual Test: Trina’s $190 Million Exit and June 17 Vote on Share Dilution - AD HOC NEW",
+    "Number of shareholders of Risen Energy Co., Ltd. Class A – SZSE:300118 - TradingView",
+    "Assessing Array Technologies (ARRY) Valuation As Shareholders Approve Shift To Annual Board Election",
+    "Sungrow Power Supply Hits Day High with 7.03% Surge in Stock Price - Markets Mojo",
+    "ProScore, United Rentals develop equipment operator training for energy sector"
+  ]
+}
