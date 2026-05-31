@@ -1,0 +1,15 @@
+{
+  "total_raw": 463,
+  "dup_title": 209,
+  "no_date": 0,
+  "too_old": 191,
+  "gate1_fail": 41,
+  "gate2_fail": 4,
+  "passed": 18,
+  "gate2_samples": [
+    "Number of shareholders of Risen Energy Co., Ltd. Class A – SZSE:300118 - TradingView",
+    "Sungrow Power Supply Hits Day High with 7.03% Surge in Stock Price - Markets Mojo",
+    "ProScore, United Rentals develop equipment operator training for energy sector",
+    "92 EV Chargers Installed At Bay Area Affordable Housing Community"
+  ]
+}

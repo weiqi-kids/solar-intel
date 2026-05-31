@@ -1,5 +1,44 @@
 [
   {
+    "id": "jinko-2026-05-31-001",
+    "date": "2026-05-31",
+    "companies": [
+      "jinko"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "JinkoSolar signs 100MW Tiger Neo 3.0 distribution agreement for Myanmar market - PV Tech",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxQbENxaTlNTHU1QzJUell6ZVlTY3hrUlVwSkNPSjlhblVWOHU5Z1VsQlBPR3FfRTVwcnZhdGxZUVc1ZE1jQi1EMFVnRVZENkVBdm9jeE5oR3YtS2hCYW9rQjh1VHhkUEpwYWtZN2Q3MV",
+    "sources": [
+      {
+        "name": "jinko",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQbENxaTlNTHU1QzJUell6ZVlTY3hrUlVwSkNPSjlhblVWOHU5Z1VsQlBPR3FfRTVwcnZhdGxZUVc1ZE1jQi1EMFVnRVZENkVBdm9jeE5oR3YtS2hCYW9rQjh1VHhkUEpwYWtZN2Q3MVpVQ09PRkJoUmtyU0t4X3JyVGxGbS1BYk5RZUk3ZVdqYUw2THBUZkhqRUZ4MjBOVHZZY01yOUZUZ2tqOWt3YUVLV1FOQ1d1YkFNWjVscQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-31-002",
+    "date": "2026-05-31",
+    "companies": [],
+    "topics": [
+      "grid_parity",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Solar Panel Mounting Structure Market Forecast 2026-2035: Growth Driven by Tracker Systems and LCOE Pressures - News and Statistics - IndexBox",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi8wFBVV95cUxNbHRRMlc2eFp0RFJTdWE0MktUcWZZMUd6dWtVbkxmakdQbmNnSWhGdlNUZURYQUhXNTg2TkItS1hrQnBadUFuanVGYVBHb0RpV3F2MmlNeFNsMEtSaENUVHI4Z0F4MW5mZDQ2c3l3OT",
+    "sources": [
+      {
+        "name": "google_news_solar",
+        "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNbHRRMlc2eFp0RFJTdWE0MktUcWZZMUd6dWtVbkxmakdQbmNnSWhGdlNUZURYQUhXNTg2TkItS1hrQnBadUFuanVGYVBHb0RpV3F2MmlNeFNsMEtSaENUVHI4Z0F4MW5mZDQ2c3l3OTVhdTZQdU5XaDVFZ0lBaVdPV3VnWWg2dlRGRVNOaVJVWi1LTGJsWEg4ZVJwZHdEVzlRaXRWTF9idVF0bDVpNHJUbUtfM3F6ZGhZMS1OZmpVckFrRE5jcWh2VUtHTTVRbUh6Qy14a1EyOVo5cWh4Rk95empTZkxwWHZXaG8td0FJbndqN2M?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "unknown-2026-05-30-001",
     "date": "2026-05-30",
     "companies": [],
@@ -125,6 +164,224 @@
       {
         "name": "pv_magazine",
         "url": "https://www.pv-magazine.com/2026/05/30/la-comision-aprueba-el-mercado-de-capacidad-para-espana/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "jinko-2026-05-30-008",
+    "date": "2026-05-30",
+    "companies": [
+      "jinko"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "JinkoSolar secures 115MW Tiger Neo 3.0 order for utility-scale project in Italy - PV Tech",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxNRVc4S19pU0xMNkVXQjdRU25NaW1nMlk3cEd6T1diM0dLcWNDTjhBRzY1WEluZkk3QUpyMlpBWnRuX0NNd25JdmtRR0pfNktiYjNlck42bzJsNElVZmVCQzF6QnhZQ1d0Vll3ekRjbH",
+    "sources": [
+      {
+        "name": "jinko",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNRVc4S19pU0xMNkVXQjdRU25NaW1nMlk3cEd6T1diM0dLcWNDTjhBRzY1WEluZkk3QUpyMlpBWnRuX0NNd25JdmtRR0pfNktiYjNlck42bzJsNElVZmVCQzF6QnhZQ1d0Vll3ekRjbHhMNGRjdjhROEFCZGltYllXTFV0Ul9IRXdyMW1yRkpHUWs2S0tVRTVUR0VtUEYxQ0pjc0h2VWgyYWtVTmh5S0YtS1JteGNENkQtbkJaQlp3?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-30-009",
+    "date": "2026-05-30",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "Lessons from the solar frontier",
+    "summary": "<p>Utility-scale solar projects are larger, interconnections are slower, and engineering decisions must anticipate regulation and supply chains years in advance. At the CT Solar Platform in Snyder, Te",
+    "sources": [
+      {
+        "name": "pv_magazine",
+        "url": "https://www.pv-magazine.com/2026/05/30/lessons-from-the-solar-frontier-2/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-30-010",
+    "date": "2026-05-30",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "CT keeps home solar incentive alive through 2035, batteries are the big winners",
+    "summary": "<div class=\"feat-image\"><img src=\"https://electrek.co/wp-content/uploads/sites/3/2026/04/gm-solar_MAIN.jpg?quality=82&#038;strip=all&#038;w=1498\" /></div><p>A new bill extending home and community sol",
+    "sources": [
+      {
+        "name": "electrek_solar",
+        "url": "https://electrek.co/2026/05/30/ct-keeps-home-solar-incentive-alive-through-2035-batteries-are-the-big-winners/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-30-011",
+    "date": "2026-05-30",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "A first among major nations, India is industrializing with solar - grist.org",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxNaDg1UEFhUlZmSzlwX1JvLTM0UzlzeU5iY3k5Z2VNZnRHRDFvS2ZuOHZEdG1RU0t1UWltSFo4Uml3UTVUWTBOUWgwX0RpZE9vOGpNbnVmMDlhX29idG5MQmltQ1pEbkNDLXJPUDhpX2",
+    "sources": [
+      {
+        "name": "google_news_solar",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNaDg1UEFhUlZmSzlwX1JvLTM0UzlzeU5iY3k5Z2VNZnRHRDFvS2ZuOHZEdG1RU0t1UWltSFo4Uml3UTVUWTBOUWgwX0RpZE9vOGpNbnVmMDlhX29idG5MQmltQ1pEbkNDLXJPUDhpX2Myc09sOWFDVnJjRVgxbHFKQmVONUcxbU96RGw3OGdpVTdPOFk?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-30-012",
+    "date": "2026-05-30",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Residents speak at proposed solar farm hearing - cnhinews.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxNa003YWlDT21lNTA4NHdsQWl2dWVLUUdleWNjczVhTVZKeHBTeXB2VHhIcmhfbnFESTRhcUxQbHgydTBic1ZTWkpVTGwwcDcxTWFRZ3czUVBNc0l1UndfcS1KTVNxTVdQa25qUXMwQX",
+    "sources": [
+      {
+        "name": "google_news_solar",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNa003YWlDT21lNTA4NHdsQWl2dWVLUUdleWNjczVhTVZKeHBTeXB2VHhIcmhfbnFESTRhcUxQbHgydTBic1ZTWkpVTGwwcDcxTWFRZ3czUVBNc0l1UndfcS1KTVNxTVdQa25qUXMwQXdkQ29JY3FfVXJJZ194VkpNSHhUeU1MMjZYazd3bVVESEV0SkdQVDZZVmlzbmlIRGgyLXM0bTZB?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-30-013",
+    "date": "2026-05-30",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Residents speak at proposed solar farm hearing - The Cumberland Times-News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxNSElpbmJtRFdpY3B5ZUpDTV9tWU1TX0MyUXE1TDlQRGlKeU9mSy0xWnFfVnZrNXdYZ01EQUYtNks0YmdYMVFseHA1U2t1VEhaa294OGtrZE1FOUhLa2lBNjd1bFg0eFYxMkpUNVFRYk",
+    "sources": [
+      {
+        "name": "google_news_solar",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNSElpbmJtRFdpY3B5ZUpDTV9tWU1TX0MyUXE1TDlQRGlKeU9mSy0xWnFfVnZrNXdYZ01EQUYtNks0YmdYMVFseHA1U2t1VEhaa294OGtrZE1FOUhLa2lBNjd1bFg0eFYxMkpUNVFRYkZwaFk4di02NXd3MTVHS0s3UU8tLTNyVVFWX2VocjdSbGNxci1fOWN0OEtBZUQ0SzZma2VKX01JWjBmbEdQbU5tbERLUmRYVG80NENOVXNrT1JSTElvM2FGeUhmeWt1QzZZbjNxc1JR?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-30-014",
+    "date": "2026-05-30",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "A balcony solar kit cut the electric bill, but the strange part is why a judge still ordered it removed - OkDiario",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxOS3UyWG9DQ2lxaVhCa2lLZ1duS1BweTZITzlmNlhVU2V0RVprdDJXYU94aHROa2U1ZWlOd2NyVGx1TkplOXJCWTVjT2NtRVlSTFNmbFk3eUJyaGc2U1dfSWNnbVFDVVVVbXZvY0hicl",
+    "sources": [
+      {
+        "name": "google_news_solar",
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOS3UyWG9DQ2lxaVhCa2lLZ1duS1BweTZITzlmNlhVU2V0RVprdDJXYU94aHROa2U1ZWlOd2NyVGx1TkplOXJCWTVjT2NtRVlSTFNmbFk3eUJyaGc2U1dfSWNnbVFDVVVVbXZvY0hiclVyb1RsUm5SWHd1al9Da24xYXdJR2lvQ3RrWm8zWjczN0ZCQTFDZTBQS0VVU1RJUlhWdlNVeHRqSTB1UmVlZC1UREZaSGlIZXp0WkVPY25wQjNULUhIVTI5SUROZWF6OGx3a3RLag?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-30-015",
+    "date": "2026-05-30",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "A floating solar plant using vertical panels is flipping the usual solar curve by producing more power in the morning and late afternoon, the hours when homes and factories actually spike demand - Vozpopuli",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1AJBVV95cUxNazVWclRHUFdIclJtc3lheFpMZl8zOElZZnNhWmw4LXc4dU5mUUJtajBmSUxhSl9YSDNHSHNZSmFRcThzenNOejB5ZUhmLWEwM0hiUmlRXzlrZXpKblM5SjlFbXhjSl94MmNaQXFRND",
+    "sources": [
+      {
+        "name": "google_news_solar",
+        "url": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxNazVWclRHUFdIclJtc3lheFpMZl8zOElZZnNhWmw4LXc4dU5mUUJtajBmSUxhSl9YSDNHSHNZSmFRcThzenNOejB5ZUhmLWEwM0hiUmlRXzlrZXpKblM5SjlFbXhjSl94MmNaQXFRNDVTdjBlX21KUHRKVGVZVXBmY0RFRFhDbTlPakdxUVJ0aXByTzJJQVlQOUVTRTJRZk9mX1dBZXZyazFYNlNYM2FOamlOQ3RrVE9wSWo1WjRVRm9CdkxWVXBGdXdZX1hQNkZ4NEFsYjltdG9ZTjBVdVV1TC1LbmllWnZHWTJqUTNXZVZ4b2QxNVgxb1BMVDBLRzVyclhfalhOYXdSYWZUdXlQMkRqbUxUVVlMVDBpSEI4Rm5BM1VmRF8xY3BLcV9OODFXczJQc0Z4a3g2Z0JUNGZrY1ZtQWpneXRCV0w5Q0J2UnhHdExM?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-30-016",
+    "date": "2026-05-30",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "California — Lowest Wholesale Electricity Prices in USA",
+    "summary": "<p>Solar power has grown to enormous levels in California, and that solar power is keeping wholesale prices low. Wind power, water power, and solar power all mean free fuel, and free fuel means low wh",
+    "sources": [
+      {
+        "name": "cleantechnica",
+        "url": "https://cleantechnica.com/2026/05/30/california-lowest-wholesale-electricity-prices-in-usa/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-30-017",
+    "date": "2026-05-30",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Giant Data Center In New Mexico Will Be Powered By Fuel Cells",
+    "summary": "<p>People in southeast New Mexico are concerned about a data center that will add 10 million tons of carbon emissions to the air.</p>\n<p>The post <a href=\"https://cleantechnica.com/2026/05/30/giant-da",
+    "sources": [
+      {
+        "name": "cleantechnica",
+        "url": "https://cleantechnica.com/2026/05/30/giant-data-center-in-new-mexico-will-be-powered-by-fuel-cells/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-30-018",
+    "date": "2026-05-30",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Connecticut Approves Plug-In Solar — It’s So Exciting!",
+    "summary": "<p>I am getting ready to make the seasonal move from my Florida home to my northern getaway in Connecticut. The simple, older modular home sits on land that is bordered by a soothing meandering brook ",
+    "sources": [
+      {
+        "name": "cleantechnica",
+        "url": "https://cleantechnica.com/2026/05/30/connecticut-approves-plug-in-solar-its-so-exciting/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-30-019",
+    "date": "2026-05-30",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Is SpaceX & Tesla 100-Gigawatt/Year US Solar System Production Plan Realistic?",
+    "summary": "<p>Elon Musk says that he wants SpaceX and Tesla teams to work together to build 100 gigawatts of solar power manufacturing capacity in the US — cells and modules. And he wants to do that within three",
+    "sources": [
+      {
+        "name": "cleantechnica",
+        "url": "https://cleantechnica.com/2026/05/30/is-spacex-tesla-100-gigawatt-year-us-solar-system-production-plan-realistic/",
         "type": "rss"
       }
     ]
@@ -874,6 +1131,26 @@
     ]
   },
   {
+    "id": "jinko-2026-05-29-041",
+    "date": "2026-05-29",
+    "companies": [
+      "jinko"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "JinkoSolar Is Maintained at Neutral by UBS - Moomoo",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxNcHhsVWwwMmh4QjRMR3lHZGhoUm8ySU9PWUgxRm1yMFhmay1sdmpHZjI4OWczZ0RNeVFuWGZNVGtRTGFnTWN2bEYzeHlFU2MzWEhiY3Zza09xd2YzQ2NNZlUwUmR5bkpxaThHTy16bX",
+    "sources": [
+      {
+        "name": "jinko",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNcHhsVWwwMmh4QjRMR3lHZGhoUm8ySU9PWUgxRm1yMFhmay1sdmpHZjI4OWczZ0RNeVFuWGZNVGtRTGFnTWN2bEYzeHlFU2MzWEhiY3Zza09xd2YzQ2NNZlUwUmR5bkpxaThHTy16bXZfaU9RaWVqY3dDWkhyN2pKWXl6ZTJPOGlFMnBSc2o0RHF6R0FWZHBmRENMLTFTZi04cll1dmtPUkxHbXQ5dW9wUUZrbElKdkRoYmNv?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "jinko-2026-05-28-001",
     "date": "2026-05-28",
     "companies": [
@@ -1615,6 +1892,26 @@
     ]
   },
   {
+    "id": "array-2026-05-28-041",
+    "date": "2026-05-28",
+    "companies": [
+      "array"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Assessing Array Technologies (ARRY) Valuation As Shareholders Approve Shift To Annual Board Elections - simplywall.st",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxOeEJ0U3NuVmZBQ2cxaC0yNjZZdW8wNnlNUUQtdHBnaGNnd2Rvb1lJeE04blNpVlhRSGNwTlhHcl9XOFJvbWlleTRCSEdqTG1ncGV5ZHVaMFF1dzhUVXRiZXJra0ZaNjRIV0RCbTg5el",
+    "sources": [
+      {
+        "name": "array",
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOeEJ0U3NuVmZBQ2cxaC0yNjZZdW8wNnlNUUQtdHBnaGNnd2Rvb1lJeE04blNpVlhRSGNwTlhHcl9XOFJvbWlleTRCSEdqTG1ncGV5ZHVaMFF1dzhUVXRiZXJra0ZaNjRIV0RCbTg5elVRM3lWR3RsX19YVVJRX01XbW9KRE9BV3BaVk1CS1hxZW9vd2FzekJ4U0ZFYzZrQWZ2R2djV01xZThOdnp5UE1WOGkxbTY0TXBDWFhnNFhGUTBzcGFkakRGYjJqbFktblhvWFZ1QU82d0HSAd4BQVVfeXFMUGNacHZadEZHZ1lxTC1SNzJ0cGJWd0JvcWUyLVdPVmhqWTNoZGNFRzYyLXFLWTZLaWROaC11dGZpbFZ4S3I0Q2l6azdEd3NWaHpmT0g5cnFCUVF0dTVaZHNiM01mYng2ZWJlSDBKSjVFMjdhM3VSczhHSDNRanNjZ29MV0psNTh4YTdCMEFlY3RvaHpEcUZWb1c5c0FHak9DNkItOFFOb0V0YnZ5TThEbmNFdW4xdTBoMWhRaURGNV9MUHlLV0x6Mk1IY1ExUWVLZ3dIQ0p2T2YxOUZGWlBR?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "xinyi_solar-2026-05-27-001",
     "date": "2026-05-27",
     "companies": [
@@ -2313,6 +2610,26 @@
     ]
   },
   {
+    "id": "xinyi_solar-2026-05-27-039",
+    "date": "2026-05-27",
+    "companies": [
+      "xinyi_solar"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Bearish block trade of XINYI SOLAR(00968) 938K shares at $2.68, $2.514M turnover - AASTOCKS.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTFAyY2lBWTEwSTVYQ0VsSWxnUzU2SmFNWV9BblpFeEc3ZUNYS3JVUFNkTXc1ZjN2aG1RdWVaTGpGRDZHZ2RhNW9mVjZpMGQ2Ti1sQUE3V25oSlY3SngweUljRlVrd1NLamlTUldPRlVDUH",
+    "sources": [
+      {
+        "name": "xinyi_solar",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFAyY2lBWTEwSTVYQ0VsSWxnUzU2SmFNWV9BblpFeEc3ZUNYS3JVUFNkTXc1ZjN2aG1RdWVaTGpGRDZHZ2RhNW9mVjZpMGQ2Ti1sQUE3V25oSlY3SngweUljRlVrd1NLamlTUldPRlVDUHoyQQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "xinyi_solar-2026-05-26-001",
     "date": "2026-05-26",
     "companies": [
@@ -2932,6 +3249,26 @@
       {
         "name": "google_news_solar",
         "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9OcEphTjU2SUNpMkFWYXdTWTVhcC1Pc3ZZajB2a2hpWDVsa3ozYWExdjJjTEk2ME5SRVZrdnFNNk1JaXRjWlRjdEE0OEZNZWNWNnotQ1pIYnJLMDZfekFRU1hybXl5ZjNHQlQ2ZQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "trina-2026-05-26-034",
+    "date": "2026-05-26",
+    "companies": [
+      "trina"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "T1 Energy (TE) holder Trina Solar sells 22.5M shares, now at 11% - Stock Titan",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxQamN0NEozSVBBX3pLa25YYld2dm9NSUJhbk9GUTRWUXZjODRzVllaY05FUzM2VllrT2FpaGUyZU9LRkNtNzhRZFE3ZVo1ZVN0Y0E4R0t3c1hvQXIwSEo1T1RfTHIyWWJzSWJia3EwUU",
+    "sources": [
+      {
+        "name": "trina",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQamN0NEozSVBBX3pLa25YYld2dm9NSUJhbk9GUTRWUXZjODRzVllaY05FUzM2VllrT2FpaGUyZU9LRkNtNzhRZFE3ZVo1ZVN0Y0E4R0t3c1hvQXIwSEo1T1RfTHIyWWJzSWJia3EwUUlKdVBBd09DVUh5X1VqWFFBalNJWVJWUUtrYmFUODZqaHRxTVVfTmdIaXhSVnRZWVRmNFFjNVg5ODUwU091YWFZaVc0OUdQd2VBUG02R05n?oc=5",
         "type": "rss"
       }
     ]
