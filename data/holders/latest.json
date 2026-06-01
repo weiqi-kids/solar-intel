@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-31T10:08:43.252967+00:00",
+  "updated_at": "2026-06-01T13:28:29.483357+00:00",
   "companies": {
     "xinyi_solar": {
       "name": "Xinyi Solar",
@@ -10,7 +10,7 @@
           "holder": "Boston Common Asset Management, LLC",
           "shares": 4141443,
           "pct_held": 0.05,
-          "value": 11057653
+          "value": 11223310
         }
       ]
     },
@@ -90,7 +90,7 @@
           "holder": "Winch Advisory Services LLC",
           "shares": 4000,
           "pct_held": 0.0,
-          "value": 3319
+          "value": 3160
         }
       ]
     },

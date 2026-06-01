@@ -1,0 +1,14 @@
+{
+  "total_raw": 464,
+  "dup_title": 196,
+  "no_date": 0,
+  "too_old": 183,
+  "gate1_fail": 47,
+  "gate2_fail": 3,
+  "passed": 35,
+  "gate2_samples": [
+    "Number of shareholders of Risen Energy Co., Ltd. Class A – SZSE:300118 - TradingView",
+    "Sungrow Power Supply Hits Day High with 7.03% Surge in Stock Price - Markets Mojo",
+    "ProScore, United Rentals develop equipment operator training for energy sector"
+  ]
+}
