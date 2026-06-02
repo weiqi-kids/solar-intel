@@ -1,0 +1,16 @@
+{
+  "total_raw": 464,
+  "dup_title": 183,
+  "no_date": 0,
+  "too_old": 172,
+  "gate1_fail": 51,
+  "gate2_fail": 7,
+  "passed": 51,
+  "gate2_samples": [
+    "Daqo New Energy stock hits 52-week low at $16.38 By Investing.com - Investing.com South Africa",
+    "Risen Energy Hits Day Low of CNY 13.82 Amid Price Pressure - Markets Mojo",
+    "Number of shareholders of Risen Energy Co., Ltd. Class A – SZSE:300118 - TradingView",
+    "Sungrow Power Supply Hits Day High with Strong 3.26% Intraday Surge - Markets Mojo",
+    "Sungrow Power Supply Hits Day High with 7.03% Surge in Stock Price - Markets Mojo"
+  ]
+}
