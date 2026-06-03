@@ -1,0 +1,16 @@
+{
+  "total_raw": 463,
+  "dup_title": 185,
+  "no_date": 0,
+  "too_old": 170,
+  "gate1_fail": 49,
+  "gate2_fail": 8,
+  "passed": 51,
+  "gate2_samples": [
+    "Daqo New Energy: It's A Waiting Game, Patience Required (Downgrade) (NYSE:DQ) - Seeking Alpha",
+    "Daqo New Energy stock hits 52-week low at $16.38 By Investing.com - Investing.com South Africa",
+    "Risen Energy Hits Day Low of CNY 13.82 Amid Price Pressure - Markets Mojo",
+    "Maxeon Provides Update on Nasdaq Delisting Notice - FinancialContent",
+    "Jefferies Adjusts Sungrow Power Supply's Price Target to 236.35 Yuan From 181.29 Yuan, Keeps at Buy "
+  ]
+}
