@@ -1,0 +1,16 @@
+{
+  "total_raw": 458,
+  "dup_title": 173,
+  "no_date": 0,
+  "too_old": 172,
+  "gate1_fail": 48,
+  "gate2_fail": 13,
+  "passed": 52,
+  "gate2_samples": [
+    "AI data centers drive Daqo's RMB 6B move into next-gen energy gear - Stock Titan",
+    "Daqo New Energy: It's A Waiting Game, Patience Required (Downgrade) (NYSE:DQ) - Seeking Alpha",
+    "Xinjiang Daqo New Energy To Invest In 'Smart Energy System Manufacturing' Project - TradingView",
+    "Inside Daqo New Energy's Shareholders' Meeting: Company Responds to 'Lying Flat Through the Winter' ",
+    "Daqo New Energy stock hits 52-week low at $16.38 - Investing.com"
+  ]
+}
