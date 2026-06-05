@@ -1,0 +1,200 @@
+{
+  "date": "2026-06-05",
+  "generated_at": "2026-06-05T11:19:15.981326Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "tongwei-2026-06-05-004",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "SNEC 2026: JinkoSolar, Trina Solar, Tongwei, and More Unveil New PV Modules across 20+ Companies - Energytrend",
+      "companies": [
+        "tongwei",
+        "jinko",
+        "trina"
+      ],
+      "related": {
+        "customers": [
+          "trina"
+        ],
+        "suppliers": [
+          "tongwei"
+        ]
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1nTWYxTDFla2F6V3RjRzhVZWxqQTFUX2wyekZvWlpiU05Ed1BUQllqREg1c29WT0NhSThrRTBkUFJscG82V2sybnpvUzVmaWUyRDlKb0FRSVFDUEMzdmZyeEJR?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "daqo-2026-06-05-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Marathon Petroleum and DAQO New Energy have been highlighted as Zacks Bull and Bear of the Day - Yahoo Finance",
+      "companies": [
+        "daqo"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOSUM0b0s2NVQtamNRaUZ0bk9Ia3NwYXZvek9Kb0hNc1p4bGNVYlFrOS1WV0FidHZjVjYwSzl6Y0JtLTRMZENRNFRxSVhISmE4MUdqVlAyVjlEMFh0Z2VEYXRfcjFBdDRzZ1hIWUtUdjhSY0dsQThHc1RuVUduZ3Z6UFpkT0JmMW1RUTRYYjdxWTFvNXVXdWRHaXlpVTBsLUFnWC1PN1pUQkpEYzQ?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "daqo-2026-06-05-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Bear of the Day: DAQO New Energy (DQ) - TradingView",
+      "companies": [
+        "daqo"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPOHJZdThyVVlwajBFZ0dCM2pheEszand4ZnVDYk04eGppbDRlSkFaOW4tWURTYzhZclVfMFQ3T3RPRTFLYVFNcWpsUUQ0cndvbV82UDdjZWdpMjV4WnluVnhNbHVTY29hRHN3TUxxTVlpd1hpWnp5OVlVdWx0T0VfSzZGdFIwanJaeGxrVHdHODNybnNN?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-06-05-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "JA ESS Launches JAPlanet Fusion C&I Hybrid Solar-Plus-Storage System - PA Media",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQdkFyR2NWNlI1UFM0OHhIaXFrX05QS3RhQ3pQeXdHanM4MHRWYjhMdkVsRGlCYW1IeFZUR0dWS3c1d2ZtU25jSDBodDFLVVF0bExHcWpHbS1wWVlqZTktLUFmb2FobjJOaXdaTGRhTFJiS2doSlZobzhBaGljQUFDOVQ5djJmdDVHcEZFX05RU2xJc0hkYjRGS1JIdVkzNWVJYzF3NGs0Vl9vcExYRS1ESkVocnBrcGNVWDlB?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-06-05-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "China's Solar Giants Pivot to Battery Storage as Panel Sales Slow - energynews.pro",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPTTFYeG9uUFVsTHh2VHFQNzc1bFdXekNielB1cWFqVjBZNkZ6N0R2d2tMXzdVUmRPUkZyeXZ1VDBwamZ2UzZZa2d3SWoyUndwalBpQ2YwaTFYa3N0aENUcEx2YkZaRTgwOHhYNktqWUtLb1VyaS1RQ2FrR0d5YmU0RnZYRGV4dVRXSm9WbGJZZDRsakVf?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 27,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.04,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 29,
+    "sentiment_distribution": {
+      "positive": 3,
+      "neutral": 22,
+      "negative": 4
+    },
+    "top_companies": [
+      {
+        "id": "array",
+        "count": 3
+      },
+      {
+        "id": "daqo",
+        "count": 2
+      },
+      {
+        "id": "tongwei",
+        "count": 1
+      },
+      {
+        "id": "jinko",
+        "count": 1
+      },
+      {
+        "id": "trina",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 27
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 459,
+    "dup_title": 176,
+    "too_old": 166,
+    "gate1_blocked": 46,
+    "gate2_blocked": 13,
+    "passed": 58,
+    "pass_rate": "20.5%",
+    "gate2_block_rate": "4.6%",
+    "gate2_samples": [
+      "What Daqo New Energy (DQ)'s RMB 6 Billion AI Data Center Power Push Means For Shareholders - simplyw",
+      "AI data centers drive Daqo's RMB 6B move into next-gen energy gear - Stock Titan",
+      "Daqo New Energy: It's A Waiting Game, Patience Required (Downgrade) (NYSE:DQ) - Seeking Alpha",
+      "Daqo New Energy (DQ) Invests RMB 6B in AI Data Center Manufacturing Facility - GuruFocus",
+      "Daqo New Energy to Invest Up to RMB 6 Billion in AI Data Center Energy Solutions Base - The Globe an"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 29 則事件，焦點為Array Technologies、大全新能源、通威相關動態：「SNEC 2026: JinkoSolar, Trina Solar, Tongwei, and More Unv...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "SNEC 2026: JinkoSolar, Trina Solar, Tongwei, and More Unveil New PV Modules a...（太陽能產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Marathon Petroleum and DAQO New Energy have been highlighted as Zacks Bull an...（太陽能產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
