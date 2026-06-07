@@ -6,19 +6,19 @@
     "history_complete": true
   },
   "daqo": {
-    "earliest": "2011-05-03",
+    "earliest": "2011-02-02",
     "latest": "2026-06-05",
-    "count": 3796
+    "count": 3858
   },
   "tongwei": {
-    "earliest": "2011-05-05",
+    "earliest": "2011-02-09",
     "latest": "2026-06-05",
-    "count": 3663
+    "count": 3721
   },
   "gcl": {
-    "earliest": "2011-05-05",
+    "earliest": "2011-02-07",
     "latest": "2026-06-05",
-    "count": 3714
+    "count": 3773
   },
   "longi": {
     "earliest": "2012-04-11",
@@ -27,9 +27,9 @@
     "history_complete": true
   },
   "ja_solar": {
-    "earliest": "2011-05-05",
+    "earliest": "2011-02-09",
     "latest": "2026-06-05",
-    "count": 3663
+    "count": 3721
   },
   "trina": {
     "earliest": "2020-06-10",
@@ -38,24 +38,24 @@
     "history_complete": true
   },
   "canadian_solar": {
-    "earliest": "2011-05-03",
+    "earliest": "2011-02-02",
     "latest": "2026-06-05",
-    "count": 3796
+    "count": 3858
   },
   "first_solar": {
-    "earliest": "2011-05-03",
+    "earliest": "2011-02-02",
     "latest": "2026-06-05",
-    "count": 3796
+    "count": 3858
   },
   "jinko": {
-    "earliest": "2011-05-03",
+    "earliest": "2011-02-02",
     "latest": "2026-06-05",
-    "count": 3796
+    "count": 3858
   },
   "risen": {
-    "earliest": "2011-05-05",
+    "earliest": "2011-02-09",
     "latest": "2026-06-05",
-    "count": 3663
+    "count": 3721
   },
   "maxeon": {
     "earliest": "2020-08-26",
@@ -100,13 +100,13 @@
     "history_complete": true
   },
   "etf_tan": {
-    "earliest": "2011-05-03",
+    "earliest": "2011-02-02",
     "latest": "2026-06-05",
-    "count": 3796
+    "count": 3858
   },
   "etf_icln": {
-    "earliest": "2011-05-03",
+    "earliest": "2011-02-02",
     "latest": "2026-06-05",
-    "count": 3796
+    "count": 3858
   }
 }
