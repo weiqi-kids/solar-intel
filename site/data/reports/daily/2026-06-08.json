@@ -1,0 +1,174 @@
+{
+  "date": "2026-06-08",
+  "generated_at": "2026-06-08T12:22:15.961678Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "xinyi_solar-2026-06-08-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Bullish block trade of XINYI SOLAR(00968) 984K shares at $2.42, $2.381M turnover - AASTOCKS.com",
+      "companies": [
+        "xinyi_solar"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMickFVX3lxTE40ano0X1dUOE5aR2I5RExVMWhyOWxnMlV4UlRkZnZvYXk5OTJ2ckRfUkJyNUdtYzdhdVZoWmhkNnppUWo2aGN2emV5aHppZXdFRnUyVmNwSG5pSnYwQmNhYTdxNzRLQUJmVl9odW10ajJZUQ?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-06-08-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Using a bird’s structural-color trick to color solar modules",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://www.pv-magazine.com/2026/06/08/using-a-birds-structural-color-trick-to-color-solar-modules/"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-06-08-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Astronergy launches 825 W TOPCon solar module",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.pv-magazine.com/2026/06/08/astronergy-launches-825-w-topcon-solar-module/"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-06-08-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Africa’s solar power pools show rising synchronization risk under climate change",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": "https://www.pv-magazine.com/2026/06/08/africas-solar-power-pools-show-rising-synchronization-risk-under-climate-change/"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-06-08-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "SVOLT showcases comprehensive energy storage solutions at SNEC 2026",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.pv-magazine.com/2026/06/08/svolt-showcases-comprehensive-energy-storage-solutions-at-snec-2026/"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 14,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.04,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 14,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 11,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "xinyi_solar",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 14
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 463,
+    "dup_title": 212,
+    "too_old": 171,
+    "gate1_blocked": 46,
+    "gate2_blocked": 11,
+    "passed": 23,
+    "pass_rate": "9.2%",
+    "gate2_block_rate": "4.4%",
+    "gate2_samples": [
+      "AI data centers drive Daqo's RMB 6B move into next-gen energy gear - Stock Titan",
+      "Daqo New Energy (DQ) Invests RMB 6B in AI Data Center Manufacturing Facility - GuruFocus",
+      "Xinjiang Daqo New Energy To Invest In 'Smart Energy System Manufacturing' Project - TradingView",
+      "Daqo New Energy: It's A Waiting Game, Patience Required (Downgrade) (NYSE:DQ) - Seeking Alpha",
+      "What Daqo New Energy (DQ)'s RMB 6 Billion AI Data Center Power Push Means For Shareholders - Sahm"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 14 則事件，焦點為信義光能相關動態：「Bullish block trade of XINYI SOLAR(00968) 984K shares at ...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Bullish block trade of XINYI SOLAR(00968) 984K shares at $2.42, $2.381M turno...（太陽能產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "Using a bird’s structural-color trick to color solar modules（太陽能產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
