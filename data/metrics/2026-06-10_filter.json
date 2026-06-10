@@ -1,0 +1,16 @@
+{
+  "total_raw": 462,
+  "dup_title": 195,
+  "no_date": 0,
+  "too_old": 168,
+  "gate1_fail": 36,
+  "gate2_fail": 8,
+  "passed": 55,
+  "gate2_samples": [
+    "AI data centers drive Daqo's RMB 6B move into next-gen energy gear - Stock Titan",
+    "Daqo New Energy (DQ) Invests RMB 6B in AI Data Center Manufacturing Facility - GuruFocus",
+    "What Daqo New Energy (DQ)'s RMB 6 Billion AI Data Center Power Push Means For Shareholders - Sahm",
+    "隆基绿能(601012)：2025年BC产能快速释放 铜浆预计在6月量产导入 - Futubull - 富途牛牛",
+    "ARRY News | ARRAY TECHNOLOGIES INC (NASDAQ:ARRY) - ChartMill"
+  ]
+}

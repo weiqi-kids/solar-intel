@@ -1,0 +1,37 @@
+{
+  "date": "2026-06-10",
+  "total_events": 29,
+  "by_company": {
+    "trina": {
+      "count": 4,
+      "sentiment_avg": 0.0
+    },
+    "ja_solar": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "canadian_solar": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "industry_general": {
+      "count": 29,
+      "sentiment_avg": 0.14
+    },
+    "trade_tariff": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "installation_demand": {
+      "count": 2,
+      "sentiment_avg": 0.5
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}
