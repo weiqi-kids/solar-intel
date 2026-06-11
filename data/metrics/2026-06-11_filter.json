@@ -1,0 +1,16 @@
+{
+  "total_raw": 462,
+  "dup_title": 181,
+  "no_date": 0,
+  "too_old": 168,
+  "gate1_fail": 45,
+  "gate2_fail": 8,
+  "passed": 60,
+  "gate2_samples": [
+    "A Look At Daqo New Energy (NYSE:DQ) Valuation After Recent Share Price Weakness - simplywall.st",
+    "隆基绿能(601012)：2025年BC产能快速释放 铜浆预计在6月量产导入 - Futubull - 富途牛牛",
+    "ARRY News | ARRAY TECHNOLOGIES INC (NASDAQ:ARRY) - ChartMill",
+    "Array Technologies set to report as logistics costs test margins By Investing.com - Investing.com Ni",
+    "DC-Side Safety Protection Upgrade: Sungrow SG510HX Completes Extreme Test at 4,200 m - PR Newswire"
+  ]
+}
