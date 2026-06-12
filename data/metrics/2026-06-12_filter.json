@@ -1,0 +1,16 @@
+{
+  "total_raw": 462,
+  "dup_title": 187,
+  "no_date": 0,
+  "too_old": 163,
+  "gate1_fail": 42,
+  "gate2_fail": 7,
+  "passed": 63,
+  "gate2_samples": [
+    "A Look At Daqo New Energy (NYSE:DQ) Valuation After Recent Share Price Weakness - simplywall.st",
+    "DC-Side Safety Protection Upgrade: Sungrow SG510HX Completes Extreme Test at 4,200 m - herald-dispat",
+    "Sungrow Power Supply : AI Data Centers are Turning Battery Storage into Critical Infrastructure - ma",
+    "First 9-in-1 heat pump transforms load into an energy hub",
+    "Europe and Asia are feeling the pressure from Iran war energy crisis – This Week in Cleantech"
+  ]
+}

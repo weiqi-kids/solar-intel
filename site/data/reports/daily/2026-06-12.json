@@ -1,0 +1,214 @@
+{
+  "date": "2026-06-12",
+  "generated_at": "2026-06-12T11:34:58.445310Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-06-12-015",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Hot weather and clear skies give Europe a bumper May",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://www.pv-magazine.com/2026/06/12/hot-weather-and-clear-skies-give-europe-a-bumper-may/"
+    },
+    {
+      "rank": 2,
+      "event_id": "daqo-2026-06-12-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Chinese PV Industry Brief: Daqo expands beyond polysilicon - pv magazine Global",
+      "companies": [
+        "daqo"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQZ0ZNYWNMVV9pMVdjVThkelJLVWdTaUdZdjI3YUhiUmQtQVpSRVNGcUgyNGxpRFRkcEdCMUJYa2h5c2V0M00xeXZ3bnZUTVY4SVZTdUFEdjM4X2ZnREpNcEVGaXlKOW1fUVpPNEM3VlpWdUJKNllwOFVNaVhlTEYySVNtRkM1Q2M1STgzVEQ5dWl6UDRPSXYybVpHSTVGdw?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-06-12-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "JA to unveil utility scale battery storage system and next generation TOPCon modules at Intersolar Europe 2026 - Green Building Africa",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPTVp0RWRUVDhnX1Y5ZV83UkNYR2FkY3duT0RJNFdrd2xBbURzTDVid3pCMXdYRnUydHFGbTBmMG80djY0X2NLSU5hYmUzSTRWTzE5WnRtUmxwX3BTSUdIaWx3dS1Gb0dVN1l2c0M2VVRKN1I5R2N0d2w2S1MzMk4zZUV3Y2FfY0FCSUQzaHpwdVRtTV9lSkRLakxVTnlVSlQ2elNEVkdYbkZGX0VQckFTVnpzd294SGotWHlUZXBnajhQM3FQdEVoX3pVYkdiR20zTi1PaU1KdHpkNVdHbnpjT3BXUQ?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "trina-2026-06-12-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Trinasolar launches 620 W TOPCon ‘Shield’ module for North American market - pv magazine USA",
+      "companies": [
+        "trina"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNN0x2dFpvSExxTkJ1WUNqQ3VJNkJCaWtVQmlaa25BUElZSFE4cEZKNjdQNGFFRVRqdlcxVmFWYnRZSDZWbDNOTU5FU1FHMWVLeTVhTXlLOTVFZS1xekd4YUQzemYyYnZ4SnNCR2tTWThZTUF0dEdvdWpNWTFGZV96RGRDQkFUdHNoTTZESEpFUkV6WndqSHFkRmJiSzhHdHFZSENLNXc2UGhUX0ZlTndmQVBn?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "trina-2026-06-12-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Trina Showcases Solar and Energy Storage Innovation at ACP CLEANPOWER 2026 in Houston - SolarQuarter",
+      "companies": [
+        "trina"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNZXNKRHVlSmxRWmR0SHZtQ2psREpYSWpwTjZ2cGFtakE0d19HZEZCQ3RjdTMyeFVickQ2VU9ZTDJfRnQ5S2lSSlVpeDBmWWlra2hzWnVJejFKUllFRmE4SnVWcDVPVE9yMWQ5WHB5c0pxR2tUVEhRTWRUa3FVemRCa3lYVERFeEphcUptemNRY2pEdjlocHh6WHVKN1JlNEZZZjBYc1hiY0F6NXhJdk5VUjItb0swMVQ5VFIyTjY2bw?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 29,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.05,
+      "sentiment_7d_avg": null
+    },
+    "polysilicon_price": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 29,
+    "sentiment_distribution": {
+      "positive": 3,
+      "neutral": 25,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "trina",
+        "count": 3
+      },
+      {
+        "id": "jinko",
+        "count": 3
+      },
+      {
+        "id": "daqo",
+        "count": 2
+      },
+      {
+        "id": "array",
+        "count": 2
+      },
+      {
+        "id": "sungrow",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 29
+      },
+      {
+        "id": "polysilicon_price",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 462,
+    "dup_title": 187,
+    "too_old": 163,
+    "gate1_blocked": 42,
+    "gate2_blocked": 7,
+    "passed": 63,
+    "pass_rate": "22.9%",
+    "gate2_block_rate": "2.5%",
+    "gate2_samples": [
+      "A Look At Daqo New Energy (NYSE:DQ) Valuation After Recent Share Price Weakness - simplywall.st",
+      "DC-Side Safety Protection Upgrade: Sungrow SG510HX Completes Extreme Test at 4,200 m - herald-dispat",
+      "Sungrow Power Supply : AI Data Centers are Turning Battery Storage into Critical Infrastructure - ma",
+      "First 9-in-1 heat pump transforms load into an energy hub",
+      "Europe and Asia are feeling the pressure from Iran war energy crisis – This Week in Cleantech"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 29 則事件，焦點為天合光能、晶科能源、大全新能源相關動態：「Hot weather and clear skies give Europe a bumper May」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Hot weather and clear skies give Europe a bumper May（太陽能產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "Chinese PV Industry Brief: Daqo expands beyond polysilicon - pv magazine Global（太陽能產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "多晶矽價格話題出現 1 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

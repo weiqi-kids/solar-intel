@@ -1,0 +1,41 @@
+{
+  "date": "2026-06-12",
+  "total_events": 29,
+  "by_company": {
+    "daqo": {
+      "count": 2,
+      "sentiment_avg": 0.5
+    },
+    "trina": {
+      "count": 3,
+      "sentiment_avg": 0.0
+    },
+    "jinko": {
+      "count": 3,
+      "sentiment_avg": 0.0
+    },
+    "array": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "sungrow": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "industry_general": {
+      "count": 29,
+      "sentiment_avg": 0.05
+    },
+    "polysilicon_price": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}
