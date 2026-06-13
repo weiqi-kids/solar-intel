@@ -1,0 +1,188 @@
+{
+  "date": "2026-06-13",
+  "generated_at": "2026-06-13T10:22:10.336051Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "array-2026-06-13-003",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Array Technologies (ARRY) Stock After Sector Reset Are Recent Declines Creating An Opportunity? - Yahoo Finance",
+      "companies": [
+        "array"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPZTY4V1VfdzE2RXBMVy1rd1VXRWRVa1VybnRieEtXR0ItQ3lIb3dxNktlU3daQVFoejIwQkhHSHlfNUR6ZHFJUlNWZWkyZHlrenlBOFpVb0w1bVFST05iaUF3dldkb0ZHV25VM2diTDlHM1c3dld0ZEVPQ3dQcGNfSlZaYnFLdVVYNUY2V2Q3V21OR19YRGNJYV9xZXYwZHdxOHRj?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-06-13-004",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Most Efficient Solar Module in the World — New Record - CleanTechnica",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQUWdlNy1VR3dNUzhzSS1QaDk1ckV3S0JlUEpNSkpuWkZDNnBCaVhpb3RKR0Ywa1cxNjZlYUtUX2h5ZnhEWmg4MXRfTWphNjE3X2JzOGRFRUI2c2tFMm1vQ2F6dHk3MjFaLW5waUN3NXFtajJYbWtrLW9hcWNleWxnMzcyZzhJMUpybG1mTWI5eDlWOG8?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-06-13-005",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Most Efficient Solar Module in the World — New Record",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://cleantechnica.com/2026/06/12/most-efficient-solar-module-in-the-world-new-record/"
+    },
+    {
+      "rank": 4,
+      "event_id": "jinko-2026-06-13-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "JinkoSolar Holding Co Ltd (JKS) Shares Surge 6.2% -- What GF Score of 83 Tells Investors - GuruFocus",
+      "companies": [
+        "jinko"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNald3bS1QM2s5YXhsTTJDUm5QZVlqdTM0WndMZjZfVmh3UDFqQ3F1SHY4V1N5bmtFbTVQQzBFTkVteWpzVm9QNTdUS1RXVzRYSl9KYUl2UDdpenYwWGJGV3JwOU1tOENqSF9Jb2k3Rmhya3M1dllMZ2tfMld4VUQ1RTZSRlVrQ3pZRzhhMXp4S1VwNG4wTS1FSGdPWlY4cWY2Z3YxY2k3TGJ4Vmx3dF9NLWt4Tmk3a251UFRJNA?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "jinko-2026-06-13-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "JinkoSolar's subsidiary Haining Jinko has increased its registered capital by RMB 2 billion, introducing three strategic investors. - 富途牛牛",
+      "companies": [
+        "jinko"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPVmZJdjlVQVhFYTFOOW12N3JYODV3dV9zWEFieEpoVzJVSm5xNzJTN01yNGQ0eWcyNFFheUllUGJtSFhBaE9INEMzY3gtbTV2THVkcHQzMjg1SkI5ZWUyVXlMWnozWm5vdGFLYXNyYTM4UUM4dFBBRWJad0cwN24wWmY1bGRJV2pHenlHUWtKNHdlUFJQemxGN0RwdzdPeDM0M1N4OERFdjFoXzBqYTIwUm5pQmFadw?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 8,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.23,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 8,
+    "sentiment_distribution": {
+      "positive": 4,
+      "neutral": 3,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "jinko",
+        "count": 2
+      },
+      {
+        "id": "array",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 8
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 464,
+    "dup_title": 215,
+    "too_old": 167,
+    "gate1_blocked": 36,
+    "gate2_blocked": 8,
+    "passed": 38,
+    "pass_rate": "15.3%",
+    "gate2_block_rate": "3.2%",
+    "gate2_samples": [
+      "A Look At Daqo New Energy (NYSE:DQ) Valuation After Recent Share Price Weakness - simplywall.st",
+      "DC-Side Safety Protection Upgrade: Sungrow SG510HX Completes Extreme Test at 4,200 m - herald-dispat",
+      "First 9-in-1 heat pump transforms load into an energy hub",
+      "Shell could walk away from offshore wind in $1 billion+ sell-off",
+      "Europe and Asia are feeling the pressure from Iran war energy crisis – This Week in Cleantech"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 8 則事件，焦點為晶科能源、Array Technologies相關動態：「Array Technologies (ARRY) Stock After Sector Reset Are Re...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Array Technologies (ARRY) Stock After Sector Reset Are Recent Declines Creati...（太陽能產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "Most Efficient Solar Module in the World — New Record - CleanTechnica（太陽能產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

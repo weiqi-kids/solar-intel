@@ -1,0 +1,16 @@
+{
+  "total_raw": 464,
+  "dup_title": 215,
+  "no_date": 0,
+  "too_old": 167,
+  "gate1_fail": 36,
+  "gate2_fail": 8,
+  "passed": 38,
+  "gate2_samples": [
+    "A Look At Daqo New Energy (NYSE:DQ) Valuation After Recent Share Price Weakness - simplywall.st",
+    "DC-Side Safety Protection Upgrade: Sungrow SG510HX Completes Extreme Test at 4,200 m - herald-dispat",
+    "First 9-in-1 heat pump transforms load into an energy hub",
+    "Shell could walk away from offshore wind in $1 billion+ sell-off",
+    "Europe and Asia are feeling the pressure from Iran war energy crisis – This Week in Cleantech"
+  ]
+}
