@@ -1,0 +1,202 @@
+{
+  "date": "2026-06-15",
+  "generated_at": "2026-06-15T13:47:27.267389Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "enphase-2026-06-15-007",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Enphase Energy Appoints Shanker Trivedi to Board of Directors",
+      "companies": [
+        "enphase"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://newsroom.enphase.com/news-releases/news-release-details/enphase-energy-appoints-shanker-trivedi-board-directors"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-06-15-013",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Pseudo-planar heterojunction organic solar cell achieves world record efficiency of 20.21%",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://www.pv-magazine.com/2026/06/15/pseudo-planar-heterojunction-organic-solar-cell-achieves-world-record-efficiency-of-20-21/"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-06-15-025",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Clean energy wins | Factor This Brief",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://www.renewableenergyworld.com/solar/clean-energy-wins-factor-this-brief-6-15/"
+    },
+    {
+      "rank": 4,
+      "event_id": "array-2026-06-15-027",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Drone cleaning 101: A new tool for solar O&M takes soiling losses (and fall risk) off the roof",
+      "companies": [
+        "array"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://www.solarpowerworldonline.com/2026/06/drone-cleaning-101-a-new-tool-for-solar-om-takes-soiling-losses-and-fall-risk-off-the-roof/"
+    },
+    {
+      "rank": 5,
+      "event_id": "gcl-2026-06-15-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Hong Kong Market Movement | Solar stocks rise; GCL Technology up 5.5% as national standard for PV module efficiency set to be released - 富途牛牛",
+      "companies": [
+        "gcl"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPc3psdU56Rkc5TmVVSkQwem9PamNDTzNZQmJxVUJhQ2N5RGRRTTJzSk16YUQ0cTI1bl9vYW1ZLWJkUDRLdDNKeEYxMEZLTE1lcFNQRkVRY09ycGREQng0SFhpMGVid2dkTzFmdkVZSFdGaGxKRnd4ZTc1ZUhRRkEyV0lYZU5MUl9iOVlGOHFVeXRNOWhTR2NaeGlJWV8wdkxURFZIMQ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 30,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.02,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 30,
+    "sentiment_distribution": {
+      "positive": 5,
+      "neutral": 21,
+      "negative": 4
+    },
+    "top_companies": [
+      {
+        "id": "jinko",
+        "count": 4
+      },
+      {
+        "id": "gcl",
+        "count": 1
+      },
+      {
+        "id": "trina",
+        "count": 1
+      },
+      {
+        "id": "enphase",
+        "count": 1
+      },
+      {
+        "id": "array",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 30
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 464,
+    "dup_title": 212,
+    "too_old": 170,
+    "gate1_blocked": 38,
+    "gate2_blocked": 6,
+    "passed": 38,
+    "pass_rate": "15.1%",
+    "gate2_block_rate": "2.4%",
+    "gate2_samples": [
+      "A Look At Daqo New Energy (NYSE:DQ) Valuation After Recent Share Price Weakness - simplywall.st",
+      "DC-Side Safety Protection Upgrade: Sungrow SG510HX Completes Extreme Test at 4,200 m - herald-dispat",
+      "Shell could walk away from offshore wind in $1 billion+ sell-off",
+      "Europe and Asia are feeling the pressure from Iran war energy crisis – This Week in Cleantech",
+      "New Method Turns Ocean Water Into Drinking Water, Without Waste"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 30 則事件，焦點為晶科能源、協鑫科技、天合光能相關動態：「Enphase Energy Appoints Shanker Trivedi to Board of Direc...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Enphase Energy Appoints Shanker Trivedi to Board of Directors（太陽能產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "Pseudo-planar heterojunction organic solar cell achieves world record efficie...（太陽能產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
