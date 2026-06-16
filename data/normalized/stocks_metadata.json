@@ -1,8 +1,8 @@
 {
   "xinyi_solar": {
     "earliest": "2013-12-12",
-    "latest": "2026-06-15",
-    "count": 3077,
+    "latest": "2026-06-16",
+    "count": 3078,
     "history_complete": true
   },
   "daqo": {
@@ -12,42 +12,42 @@
     "history_complete": true
   },
   "tongwei": {
-    "earliest": "2009-03-03",
-    "latest": "2026-06-15",
-    "count": 4199
+    "earliest": "2008-12-03",
+    "latest": "2026-06-16",
+    "count": 4257
   },
   "gcl": {
-    "earliest": "2009-02-19",
-    "latest": "2026-06-15",
-    "count": 4269
+    "earliest": "2008-11-21",
+    "latest": "2026-06-16",
+    "count": 4328
   },
   "longi": {
     "earliest": "2012-04-11",
-    "latest": "2026-06-15",
-    "count": 3442,
+    "latest": "2026-06-16",
+    "count": 3443,
     "history_complete": true
   },
   "ja_solar": {
     "earliest": "2010-08-10",
-    "latest": "2026-06-15",
-    "count": 3844,
+    "latest": "2026-06-16",
+    "count": 3845,
     "history_complete": true
   },
   "trina": {
     "earliest": "2020-06-10",
-    "latest": "2026-06-15",
-    "count": 1457,
+    "latest": "2026-06-16",
+    "count": 1458,
     "history_complete": true
   },
   "canadian_solar": {
-    "earliest": "2009-02-17",
+    "earliest": "2008-11-19",
     "latest": "2026-06-15",
-    "count": 4359
+    "count": 4418
   },
   "first_solar": {
-    "earliest": "2009-02-17",
+    "earliest": "2008-11-19",
     "latest": "2026-06-15",
-    "count": 4359
+    "count": 4418
   },
   "jinko": {
     "earliest": "2010-05-14",
@@ -57,8 +57,8 @@
   },
   "risen": {
     "earliest": "2010-09-02",
-    "latest": "2026-06-15",
-    "count": 3827,
+    "latest": "2026-06-16",
+    "count": 3828,
     "history_complete": true
   },
   "maxeon": {
@@ -69,8 +69,8 @@
   },
   "yuan_jing": {
     "earliest": "2014-09-19",
-    "latest": "2026-06-15",
-    "count": 2855,
+    "latest": "2026-06-16",
+    "count": 2856,
     "history_complete": true
   },
   "enphase": {
@@ -93,8 +93,8 @@
   },
   "sungrow": {
     "earliest": "2011-11-02",
-    "latest": "2026-06-15",
-    "count": 3547,
+    "latest": "2026-06-16",
+    "count": 3548,
     "history_complete": true
   },
   "nextracker": {
@@ -104,13 +104,13 @@
     "history_complete": true
   },
   "etf_tan": {
-    "earliest": "2009-02-17",
+    "earliest": "2008-11-19",
     "latest": "2026-06-15",
-    "count": 4359
+    "count": 4418
   },
   "etf_icln": {
-    "earliest": "2009-02-17",
+    "earliest": "2008-11-19",
     "latest": "2026-06-15",
-    "count": 4359
+    "count": 4418
   }
 }

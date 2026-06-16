@@ -1,0 +1,208 @@
+{
+  "date": "2026-06-16",
+  "generated_at": "2026-06-16T12:46:20.887917Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "array-2026-06-16-011",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Satellite breakthrough enables accurate panel-scale temperature mapping for solar farms",
+      "companies": [
+        "array"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://www.pv-magazine.com/2026/06/16/satellite-breakthrough-enables-accurate-panel-scale-temperature-mapping-for-solar-farms/"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-06-16-019",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Satellite breakthrough enables accurate panel-scale temperature mapping for solar farms - pv magazine USA",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQX2xBX3FpTFJ5alh6Q2JhTXB5ZU8tZ3pRY3NxSVphd2hrTzZkdDMwWnBZVEFkdUxMYTNLUG9kaUd2QlVqeEFlMUZPR05OX0N6SzQzRld1UGVvdGEzOFZXelZsS0YyWEI0b2J6d3ZTWHNGS1gwU2R5alN3cmx3OERPak9PYnhEaFpjLUYzM1Y3QXVpNm9KeVV3UWU4MERtUDF6b1lzNzZTMjhfQ2gzVWVoR1VhQWRIT0M5YXJOdXhLeEpRUGdaWmc?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "xinyi_solar-2026-06-16-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Bearish block trade of XINYI SOLAR(00968) 1.1M shares at $2.4, $2.64M turnover - AASTOCKS.com",
+      "companies": [
+        "xinyi_solar"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBmX0YxUThOMHo0RDlEQ0pNX21fYlFrajJ1UHFBc1ZtaGloZGZjcmpDX1hwXzJNZkNTS21WQmxZNi1TdFdEblJVb2p1cko2U1RnbmhETXp5VFluRXEwR0tIQk5aNW9yQkFNcGFlYTdsdThJdw?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "xinyi_solar-2026-06-16-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "New efficiency push as Xinyi Solar double-glass modules target utility projects - AD HOC NEWS",
+      "companies": [
+        "xinyi_solar"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQdjR3Z0xZVVd2LVBiUEp2UEJYdl9mdXN6SkFJMTN6OFMxNFBsMEdUaGp0R20xNUt0eEdJMHctUDdOcDNKVlNrSmZ0cVotNmF4NWt0Zkh6X0NndlpVaUtleTZLc1ktQUUyajB2UF9HYWFFemVrUTZ5Um5wUG5fSExCX054dWhIamJ2cUVTUkxLYzlKaGNIb2R3eHJaam1abkxnNzNscW5HSTNiUE9wcDJYRG9IUm8xOFhBRHhONUlrdDdTTzcxelI5Rg?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-06-16-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "The industry is looking to escape the \"solar coaster\": panel manufacturers warn that the price war has reached its limit. - Energía Estratégica",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOajF1Qk50a0dJVWxSRUJBS2Y4WFR2WVRZajR4YU02Tnc3NVFZcU1YWkIxb2JScXNUMzZkWXZjTEdDOTNDZzB2SkZ2UUNNWDJ0VkJSMzBDZEVOX1ZQaFZnTWlMb2l1bzA0Q1ZZX01ncXFmeWZYdlJPS1luRXhUckVKbldNbG43cHAwdE91UjJHQ3J3SzlGejVVYWM4S3dfRGNHanVUemxSYk53RGFUaV96aGRtZ053UERhSUN2VjFqcldWbS1KVjVNcjRkRTVaeHNCRllWcmZ0VlBoTTNKR1pTQU11TXFnYUJKT2dCNVFyNldyV3lZ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 26,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.1,
+      "sentiment_7d_avg": null
+    },
+    "installation_demand": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 26,
+    "sentiment_distribution": {
+      "positive": 3,
+      "neutral": 23,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "xinyi_solar",
+        "count": 2
+      },
+      {
+        "id": "jinko",
+        "count": 2
+      },
+      {
+        "id": "array",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 26
+      },
+      {
+        "id": "installation_demand",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 464,
+    "dup_title": 203,
+    "too_old": 171,
+    "gate1_blocked": 42,
+    "gate2_blocked": 5,
+    "passed": 43,
+    "pass_rate": "16.5%",
+    "gate2_block_rate": "1.9%",
+    "gate2_samples": [
+      "A Look At Daqo New Energy (NYSE:DQ) Valuation After Recent Share Price Weakness - simplywall.st",
+      "Implied Volatility Surging for Array Technologies Stock Options - TradingView",
+      "DC-Side Safety Protection Upgrade: Sungrow SG510HX Completes Extreme Test at 4,200 m - herald-dispat",
+      "Ariel Rider Kepler review: A big, safe, fat tire commuter e-bike with style",
+      "Europe and Asia are feeling the pressure from Iran war energy crisis – This Week in Cleantech"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 26 則事件，焦點為信義光能、晶科能源、Array Technologies相關動態：「Satellite breakthrough enables accurate panel-scale tempe...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Satellite breakthrough enables accurate panel-scale temperature mapping for s...（太陽能產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "Satellite breakthrough enables accurate panel-scale temperature mapping for s...（太陽能產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "裝機需求持續受關注，產業趨勢帶動需求成長。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

@@ -1,0 +1,16 @@
+{
+  "total_raw": 464,
+  "dup_title": 203,
+  "no_date": 0,
+  "too_old": 171,
+  "gate1_fail": 42,
+  "gate2_fail": 5,
+  "passed": 43,
+  "gate2_samples": [
+    "A Look At Daqo New Energy (NYSE:DQ) Valuation After Recent Share Price Weakness - simplywall.st",
+    "Implied Volatility Surging for Array Technologies Stock Options - TradingView",
+    "DC-Side Safety Protection Upgrade: Sungrow SG510HX Completes Extreme Test at 4,200 m - herald-dispat",
+    "Ariel Rider Kepler review: A big, safe, fat tire commuter e-bike with style",
+    "Europe and Asia are feeling the pressure from Iran war energy crisis – This Week in Cleantech"
+  ]
+}
