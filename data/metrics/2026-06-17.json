@@ -1,0 +1,37 @@
+{
+  "date": "2026-06-17",
+  "total_events": 25,
+  "by_company": {
+    "xinyi_solar": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "daqo": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "longi": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "array": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "nextracker": {
+      "count": 5,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "industry_general": {
+      "count": 25,
+      "sentiment_avg": 0.08
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

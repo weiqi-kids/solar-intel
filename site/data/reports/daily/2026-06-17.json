@@ -1,0 +1,202 @@
+{
+  "date": "2026-06-17",
+  "generated_at": "2026-06-17T12:10:53.451492Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "longi-2026-06-17-003",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "LONGi Hi-MO 7 Residential Solar Panel pushes efficiency for premium home arrays - AD HOC NEWS",
+      "companies": [
+        "longi",
+        "array"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQNGJUbUFuOERwU0RFNGQ5MDdhTkZPc1BhUGNoeXQxUXBwemVBcTU1TTduZjljYVVUenpsNmhzV3d4SmR5SC01RldVVnMxd2dSUjJTTG9RRVFIMWxacXFmeHFhRkJFZ1pBaEZGMjkyWFhoOUI3bEFZanpzclhJNTYyMVVhOGlRTTZVcU9pcWFPdGxzb043emlXaVFUSk5pVTBJYVg1ZW5Pa0JCenpTRzBCOHBiTlZaa04yQ3VyYjFJM2pCUXdHMkZJVHlpVQ?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-06-17-012",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "China Resources New Energy launches Shenzhen IPO targeting record $3.4 billion raise",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://www.pv-magazine.com/2026/06/17/china-resources-new-energy-launches-shenzhen-ipo-targeting-record-3-4-billion-raise/"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-06-17-014",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Spain records 397 hours of negatives prices in Q1",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.75
+      },
+      "source_url": "https://www.pv-magazine.com/2026/06/17/spain-records-397-hours-of-negatives-prices-in-q1/"
+    },
+    {
+      "rank": 4,
+      "event_id": "xinyi_solar-2026-06-17-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Bearish block trade of XINYI SOLAR(00968) 790K shares at $2.42, $1.912M turnover - AASTOCKS.com",
+      "companies": [
+        "xinyi_solar"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPSF9HejdxNVZVUkltNmdiSDBUR1Q1MmhXa0JhdTR2NnowazN2M05ib2NBcTVTRm04N3cySXJQYS1Cd241a3NqQURPV1p5WDJ0QmFYMXNldzc0VXFUaGV5S1owNFQ2eU5BT3N0NTdLU0pJZUZPNlE0V0p5RGd6NEktNk1HeVRMRUt6WmJRSg?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "daqo-2026-06-17-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Daqo New Energy Corp (DQ) Shares Fall 4.3% -- What GF Score of 7 - GuruFocus",
+      "companies": [
+        "daqo"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPN1FMUExLMjZUaTFta0xVbUE4eVF3NVVUXzgtZkRxMVFxdjAtRl9MS0pRVm1FV1RMSTdBSVU2WUlqZDA1OUhYQ2MwRC1MSHB1OGlndWJaZmltcDlSLTV0SHY1M2YxVGZXdG5ENFdmWF9lQlByTTJ5ZXYzTTZuZms1ZTBkRmg1YmQ2TDdLVlBRRTJ2UjRWM1BHekRjalU5OWtOYjV0b0lVU3FsMDdyVi1sVldlMA?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 25,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.08,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 25,
+    "sentiment_distribution": {
+      "positive": 4,
+      "neutral": 19,
+      "negative": 2
+    },
+    "top_companies": [
+      {
+        "id": "nextracker",
+        "count": 5
+      },
+      {
+        "id": "xinyi_solar",
+        "count": 1
+      },
+      {
+        "id": "daqo",
+        "count": 1
+      },
+      {
+        "id": "longi",
+        "count": 1
+      },
+      {
+        "id": "array",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 25
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 464,
+    "dup_title": 190,
+    "too_old": 175,
+    "gate1_blocked": 46,
+    "gate2_blocked": 5,
+    "passed": 48,
+    "pass_rate": "17.5%",
+    "gate2_block_rate": "1.8%",
+    "gate2_samples": [
+      "A Look At Daqo New Energy (NYSE:DQ) Valuation After Recent Share Price Weakness - simplywall.st",
+      "Implied Volatility Surging for Array Technologies Stock Options - TradingView",
+      "Array Technologies, Inc. (ARRY) dips more than broader market: What you should know - MSN",
+      "DC-Side Safety Protection Upgrade: Sungrow SG510HX Completes Extreme Test at 4,200 m - PR Newswire",
+      "Europe and Asia are feeling the pressure from Iran war energy crisis – This Week in Cleantech"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 25 則事件，焦點為Nextracker、信義光能、大全新能源相關動態：「LONGi Hi-MO 7 Residential Solar Panel pushes efficiency f...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "LONGi Hi-MO 7 Residential Solar Panel pushes efficiency for premium home arra...（太陽能產業通用）",
+        "level": "red"
+      },
+      {
+        "text": "China Resources New Energy launches Shenzhen IPO targeting record $3.4 billio...（太陽能產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

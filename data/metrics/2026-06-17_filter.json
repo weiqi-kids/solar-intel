@@ -1,0 +1,16 @@
+{
+  "total_raw": 464,
+  "dup_title": 190,
+  "no_date": 0,
+  "too_old": 175,
+  "gate1_fail": 46,
+  "gate2_fail": 5,
+  "passed": 48,
+  "gate2_samples": [
+    "A Look At Daqo New Energy (NYSE:DQ) Valuation After Recent Share Price Weakness - simplywall.st",
+    "Implied Volatility Surging for Array Technologies Stock Options - TradingView",
+    "Array Technologies, Inc. (ARRY) dips more than broader market: What you should know - MSN",
+    "DC-Side Safety Protection Upgrade: Sungrow SG510HX Completes Extreme Test at 4,200 m - PR Newswire",
+    "Europe and Asia are feeling the pressure from Iran war energy crisis – This Week in Cleantech"
+  ]
+}
