@@ -1,0 +1,14 @@
+{
+  "total_raw": 463,
+  "dup_title": 174,
+  "no_date": 0,
+  "too_old": 178,
+  "gate1_fail": 45,
+  "gate2_fail": 3,
+  "passed": 63,
+  "gate2_samples": [
+    "A Look At Daqo New Energy (NYSE:DQ) Valuation After Recent Share Price Weakness - simplywall.st",
+    "Implied Volatility Surging for Array Technologies Stock Options - TradingView",
+    "DC-Side Safety Protection Upgrade: Sungrow SG510HX Completes Extreme Test at 4,200 m - PR Newswire"
+  ]
+}

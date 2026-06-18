@@ -1,0 +1,200 @@
+{
+  "date": "2026-06-18",
+  "generated_at": "2026-06-18T11:45:12.503551Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-06-18-005",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Oxford PV achieves 25.6% efficiency for perovskite-silicon tandem module based on shingled design",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://www.pv-magazine.com/2026/06/18/oxford-pv-achieves-25-6-efficiency-for-perovskite-silicon-tandem-module-based-on-shingled-design/"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-06-18-018",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "China’s firm sets world record with 29.2%-efficient perovskite-silicon tandem solar panel - Interesting Engineering",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNdjI1eWJzSG41T2lUYzhObVp0RTZRUDRSaEREcmJHU3drSnJIdE5Bb2RDVmExbFhZZ01RdFZkOENIcnZNLWtMdWFvMzl1NEN1cXc3YmNhMXJmVEloWngxV3FjRGpjb1JpUUpRZjVDZ3ozX19zZ3ZKazdzcmtmSDdqd2FOVkQ1aEFoZFFN?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-06-18-024",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Solar Generation in CAISO Surpassed Natural Gas in the First 5 Months of 2026",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.75
+      },
+      "source_url": "https://cleantechnica.com/2026/06/17/solar-generation-in-caiso-surpassed-natural-gas-in-the-first-5-months-of-2026/"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-06-18-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "How does a manufacturer prepare during a solar + BESS boom in the Dominican Republic? - Energía Estratégica",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNdERnU3NLcy1sdWtGTjk3dElYNzJNenV0SzNEYTFCTDhoQVliMnluNVI2NlAwb2RCOHZqSk90NVdhWlNfcjYxb3UxVmQtcEFuMk9QWENpVjRCend6VlA5SERzMDBwY2xVVkw1M1czSXRud3RCUjBwcDZvbjZtaVNxb2xlejl4SG1OUTlyZWdJX0pVUWM2V044LTMzTnNkLVNYNW9sdnlZcGRGSVNiNmZTcTVzQkJmRlBDOFpsSE1YZw?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "maxeon-2026-06-18-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Maxeon Solar Technologies Ltd (MAXN) Dividends & Stock Splits: Historical Payouts and Event Timeline - TradingKey",
+      "companies": [
+        "maxeon"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFAxeERoTmN1TnZyY0RZY0EtRlNxR0tVZ21xa0xEdG5VcE1lTlZtNmZPenYtZ093eU5sUW1yem1panpnY0FnVTBnaWpjYllhRTVfVjRjakluZ2xVQ2xidjRjNnJneGhGbEpFSkZ4M1V4STVQUTliUUkzYQ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 24,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.05,
+      "sentiment_7d_avg": null
+    },
+    "installation_demand": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 24,
+    "sentiment_distribution": {
+      "positive": 3,
+      "neutral": 20,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "maxeon",
+        "count": 3
+      },
+      {
+        "id": "sungrow",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 24
+      },
+      {
+        "id": "installation_demand",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 463,
+    "dup_title": 174,
+    "too_old": 178,
+    "gate1_blocked": 45,
+    "gate2_blocked": 3,
+    "passed": 63,
+    "pass_rate": "21.8%",
+    "gate2_block_rate": "1.0%",
+    "gate2_samples": [
+      "A Look At Daqo New Energy (NYSE:DQ) Valuation After Recent Share Price Weakness - simplywall.st",
+      "Implied Volatility Surging for Array Technologies Stock Options - TradingView",
+      "DC-Side Safety Protection Upgrade: Sungrow SG510HX Completes Extreme Test at 4,200 m - PR Newswire"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 24 則事件，焦點為Maxeon Solar Technologies、陽光電源相關動態：「Oxford PV achieves 25.6% efficiency for perovskite-silico...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Oxford PV achieves 25.6% efficiency for perovskite-silicon tandem module base...（太陽能產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "China’s firm sets world record with 29.2%-efficient perovskite-silicon tandem...（太陽能產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "裝機需求持續受關注，產業趨勢帶動需求成長。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

@@ -1,0 +1,29 @@
+{
+  "date": "2026-06-18",
+  "total_events": 24,
+  "by_company": {
+    "maxeon": {
+      "count": 3,
+      "sentiment_avg": 0.0
+    },
+    "sungrow": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "industry_general": {
+      "count": 24,
+      "sentiment_avg": 0.05
+    },
+    "installation_demand": {
+      "count": 1,
+      "sentiment_avg": 0.5
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}
