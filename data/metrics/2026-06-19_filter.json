@@ -1,0 +1,13 @@
+{
+  "total_raw": 464,
+  "dup_title": 183,
+  "no_date": 0,
+  "too_old": 179,
+  "gate1_fail": 42,
+  "gate2_fail": 2,
+  "passed": 58,
+  "gate2_samples": [
+    "Implied Volatility Surging for Array Technologies Stock Options - Yahoo Finance",
+    "Agrivoltaics Gets A Huge Thumbs-Up From A State Struggling To Conserve Its Agrarian Heritage"
+  ]
+}

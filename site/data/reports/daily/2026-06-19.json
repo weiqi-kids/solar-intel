@@ -1,0 +1,220 @@
+{
+  "date": "2026-06-19",
+  "generated_at": "2026-06-19T11:59:35.848827Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "jinko-2026-06-19-001",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "33rd World Record! JinkoSolar Sets New Efficiency Benchmark for Perovskite/TOPCon Tandem Cells at 34.82% - SolarQuarter",
+      "companies": [
+        "jinko"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQbEdkUGpHb0VfSm9ESm9JYU9KbGVCTmM4dVVTMFZ5Z3JYZzNKcS1GYlVuWUJkVzg3UFJuekVNS01teVM2anVlQzdKeDhESmJ6T25oOGp5LUUzaS1kdE9hSlZaLVlCQXdoR3dtVk4tWGlFUG1fc0d3UXdkMVRJVXVuYnNZSFV5OXNLOHVzV015OGlUdWpkaUdEU1VzV2c2SFVaV2QxS01zT2FTRkh0YkVyYjVGdTZZV2dGQlhNSlUzdncyd2VRRk1lQnJTMklLQkpMM2ViMjlB?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "jinko-2026-06-19-002",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "JinkoSolar sets 33rd world record with 34.82% perovskite TOPCon tandem cell efficiency - Green Building Africa",
+      "companies": [
+        "jinko"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOLU5kM3R5cmlhUHF4Ym40NUZPdmdMMVdMUnFpcXpHOVdaS1VMamdJRVhrTXlfSVpnSE1NbG5LeEh1UzFxWkJVNkJiQzhJcWZoS1dVS0gzd2xQc2ZFWkZTN0QzVXI3QnFjZV94REpFN0Q0Um1jOEZkdFAtRWEtMWQ2Q0k1WG1vQkNCYnBGd0RGd3k5aW5KY0taS1k0VU1DRGUxQWtLU1lZRU0zYWtTSFJOX2lRRHMycjVDV2IzSGxiMEh3QQ?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-06-19-004",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Chinese PV Industry Brief: Polysilicon prices decline for third consecutive week",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "polysilicon_price",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.75
+      },
+      "source_url": "https://www.pv-magazine.com/2026/06/19/chinese-pv-industry-brief-polysilicon-prices-decline-for-third-consecutive-week/"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-06-19-005",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "‘The era of unlimited cheap inventory is ending’",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://www.pv-magazine.com/2026/06/19/the-era-of-unlimited-cheap-inventory-is-ending/"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-06-19-010",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "The Hydrogen Stream: 2030 targets increasingly out of reach, says IEA",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://www.pv-magazine.com/2026/06/19/the-hydrogen-stream-2030-targets-increasingly-out-of-reach-says-iea/"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 22,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.08,
+      "sentiment_7d_avg": null
+    },
+    "polysilicon_price": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.75,
+      "sentiment_7d_avg": null
+    },
+    "grid_parity": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 22,
+    "sentiment_distribution": {
+      "positive": 5,
+      "neutral": 14,
+      "negative": 3
+    },
+    "top_companies": [
+      {
+        "id": "jinko",
+        "count": 3
+      },
+      {
+        "id": "maxeon",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 22
+      },
+      {
+        "id": "polysilicon_price",
+        "count": 1
+      },
+      {
+        "id": "grid_parity",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 464,
+    "dup_title": 183,
+    "too_old": 179,
+    "gate1_blocked": 42,
+    "gate2_blocked": 2,
+    "passed": 58,
+    "pass_rate": "20.6%",
+    "gate2_block_rate": "0.7%",
+    "gate2_samples": [
+      "Implied Volatility Surging for Array Technologies Stock Options - Yahoo Finance",
+      "Agrivoltaics Gets A Huge Thumbs-Up From A State Struggling To Conserve Its Agrarian Heritage"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 22 則事件，焦點為晶科能源、Maxeon Solar Technologies相關動態：「33rd World Record! JinkoSolar Sets New Efficiency Benchma...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "33rd World Record! JinkoSolar Sets New Efficiency Benchmark for Perovskite/TO...（太陽能產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "JinkoSolar sets 33rd world record with 34.82% perovskite TOPCon tandem cell e...（太陽能產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "多晶矽價格話題出現 1 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
