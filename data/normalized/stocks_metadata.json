@@ -12,14 +12,14 @@
     "history_complete": true
   },
   "tongwei": {
-    "earliest": "2008-03-10",
+    "earliest": "2007-12-11",
     "latest": "2026-06-18",
-    "count": 4441
+    "count": 4498
   },
   "gcl": {
-    "earliest": "2008-02-27",
+    "earliest": "2007-11-29",
     "latest": "2026-06-18",
-    "count": 4512
+    "count": 4571
   },
   "longi": {
     "earliest": "2012-04-11",
@@ -40,14 +40,14 @@
     "history_complete": true
   },
   "canadian_solar": {
-    "earliest": "2008-02-25",
+    "earliest": "2007-11-27",
     "latest": "2026-06-18",
-    "count": 4609
+    "count": 4669
   },
   "first_solar": {
-    "earliest": "2008-02-25",
+    "earliest": "2007-11-27",
     "latest": "2026-06-18",
-    "count": 4609
+    "count": 4669
   },
   "jinko": {
     "earliest": "2010-05-14",
@@ -106,7 +106,8 @@
   "etf_tan": {
     "earliest": "2008-04-15",
     "latest": "2026-06-18",
-    "count": 4574
+    "count": 4574,
+    "history_complete": true
   },
   "etf_icln": {
     "earliest": "2008-06-25",

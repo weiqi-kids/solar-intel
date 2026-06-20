@@ -1,0 +1,16 @@
+{
+  "total_raw": 463,
+  "dup_title": 198,
+  "no_date": 0,
+  "too_old": 193,
+  "gate1_fail": 41,
+  "gate2_fail": 5,
+  "passed": 26,
+  "gate2_samples": [
+    "Implied Volatility Surging for Array Technologies Stock Options - Yahoo Finance",
+    "BESS as a ‘Swiss Army knife’ for data centers",
+    "One giant US power line, enough wind power for 1 million homes",
+    "400 hp Mercedes-Benz VLE 300 combines limo luxury with lots of legroom",
+    "Climate Solutions Need To Pass Three Tests Before They Deserve Policy Or Capital"
+  ]
+}
