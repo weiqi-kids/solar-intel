@@ -12,14 +12,14 @@
     "history_complete": true
   },
   "tongwei": {
-    "earliest": "2007-12-11",
+    "earliest": "2007-09-12",
     "latest": "2026-06-18",
-    "count": 4498
+    "count": 4557
   },
   "gcl": {
-    "earliest": "2007-11-29",
+    "earliest": "2007-11-13",
     "latest": "2026-06-18",
-    "count": 4571
+    "count": 4583
   },
   "longi": {
     "earliest": "2012-04-11",
@@ -40,14 +40,14 @@
     "history_complete": true
   },
   "canadian_solar": {
-    "earliest": "2007-11-27",
+    "earliest": "2007-08-29",
     "latest": "2026-06-18",
-    "count": 4669
+    "count": 4731
   },
   "first_solar": {
-    "earliest": "2007-11-27",
+    "earliest": "2007-08-29",
     "latest": "2026-06-18",
-    "count": 4669
+    "count": 4731
   },
   "jinko": {
     "earliest": "2010-05-14",
@@ -63,8 +63,8 @@
   },
   "maxeon": {
     "earliest": "2020-08-26",
-    "latest": "2026-06-12",
-    "count": 1456,
+    "latest": "2026-06-18",
+    "count": 1460,
     "history_complete": true
   },
   "yuan_jing": {
