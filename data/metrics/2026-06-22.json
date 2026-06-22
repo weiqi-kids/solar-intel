@@ -1,0 +1,45 @@
+{
+  "date": "2026-06-22",
+  "total_events": 28,
+  "by_company": {
+    "longi": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "ja_solar": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "trina": {
+      "count": 3,
+      "sentiment_avg": 0.0
+    },
+    "canadian_solar": {
+      "count": 5,
+      "sentiment_avg": 0.0
+    },
+    "nextracker": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "industry_general": {
+      "count": 28,
+      "sentiment_avg": 0.09
+    },
+    "grid_parity": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "installation_demand": {
+      "count": 2,
+      "sentiment_avg": 0.25
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}
