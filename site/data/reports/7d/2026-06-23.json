@@ -1,0 +1,172 @@
+{
+  "date": "2026-06-23",
+  "date_range": {
+    "start": "2026-06-17",
+    "end": "2026-06-23"
+  },
+  "generated_at": "2026-06-23T10:54:09.570672Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "longi-2026-06-17-003",
+      "date": "2026-06-17",
+      "title": "LONGi Hi-MO 7 Residential Solar Panel pushes efficiency for premium home arrays - AD HOC NEWS",
+      "importance_score": 0.9
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "industry_general": {
+      "this_week": 127,
+      "last_week": 152,
+      "week_over_week_change": "-16%",
+      "sentiment_this_week": 0.08
+    },
+    "installation_demand": {
+      "this_week": 4,
+      "last_week": 4,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.12
+    },
+    "polysilicon_price": {
+      "this_week": 1,
+      "last_week": 1,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": -0.75
+    },
+    "grid_parity": {
+      "this_week": 3,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    },
+    "trade_tariff": {
+      "this_week": 1,
+      "last_week": 2,
+      "week_over_week_change": "-50%",
+      "sentiment_this_week": 0.5
+    }
+  },
+  "company_7d_summary": {
+    "xinyi_solar": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 9
+    },
+    "daqo": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 10
+    },
+    "longi": {
+      "event_count": 4,
+      "sentiment_avg": 0.12,
+      "rank": 3
+    },
+    "array": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 6
+    },
+    "nextracker": {
+      "event_count": 6,
+      "sentiment_avg": 0.0,
+      "rank": 1
+    },
+    "maxeon": {
+      "event_count": 4,
+      "sentiment_avg": 0.12,
+      "rank": 4
+    },
+    "sungrow": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 8
+    },
+    "jinko": {
+      "event_count": 4,
+      "sentiment_avg": 0.5,
+      "rank": 5
+    },
+    "ja_solar": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 11
+    },
+    "trina": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 7
+    },
+    "canadian_solar": {
+      "event_count": 5,
+      "sentiment_avg": 0.0,
+      "rank": 2
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 251,
+        "last": 312,
+        "change_pct": -19.6
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-06-17",
+      "event_count": 68,
+      "sentiment_avg": 0.07
+    },
+    {
+      "date": "2026-06-18",
+      "event_count": 59,
+      "sentiment_avg": 0.09
+    },
+    {
+      "date": "2026-06-19",
+      "event_count": 41,
+      "sentiment_avg": 0.1
+    },
+    {
+      "date": "2026-06-20",
+      "event_count": 6,
+      "sentiment_avg": 0.17
+    },
+    {
+      "date": "2026-06-21",
+      "event_count": 9,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-06-22",
+      "event_count": 49,
+      "sentiment_avg": 0.01
+    },
+    {
+      "date": "2026-06-23",
+      "event_count": 19,
+      "sentiment_avg": 0.11
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-06-17 ~ 2026-06-23）共 251 則事件，重點為「LONGi Hi-MO 7 Residential Solar Panel pushes ef...」。晶科能源表現正面，整體氣氛穩健。",
+    "watchlist": [
+      {
+        "company": "隆基綠能",
+        "reason": "本週出現 4 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "Array Technologies",
+        "reason": "本週出現 3 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "Nextracker",
+        "reason": "本週出現 6 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

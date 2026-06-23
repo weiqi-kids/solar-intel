@@ -1,0 +1,12 @@
+{
+  "total_raw": 463,
+  "dup_title": 193,
+  "no_date": 0,
+  "too_old": 184,
+  "gate1_fail": 45,
+  "gate2_fail": 1,
+  "passed": 40,
+  "gate2_samples": [
+    "How A Record-High “Energy Imbalance” Is Driving Global Warming"
+  ]
+}

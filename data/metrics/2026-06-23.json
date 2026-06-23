@@ -1,0 +1,33 @@
+{
+  "date": "2026-06-23",
+  "total_events": 19,
+  "by_company": {
+    "sungrow": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "longi": {
+      "count": 1,
+      "sentiment_avg": 0.5
+    }
+  },
+  "by_topic": {
+    "industry_general": {
+      "count": 19,
+      "sentiment_avg": 0.11
+    },
+    "installation_demand": {
+      "count": 1,
+      "sentiment_avg": -0.5
+    },
+    "trade_tariff": {
+      "count": 1,
+      "sentiment_avg": 0.5
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}
