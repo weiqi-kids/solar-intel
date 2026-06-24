@@ -1,0 +1,12 @@
+{
+  "total_raw": 464,
+  "dup_title": 172,
+  "no_date": 0,
+  "too_old": 174,
+  "gate1_fail": 43,
+  "gate2_fail": 1,
+  "passed": 74,
+  "gate2_samples": [
+    "Sungrow Releases S+ Energy Storage Multi-Scenario White Paper - Yahoo Finance"
+  ]
+}

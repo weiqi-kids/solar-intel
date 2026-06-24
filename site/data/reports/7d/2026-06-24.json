@@ -1,0 +1,167 @@
+{
+  "date": "2026-06-24",
+  "date_range": {
+    "start": "2026-06-18",
+    "end": "2026-06-24"
+  },
+  "generated_at": "2026-06-24T10:41:21.245380Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "unknown-2026-06-18-005",
+      "date": "2026-06-18",
+      "title": "Oxford PV achieves 25.6% efficiency for perovskite-silicon tandem module based on shingled design",
+      "importance_score": 0.65
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "industry_general": {
+      "this_week": 126,
+      "last_week": 148,
+      "week_over_week_change": "-15%",
+      "sentiment_this_week": 0.08
+    },
+    "installation_demand": {
+      "this_week": 4,
+      "last_week": 2,
+      "week_over_week_change": "+100%",
+      "sentiment_this_week": 0.12
+    },
+    "polysilicon_price": {
+      "this_week": 1,
+      "last_week": 1,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": -0.75
+    },
+    "grid_parity": {
+      "this_week": 3,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    },
+    "trade_tariff": {
+      "this_week": 2,
+      "last_week": 1,
+      "week_over_week_change": "+100%",
+      "sentiment_this_week": 0.25
+    }
+  },
+  "company_7d_summary": {
+    "maxeon": {
+      "event_count": 4,
+      "sentiment_avg": 0.12,
+      "rank": 5
+    },
+    "sungrow": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 6
+    },
+    "jinko": {
+      "event_count": 6,
+      "sentiment_avg": 0.34,
+      "rank": 1
+    },
+    "array": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 7
+    },
+    "longi": {
+      "event_count": 5,
+      "sentiment_avg": 0.1,
+      "rank": 3
+    },
+    "ja_solar": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 8
+    },
+    "trina": {
+      "event_count": 5,
+      "sentiment_avg": 0.0,
+      "rank": 4
+    },
+    "canadian_solar": {
+      "event_count": 6,
+      "sentiment_avg": 0.0,
+      "rank": 2
+    },
+    "nextracker": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 9
+    },
+    "risen": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 10
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 256,
+        "last": 312,
+        "change_pct": -17.9
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-06-18",
+      "event_count": 61,
+      "sentiment_avg": 0.09
+    },
+    {
+      "date": "2026-06-19",
+      "event_count": 42,
+      "sentiment_avg": 0.1
+    },
+    {
+      "date": "2026-06-20",
+      "event_count": 7,
+      "sentiment_avg": 0.14
+    },
+    {
+      "date": "2026-06-21",
+      "event_count": 10,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-06-22",
+      "event_count": 51,
+      "sentiment_avg": 0.01
+    },
+    {
+      "date": "2026-06-23",
+      "event_count": 59,
+      "sentiment_avg": 0.06
+    },
+    {
+      "date": "2026-06-24",
+      "event_count": 26,
+      "sentiment_avg": 0.1
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-06-18 ~ 2026-06-24）共 256 則事件，重點為「Oxford PV achieves 25.6% efficiency for perovsk...」。晶科能源表現正面，整體氣氛穩健。",
+    "watchlist": [
+      {
+        "company": "Maxeon Solar Technologies",
+        "reason": "本週出現 4 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "陽光電源",
+        "reason": "本週出現 3 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "晶科能源",
+        "reason": "本週出現 6 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

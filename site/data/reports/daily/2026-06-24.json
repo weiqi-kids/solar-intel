@@ -1,0 +1,206 @@
+{
+  "date": "2026-06-24",
+  "generated_at": "2026-06-24T10:41:21.124425Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-06-24-014",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Solar industry’s shift from silver presents potential barrier for panel recycling",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://www.pv-magazine.com/2026/06/24/solar-industrys-shift-from-silver-presents-potential-barrier-for-panel-recycling/"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-06-24-015",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Catalyst breakthrough could accelerate green hydrogen production",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://www.pv-magazine.com/2026/06/24/catalyst-breakthrough-could-accelerate-green-hydrogen-production/"
+    },
+    {
+      "rank": 3,
+      "event_id": "longi-2026-06-24-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "LONGi Awarded \"2026 Climate Lighthouse\" Outstanding Case of 2026 Shanghai Climate Week: Zero-Carbon Technology Leads Green Transition - PR Newswire",
+      "companies": [
+        "longi"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxOdlQ5bHZHZENSMkd2UGpxbm9nYUNDREFwTU04RlJDYkNLZGQ2aVhJS3RPcE1oRGNXMzZoUTh3c1dqUEtrQnBkUFdHemxZOEZtTG1BLUJLeEdTdFBZQXgzNjhDTm1PcjJKNnFaVk9ReTlwRFFLa2ZEUWU3bDdOMTBZNTVtSlRFMklESmFjT2t2Nkc0VEFFOGtOQjNMU19wdmFrR2NVU0FHTDJELW1pbUVhbkJ6Zzd6SGtINEFxTmExZUU2Q3ZfMmhmUDBxQlpMb3JiYUgyZWU2c19xZWlVX0txZXBvWTRQY2ZiaXdncTFCVlRpa0NCeUo2c2NqNFlic3p5cFBNSmpkNzBqUE5OanNIT01SRHM?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "longi-2026-06-24-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "LONGi Tops Wood Mackenzie's Global Solar PV Module Manufacturer Ranking, Earns \"Grade A\" Highest Rating - PR Newswire",
+      "companies": [
+        "longi"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQcGl2ZllMU2MtcmY2akRYWUwyeFFtUUE5RVNzUWg2dWNFNXg0VG91RmxDbmtFR3VoOGxtNkJKcGZVcmdTNVk0SFRXaTlBZXhhT1BHU3ppa29vTDZra0Fma2NJYldyUnZjOW85dk1iY1pEd1ZsY3cwOHp0OHRBZ0NzWi00RFVYeHpqY0FLTXpNWFBsMEc4OGs5RlZMZzNYdmszTjFHeXBDT3dhbmdWQ3BPb2pXVHZSTW5rOHYzY0t2dWMtUHFBSGtpQ0VGTzZaNjZ2MTVDOExYT0JQTTdNODRVQU9ESk8wYUNlODlR?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "trina-2026-06-24-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Trina Solar debuts 670 W TOPCon module for utility scale PV - pv magazine Global",
+      "companies": [
+        "trina"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPcW1iWjI3VlNFdWQ1MU5oaWZMeVdQRVZVb1Zyam1NSHNSdEJMelo5ZEx0OW1wUzgxdUlodEk5a1VTLXc1bUF0OWYtOV9WWXpKdzlNMnpwblJDazE4aFhVeEFxZ2JiaFZEbGNOSzhZWUNSRXRPdGc3c0pKSnFmMEZROXJNblpmeDNKV012OTlSUUVJZ0pxVk05VUgwVGQzN1ZB?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 24,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.1,
+      "sentiment_7d_avg": null
+    },
+    "trade_tariff": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 26,
+    "sentiment_distribution": {
+      "positive": 3,
+      "neutral": 23,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "longi",
+        "count": 2
+      },
+      {
+        "id": "trina",
+        "count": 2
+      },
+      {
+        "id": "jinko",
+        "count": 2
+      },
+      {
+        "id": "risen",
+        "count": 1
+      },
+      {
+        "id": "sungrow",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 24
+      },
+      {
+        "id": "trade_tariff",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 464,
+    "dup_title": 172,
+    "too_old": 174,
+    "gate1_blocked": 43,
+    "gate2_blocked": 1,
+    "passed": 74,
+    "pass_rate": "25.3%",
+    "gate2_block_rate": "0.3%",
+    "gate2_samples": [
+      "Sungrow Releases S+ Energy Storage Multi-Scenario White Paper - Yahoo Finance"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 26 則事件，焦點為隆基綠能、天合光能、晶科能源相關動態：「Solar industry’s shift from silver presents potential bar...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Solar industry’s shift from silver presents potential barrier for panel recyc...（太陽能產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "Catalyst breakthrough could accelerate green hydrogen production（太陽能產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
