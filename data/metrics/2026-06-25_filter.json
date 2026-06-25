@@ -1,0 +1,13 @@
+{
+  "total_raw": 465,
+  "dup_title": 200,
+  "no_date": 0,
+  "too_old": 168,
+  "gate1_fail": 42,
+  "gate2_fail": 2,
+  "passed": 53,
+  "gate2_samples": [
+    "協鑫科技：持續關連交易租賃框架協議 - Moomoo",
+    "Sungrow Releases S+ Energy Storage Multi-Scenario White Paper - PR Newswire"
+  ]
+}

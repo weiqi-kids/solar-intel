@@ -1,0 +1,167 @@
+{
+  "date": "2026-06-25",
+  "date_range": {
+    "start": "2026-06-19",
+    "end": "2026-06-25"
+  },
+  "generated_at": "2026-06-25T10:34:23.819096Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "jinko-2026-06-19-001",
+      "date": "2026-06-19",
+      "title": "33rd World Record! JinkoSolar Sets New Efficiency Benchmark for Perovskite/TOPCon Tandem Cells at 34.82% - SolarQuarter",
+      "importance_score": 0.65
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "industry_general": {
+      "this_week": 121,
+      "last_week": 147,
+      "week_over_week_change": "-18%",
+      "sentiment_this_week": 0.09
+    },
+    "polysilicon_price": {
+      "this_week": 1,
+      "last_week": 1,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": -0.75
+    },
+    "grid_parity": {
+      "this_week": 3,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    },
+    "installation_demand": {
+      "this_week": 3,
+      "last_week": 2,
+      "week_over_week_change": "+50%",
+      "sentiment_this_week": 0.0
+    },
+    "trade_tariff": {
+      "this_week": 2,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.25
+    }
+  },
+  "company_7d_summary": {
+    "jinko": {
+      "event_count": 6,
+      "sentiment_avg": 0.34,
+      "rank": 1
+    },
+    "maxeon": {
+      "event_count": 1,
+      "sentiment_avg": 0.5,
+      "rank": 7
+    },
+    "array": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 5
+    },
+    "longi": {
+      "event_count": 6,
+      "sentiment_avg": 0.08,
+      "rank": 2
+    },
+    "ja_solar": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 8
+    },
+    "trina": {
+      "event_count": 5,
+      "sentiment_avg": 0.0,
+      "rank": 4
+    },
+    "canadian_solar": {
+      "event_count": 6,
+      "sentiment_avg": 0.0,
+      "rank": 3
+    },
+    "nextracker": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 9
+    },
+    "sungrow": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 6
+    },
+    "risen": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 10
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 248,
+        "last": 315,
+        "change_pct": -21.3
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-06-19",
+      "event_count": 42,
+      "sentiment_avg": 0.1
+    },
+    {
+      "date": "2026-06-20",
+      "event_count": 7,
+      "sentiment_avg": 0.14
+    },
+    {
+      "date": "2026-06-21",
+      "event_count": 10,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-06-22",
+      "event_count": 51,
+      "sentiment_avg": 0.01
+    },
+    {
+      "date": "2026-06-23",
+      "event_count": 60,
+      "sentiment_avg": 0.06
+    },
+    {
+      "date": "2026-06-24",
+      "event_count": 59,
+      "sentiment_avg": 0.07
+    },
+    {
+      "date": "2026-06-25",
+      "event_count": 19,
+      "sentiment_avg": 0.09
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-06-19 ~ 2026-06-25）共 248 則事件，重點為「33rd World Record! JinkoSolar Sets New Efficien...」。晶科能源、Maxeon Solar Technologies表現正面，整體氣氛穩健。",
+    "watchlist": [
+      {
+        "company": "晶科能源",
+        "reason": "本週出現 6 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "Array Technologies",
+        "reason": "本週出現 3 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "隆基綠能",
+        "reason": "本週出現 6 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
