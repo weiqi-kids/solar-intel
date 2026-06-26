@@ -1,0 +1,16 @@
+{
+  "total_raw": 466,
+  "dup_title": 198,
+  "no_date": 0,
+  "too_old": 157,
+  "gate1_fail": 46,
+  "gate2_fail": 5,
+  "passed": 60,
+  "gate2_samples": [
+    "Xinjiang Daqo New Energy Co. Ltd. Class A Actuals & Estimates (SSE:688303) - TradingView",
+    "協鑫科技：持續關連交易租賃框架協議 - Moomoo",
+    "Sungrow Releases S+ Energy Storage Multi-Scenario White Paper - PR Newswire",
+    "Silver price falls to $57 an ounce as downward trend intensifies",
+    "Anker SOLIX S2000 Review — CleanTechnica Tested"
+  ]
+}

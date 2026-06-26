@@ -1,0 +1,156 @@
+{
+  "date": "2026-06-26",
+  "date_range": {
+    "start": "2026-06-20",
+    "end": "2026-06-26"
+  },
+  "generated_at": "2026-06-26T10:43:59.639604Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "unknown-2026-06-20-004",
+      "date": "2026-06-20",
+      "title": "As Kenya’s Electric Motorcycle Ecosystem Grows, Local Firms Are Starting to Specialise and Forge Interesting Partnerships With Large Global Firms",
+      "importance_score": 0.65
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "industry_general": {
+      "this_week": 120,
+      "last_week": 140,
+      "week_over_week_change": "-14%",
+      "sentiment_this_week": 0.07
+    },
+    "grid_parity": {
+      "this_week": 3,
+      "last_week": 1,
+      "week_over_week_change": "+200%",
+      "sentiment_this_week": 0.0
+    },
+    "installation_demand": {
+      "this_week": 3,
+      "last_week": 2,
+      "week_over_week_change": "+50%",
+      "sentiment_this_week": 0.0
+    },
+    "trade_tariff": {
+      "this_week": 4,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.12
+    }
+  },
+  "company_7d_summary": {
+    "array": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 5
+    },
+    "jinko": {
+      "event_count": 4,
+      "sentiment_avg": 0.0,
+      "rank": 4
+    },
+    "longi": {
+      "event_count": 7,
+      "sentiment_avg": 0.07,
+      "rank": 1
+    },
+    "ja_solar": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 7
+    },
+    "trina": {
+      "event_count": 5,
+      "sentiment_avg": 0.0,
+      "rank": 3
+    },
+    "canadian_solar": {
+      "event_count": 6,
+      "sentiment_avg": 0.0,
+      "rank": 2
+    },
+    "nextracker": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 8
+    },
+    "sungrow": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 6
+    },
+    "risen": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 9
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 266,
+        "last": 295,
+        "change_pct": -9.8
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-06-20",
+      "event_count": 7,
+      "sentiment_avg": 0.14
+    },
+    {
+      "date": "2026-06-21",
+      "event_count": 10,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-06-22",
+      "event_count": 52,
+      "sentiment_avg": 0.01
+    },
+    {
+      "date": "2026-06-23",
+      "event_count": 61,
+      "sentiment_avg": 0.06
+    },
+    {
+      "date": "2026-06-24",
+      "event_count": 61,
+      "sentiment_avg": 0.05
+    },
+    {
+      "date": "2026-06-25",
+      "event_count": 54,
+      "sentiment_avg": 0.03
+    },
+    {
+      "date": "2026-06-26",
+      "event_count": 21,
+      "sentiment_avg": 0.0
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-06-20 ~ 2026-06-26）共 266 則事件，重點為「As Kenya’s Electric Motorcycle Ecosystem Grows,...」。太陽能產業通用、貿易關稅、平價上網為本週焦點話題。",
+    "watchlist": [
+      {
+        "company": "Array Technologies",
+        "reason": "本週出現 3 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "晶科能源",
+        "reason": "本週出現 4 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "隆基綠能",
+        "reason": "本週出現 7 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
