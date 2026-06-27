@@ -1,0 +1,205 @@
+{
+  "date": "2026-06-27",
+  "generated_at": "2026-06-27T09:57:36.755486Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "gcl-2026-06-27-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "GCL Technology Holdings Limited Actuals & Estimates (OTC:GCPEF) - TradingView",
+      "companies": [
+        "gcl"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQMFZPUnRrNlQ0X1c3T250S2h6elhoZDF1MU9pODV3bFFPRVNncWF3c3BoSEpsZTBucWFSY2RyendvTnhLZmw4dV9RMmdWRlZmSXdLSDNmbGNtNWRvSGtuNHZsellvYjN6dWJyOG1uXzVzMUttLVRMUWpMMDNNWkZLS255VGNOek5MY1A4Vk1wa04xQ0RocjYydlYwMlM?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "jinko-2026-06-27-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "JinkoSolar (JKS) Stock Sees Split Analyst Revisions After Earnings Model Updates - Yahoo Finance Singapore",
+      "companies": [
+        "jinko"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQaEFfc01FTS1YODdQQTNFLVhVLWxRN0U1bTl4YVpWU2VFR05aV0Q0Tm5ENUljMENJLW9GMVlvVWdCSWQ1d3hIbFFMWHJ5Zk05bk1jSExPcklRRzJZWW5jazFwd1dPbHQ3NHhiSmtTWDhrM3JrNDJ6VFZyS2VuOV9OcTFBRzd4Q0U?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "sungrow-2026-06-27-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Enterprise value to revenue forward of Sungrow Power Supply Co., Ltd. Class A – SZSE:300274 - TradingView",
+      "companies": [
+        "sungrow"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZnRKdVJLUmFkblZCSVg4d3l3ekxkMmxpVHRram1Udm1yMGZBWmNPbk1RaWtRa0RYcGNHTkxLYWdpanNKbUZSMEtocUlyT2ZTT01KSHlxOGF3WUE3WS1GNEotNVhodzFXVG53T2RRb1JjR2tDZ24wajY4b2pYZUU5NzZHUXFpRmxIU3BHX1dpZHFaaE5yQ29Jd3QyVFJDdjBLTDdnenVOQkdSbVVY?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-06-27-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Lower temperatures, higher heat pump efficiency",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "installation_demand",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.pv-magazine.com/2026/06/27/lower-temperatures-higher-heat-pump-efficiency/"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-06-27-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Comstock Inc. Advances Solar Recycling After Asset Sale - Streetwise Reports",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOQlpJTzNDUjBFM2FNd1AxY0hULWRrTEdYdEZtZ3JCQk1fM2FwdEY3d1ViSk1objJUaHVEaFJVQ0M5VUFSRFYtLXlVMXZjOTFlRmItYzVqVmZHMFItZzRzOUlvcmU4V3E3cVpNTms0QTY3bHMxd0pJcmZKMlFPVHRUZ2VnQUJIUE8wQnFDVmhsaU1HMHRESURHWjkxYXowdlk1Q1lJNWlBSE4yR1VmM2tpdGlR?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 8,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.06,
+      "sentiment_7d_avg": null
+    },
+    "installation_demand": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 8,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 7,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "gcl",
+        "count": 1
+      },
+      {
+        "id": "jinko",
+        "count": 1
+      },
+      {
+        "id": "sungrow",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 8
+      },
+      {
+        "id": "installation_demand",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 465,
+    "dup_title": 211,
+    "too_old": 155,
+    "gate1_blocked": 43,
+    "gate2_blocked": 5,
+    "passed": 51,
+    "pass_rate": "20.1%",
+    "gate2_block_rate": "2.0%",
+    "gate2_samples": [
+      "Enterprise value to EBIT forward of Xinjiang Daqo New Energy Co. Ltd. Class A – SSE:688303 - Trading",
+      "Xinjiang Daqo New Energy Co. Ltd. Class A Actuals & Estimates (SSE:688303) - TradingView",
+      "協鑫科技：持續關連交易租賃框架協議 - Moomoo",
+      "5 Best Electrical Equipment Stocks to Buy According to Analysts - Insider Monkey",
+      "Sungrow Releases S+ Energy Storage Multi-Scenario White Paper - PR Newswire"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 8 則事件，焦點為協鑫科技、晶科能源、陽光電源相關動態：「GCL Technology Holdings Limited Actuals & Estimates (OTC:...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "GCL Technology Holdings Limited Actuals & Estimates (OTC:GCPEF) - TradingView（太陽能產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "JinkoSolar (JKS) Stock Sees Split Analyst Revisions After Earnings Model Upda...（太陽能產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "裝機需求持續受關注，產業趨勢帶動需求成長。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

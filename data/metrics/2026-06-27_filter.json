@@ -1,0 +1,16 @@
+{
+  "total_raw": 465,
+  "dup_title": 211,
+  "no_date": 0,
+  "too_old": 155,
+  "gate1_fail": 43,
+  "gate2_fail": 5,
+  "passed": 51,
+  "gate2_samples": [
+    "Enterprise value to EBIT forward of Xinjiang Daqo New Energy Co. Ltd. Class A – SSE:688303 - Trading",
+    "Xinjiang Daqo New Energy Co. Ltd. Class A Actuals & Estimates (SSE:688303) - TradingView",
+    "協鑫科技：持續關連交易租賃框架協議 - Moomoo",
+    "5 Best Electrical Equipment Stocks to Buy According to Analysts - Insider Monkey",
+    "Sungrow Releases S+ Energy Storage Multi-Scenario White Paper - PR Newswire"
+  ]
+}
