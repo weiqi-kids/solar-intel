@@ -1,0 +1,16 @@
+{
+  "total_raw": 464,
+  "dup_title": 241,
+  "no_date": 0,
+  "too_old": 145,
+  "gate1_fail": 43,
+  "gate2_fail": 5,
+  "passed": 30,
+  "gate2_samples": [
+    "Price to sales forward of DAQO New Energy Corp. – NYSE:DQ - TradingView",
+    "Daqo New Energy (DQ) to Establish Kunshan Manufacturing Base for AI Data Center Energy Solutions - Y",
+    "Xinjiang Daqo New Energy Co. Ltd. Class A Actuals & Estimates (SSE:688303) - TradingView",
+    "協鑫科技：持續關連交易租賃框架協議 - Moomoo",
+    "Sungrow Releases S+ Energy Storage Multi-Scenario White Paper - PR Newswire"
+  ]
+}

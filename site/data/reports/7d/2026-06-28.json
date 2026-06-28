@@ -1,0 +1,171 @@
+{
+  "date": "2026-06-28",
+  "date_range": {
+    "start": "2026-06-22",
+    "end": "2026-06-28"
+  },
+  "generated_at": "2026-06-28T10:20:58.009326Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "unknown-2026-06-22-011",
+      "date": "2026-06-22",
+      "title": "Global solar additions reached 664 GW in 2025",
+      "importance_score": 0.65
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "industry_general": {
+      "this_week": 123,
+      "last_week": 136,
+      "week_over_week_change": "-10%",
+      "sentiment_this_week": 0.08
+    },
+    "grid_parity": {
+      "this_week": 3,
+      "last_week": 1,
+      "week_over_week_change": "+200%",
+      "sentiment_this_week": 0.0
+    },
+    "installation_demand": {
+      "this_week": 4,
+      "last_week": 2,
+      "week_over_week_change": "+100%",
+      "sentiment_this_week": 0.0
+    },
+    "trade_tariff": {
+      "this_week": 5,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.1
+    }
+  },
+  "company_7d_summary": {
+    "longi": {
+      "event_count": 7,
+      "sentiment_avg": 0.07,
+      "rank": 1
+    },
+    "ja_solar": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 7
+    },
+    "trina": {
+      "event_count": 5,
+      "sentiment_avg": 0.0,
+      "rank": 3
+    },
+    "canadian_solar": {
+      "event_count": 6,
+      "sentiment_avg": 0.0,
+      "rank": 2
+    },
+    "nextracker": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 8
+    },
+    "sungrow": {
+      "event_count": 4,
+      "sentiment_avg": 0.0,
+      "rank": 4
+    },
+    "jinko": {
+      "event_count": 4,
+      "sentiment_avg": 0.0,
+      "rank": 5
+    },
+    "risen": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 9
+    },
+    "array": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 6
+    },
+    "gcl": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 10
+    },
+    "xinyi_solar": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 11
+    },
+    "maxeon": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 12
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 330,
+        "last": 287,
+        "change_pct": 15.0
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-06-22",
+      "event_count": 53,
+      "sentiment_avg": -0.01
+    },
+    {
+      "date": "2026-06-23",
+      "event_count": 62,
+      "sentiment_avg": 0.06
+    },
+    {
+      "date": "2026-06-24",
+      "event_count": 66,
+      "sentiment_avg": 0.05
+    },
+    {
+      "date": "2026-06-25",
+      "event_count": 61,
+      "sentiment_avg": 0.03
+    },
+    {
+      "date": "2026-06-26",
+      "event_count": 58,
+      "sentiment_avg": -0.05
+    },
+    {
+      "date": "2026-06-27",
+      "event_count": 24,
+      "sentiment_avg": -0.02
+    },
+    {
+      "date": "2026-06-28",
+      "event_count": 6,
+      "sentiment_avg": 0.17
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-06-22 ~ 2026-06-28）共 330 則事件，重點為「Global solar additions reached 664 GW in 2025」。太陽能產業通用、貿易關稅、裝機需求為本週焦點話題。",
+    "watchlist": [
+      {
+        "company": "隆基綠能",
+        "reason": "本週出現 7 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "天合光能",
+        "reason": "本週出現 5 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "Canadian Solar",
+        "reason": "本週出現 6 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

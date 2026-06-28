@@ -1,0 +1,200 @@
+{
+  "date": "2026-06-28",
+  "generated_at": "2026-06-28T10:20:57.874329Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-06-28-004",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "The solar paradox - Business Recorder",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1zSlhJNUxIaWFkeTBFTGEtYnA4bGNVQXJ1dUEyNTZaSk9qQWRDNldoU2lJME5yR2k4TEFtbnlWRG5ZWWdIUVkxbEhsSThoRUQwai1leDNYSDdrUjFHc2k3aVk0X0Qwa2V50gFWQVVfeXFMT3VQbmxlVWIxWGdpSUVZZDBXTWl5ZkJrUGY5cXdPYm9RU3FkSm16OXRDUWdXcHBtT0VtT0dSVDBSUWJ6eVdqMlFwUjJDdGthWFhKVzJ5SWc?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "xinyi_solar-2026-06-28-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Enterprise value to revenue forward of Xinyi Solar Holdings Ltd. – DUS:13X - TradingView",
+      "companies": [
+        "xinyi_solar"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPb2FVOGNpVmM2ZlN5bFZqcURBWjZOYTlsLTQzSzZHRnRKSjBsNGt5S09mT2VlaEFXNFN6MzhUNTFpVFdZaVBxTDN3QzFiRDB6clctY1dJb0F1cjBjZ2JYMjhSRW9IMENFTktMSkprbW9vbGhVY0tTa3ZBcXNMaFZ3LXpBOHBGZUNPVjd5UGRIemhMSTg5RGtNUzNHNDNBS0hnR2NranpIaw?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "maxeon-2026-06-28-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Price to sales forward of Maxeon Solar Technologies, Ltd. – LSX:A40P1Y - TradingView",
+      "companies": [
+        "maxeon"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPdGhtVXk0NFJYVkdjOUV5dEtUTUlUUngxMFBPaC02VEV6SW55NjBEbjRCWE53UmRManNrMlRmanVydDY0ZTRQVUs4b0RwRi1kWDF1Y3ctQktWTWRlVVVhaEVhQzctT2V1S0VJY1B3djJoVVB1VG9LQUdxWm50VGo2RmZmaVh5cHBuWlRnaFl2elhSdDRIejctcVpPaE0?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "array-2026-06-28-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Price to sales forward of Array Technologies Inc – TRADEGATE:9AY - TradingView",
+      "companies": [
+        "array"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZnluaUxTQUtFVVBzYmlYWHQwZ1NPcGM0M0lqWjlab0FrWl9zcDFFTDE5R25iSTlDVktBWmVwTTdrU1FrazlSSVp6eDhNTXRDb2s2Z2JYN2pnQ0JMRC0xRjZydTQ4SE5OZWRQTlhrYW5wc3JFOG1ya3dSMG1TbTdWcGlrWFQ5SUE1QmhyWGVEaHhHeGhyR2xmSWpaT1I3Mllx?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-06-28-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Aptera Proved Its Solar Generation, Now It Needs To Prove Its Efficiency",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://cleantechnica.com/2026/06/27/aptera-proved-its-solar-generation-now-it-needs-to-prove-its-efficiency/"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.25,
+      "sentiment_7d_avg": null
+    },
+    "trade_tariff": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 6,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 5,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "xinyi_solar",
+        "count": 1
+      },
+      {
+        "id": "maxeon",
+        "count": 1
+      },
+      {
+        "id": "array",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 4
+      },
+      {
+        "id": "trade_tariff",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 464,
+    "dup_title": 241,
+    "too_old": 145,
+    "gate1_blocked": 43,
+    "gate2_blocked": 5,
+    "passed": 30,
+    "pass_rate": "13.5%",
+    "gate2_block_rate": "2.2%",
+    "gate2_samples": [
+      "Price to sales forward of DAQO New Energy Corp. – NYSE:DQ - TradingView",
+      "Daqo New Energy (DQ) to Establish Kunshan Manufacturing Base for AI Data Center Energy Solutions - Y",
+      "Xinjiang Daqo New Energy Co. Ltd. Class A Actuals & Estimates (SSE:688303) - TradingView",
+      "協鑫科技：持續關連交易租賃框架協議 - Moomoo",
+      "Sungrow Releases S+ Energy Storage Multi-Scenario White Paper - PR Newswire"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 6 則事件，焦點為信義光能、Maxeon Solar Technologies、Array Technologies相關動態：「The solar paradox - Business Recorder」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "The solar paradox - Business Recorder（太陽能產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "Enterprise value to revenue forward of Xinyi Solar Holdings Ltd. – DUS:13X - ...（太陽能產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

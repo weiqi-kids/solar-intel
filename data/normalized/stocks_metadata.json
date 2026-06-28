@@ -12,9 +12,9 @@
     "history_complete": true
   },
   "tongwei": {
-    "earliest": "2006-03-23",
+    "earliest": "2005-12-23",
     "latest": "2026-06-26",
-    "count": 4925
+    "count": 4980
   },
   "gcl": {
     "earliest": "2007-11-13",
@@ -66,8 +66,8 @@
   },
   "maxeon": {
     "earliest": "2020-08-26",
-    "latest": "2026-06-18",
-    "count": 1460,
+    "latest": "2026-06-26",
+    "count": 1465,
     "history_complete": true
   },
   "yuan_jing": {

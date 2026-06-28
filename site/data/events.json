@@ -1,5 +1,117 @@
 [
   {
+    "id": "xinyi_solar-2026-06-28-001",
+    "date": "2026-06-28",
+    "companies": [
+      "xinyi_solar"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Enterprise value to revenue forward of Xinyi Solar Holdings Ltd. – DUS:13X - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxPb2FVOGNpVmM2ZlN5bFZqcURBWjZOYTlsLTQzSzZHRnRKSjBsNGt5S09mT2VlaEFXNFN6MzhUNTFpVFdZaVBxTDN3QzFiRDB6clctY1dJb0F1cjBjZ2JYMjhSRW9IMENFTktMSkprbW",
+    "sources": [
+      {
+        "name": "xinyi_solar",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPb2FVOGNpVmM2ZlN5bFZqcURBWjZOYTlsLTQzSzZHRnRKSjBsNGt5S09mT2VlaEFXNFN6MzhUNTFpVFdZaVBxTDN3QzFiRDB6clctY1dJb0F1cjBjZ2JYMjhSRW9IMENFTktMSkprbW9vbGhVY0tTa3ZBcXNMaFZ3LXpBOHBGZUNPVjd5UGRIemhMSTg5RGtNUzNHNDNBS0hnR2NranpIaw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "maxeon-2026-06-28-002",
+    "date": "2026-06-28",
+    "companies": [
+      "maxeon"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Price to sales forward of Maxeon Solar Technologies, Ltd. – LSX:A40P1Y - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxPdGhtVXk0NFJYVkdjOUV5dEtUTUlUUngxMFBPaC02VEV6SW55NjBEbjRCWE53UmRManNrMlRmanVydDY0ZTRQVUs4b0RwRi1kWDF1Y3ctQktWTWRlVVVhaEVhQzctT2V1S0VJY1B3dj",
+    "sources": [
+      {
+        "name": "maxeon",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPdGhtVXk0NFJYVkdjOUV5dEtUTUlUUngxMFBPaC02VEV6SW55NjBEbjRCWE53UmRManNrMlRmanVydDY0ZTRQVUs4b0RwRi1kWDF1Y3ctQktWTWRlVVVhaEVhQzctT2V1S0VJY1B3djJoVVB1VG9LQUdxWm50VGo2RmZmaVh5cHBuWlRnaFl2elhSdDRIejctcVpPaE0?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "array-2026-06-28-003",
+    "date": "2026-06-28",
+    "companies": [
+      "array"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Price to sales forward of Array Technologies Inc – TRADEGATE:9AY - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxPZnluaUxTQUtFVVBzYmlYWHQwZ1NPcGM0M0lqWjlab0FrWl9zcDFFTDE5R25iSTlDVktBWmVwTTdrU1FrazlSSVp6eDhNTXRDb2s2Z2JYN2pnQ0JMRC0xRjZydTQ4SE5OZWRQTlhrYW",
+    "sources": [
+      {
+        "name": "array",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZnluaUxTQUtFVVBzYmlYWHQwZ1NPcGM0M0lqWjlab0FrWl9zcDFFTDE5R25iSTlDVktBWmVwTTdrU1FrazlSSVp6eDhNTXRDb2s2Z2JYN2pnQ0JMRC0xRjZydTQ4SE5OZWRQTlhrYW5wc3JFOG1ya3dSMG1TbTdWcGlrWFQ5SUE1QmhyWGVEaHhHeGhyR2xmSWpaT1I3Mllx?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-28-004",
+    "date": "2026-06-28",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "The solar paradox - Business Recorder",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE1zSlhJNUxIaWFkeTBFTGEtYnA4bGNVQXJ1dUEyNTZaSk9qQWRDNldoU2lJME5yR2k4TEFtbnlWRG5ZWWdIUVkxbEhsSThoRUQwai1leDNYSDdrUjFHc2k3aVk0X0Qwa2V50gFWQVVfeX",
+    "sources": [
+      {
+        "name": "google_news_solar",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1zSlhJNUxIaWFkeTBFTGEtYnA4bGNVQXJ1dUEyNTZaSk9qQWRDNldoU2lJME5yR2k4TEFtbnlWRG5ZWWdIUVkxbEhsSThoRUQwai1leDNYSDdrUjFHc2k3aVk0X0Qwa2V50gFWQVVfeXFMT3VQbmxlVWIxWGdpSUVZZDBXTWl5ZkJrUGY5cXdPYm9RU3FkSm16OXRDUWdXcHBtT0VtT0dSVDBSUWJ6eVdqMlFwUjJDdGthWFhKVzJ5SWc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-28-005",
+    "date": "2026-06-28",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Aptera Proved Its Solar Generation, Now It Needs To Prove Its Efficiency",
+    "summary": "<p>My CleanTechnica colleague Tina Casey recently wrote a great piece looking at Aptera&#8217;s latest solar tests, titled &#8220;Sleek, Futuristic &#8216;Atlas&#8217; Car Recharges Self With Built-In",
+    "sources": [
+      {
+        "name": "cleantechnica",
+        "url": "https://cleantechnica.com/2026/06/27/aptera-proved-its-solar-generation-now-it-needs-to-prove-its-efficiency/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-28-006",
+    "date": "2026-06-28",
+    "companies": [],
+    "topics": [
+      "trade_tariff"
+    ],
+    "impact": "neutral",
+    "title": "Volkswagen Plans To Shutter Four Factories",
+    "summary": "<p>Major changes are coming to Volkswagen Group as it struggles to adapt to high manufacturing costs and tariffs. </p>\n<p>The post <a href=\"https://cleantechnica.com/2026/06/27/volkswagen-announces-pl",
+    "sources": [
+      {
+        "name": "cleantechnica",
+        "url": "https://cleantechnica.com/2026/06/27/volkswagen-announces-plan-to-shutter-four-factories/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "gcl-2026-06-27-001",
     "date": "2026-06-27",
     "companies": [
@@ -146,6 +258,312 @@
       {
         "name": "cleantechnica",
         "url": "https://cleantechnica.com/2026/06/26/renewable-power-purchase-agreement-prices-about-to-spike/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "daqo-2026-06-27-009",
+    "date": "2026-06-27",
+    "companies": [
+      "daqo"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Daqo New Energy (DQ) to Establish Kunshan Manufacturing Base for AI Data Center Energy Solutions - Insider Monkey",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxQV1hPeWVmamZvaEFKbk9pai1QOUlPNnZ5bHFEcEZBcnh1V3VwT0NUdzdESWNQSnFpRnpJVGtHdXp1TkhUNWFKLWJLWTNHb2ZoMWZ6bE9DSVNNRlptTmhORzZPUGlzbVNzSEJEOG1MSV",
+    "sources": [
+      {
+        "name": "daqo",
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQV1hPeWVmamZvaEFKbk9pai1QOUlPNnZ5bHFEcEZBcnh1V3VwT0NUdzdESWNQSnFpRnpJVGtHdXp1TkhUNWFKLWJLWTNHb2ZoMWZ6bE9DSVNNRlptTmhORzZPUGlzbVNzSEJEOG1MSVFGMEoxTGcta2xHRDVKMXZrMnVWcV9YOU5Kb2lwdHdDSWF4eWdBNjFxWnZTWGNnRFFFYnJoeUxvQWFPTzc1R2ppUG5QTzk3ZERTUU9XMWw1dFpZU2ZxSlBEc1ZjOGJVbWJQdDZMVtIB3AFBVV95cUxONjQwTzhuWWQ4RGQyem91RWpHNzYtNEhydVZZM1E4UFp0VmJCUDQ0ZG5Qc1FpbmdjY3JiaC03SU02RWxRUUYtTVlpc0JHUl9ucDFVeDFSWnBfekJuZm14RkdjWHU4M1VDTk5LdElDU3l2cTF2RFljMlpDUDZ0MmNCdFFZakpOOFY3WHZXdlZfb18zb0ZOaDBNOU1SUkFRSzZoNGpsRUFBMzFvT01wQkhqTFNzRDNWaEctOXFmRTNIVlpmQmNNUkpLNFlwc3pJX0FTYXRxSEZnd1psYWpC?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "longi-2026-06-27-010",
+    "date": "2026-06-27",
+    "companies": [
+      "longi"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Hi-MO 7 from LONGi Green Energy - N-type bifacial module pushes utility output - Ad-hoc-news.de",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxQeFJ4X0M3V0Y1bnJGWWxUUXhlUy1BbFRXVkVOUGw4MF9WczlVakcydWZKZHB5bVUzWW1Ra2Nsa1c0TXJjM1dCa0FWQ2lGa25YZXZubG9RUkdibGlRRFlqenlLS3JkTTVOaEdtbDVubT",
+    "sources": [
+      {
+        "name": "longi",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQeFJ4X0M3V0Y1bnJGWWxUUXhlUy1BbFRXVkVOUGw4MF9WczlVakcydWZKZHB5bVUzWW1Ra2Nsa1c0TXJjM1dCa0FWQ2lGa25YZXZubG9RUkdibGlRRFlqenlLS3JkTTVOaEdtbDVubTJMcXVVMkdfZGVGZnV5U0tHYW5HeEVyUmNfcHhsaEhyM2l5VmVHY2FsQllVZXRUaDY2LWNQTHpCZE5WaER5Y3h5WktGQnhOX0tjYVJpS3dXakRYY2RLMUc0?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "trina-2026-06-27-011",
+    "date": "2026-06-27",
+    "companies": [
+      "trina"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Price to book forward of Trina Solar Ltd Class A – SSE:688599 - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxQMG55RTFSTHR0UGtqN29UN2ttS0NSbkRVTWZlRzJUeThraEVMMXJFRzRrLVVidFd5VW1xNjZJaDZ4OW5OVGI2b1c3LUg5S3NweTRzUnNrZ3BKa0NFZjAwd21HZ2d0eWZMWUpIRmRmbX",
+    "sources": [
+      {
+        "name": "trina",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQMG55RTFSTHR0UGtqN29UN2ttS0NSbkRVTWZlRzJUeThraEVMMXJFRzRrLVVidFd5VW1xNjZJaDZ4OW5OVGI2b1c3LUg5S3NweTRzUnNrZ3BKa0NFZjAwd21HZ2d0eWZMWUpIRmRmbXI0eFhaakF3NVRQS0F2dmp0TmJaWnNQSVo5OEtUVmNaanV6eHVDaTdVNGtpRQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "jinko-2026-06-27-012",
+    "date": "2026-06-27",
+    "companies": [
+      "jinko"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "JinkoSolar (JKS) Stock Sees Split Analyst Revisions After Earnings Model Updates - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxNQjUzMHpIamhnUGtEd0NRYkR4VHZOQzk1aHFGVlFZQjFKQ2pjanAzcVh5NUFhX2c2T3ctNkE0Mm01bnJIZ2lSQlJvNFc5M2V1Zm1qcTlMbk9uN2UtTEZwS3l6SEdEV3owdUtzU0dsVD",
+    "sources": [
+      {
+        "name": "jinko",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNQjUzMHpIamhnUGtEd0NRYkR4VHZOQzk1aHFGVlFZQjFKQ2pjanAzcVh5NUFhX2c2T3ctNkE0Mm01bnJIZ2lSQlJvNFc5M2V1Zm1qcTlMbk9uN2UtTEZwS3l6SEdEV3owdUtzU0dsVDF4SmJTTS1JWE5YTHRYeUg2Qm1rNVBQb0E4RU1iQ0F3NlktbDlhOVVNcTRLeEQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "jinko-2026-06-27-013",
+    "date": "2026-06-27",
+    "companies": [
+      "jinko"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "JinkoSolar reaches 34.82% TOPCon tandem efficiency - Solarbytes",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxNWGV3RXJfdDNkdUJTdUUteTB1YW5PODNBcFZHcXNNQ3RqUktsS19DZTA0ZEFYaFRaSzdyRHhxMEltRkJLaWQ0akNCY3Uza2lnak92czFMOGdfTnNtVzIyMkFldVZocXEzbTZkRXlqSX",
+    "sources": [
+      {
+        "name": "jinko",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNWGV3RXJfdDNkdUJTdUUteTB1YW5PODNBcFZHcXNNQ3RqUktsS19DZTA0ZEFYaFRaSzdyRHhxMEltRkJLaWQ0akNCY3Uza2lnak92czFMOGdfTnNtVzIyMkFldVZocXEzbTZkRXlqSXFENmhpR280bEZDSF9iM2VQZzgzaDFFTVhtRXJGWVBVb2Q4NHg1MXQxS2hrTWE0NXNnTzlxV2I1Tk5OWGcw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "jinko-2026-06-27-014",
+    "date": "2026-06-27",
+    "companies": [
+      "jinko"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "JinkoSolar (NYSE:JKS) Solar Module Test Draws Focus - Kalkine Media",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxNWWxLSzR1YUVOUlByYW8zdUN1VFNMU1JmRzUtU25uTzdnbE9VTElfb0lzZVEyYVh4MFFBbVBnWHhrS2JJZXZERU1HZzZDTDNNbDJMS3BNSUQ1SGVUNGtSWkxLZE5sRjJ1MVVkLWF2OG",
+    "sources": [
+      {
+        "name": "jinko",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNWWxLSzR1YUVOUlByYW8zdUN1VFNMU1JmRzUtU25uTzdnbE9VTElfb0lzZVEyYVh4MFFBbVBnWHhrS2JJZXZERU1HZzZDTDNNbDJMS3BNSUQ1SGVUNGtSWkxLZE5sRjJ1MVVkLWF2OGFmZHhZUGFzOUYweHhVSlFoanFjN2VJdUd1bkVlQjRTREFFRnYycVE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "array-2026-06-27-015",
+    "date": "2026-06-27",
+    "companies": [
+      "array"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "How Array Technologies, Inc. (ARRY) Is Expanding Its Solar Tracker Platform Beyond the U.S. Market - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxNVDdmQjRaREZ4U21mbDU5TEdsTTJxSlRmVHJ6ODE0VnRpVkV5WXUwU19vbzNrQkd5N3Qzd0twSWM2UTlzNXRhLVVyXzBwdFdnWDA0N2Fuby1Qa08ybmtpRTRFcnJWTFNsUmNtQUZpUV",
+    "sources": [
+      {
+        "name": "array",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNVDdmQjRaREZ4U21mbDU5TEdsTTJxSlRmVHJ6ODE0VnRpVkV5WXUwU19vbzNrQkd5N3Qzd0twSWM2UTlzNXRhLVVyXzBwdFdnWDA0N2Fuby1Qa08ybmtpRTRFcnJWTFNsUmNtQUZpUVg5ZUhENkN2dUY1Wk1ZSDhuM1RXQW1PSDY4VW8weC1ud196T0MtQTh2VWZ3?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "array-2026-06-27-016",
+    "date": "2026-06-27",
+    "companies": [
+      "array"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "How Array Technologies, Inc. (ARRY) Is Expanding Its Solar Tracker Platform Beyond the U.S. Market - Insider Monkey",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxNM0p0bGNuenFOazFsczlnd1RhY3BOMG5BSVd4VEhGM1A1dWkyeHBxLUJMVWU3b1FHVmpXUDBIa0dkR2Q4bktXUlFlRmtHQkREaW9UYzg3NWJqd0djRHBQNkVtREJ0YlhkbE5zbEpnVm",
+    "sources": [
+      {
+        "name": "array",
+        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNM0p0bGNuenFOazFsczlnd1RhY3BOMG5BSVd4VEhGM1A1dWkyeHBxLUJMVWU3b1FHVmpXUDBIa0dkR2Q4bktXUlFlRmtHQkREaW9UYzg3NWJqd0djRHBQNkVtREJ0YlhkbE5zbEpnVmJLaGktaDlad1d2YTdTWV9OamZNb2Q5TGhxWjc0YUxKU2t5Y3JvazJpdnVwd0Q3QzBxcFZud2dheV95NDJkaXVpVEpweTg1V3ppOVltbThMOWx1ZU5xSjd6MGNCUlVpRlhtWGJfcGg5Rms0cVXSAdsBQVVfeXFMTTNKdGxjbnpxTmsxbHM5Z3dUYWNwTjBuQUlXeFRIRjNQNXVpMnhwcS1CTFVlN29RR1ZqV1AwSGtHZEdkOG5LV1JRZUZrR0JERGlvVGM4NzViandHY0RwUDZFbURCdGJYZGxOc2xKZ1ZiS2hpLWg5WndXdmE3U1lfTmpmTW9kOUxocVo3NGFMSlNreWNyb2syaXZ1cHdEN0MwcXBWbndnYXlfeTQyZGl1aVRKcHk4NVd6aTlZbW04TDlsdWVOcUo3ejBjQlJVaUZYbVhiX3BoOUZrNHFV?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "array-2026-06-27-017",
+    "date": "2026-06-27",
+    "companies": [
+      "array"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Array Technologies Inc (ARRY) Stock Forecast, Price Targets and Analysts Predictions - GuruFocus",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi8AJBVV95cUxQNlBZb3B2VDduSlZaSnJpdmVIejlhN25RakV3NFFSMDRkMnBERDEwdjBvQy1jYzNHYmgxYWJiQk1sZjRFSzNuX1BUVGR0UTJhTlhzT3VueE9HVTZJS0R3TWp0TjFzRi1LWUNQN3VUM0",
+    "sources": [
+      {
+        "name": "array",
+        "url": "https://news.google.com/rss/articles/CBMi8AJBVV95cUxQNlBZb3B2VDduSlZaSnJpdmVIejlhN25RakV3NFFSMDRkMnBERDEwdjBvQy1jYzNHYmgxYWJiQk1sZjRFSzNuX1BUVGR0UTJhTlhzT3VueE9HVTZJS0R3TWp0TjFzRi1LWUNQN3VUM0VpLWhZOFoxS3Q0NjJiMFR2ajBrZjZNWHlzaTdSUk9GQXg5NFFyMFRuMGpSZU00VFlHc0VFVXpROTF2WVhVS0hSMnE0RTViZUhNYmZULUI2dHVLeURhb2RjTjhsMFFoSUlwNlBsNDJLVUktdzVMcV9hVDFDSUx2YTVxQUhvSlRaWm5GSTVCbkhCbWRxc05ZZHdDYUlXNkNmSk9KYlNvN2VFZU1YT05xWXJ4cmNCRVlYTHhSY2ViSm9jWVN4RUJmSFBEcmFlZGk5T0MzNm1NMFRMRWFEbmpidkp0V2M0Nml5NkZvckpCUTlpSWk1bEF6cjVvQmlXaGxmVUhHaFJKUXZHaw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "array-2026-06-27-018",
+    "date": "2026-06-27",
+    "companies": [
+      "array"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Enterprise value to EBITDA forward of Array Technologies, Inc. – NASDAQ:ARRY - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxPVTZfN212VVVqeW5XOTVkZU1wWHpHRGpSSUtpMVRZTE1nanFWWVpxWWZXZW5wel9OcHYyTGNhS0tQRkNrTlBsTC1XaEQyTkFpNE9sSFc1S0IyanVuUy1HSlhsazQ5VUtrWXM2WjV1Ui",
+    "sources": [
+      {
+        "name": "array",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPVTZfN212VVVqeW5XOTVkZU1wWHpHRGpSSUtpMVRZTE1nanFWWVpxWWZXZW5wel9OcHYyTGNhS0tQRkNrTlBsTC1XaEQyTkFpNE9sSFc1S0IyanVuUy1HSlhsazQ5VUtrWXM2WjV1Ui0wVF9FSUtDNF94WjRXRWR6eTJMVmNvNzhxSFpzRUVJY0NocGpZRXY4blhiZEpBUTJtN18wcDA0blVmX3A2RXc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "sungrow-2026-06-27-019",
+    "date": "2026-06-27",
+    "companies": [
+      "sungrow"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Price to sales forward of Sungrow Power Supply Co., Ltd. Class A – SZSE:300274 - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxPNThBNHlQVjZZeFhZcHNGbEtJVHRpcmpRTC1ia2pjQV91cFZoM0F0Ykl5N3dTbElkQVZqOVBxaUx0T255QjB6eVBydG1MZm9jZ2dNckxzaHRQeklzZGRsQTI1WGtmb0paSVJrcXJ0UE",
+    "sources": [
+      {
+        "name": "sungrow",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPNThBNHlQVjZZeFhZcHNGbEtJVHRpcmpRTC1ia2pjQV91cFZoM0F0Ykl5N3dTbElkQVZqOVBxaUx0T255QjB6eVBydG1MZm9jZ2dNckxzaHRQeklzZGRsQTI1WGtmb0paSVJrcXJ0UEl6S1JLZ0FrRHNieW9wcjBZU3Q5M1hBWl9RLUstY1lBTW5FckZYV2dVVnJzd3NqZw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-27-020",
+    "date": "2026-06-27",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "The virtual power plant era has arrived",
+    "summary": "Decentralized capacity enters the mainstream as electricity demand strains infrastructure, forcing a change in U.S. power markets and grid design.",
+    "sources": [
+      {
+        "name": "pv_magazine_usa",
+        "url": "https://pv-magazine-usa.com/2026/06/27/the-virtual-power-plant-era-has-arrived/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-27-021",
+    "date": "2026-06-27",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Florida is turning highway ponds into floating solar farms, with room to power 200,000 homes - Yahoo",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxOQkdEdG5BaDczVnNQbW1RZzNyUHZmOF82dE9kd2JOaW9ZSDcycGNGYmtRaFNybEFJUWNnSjloaE5iaDR0ZXVJV09NRkYyRmRianFobG5NRF9vdU5jdXJ2QVMwem5Fb0hMNEpCejh5b2",
+    "sources": [
+      {
+        "name": "google_news_solar",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOQkdEdG5BaDczVnNQbW1RZzNyUHZmOF82dE9kd2JOaW9ZSDcycGNGYmtRaFNybEFJUWNnSjloaE5iaDR0ZXVJV09NRkYyRmRianFobG5NRF9vdU5jdXJ2QVMwem5Fb0hMNEpCejh5b2h3RHhZV2pXeUxacG04dlcyVjk4Wk1rX2RraXM1ajNxVmdqaGw3a2ZEZ3gzX1NGUQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-27-022",
+    "date": "2026-06-27",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Colorado State Land Board partners with Pivot Energy to power state offices with community solar - Kiowa County Press",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxNeW41bkN0Qk1hUFVNQmdERUhKOFVhOEk4WjV0c25RZmlYanB0TFMyM2xtc0ZFSUpYWm1jLUNqeC1RNW1TakVNTU1SSnlvdzM4ZFdHV0JkbDlwd1hONVh0bXJXMXBCS3VuZHd3NkNuZj",
+    "sources": [
+      {
+        "name": "google_news_solar",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNeW41bkN0Qk1hUFVNQmdERUhKOFVhOEk4WjV0c25RZmlYanB0TFMyM2xtc0ZFSUpYWm1jLUNqeC1RNW1TakVNTU1SSnlvdzM4ZFdHV0JkbDlwd1hONVh0bXJXMXBCS3VuZHd3NkNuZjJad2oxWUd2Zmk3OHdfcXdKOUdRbkZkQzN1MkRCM20yV0Vlc3pZTTVtZU1CSlFxTE1nanFQTURObGRnTEdiM2MwS005U2FwVktHbF9RTg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-27-023",
+    "date": "2026-06-27",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Energy Storage Emerges As The Great Equalizer, Trump Or No Trump",
+    "summary": "<p>Quick quiz: Which high-level government clown in the Trump administration insists that &#8220;catastrophic failure&#8221; besets solar power plants every time the sun goes down? If you guessed Inte",
+    "sources": [
+      {
+        "name": "cleantechnica",
+        "url": "https://cleantechnica.com/2026/06/27/energy-storage-sodium-ion-salt-battery-us-coalition/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-27-024",
+    "date": "2026-06-27",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "InterSolar Europe 2026 Key Takeaways",
+    "summary": "<p>The smarter E Europe 2026 happened this week in Munich, with the lead event of InterSolar Europe co-located with ess Europe, Power2Drive and EM-Power. Regardless of the intended organization of the",
+    "sources": [
+      {
+        "name": "cleantechnica",
+        "url": "https://cleantechnica.com/2026/06/27/intersolar-europe-2026-key-takeaways/",
         "type": "rss"
       }
     ]
@@ -1200,6 +1618,24 @@
       {
         "name": "cleantechnica",
         "url": "https://cleantechnica.com/2026/06/26/solar-ev-aptera-us-startup-range-miles-autocycle/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "risen-2026-06-26-058",
+    "date": "2026-06-26",
+    "companies": [
+      "risen"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Risen Energy Co., Ltd. Class A Actuals & Estimates (SZSE:300118) - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxOb3ozVkF1SFdmeEFBUDVrU1lrTmdfZ2Y1WjJCdDBVVzBrYmtFVEZNMFMtRHA2T1l2UUM5ZnVrVko0SXl2Ni1wN05ZenBBV2dBcWdIYVk0U21uakhmdnU3eXUxcXZIWjVOVXRUUnVqcX",
+    "sources": [
+      {
+        "name": "risen",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOb3ozVkF1SFdmeEFBUDVrU1lrTmdfZ2Y1WjJCdDBVVzBrYmtFVEZNMFMtRHA2T1l2UUM5ZnVrVko0SXl2Ni1wN05ZenBBV2dBcWdIYVk0U21uakhmdnU3eXUxcXZIWjVOVXRUUnVqcXF4cVRWYUs4Mi1yQWg5ZUlMZVJ4c2VVdw?oc=5",
         "type": "rss"
       }
     ]
@@ -2280,6 +2716,66 @@
       {
         "name": "jinko",
         "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNUUlVRkFUazA2aE92S2xzbFhGY0NMQjZ6NDhOX1ExaWpxUGJQSXJCOEVMRFVyZHhtNGlaWGN4NWdIcDk3WF9Eb09ib3cwMnlpeWIyd1h6WUpRM2FPN1FLQ0F0TVl6QlM2amhsRUxiZDc3ZFYtZHg1MEp2a2IyN0NGenEtdGotNG5DQk1Jcl9xVTA1bTNyQTNuUWwwRTlZb254SC1DVVM2Znp2TkJpQ1NRamUxUGg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "jinko-2026-06-25-059",
+    "date": "2026-06-25",
+    "companies": [
+      "jinko"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "YXT and JinkoSolar Explore How Management ExperienceBecomes Organizational Assets - Moomoo",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxNNU80WE1lbkptaDItelRPMHVta2NaRzA0eHhKclFwM3hOQzktSUxDQUVLLVdkalBFbXZzR25KWTNHQ0IyQmJGQ0RYU1piWlV3MFo3NDZ1OWFtU3hzWWdmdmRKU1V3RU10d0lqYUl4T0",
+    "sources": [
+      {
+        "name": "jinko",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNNU80WE1lbkptaDItelRPMHVta2NaRzA0eHhKclFwM3hOQzktSUxDQUVLLVdkalBFbXZzR25KWTNHQ0IyQmJGQ0RYU1piWlV3MFo3NDZ1OWFtU3hzWWdmdmRKU1V3RU10d0lqYUl4T09EamtjTzdoZjBILWdxcjBNay1uczFJNmxiaTlSb3lQVFk4VjdtN1RwNmF1T1dUS1BHUDhWMmw2RF9DWE5vRHFDcHVoZWdpbGZwdWVfbFZwc0ExMnNZUklUZ3J2TnJuNVJm?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "jinko-2026-06-25-060",
+    "date": "2026-06-25",
+    "companies": [
+      "jinko"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "JinkoSolar modules receive TÜV Rheinland verification By Investing.com - Investing.com South Africa",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxNbDFLNFo3QmlBX2Naa3JvaWFLUGtzZDQ3eDNDSy1xQ056bG1iUmgybEREZEVFNWk0UG5zNy0zMXJYUk5hZzVJNkp3QzV0T0FQdDJud3E1Uk5HdldpSG1kQXZweGNhNV9kZ1liQzJnWl",
+    "sources": [
+      {
+        "name": "jinko",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNbDFLNFo3QmlBX2Naa3JvaWFLUGtzZDQ3eDNDSy1xQ056bG1iUmgybEREZEVFNWk0UG5zNy0zMXJYUk5hZzVJNkp3QzV0T0FQdDJud3E1Uk5HdldpSG1kQXZweGNhNV9kZ1liQzJnWlE1MUNxMDQ0endqRko0SzNMUlEwV28wRkNkQk5yT0JpQWRSN1J3SFd4TTI4SldBc2s1NHl4YUtLWEkxbHBfdk56RmpfOVU?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "sungrow-2026-06-25-061",
+    "date": "2026-06-25",
+    "companies": [
+      "sungrow"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Sungrow Showcases All-Star Renewable Energy Solutions at Intersolar Europe 2026 - Yahoo Finance Singapore",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxPb1g1b2VxdXZDWVJ5N05RU1dDZ0xsSUhESWt5UmZYR09WYk8tOFVJUm1BNl9lQ0Fub2tmMkp3a3lXVzJmN0xxdEJkQ21EMTVKZlN1bEFmUTEwX0hzUGVjRVVGUlg0ZXIyQkNsY2V5dW",
+    "sources": [
+      {
+        "name": "sungrow",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPb1g1b2VxdXZDWVJ5N05RU1dDZ0xsSUhESWt5UmZYR09WYk8tOFVJUm1BNl9lQ0Fub2tmMkp3a3lXVzJmN0xxdEJkQ21EMTVKZlN1bEFmUTEwX0hzUGVjRVVGUlg0ZXIyQkNsY2V5dWRCMFZLN0p3Y0ZWRmd2bmJKMFZWOVVNWHRHTTBZOW5IQmpkQQ?oc=5",
         "type": "rss"
       }
     ]
@@ -3440,6 +3936,84 @@
       {
         "name": "longi",
         "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQM3l4SFZGcDdFZ18tcjAzbDdtV1NrOUd0U3FKQ3Z1NW5ENFphOEdWSjNBdHk2OHF5OEd6WnlTS3NDcE9QcFRHLV8tLW8wMFM5T0xFdzJSZnpEYnFFd2lpSHVLZ211Z09nR3h0Z2pDcTdPMzdySDF6UGZsZzNHM0lvS0hrSXN6cmg3RnZiNHlmNlJFZm9WS1R6anE4aUZHZ2dfMmpSYmVkMUs3UQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "longi-2026-06-24-063",
+    "date": "2026-06-24",
+    "companies": [
+      "longi"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Longi Green Energy Technology - Forbes",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE9ic2lOaEtRZVhscWU2c0dXdy1CYUd2djJXZ2RHeTNxZEZjNWhxLTAyb2tUS3VwYjdnVlNaai1kLUlZWDMzQXVxVUhqNU5HRURpdnE4TUZVekRoZmVDYkJ1cER6aGVvSU1Qa2JPbHZZdz",
+    "sources": [
+      {
+        "name": "longi",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9ic2lOaEtRZVhscWU2c0dXdy1CYUd2djJXZ2RHeTNxZEZjNWhxLTAyb2tUS3VwYjdnVlNaai1kLUlZWDMzQXVxVUhqNU5HRURpdnE4TUZVekRoZmVDYkJ1cER6aGVvSU1Qa2JPbHZZdzE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "longi-2026-06-24-064",
+    "date": "2026-06-24",
+    "companies": [
+      "longi"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "LONGi Green Energy Technology Shareholders Trim Stake After Release of Shares From Pledge - Moomoo",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxPNko2MW5hOUg5MFMwdnAtMWt5VGN5eU9KMmdwcl9hNU0zekFpR2lDNUdCUEQyNWx5b2Y1OTNGZVdsV2NVaHpIUlFrZFZnMS01UkJPeWlBMHdxQ1RocHV6WVhxTlRiNkQ0SUZIeGtnbn",
+    "sources": [
+      {
+        "name": "longi",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPNko2MW5hOUg5MFMwdnAtMWt5VGN5eU9KMmdwcl9hNU0zekFpR2lDNUdCUEQyNWx5b2Y1OTNGZVdsV2NVaHpIUlFrZFZnMS01UkJPeWlBMHdxQ1RocHV6WVhxTlRiNkQ0SUZIeGtnbnJjY3gydzdKNWRucTZXNmVQZzFkU2ZIRThFc0hLRkdEM3ZSMmgzQTlCWmNJUDdDRGlxX2lVLUZKUmpKZEhLRlBfdkxB?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "risen-2026-06-24-065",
+    "date": "2026-06-24",
+    "companies": [
+      "risen"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Risen Energy Showcases Full-Scenario Innovations at Intersolar Europe 2026 - Moomoo",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxQaTcwS19JV2pFX3pLTXk5Y1dsVGNCdERSSzYyNm9SQ29HYkxaV0ZfMHpFbzF0cHJYQW5nMHQ2YnFkTlhXV2NjLVRpRXVBdEp1dnkteC0wUk5WNkk3dVdEanFWNnV3STlsWTVqN0huNE",
+    "sources": [
+      {
+        "name": "risen",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQaTcwS19JV2pFX3pLTXk5Y1dsVGNCdERSSzYyNm9SQ29HYkxaV0ZfMHpFbzF0cHJYQW5nMHQ2YnFkTlhXV2NjLVRpRXVBdEp1dnkteC0wUk5WNkk3dVdEanFWNnV3STlsWTVqN0huNE5maVlieDhxbTJpRmp2RzRoWlAwcC1MX1Qwc21MdFptWXVsMjVHWHpSQmFqUDdldkQyRFBEY0Q3YzRLYm1UYnlrcU9qSUxwSUU?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "risen-2026-06-24-066",
+    "date": "2026-06-24",
+    "companies": [
+      "risen"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Risen Energy Showcases Full-Scenario Innovations at Intersolar Europe 2026 - The Globe and Mail",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7wFBVV95cUxPTngtZFdUdEh1bS0zMTJHbmc0Q3dxNi03OUtFUnQwTF9lbmE1UHZrTmZuMFJjYmVVenZlbkYtcU1Xa2U1STh3aUxoN2pJeWt0X3NJSEROZjBVd2xBc0Q3WGszZVJPOWU2LUk0VmhELV",
+    "sources": [
+      {
+        "name": "risen",
+        "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPTngtZFdUdEh1bS0zMTJHbmc0Q3dxNi03OUtFUnQwTF9lbmE1UHZrTmZuMFJjYmVVenZlbkYtcU1Xa2U1STh3aUxoN2pJeWt0X3NJSEROZjBVd2xBc0Q3WGszZVJPOWU2LUk0VmhELV9RRXc5Z2NDZ1RSMmluSTk2U0V6TnJfOXhWd3hXR19NMTh5Y28tX0VkdGluZXZab2I0allSd1hvdkw1SmI1M3pwXzB3V2ZKV0hvVFU5clpab2JaYkFmNndrZVlPWE1KS3NQbk9kcVhkTXptNjhkaHJfWndoU2R5Qm9IbWRydWNCUQ?oc=5",
         "type": "rss"
       }
     ]
