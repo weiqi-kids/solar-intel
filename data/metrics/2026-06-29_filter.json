@@ -1,0 +1,16 @@
+{
+  "total_raw": 463,
+  "dup_title": 231,
+  "no_date": 0,
+  "too_old": 142,
+  "gate1_fail": 42,
+  "gate2_fail": 6,
+  "passed": 42,
+  "gate2_samples": [
+    "Daqo New Energy (DQ) to Establish Kunshan Manufacturing Base for AI Data Center Energy Solutions - Y",
+    "Xinjiang Daqo New Energy Co. Ltd. Class A Actuals & Estimates (SSE:688303) - TradingView",
+    "協鑫科技：持續關連交易租賃框架協議 - Moomoo",
+    "Meyer Burger loses its most important customer - blue News",
+    "Price to book forward of Sungrow Power Supply Co., Ltd. Class A – SZSE:300274 - TradingView"
+  ]
+}
