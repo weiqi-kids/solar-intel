@@ -1,0 +1,16 @@
+{
+  "total_raw": 465,
+  "dup_title": 224,
+  "no_date": 0,
+  "too_old": 144,
+  "gate1_fail": 42,
+  "gate2_fail": 10,
+  "passed": 45,
+  "gate2_samples": [
+    "Daqo New Energy (DQ) to Establish Kunshan Manufacturing Base for AI Data Center Energy Solutions - Y",
+    "Price to book forward of DAQO New Energy Corp. – NYSE:DQ - TradingView",
+    "Xinjiang Daqo New Energy Co. Ltd. Class A Actuals & Estimates (SSE:688303) - TradingView",
+    "協鑫科技：持續關連交易租賃框架協議 - Moomoo",
+    "Meyer Burger loses its most important customer - blue News"
+  ]
+}
