@@ -1,0 +1,16 @@
+{
+  "total_raw": 465,
+  "dup_title": 212,
+  "no_date": 0,
+  "too_old": 142,
+  "gate1_fail": 41,
+  "gate2_fail": 8,
+  "passed": 62,
+  "gate2_samples": [
+    "Daqo New Energy (DQ) to Establish Kunshan Manufacturing Base for AI Data Center Energy Solutions - Y",
+    "Price to book forward of DAQO New Energy Corp. – NYSE:DQ - TradingView",
+    "Meyer Burger loses its most important customer - bluewin.ch",
+    "Enphase Energy Joins Open Compute Project as Platinum Member to Help Advance AI Data Center Power St",
+    "Sungrow's PowerTitan 3.0 wins The smarter E AWARD 2026 - PR Newswire"
+  ]
+}
