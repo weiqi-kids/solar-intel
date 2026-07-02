@@ -1,0 +1,16 @@
+{
+  "total_raw": 465,
+  "dup_title": 222,
+  "no_date": 0,
+  "too_old": 139,
+  "gate1_fail": 41,
+  "gate2_fail": 7,
+  "passed": 56,
+  "gate2_samples": [
+    "Daqo New Energy (DQ) to Establish Kunshan Manufacturing Base for AI Data Center Energy Solutions - Y",
+    "Price to book forward of DAQO New Energy Corp. – NYSE:DQ - TradingView",
+    "Meyer Burger loses its most important customer - blue News",
+    "Enphase Energy Joins Open Compute Project as Platinum Member to Help Advance AI Data Center Power St",
+    "Price to book forward of Sungrow Power Supply Co., Ltd. Class A – SZSE:300274 - TradingView"
+  ]
+}
