@@ -1,0 +1,178 @@
+{
+  "date": "2026-07-03",
+  "generated_at": "2026-07-03T10:27:22.413124Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-07-03-004",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "China moves to curb overcapacity in PV industry with mandatory energy consumption standards",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://www.pv-magazine.com/2026/07/03/china-moves-to-curb-pv-overcapacity-with-mandatory-energy-consumption-standards/"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-07-03-012",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "China Sets Mandatory Solar Efficiency Standards to Curb Overcapacity - Caixin Global",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNQUlWdmM0VEJVSTFaV0tOVmNOWi1LUmluWFhaNGs1M1ZfMmh1MFFnYnJYN1ZvZ09lTDloTXFTdmF1TGZocThraFVMTVJfN3pSVUhXSHQxMFpVeW96aXV1eEFPbTduclFya2liZnlhVHgtMFQtbHg3SGl1WnpYVjBJS3lFXzJ3SEZSUXlTaVdCMENiV0ZEblU1U2dMX1JVa2w1NW1nbnd6ck1JVGRYSm4yd0thc1JsMGppTnZjSE1uWnU?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "sungrow-2026-07-03-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Sungrow Power Supply : Powers Malaysia’s Grid-Connected BESS to Strengthen National Power Grid Resilience - marketscreener.com",
+      "companies": [
+        "sungrow"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQd2c3NmxfMll6TnI0dEVpeEFiOXcwY2JId2pSV0FtZWJaVjExaTRHV1kzOHFBSlRtcDlpM2RzX3FtbmdRQm9tX2d1X0x4V1Fza2JIZzJQNTRPQXlRdHdBYklxUWVYazF6VWs2YjBKNFQwZzZWaThmR2trWU9iSy1Tcy1RN3YzV2hxUUFCVUdobXdaTDRFR2Nac2hvT3lWc0tOSGMxbWJtTWRYcWNNOUx6LTlkbWIyOFE0RC0yVXBSdE1aelFHc1dYQU5wcExCRVQ0WFJlakxZVkoxWHE0aDhfVGZXbUc?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-07-03-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Mild oxalic acid process enables efficient indium recovery from heterojunction solar cells",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.pv-magazine.com/2026/07/03/mild-oxalic-acid-process-enables-efficient-indium-recovery-from-heterojunction-solar-cells/"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-07-03-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "HiTHIUM showcases its 6.9 MWh, eight-hour LDES solution at The smarter E Europe",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.pv-magazine.com/2026/07/03/hithium-showcases-its-6-9-mwh-eight-hour-ldes-solution-at-the-smarter-e-europe/"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 18,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.03,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 18,
+    "sentiment_distribution": {
+      "positive": 3,
+      "neutral": 13,
+      "negative": 2
+    },
+    "top_companies": [
+      {
+        "id": "sungrow",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 18
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 465,
+    "dup_title": 226,
+    "too_old": 141,
+    "gate1_blocked": 39,
+    "gate2_blocked": 9,
+    "passed": 50,
+    "pass_rate": "20.9%",
+    "gate2_block_rate": "3.8%",
+    "gate2_samples": [
+      "Daqo New Energy (DQ) to Establish Kunshan Manufacturing Base for AI Data Center Energy Solutions - Y",
+      "Price to book forward of DAQO New Energy Corp. – NYSE:DQ - TradingView",
+      "Enphase Energy Joins Open Compute Project as Platinum Member to Help Advance AI Data Center Power St",
+      "Array Technologies, Inc. (ARRY) Stock Moves -2.79%: What You Should Know - Yahoo Finance",
+      "Price to book forward of Sungrow Power Supply Co., Ltd. Class A – SZSE:300274 - TradingView"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 18 則事件，焦點為陽光電源相關動態：「China moves to curb overcapacity in PV industry with mand...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "China moves to curb overcapacity in PV industry with mandatory energy consump...（太陽能產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "China Sets Mandatory Solar Efficiency Standards to Curb Overcapacity - Caixin...（太陽能產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

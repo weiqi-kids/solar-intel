@@ -1,0 +1,160 @@
+{
+  "date": "2026-07-03",
+  "date_range": {
+    "start": "2026-06-27",
+    "end": "2026-07-03"
+  },
+  "generated_at": "2026-07-03T10:27:22.560256Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "jinko-2026-06-27-026",
+      "date": "2026-06-27",
+      "title": "Leading Solar-Storage Portfolio! JinkoSolar Unveils Tiger Neo 5.0 at Intersolar Europe 2026, Celebrating 20 Years of Innovation - TaiyangNews",
+      "importance_score": 0.65
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "industry_general": {
+      "this_week": 128,
+      "last_week": 120,
+      "week_over_week_change": "+7%",
+      "sentiment_this_week": 0.06
+    },
+    "installation_demand": {
+      "this_week": 5,
+      "last_week": 3,
+      "week_over_week_change": "+67%",
+      "sentiment_this_week": 0.43
+    },
+    "trade_tariff": {
+      "this_week": 3,
+      "last_week": 4,
+      "week_over_week_change": "-25%",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "gcl": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 6
+    },
+    "jinko": {
+      "event_count": 5,
+      "sentiment_avg": 0.0,
+      "rank": 1
+    },
+    "sungrow": {
+      "event_count": 4,
+      "sentiment_avg": -0.25,
+      "rank": 3
+    },
+    "xinyi_solar": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 7
+    },
+    "maxeon": {
+      "event_count": 4,
+      "sentiment_avg": 0.0,
+      "rank": 4
+    },
+    "array": {
+      "event_count": 4,
+      "sentiment_avg": 0.0,
+      "rank": 5
+    },
+    "daqo": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 10
+    },
+    "longi": {
+      "event_count": 5,
+      "sentiment_avg": 0.2,
+      "rank": 2
+    },
+    "trina": {
+      "event_count": 3,
+      "sentiment_avg": 0.33,
+      "rank": 8
+    },
+    "risen": {
+      "event_count": 3,
+      "sentiment_avg": 0.17,
+      "rank": 9
+    },
+    "first_solar": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 11
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 273,
+        "last": 329,
+        "change_pct": -17.0
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-06-27",
+      "event_count": 27,
+      "sentiment_avg": 0.02
+    },
+    {
+      "date": "2026-06-28",
+      "event_count": 16,
+      "sentiment_avg": 0.06
+    },
+    {
+      "date": "2026-06-29",
+      "event_count": 58,
+      "sentiment_avg": 0.06
+    },
+    {
+      "date": "2026-06-30",
+      "event_count": 53,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-07-01",
+      "event_count": 52,
+      "sentiment_avg": 0.05
+    },
+    {
+      "date": "2026-07-02",
+      "event_count": 49,
+      "sentiment_avg": 0.13
+    },
+    {
+      "date": "2026-07-03",
+      "event_count": 18,
+      "sentiment_avg": -0.03
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-06-27 ~ 2026-07-03）共 273 則事件，重點為「Leading Solar-Storage Portfolio! JinkoSolar Unv...」。陽光電源情緒偏負面，建議留意相關風險。",
+    "watchlist": [
+      {
+        "company": "陽光電源",
+        "reason": "本週情緒偏負面（-0.2），共 4 則相關事件，需關注後續發展。"
+      },
+      {
+        "company": "協鑫科技",
+        "reason": "本週出現 3 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "晶科能源",
+        "reason": "本週出現 5 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
