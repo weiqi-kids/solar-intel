@@ -1,0 +1,16 @@
+{
+  "total_raw": 465,
+  "dup_title": 263,
+  "no_date": 0,
+  "too_old": 138,
+  "gate1_fail": 41,
+  "gate2_fail": 9,
+  "passed": 14,
+  "gate2_samples": [
+    "Daqo New Energy (DQ) to Establish Kunshan Manufacturing Base for AI Data Center Energy Solutions - Y",
+    "Price to sales forward of Xinjiang Daqo New Energy Co. Ltd. Class A – SSE:688303 - TradingView",
+    "Enphase Energy Joins Open Compute Project as Platinum Member to Help Advance AI Data Center Power St",
+    "Array Technologies, Inc. (ARRY) Stock Moves -2.79%: What You Should Know - Yahoo Finance",
+    "Sungrow's PowerTitan 3.0 wins The smarter E AWARD 2026 - PR Newswire"
+  ]
+}

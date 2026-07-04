@@ -1,5 +1,25 @@
 [
   {
+    "id": "motech-2026-07-04-001",
+    "date": "2026-07-04",
+    "companies": [
+      "motech"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Price to earnings forward of Motech Industries, Inc. – TPEX:6244 - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxNSHNER05hUzZxRDdaQTZRbDJUQ3c4X2RTYS1KNWo3aUlXTlhNdlN1cndvTFJ2X0trcng3M2Q2cF8yWTFmUHgwa2h3cEVrX3k4dFJ5OWNqUjJSckVsaURhOW9VblU4WUozUkNTUi1LNW",
+    "sources": [
+      {
+        "name": "motech",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNSHNER05hUzZxRDdaQTZRbDJUQ3c4X2RTYS1KNWo3aUlXTlhNdlN1cndvTFJ2X0trcng3M2Q2cF8yWTFmUHgwa2h3cEVrX3k4dFJ5OWNqUjJSckVsaURhOW9VblU4WUozUkNTUi1LNWluUXd3ZUVpWFRSd0d4Zjg0VXBDRXZVWXRZT2s5eEN0ekczRm5SNFlWRkpmOHBzRTA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "sungrow-2026-07-03-001",
     "date": "2026-07-03",
     "companies": [
@@ -321,6 +341,190 @@
       {
         "name": "cleantechnica",
         "url": "https://cleantechnica.com/2026/07/02/residential-batteries-are-becoming-an-active-grid-management-tool/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "trina-2026-07-03-019",
+    "date": "2026-07-03",
+    "companies": [
+      "trina"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Trinasolar and SWY Sign 200MW MoU to Distribute Vertex N G3 and Vertex S+ G3 Modules in Myanmar - PR Newswire Asia",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxPS1NfYVVVeHl6NDMxOExEUlRHOWxHUnptc1dyUUNLSk9yY3kzTmNILXRCNkExRldnVlh5TTFLTVp0ZElDS1kwZ01NRDBIMDBFNHdUOEZlY01uVzI4X0l6c2xmcWV5SThzOUw0UG9OM0",
+    "sources": [
+      {
+        "name": "trina",
+        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPS1NfYVVVeHl6NDMxOExEUlRHOWxHUnptc1dyUUNLSk9yY3kzTmNILXRCNkExRldnVlh5TTFLTVp0ZElDS1kwZ01NRDBIMDBFNHdUOEZlY01uVzI4X0l6c2xmcWV5SThzOUw0UG9OM0x2VWVnMjRmQWdPQW9GQ0J1ejI5UFVuTEdPNnBVdHBMLTlXc2IzZ3NyeE05S2l5QWQ0X0RUQUNPS1F1dnI1SnEzUXZNc2FZUHVobVJ1ZGhzOWhaTWpoWEJFQ3NtRi1VLTVWTWp4dVcwX0xTUGEy?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-03-020",
+    "date": "2026-07-03",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "The Hydrogen Stream: Orica moves forward with 50 MW hydrogen hub in Australia",
+    "summary": "<p>As Orica decided to proceed with its hydrogen hub in New South Wales, Mitsubishi signed a purchase deal with Acme for 100,000 tons per year of green methanol from 2030. At the same time, the Danish",
+    "sources": [
+      {
+        "name": "pv_magazine",
+        "url": "https://www.pv-magazine.com/2026/07/03/the-hydrogen-stream-orica-move-forward-with-50-mw-hydrogen-hub-in-australia/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-03-021",
+    "date": "2026-07-03",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "‘Pivot, learn and continue’",
+    "summary": "<p>This week, Women in Solar+ Europe (WiSEu) gives voice to Tuğçe Gür, Supply Chain Manager at Germany's RCT Solutions. She says true inclusion means fairness, trust, and opportunity: evaluating peopl",
+    "sources": [
+      {
+        "name": "pv_magazine",
+        "url": "https://www.pv-magazine.com/2026/07/03/pivot-learn-and-continue/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-03-022",
+    "date": "2026-07-03",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Podcast: Tesla Model YL, Q2 deliveries, BMW iX5, and more",
+    "summary": "<div class=\"feat-image\"><img src=\"https://electrek.co/wp-content/uploads/sites/3/2017/12/business_card-1.jpg?quality=82&#038;strip=all&#038;w=1600\" /></div><p class=\"wp-block-paragraph\">In the <a href",
+    "sources": [
+      {
+        "name": "electrek_solar",
+        "url": "https://electrek.co/2026/07/03/podcast-tesla-model-yl-q2-deliveries-bmw-ix5-and-more/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-03-023",
+    "date": "2026-07-03",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Electrek American Solar Challenge 2026: About the race, full schedule, and teams competing",
+    "summary": "<div class=\"feat-image\"><img src=\"https://electrek.co/wp-content/uploads/sites/3/2026/07/solarcars.jpg?quality=82&#038;strip=all&#038;w=1600\" /></div><p class=\"wp-block-paragraph\">It’s now July, which",
+    "sources": [
+      {
+        "name": "electrek_solar",
+        "url": "https://electrek.co/2026/07/03/electrek-american-solar-challenge-2026-about-the-race-full-schedule-and-teams-competing/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-03-024",
+    "date": "2026-07-03",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Kia converts its electric van into an off-grid mobile simulator rig with a 55″ screen",
+    "summary": "<div class=\"feat-image\"><img src=\"https://electrek.co/wp-content/uploads/sites/3/2026/07/Kia-PV5-EV-simulator.jpeg?quality=82&#038;strip=all&#038;w=1400\" /></div><p class=\"wp-block-paragraph\">The <a h",
+    "sources": [
+      {
+        "name": "electrek_solar",
+        "url": "https://electrek.co/2026/07/03/kia-converts-ev-van-into-off-grid-simulator-with-55-screen/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-03-025",
+    "date": "2026-07-03",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Swiss railway solar panel experiment passes one-year milestone - lenews.ch",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxNcGtsQ0NDOHM0ZkkyMUczYXcxZ3l1cWd0REVQRTcyTjNQN1V5LXpkMmhxMlB5T0VjcUpzMHNweVRTZlc5RjhuVy1YeEtvblpBWF83TkxNTVhld19GMTVVUG4zUXpQd2hfSEIwUDhIWH",
+    "sources": [
+      {
+        "name": "google_news_solar",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNcGtsQ0NDOHM0ZkkyMUczYXcxZ3l1cWd0REVQRTcyTjNQN1V5LXpkMmhxMlB5T0VjcUpzMHNweVRTZlc5RjhuVy1YeEtvblpBWF83TkxNTVhld19GMTVVUG4zUXpQd2hfSEIwUDhIWHE3aFJEZ2h1T1phZ0ZDa09iLXVuRmFReG5GWnhyUlNJOTNVcEtBUU00?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-03-026",
+    "date": "2026-07-03",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "Case study: Navigating challenging terrain with ground screw solutions for a 6.1 MW solar site",
+    "summary": "DCE Solar's Long Span Ground Screw racking system was utilized at a Woodfield Renewable Partners solar project in New York to overcome steep, irregular terrain.",
+    "sources": [
+      {
+        "name": "renewableenergyw",
+        "url": "https://www.renewableenergyworld.com/solar/case-study-navigating-challenging-terrain-with-ground-screw-solutions-for-a-6-1-mw-solar-site/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "gcl-2026-07-03-027",
+    "date": "2026-07-03",
+    "companies": [
+      "gcl"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "GCL Plans To Integrate AI Data Centers Directly with the Grid — CleanTechnica Field Trip",
+    "summary": "<p>GCL is the largest private energy producer in China, and we were fortunate enough to get a tour of its headquarters. Afterwards, we sat down with the company&#8217;s executive team to see how they ",
+    "sources": [
+      {
+        "name": "cleantechnica",
+        "url": "https://cleantechnica.com/2026/07/03/gcl-plans-to-integrate-ai-data-centers-directly-with-the-grid-cleantechnica-field-trip/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-03-028",
+    "date": "2026-07-03",
+    "companies": [],
+    "topics": [
+      "installation_demand"
+    ],
+    "impact": "positive",
+    "title": "64 EV Chargers Installed At Boston Multifamily Complex",
+    "summary": "<p>Loop Global completed a 64-port Level 2 charging installation at a multifamily development in Hyde Park, a Boston neighborhood. Loop Global is a leading provider of turnkey electric vehicle (EV) ch",
+    "sources": [
+      {
+        "name": "cleantechnica",
+        "url": "https://cleantechnica.com/2026/07/03/64-ev-chargers-installed-at-boston-multifamily-complex/",
         "type": "rss"
       }
     ]
@@ -1235,6 +1439,26 @@
       {
         "name": "cleantechnica",
         "url": "https://cleantechnica.com/2026/07/02/volkswagen-group-shows-leadership-with-elli-v2g-service-launch/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "array-2026-07-02-050",
+    "date": "2026-07-02",
+    "companies": [
+      "array"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "Jefferies cuts Array Technologies stock price target on capital concerns - Investing.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxNWnRFZU9xdU5GWWVnM2RRQldhd3FBZjVjZXExQTE4cXVIbGtVcXR5ZURxbDlKZEJtR3pSQjdnQTB2bV8tWnNycHQ3SXRZZENqVXlueWczNDV6RDRqWVB0LWtJdEdBZ0JnVTk3T1BqY2",
+    "sources": [
+      {
+        "name": "array",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNWnRFZU9xdU5GWWVnM2RRQldhd3FBZjVjZXExQTE4cXVIbGtVcXR5ZURxbDlKZEJtR3pSQjdnQTB2bV8tWnNycHQ3SXRZZENqVXlueWczNDV6RDRqWVB0LWtJdEdBZ0JnVTk3T1BqY2llVXdXRmdpS0NCdl9hcElDdlAwekJtcm1qV250cFIwZXZraHZuUm84T2hlSUtHMjRwTUVMbFprVHY4Q2VsN0tVTVNYRmJDMkFRVy1PTnZoQzFNN19qM3dpS2lKTVc?oc=5",
         "type": "rss"
       }
     ]
@@ -3201,6 +3425,26 @@
     ]
   },
   {
+    "id": "sungrow-2026-06-30-054",
+    "date": "2026-06-30",
+    "companies": [
+      "sungrow"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Sungrow PowerKeeper Unlocks Greater Solar Value for Australian Medical Wholesaler - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxOSmRnaXFQY3pObVlXUi15MnpaaWFJRzlVcDFOUjVja1l4QThXeGZYdE9tTDd2Z2FwR00wY19mbEpUMlJ1Zkx2ZnFGb1cyZ1NTQVdvaFVYMnVZQnFZa0lRRWdEN29HaWsxRTlxYUhYTm",
+    "sources": [
+      {
+        "name": "sungrow",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOSmRnaXFQY3pObVlXUi15MnpaaWFJRzlVcDFOUjVja1l4QThXeGZYdE9tTDd2Z2FwR00wY19mbEpUMlJ1Zkx2ZnFGb1cyZ1NTQVdvaFVYMnVZQnFZa0lRRWdEN29HaWsxRTlxYUhYTmdkUGhGWlJNOUVrWElBRWlmbjhON2pDUzBpaVVsS1dhZ0dNMVRGaWh3SWl0akN5aWM?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "daqo-2026-06-29-001",
     "date": "2026-06-29",
     "companies": [
@@ -4278,6 +4522,26 @@
       {
         "name": "jinko",
         "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNdFMzUTVDY0Z5RmxrbHpKZF9jY1M2djVQVWlGNmdGTXhfT3QzS1ZfeWZwZ2dJd1NGa1dHY3E1X0p6Z3FSc2Rlanozd2RTcUtXQjZ6bjZOWEFXT0tlMGQtdXA4RTQ3THY4dzA5WlJBWjIzUmppWnl3bTl6SlU1UVlNaExrRjlCMDRRTUtEbVIxeFd6ZmRBZDZVTjQxTU1vQ3JVNmlIQjFnMlY5dw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "trina-2026-06-29-059",
+    "date": "2026-06-29",
+    "companies": [
+      "trina"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Trina Solar Named 2026 Fortune Tech 50 for the Second Year - GlobeNewswire",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxPYUh4d2xZZ0VIY1RnTW5BVmhNRU4wUURSdHN4Vnc2TzNvMWRNNUVFaXQzTFlFemEyNjZoYnFHdkVSSnJNRXBlYWYyX1JGdmJtTExiaUEzY3BoTXNxa0hXa2lNOGZiZkJnV1JIOW44Nk",
+    "sources": [
+      {
+        "name": "trina",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPYUh4d2xZZ0VIY1RnTW5BVmhNRU4wUURSdHN4Vnc2TzNvMWRNNUVFaXQzTFlFemEyNjZoYnFHdkVSSnJNRXBlYWYyX1JGdmJtTExiaUEzY3BoTXNxa0hXa2lNOGZiZkJnV1JIOW44NkstczdwNExRcmFORW8teXJnMmltOGllZmhSM0tMTGhsUHFZU0U0NFpxbzRrZ3lUY2xuYS1zdFpUM3dMNWlVUkdmenBkbm9zVmIzSGkxdFZKTjZ1OGk5OUpBdDdB?oc=5",
         "type": "rss"
       }
     ]

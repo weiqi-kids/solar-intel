@@ -12,9 +12,9 @@
     "history_complete": true
   },
   "tongwei": {
-    "earliest": "2004-10-01",
+    "earliest": "2004-07-05",
     "latest": "2026-07-03",
-    "count": 5305
+    "count": 5369
   },
   "gcl": {
     "earliest": "2007-11-13",
