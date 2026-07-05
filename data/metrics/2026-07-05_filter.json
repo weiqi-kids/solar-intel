@@ -1,0 +1,16 @@
+{
+  "total_raw": 465,
+  "dup_title": 256,
+  "no_date": 0,
+  "too_old": 142,
+  "gate1_fail": 37,
+  "gate2_fail": 8,
+  "passed": 22,
+  "gate2_samples": [
+    "Price to sales forward of Xinjiang Daqo New Energy Co. Ltd. Class A – SSE:688303 - TradingView",
+    "Enphase Energy Joins Open Compute Project as Platinum Member to Help Advance AI Data Center Power St",
+    "Array Technologies, Inc. (ARRY) Stock Moves -2.79%: What You Should Know - Yahoo Finance",
+    "Sungrow's PowerTitan 3.0 wins The smarter E AWARD 2026 - PR Newswire",
+    "Price to book forward of Sungrow Power Supply Co., Ltd. Class A – SZSE:300274 - TradingView"
+  ]
+}

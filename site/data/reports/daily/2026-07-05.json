@@ -1,0 +1,134 @@
+{
+  "date": "2026-07-05",
+  "generated_at": "2026-07-05T10:03:35.550478Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-07-05-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "JA launches One JA brand strategy as it expands integrated clean energy business - Green Building Africa",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPQUo5MnNmZExyWkIwdm1CZUdMT1FCWlgxMWxxTEp1ckh6Zm80dTZKSEdDZ2xTVy1ERkhnRi1WMzMyYjNtQ0JCWVRnc0xsU29WWEMxejd4eHJmbjhxT2dTMkxEbURLTDVNaFo5T2I0NmV2WG1EZUwxMEQ5VnZfc2Rlc3o1M1ZmX2cxZGVFVm1hM1FhR3FiVnRrSzMyN2xkd2VFQ3dEamxYZ3dKZFhvdlZEak9hcHBTMHBxS1R3?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "first_solar-2026-07-05-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "World's First Solar Railway Trial in Switzerland Shows Promising Results - News and Statistics - IndexBox",
+      "companies": [
+        "first_solar"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNS19Od1pPQ1ZzWXE5YjN2ZmNsUHhxSm5rMzhsLS1IWklwV3Eta1RHdkR2cElUWDdTSFZBWnM2Slc0ZXVxUlAzRFpHX2JreUw1Q1RaZzZjM0pNdUxDT3pEMm5YMjhiYTF1WUp2MUZPTDJGVnFTbHBnRm82UEhyZG9oaDJnZzQ4ajFSYWNQcDhoMkdjSGptaEJYc3hIeURlQQ?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-07-05-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Electric School Buses Put Batteries To Work To Stabilize Grids",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://cleantechnica.com/2026/07/04/electric-school-buses-put-batteries-to-work-to-stabilize-grids/"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.17,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 3,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 2,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "first_solar",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 3
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 465,
+    "dup_title": 256,
+    "too_old": 142,
+    "gate1_blocked": 37,
+    "gate2_blocked": 8,
+    "passed": 22,
+    "pass_rate": "10.5%",
+    "gate2_block_rate": "3.8%",
+    "gate2_samples": [
+      "Price to sales forward of Xinjiang Daqo New Energy Co. Ltd. Class A – SSE:688303 - TradingView",
+      "Enphase Energy Joins Open Compute Project as Platinum Member to Help Advance AI Data Center Power St",
+      "Array Technologies, Inc. (ARRY) Stock Moves -2.79%: What You Should Know - Yahoo Finance",
+      "Sungrow's PowerTitan 3.0 wins The smarter E AWARD 2026 - PR Newswire",
+      "Price to book forward of Sungrow Power Supply Co., Ltd. Class A – SZSE:300274 - TradingView"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 3 則事件，焦點為First Solar相關動態：「JA launches One JA brand strategy as it expands integrate...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "JA launches One JA brand strategy as it expands integrated clean energy busin...（太陽能產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "World's First Solar Railway Trial in Switzerland Shows Promising Results - Ne...（太陽能產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
