@@ -1,0 +1,16 @@
+{
+  "total_raw": 466,
+  "dup_title": 257,
+  "no_date": 0,
+  "too_old": 138,
+  "gate1_fail": 36,
+  "gate2_fail": 10,
+  "passed": 25,
+  "gate2_samples": [
+    "Price to sales forward of Xinjiang Daqo New Energy Co. Ltd. Class A – SSE:688303 - TradingView",
+    "Enphase Energy Joins Open Compute Project as Platinum Member to Help Advance AI Data Center Power St",
+    "Array Technologies, Inc. (ARRY) Stock Moves -2.79%: What You Should Know - Yahoo Finance",
+    "ARRY News | ARRAY TECHNOLOGIES INC (NASDAQ:ARRY) - ChartMill",
+    "Array Technologies Stock And Two Policy Driven Industrial Stocks Worth Watching - simplywall.st"
+  ]
+}
