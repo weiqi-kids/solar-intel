@@ -1,0 +1,165 @@
+{
+  "date": "2026-07-07",
+  "date_range": {
+    "start": "2026-07-01",
+    "end": "2026-07-07"
+  },
+  "generated_at": "2026-07-07T10:45:37.463424Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "sungrow-2026-07-01-006",
+      "date": "2026-07-01",
+      "title": "Chinese Inverter Maker Sungrow Plunges 20% on Potential US Ban - Bloomberg.com",
+      "importance_score": 0.65
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "industry_general": {
+      "this_week": 111,
+      "last_week": 126,
+      "week_over_week_change": "-12%",
+      "sentiment_this_week": 0.03
+    },
+    "installation_demand": {
+      "this_week": 4,
+      "last_week": 2,
+      "week_over_week_change": "+100%",
+      "sentiment_this_week": 0.41
+    },
+    "trade_tariff": {
+      "this_week": 2,
+      "last_week": 6,
+      "week_over_week_change": "-67%",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "gcl": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 5
+    },
+    "jinko": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 3
+    },
+    "maxeon": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 4
+    },
+    "sungrow": {
+      "event_count": 8,
+      "sentiment_avg": -0.12,
+      "rank": 1
+    },
+    "trina": {
+      "event_count": 6,
+      "sentiment_avg": 0.17,
+      "rank": 2
+    },
+    "risen": {
+      "event_count": 1,
+      "sentiment_avg": 0.5,
+      "rank": 8
+    },
+    "array": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 6
+    },
+    "motech": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 9
+    },
+    "first_solar": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 7
+    },
+    "longi": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 10
+    },
+    "xinyi_solar": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 11
+    },
+    "enphase": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 12
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 218,
+        "last": 352,
+        "change_pct": -38.1
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-07-01",
+      "event_count": 52,
+      "sentiment_avg": 0.05
+    },
+    {
+      "date": "2026-07-02",
+      "event_count": 52,
+      "sentiment_avg": 0.12
+    },
+    {
+      "date": "2026-07-03",
+      "event_count": 30,
+      "sentiment_avg": 0.02
+    },
+    {
+      "date": "2026-07-04",
+      "event_count": 18,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-07-05",
+      "event_count": 10,
+      "sentiment_avg": 0.2
+    },
+    {
+      "date": "2026-07-06",
+      "event_count": 31,
+      "sentiment_avg": 0.05
+    },
+    {
+      "date": "2026-07-07",
+      "event_count": 25,
+      "sentiment_avg": -0.05
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-07-01 ~ 2026-07-07）共 218 則事件，重點為「Chinese Inverter Maker Sungrow Plunges 20% on P...」。事件量較上週減少，市場進入觀望階段。",
+    "watchlist": [
+      {
+        "company": "晶科能源",
+        "reason": "本週出現 3 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "Maxeon Solar Technologies",
+        "reason": "本週出現 3 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "陽光電源",
+        "reason": "本週出現 8 則相關事件且情緒偏負面，需特別關注。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

@@ -1,0 +1,45 @@
+{
+  "date": "2026-07-07",
+  "total_events": 25,
+  "by_company": {
+    "xinyi_solar": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "trina": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "jinko": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "sungrow": {
+      "count": 5,
+      "sentiment_avg": 0.0
+    },
+    "enphase": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "industry_general": {
+      "count": 25,
+      "sentiment_avg": -0.05
+    },
+    "installation_demand": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "trade_tariff": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

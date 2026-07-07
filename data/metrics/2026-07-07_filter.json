@@ -1,0 +1,16 @@
+{
+  "total_raw": 467,
+  "dup_title": 236,
+  "no_date": 0,
+  "too_old": 137,
+  "gate1_fail": 39,
+  "gate2_fail": 14,
+  "passed": 41,
+  "gate2_samples": [
+    "DQ - Daqo New Energy Corp ADR Options - Finviz",
+    "DQ News | DAQO NEW ENERGY CORP-ADR (NYSE:DQ) - ChartMill",
+    "Price to sales forward of Xinjiang Daqo New Energy Co. Ltd. Class A – SSE:688303 - TradingView",
+    "Enphase Energy Joins Open Compute Project as Platinum Member to Help Advance AI Data Center Power St",
+    "Price to book forward of Array Technologies Inc – FWB:9AY - TradingView"
+  ]
+}
