@@ -1,0 +1,16 @@
+{
+  "total_raw": 468,
+  "dup_title": 218,
+  "no_date": 0,
+  "too_old": 153,
+  "gate1_fail": 33,
+  "gate2_fail": 11,
+  "passed": 53,
+  "gate2_samples": [
+    "DQ - Daqo New Energy Corp ADR Options - Finviz",
+    "DQ News | DAQO NEW ENERGY CORP-ADR (NYSE:DQ) - ChartMill",
+    "Price to sales forward of Xinjiang Daqo New Energy Co. Ltd. Class A – SSE:688303 - TradingView",
+    "Price to book forward of Array Technologies, Inc. – NASDAQ:ARRY - TradingView",
+    "Array Technologies, Inc. (ARRY) Stock Moves -2.79%: What You Should Know - Yahoo Finance"
+  ]
+}

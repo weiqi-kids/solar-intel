@@ -1,0 +1,220 @@
+{
+  "date": "2026-07-08",
+  "generated_at": "2026-07-08T10:07:08.029811Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-07-08-007",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "TÜV NORD study finds back-contact advantage over TOPCon is limited to mild shading conditions",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://www.pv-magazine.com/2026/07/08/tuv-nord-study-confirms-back-contact-advantage-over-topcon-is-limited-to-mild-shading-conditions/"
+    },
+    {
+      "rank": 2,
+      "event_id": "ja_solar-2026-07-08-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Price to book forward of JA Solar Technology Co., Ltd. Class A – SZSE:002459 - TradingView",
+      "companies": [
+        "ja_solar"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOZk84OE8ySlZGLTQxNC1uUnVDa25VdERfdGxkYmNmajk3VWtuYmdRLVlVejFWZjV3bDhWWklWV2hyeGNINTFTQ1FOYnhGd0Y2anAtYWxDRGFrS3BxTm1nNEFJd2huOXJRU2VFWmlaOTVvTllpbVVUWmFSTzdqNDFuNml4WFFBTlRCQlhYdzlGQXFPZnFvODVob1NwMlY?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "jinko-2026-07-08-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Enterprise value to revenue forward of JinkoSolar Holding Company Limited – NYSE:JKS - TradingView",
+      "companies": [
+        "jinko"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOWW1YbllaN0ttY1VwV3pjS1gzMURNcVI2N00yN3ZfaHFfQ2pjbVc1RV9wakprU3doRnhwcDItOF9CbUJaYUJTWXBDNXBLUEtyUF96V1BjaTFZLUl3SW5ZMS1ZdEt4N28zejJxVkU3WUpDOC02WnQ4Y0pBRGVRdjJIX0ZyanJuREpCOVdyR0VnMTRZSC14cEZ3REI1WDVTSmY1d3Nmd016a2k?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-07-08-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "South Africa awards licenses to 1 GW of solar",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.pv-magazine.com/2026/07/08/south-africa-awards-licenses-to-1-gw-of-solar/"
+    },
+    {
+      "rank": 5,
+      "event_id": "array-2026-07-08-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "A rebuildable solar array to train students and access ‘beginner’s mind’",
+      "companies": [
+        "array"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.pv-magazine.com/2026/07/08/a-rebuildable-pv-array-to-train-students-and-access-beginners-mind/"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 23,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.07,
+      "sentiment_7d_avg": null
+    },
+    "installation_demand": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "module_price": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 23,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 21,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "ja_solar",
+        "count": 1
+      },
+      {
+        "id": "jinko",
+        "count": 1
+      },
+      {
+        "id": "array",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 23
+      },
+      {
+        "id": "installation_demand",
+        "count": 1
+      },
+      {
+        "id": "module_price",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 468,
+    "dup_title": 218,
+    "too_old": 153,
+    "gate1_blocked": 33,
+    "gate2_blocked": 11,
+    "passed": 53,
+    "pass_rate": "21.2%",
+    "gate2_block_rate": "4.4%",
+    "gate2_samples": [
+      "DQ - Daqo New Energy Corp ADR Options - Finviz",
+      "DQ News | DAQO NEW ENERGY CORP-ADR (NYSE:DQ) - ChartMill",
+      "Price to sales forward of Xinjiang Daqo New Energy Co. Ltd. Class A – SSE:688303 - TradingView",
+      "Price to book forward of Array Technologies, Inc. – NASDAQ:ARRY - TradingView",
+      "Array Technologies, Inc. (ARRY) Stock Moves -2.79%: What You Should Know - Yahoo Finance"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 23 則事件，焦點為晶澳科技、晶科能源、Array Technologies相關動態：「TÜV NORD study finds back-contact advantage over TOPCon i...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "TÜV NORD study finds back-contact advantage over TOPCon is limited to mild sh...（太陽能產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "Price to book forward of JA Solar Technology Co., Ltd. Class A – SZSE:002459 ...（太陽能產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "裝機需求持續受關注，產業趨勢帶動需求成長。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
