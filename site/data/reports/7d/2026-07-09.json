@@ -1,0 +1,161 @@
+{
+  "date": "2026-07-09",
+  "date_range": {
+    "start": "2026-07-03",
+    "end": "2026-07-09"
+  },
+  "generated_at": "2026-07-09T10:45:51.310599Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "unknown-2026-07-03-004",
+      "date": "2026-07-03",
+      "title": "China moves to curb overcapacity in PV industry with mandatory energy consumption standards",
+      "importance_score": 0.65
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "industry_general": {
+      "this_week": 108,
+      "last_week": 131,
+      "week_over_week_change": "-18%",
+      "sentiment_this_week": 0.04
+    },
+    "trade_tariff": {
+      "this_week": 2,
+      "last_week": 5,
+      "week_over_week_change": "-60%",
+      "sentiment_this_week": 0.0
+    },
+    "installation_demand": {
+      "this_week": 6,
+      "last_week": 5,
+      "week_over_week_change": "+20%",
+      "sentiment_this_week": 0.37
+    },
+    "module_price": {
+      "this_week": 1,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "sungrow": {
+      "event_count": 7,
+      "sentiment_avg": 0.0,
+      "rank": 1
+    },
+    "motech": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 6
+    },
+    "first_solar": {
+      "event_count": 3,
+      "sentiment_avg": 0.33,
+      "rank": 3
+    },
+    "longi": {
+      "event_count": 3,
+      "sentiment_avg": 0.17,
+      "rank": 4
+    },
+    "trina": {
+      "event_count": 4,
+      "sentiment_avg": 0.0,
+      "rank": 2
+    },
+    "xinyi_solar": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 7
+    },
+    "jinko": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 5
+    },
+    "enphase": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 8
+    },
+    "ja_solar": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 9
+    },
+    "array": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 10
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 222,
+        "last": 323,
+        "change_pct": -31.3
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-07-03",
+      "event_count": 30,
+      "sentiment_avg": 0.02
+    },
+    {
+      "date": "2026-07-04",
+      "event_count": 21,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-07-05",
+      "event_count": 11,
+      "sentiment_avg": 0.18
+    },
+    {
+      "date": "2026-07-06",
+      "event_count": 31,
+      "sentiment_avg": 0.05
+    },
+    {
+      "date": "2026-07-07",
+      "event_count": 57,
+      "sentiment_avg": -0.0
+    },
+    {
+      "date": "2026-07-08",
+      "event_count": 50,
+      "sentiment_avg": 0.05
+    },
+    {
+      "date": "2026-07-09",
+      "event_count": 22,
+      "sentiment_avg": 0.16
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-07-03 ~ 2026-07-09）共 222 則事件，重點為「China moves to curb overcapacity in PV industry...」。事件量較上週減少，市場進入觀望階段。",
+    "watchlist": [
+      {
+        "company": "陽光電源",
+        "reason": "本週出現 7 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "First Solar",
+        "reason": "本週出現 3 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "隆基綠能",
+        "reason": "本週出現 3 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

@@ -1,0 +1,33 @@
+{
+  "date": "2026-07-09",
+  "total_events": 22,
+  "by_company": {
+    "jinko": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "longi": {
+      "count": 2,
+      "sentiment_avg": 0.25
+    },
+    "first_solar": {
+      "count": 1,
+      "sentiment_avg": 1.0
+    }
+  },
+  "by_topic": {
+    "industry_general": {
+      "count": 22,
+      "sentiment_avg": 0.16
+    },
+    "installation_demand": {
+      "count": 4,
+      "sentiment_avg": 0.56
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}
