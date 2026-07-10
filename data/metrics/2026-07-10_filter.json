@@ -1,0 +1,16 @@
+{
+  "total_raw": 466,
+  "dup_title": 204,
+  "no_date": 0,
+  "too_old": 156,
+  "gate1_fail": 41,
+  "gate2_fail": 8,
+  "passed": 57,
+  "gate2_samples": [
+    "DQ - Daqo New Energy Corp ADR Options - Finviz",
+    "DQ News | DAQO NEW ENERGY CORP-ADR (NYSE:DQ) - ChartMill",
+    "Enterprise value to EBIT forward of Motech Industries, Inc. – TPEX:6244 - TradingView",
+    "Why Array Technologies, Inc. (ARRY) Outpaced the Stock Market Today - Yahoo Finance UK",
+    "Price to book forward of Array Technologies, Inc. – NASDAQ:ARRY - TradingView"
+  ]
+}
