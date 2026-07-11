@@ -1,0 +1,16 @@
+{
+  "total_raw": 467,
+  "dup_title": 223,
+  "no_date": 0,
+  "too_old": 159,
+  "gate1_fail": 40,
+  "gate2_fail": 6,
+  "passed": 39,
+  "gate2_samples": [
+    "DQ - Daqo New Energy Corp ADR Options - Finviz",
+    "Price to book forward of Array Technologies, Inc. – NASDAQ:ARRY - TradingView",
+    "Why Array Technologies, Inc. (ARRY) Outpaced the Stock Market Today - Yahoo Finance UK",
+    "The Hydrogen Stream: Pilot project in Iceland shows geothermal-driven H2 could achieve LCOH of $1.75",
+    "Eaton is preferred smart breaker supplier for FranklinWH"
+  ]
+}

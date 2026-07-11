@@ -7,8 +7,8 @@
   },
   "daqo": {
     "earliest": "2010-10-07",
-    "latest": "2026-07-09",
-    "count": 3961,
+    "latest": "2026-07-10",
+    "count": 3962,
     "history_complete": true
   },
   "tongwei": {
@@ -43,20 +43,20 @@
   },
   "canadian_solar": {
     "earliest": "2006-11-09",
-    "latest": "2026-07-09",
-    "count": 4944,
+    "latest": "2026-07-10",
+    "count": 4945,
     "history_complete": true
   },
   "first_solar": {
     "earliest": "2006-11-17",
-    "latest": "2026-07-09",
-    "count": 4938,
+    "latest": "2026-07-10",
+    "count": 4939,
     "history_complete": true
   },
   "jinko": {
     "earliest": "2010-05-14",
-    "latest": "2026-07-09",
-    "count": 4062,
+    "latest": "2026-07-10",
+    "count": 4063,
     "history_complete": true
   },
   "risen": {
@@ -73,26 +73,26 @@
   },
   "yuan_jing": {
     "earliest": "2014-09-19",
-    "latest": "2026-07-09",
-    "count": 2872,
+    "latest": "2026-07-10",
+    "count": 2873,
     "history_complete": true
   },
   "enphase": {
     "earliest": "2012-03-30",
-    "latest": "2026-07-09",
-    "count": 3588,
+    "latest": "2026-07-10",
+    "count": 3589,
     "history_complete": true
   },
   "solaredge": {
     "earliest": "2015-03-26",
-    "latest": "2026-07-09",
-    "count": 2838,
+    "latest": "2026-07-10",
+    "count": 2839,
     "history_complete": true
   },
   "array": {
     "earliest": "2020-10-15",
-    "latest": "2026-07-09",
-    "count": 1438,
+    "latest": "2026-07-10",
+    "count": 1439,
     "history_complete": true
   },
   "sungrow": {
@@ -103,20 +103,20 @@
   },
   "nextracker": {
     "earliest": "2023-02-09",
-    "latest": "2026-07-09",
-    "count": 855,
+    "latest": "2026-07-10",
+    "count": 856,
     "history_complete": true
   },
   "etf_tan": {
     "earliest": "2008-04-15",
-    "latest": "2026-07-09",
-    "count": 4587,
+    "latest": "2026-07-10",
+    "count": 4588,
     "history_complete": true
   },
   "etf_icln": {
     "earliest": "2008-06-25",
-    "latest": "2026-07-09",
-    "count": 4537,
+    "latest": "2026-07-10",
+    "count": 4538,
     "history_complete": true
   }
 }

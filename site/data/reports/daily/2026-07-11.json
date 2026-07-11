@@ -1,0 +1,212 @@
+{
+  "date": "2026-07-11",
+  "generated_at": "2026-07-11T09:17:01.574368Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-07-11-004",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Study finds heatwaves cause hourly losses of up to 90% in PV plants in Iberian peninsula",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://www.pv-magazine.com/2026/07/11/study-finds-heatwaves-cause-hourly-losses-of-up-to-90-in-pv-plants-in-iberian-peninsula/"
+    },
+    {
+      "rank": 2,
+      "event_id": "daqo-2026-07-11-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Price to earnings forward of Daqo New Energy Corp Sponsored ADR – SWB:5DQ2 - TradingView",
+      "companies": [
+        "daqo"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPQWR5ZVdBTlYzRVNPbVdIUE1LRGdyNnZxZFA0NTZHOG5RNGdIcjhMRXdWMUVtazBQY2VxamhaRERaNzV1LVVRaHBXanpBSElZUTUtLTdwd2hhMzdPRVNKc1JKQVpjMDloQkdsaUt5N1hQQ0JQdHgzNmFrWS0tVGx5WnBfYUs2ZDZGcURBTW9mTmFCUVlwRmhjcXo5MDg5QQ?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "sungrow-2026-07-11-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "System-Level Grid-Forming Validated in the Real World: Sungrow Sets a New Benchmark in Malaysia - Macau Business",
+      "companies": [
+        "sungrow"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOQ25qYk9BeFdMMFpUTlNYc3dBbWxZV1FXUTZWRkZGdTZmS0hlOV9jcFQtUjRybjlIeURuYXg0TUdDeDhNZERhd0hxc2hQMkJ1b2ZBM3dIdGlRZUxDY3JSSVcyQU11NUFkVXRGd0dsSFBxUnhuN3E1UDRDaHpDa3hkcFJhY0taSU5XbTdzb3RUVWdUT3RRako0cFFoYmRlMm9XWlZNUUttcXJlWUY1MkZhdkRFZzRhRUx6Ukd1QWFB?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-07-11-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "China could produce more batteries than global demand by 2030, says US think tank",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.pv-magazine.com/2026/07/11/china-could-produce-more-batteries-than-global-demand-by-2030-says-us-think-tank/"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-07-11-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "End-of-life solar module recycling unviable if material diversity is not considered",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.pv-magazine.com/2026/07/11/end-of-life-module-recycling-unviable-if-material-diversity-is-not-considered/"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 9,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.11,
+      "sentiment_7d_avg": null
+    },
+    "module_price": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "trade_tariff": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 10,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 9,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "daqo",
+        "count": 1
+      },
+      {
+        "id": "sungrow",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 9
+      },
+      {
+        "id": "module_price",
+        "count": 1
+      },
+      {
+        "id": "trade_tariff",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 467,
+    "dup_title": 223,
+    "too_old": 159,
+    "gate1_blocked": 40,
+    "gate2_blocked": 6,
+    "passed": 39,
+    "pass_rate": "16.0%",
+    "gate2_block_rate": "2.5%",
+    "gate2_samples": [
+      "DQ - Daqo New Energy Corp ADR Options - Finviz",
+      "Price to book forward of Array Technologies, Inc. – NASDAQ:ARRY - TradingView",
+      "Why Array Technologies, Inc. (ARRY) Outpaced the Stock Market Today - Yahoo Finance UK",
+      "The Hydrogen Stream: Pilot project in Iceland shows geothermal-driven H2 could achieve LCOH of $1.75",
+      "Eaton is preferred smart breaker supplier for FranklinWH"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 10 則事件，焦點為大全新能源、陽光電源相關動態：「Study finds heatwaves cause hourly losses of up to 90% in...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "Study finds heatwaves cause hourly losses of up to 90% in PV plants in Iberia...（太陽能產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "Price to earnings forward of Daqo New Energy Corp Sponsored ADR – SWB:5DQ2 - ...",
+        "level": "green"
+      },
+      {
+        "text": "元件價格話題出現 1 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

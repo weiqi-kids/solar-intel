@@ -1,0 +1,172 @@
+{
+  "date": "2026-07-11",
+  "date_range": {
+    "start": "2026-07-05",
+    "end": "2026-07-11"
+  },
+  "generated_at": "2026-07-11T09:17:01.709337Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "unknown-2026-07-05-006",
+      "date": "2026-07-05",
+      "title": "The grid was melting down in last week’s heat – until EVs came to the rescue",
+      "importance_score": 0.65
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "industry_general": {
+      "this_week": 120,
+      "last_week": 121,
+      "week_over_week_change": "-1%",
+      "sentiment_this_week": 0.04
+    },
+    "trade_tariff": {
+      "this_week": 3,
+      "last_week": 3,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    },
+    "installation_demand": {
+      "this_week": 7,
+      "last_week": 4,
+      "week_over_week_change": "+75%",
+      "sentiment_this_week": 0.32
+    },
+    "module_price": {
+      "this_week": 2,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    },
+    "polysilicon_price": {
+      "this_week": 1,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "first_solar": {
+      "event_count": 3,
+      "sentiment_avg": 0.33,
+      "rank": 4
+    },
+    "longi": {
+      "event_count": 3,
+      "sentiment_avg": 0.17,
+      "rank": 5
+    },
+    "trina": {
+      "event_count": 5,
+      "sentiment_avg": 0.0,
+      "rank": 2
+    },
+    "sungrow": {
+      "event_count": 8,
+      "sentiment_avg": 0.0,
+      "rank": 1
+    },
+    "xinyi_solar": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 7
+    },
+    "jinko": {
+      "event_count": 4,
+      "sentiment_avg": 0.0,
+      "rank": 3
+    },
+    "enphase": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 8
+    },
+    "ja_solar": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 9
+    },
+    "array": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 10
+    },
+    "daqo": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 6
+    },
+    "gcl": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 11
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 265,
+        "last": 287,
+        "change_pct": -7.7
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-07-05",
+      "event_count": 11,
+      "sentiment_avg": 0.18
+    },
+    {
+      "date": "2026-07-06",
+      "event_count": 32,
+      "sentiment_avg": 0.05
+    },
+    {
+      "date": "2026-07-07",
+      "event_count": 58,
+      "sentiment_avg": -0.0
+    },
+    {
+      "date": "2026-07-08",
+      "event_count": 54,
+      "sentiment_avg": 0.05
+    },
+    {
+      "date": "2026-07-09",
+      "event_count": 54,
+      "sentiment_avg": 0.07
+    },
+    {
+      "date": "2026-07-10",
+      "event_count": 46,
+      "sentiment_avg": 0.07
+    },
+    {
+      "date": "2026-07-11",
+      "event_count": 10,
+      "sentiment_avg": -0.1
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-07-05 ~ 2026-07-11）共 265 則事件，重點為「The grid was melting down in last week’s heat –...」。First Solar表現正面，整體氣氛穩健。",
+    "watchlist": [
+      {
+        "company": "First Solar",
+        "reason": "本週出現 3 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "隆基綠能",
+        "reason": "本週出現 3 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "天合光能",
+        "reason": "本週出現 5 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
