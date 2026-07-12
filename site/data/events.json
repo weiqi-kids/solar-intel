@@ -1,5 +1,25 @@
 [
   {
+    "id": "ja_solar-2026-07-12-001",
+    "date": "2026-07-12",
+    "companies": [
+      "ja_solar"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Enterprise value to revenue forward of JA Solar Technology Co., Ltd. Class A – SZSE:002459 - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxPUWdGVlVHWnU1a09SdE02N2thajlsZ2c1ODNSSWVjRzcwZVNwMklyTW9hZFkxWUlkZXo5WGl5Q1dwY3pUaVRpWFY2TVdQT3BkZzEwVWgyelFISWFRekVfTi1FOXJSUkhfQmRHNnZnTk",
+    "sources": [
+      {
+        "name": "ja_solar",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPUWdGVlVHWnU1a09SdE02N2thajlsZ2c1ODNSSWVjRzcwZVNwMklyTW9hZFkxWUlkZXo5WGl5Q1dwY3pUaVRpWFY2TVdQT3BkZzEwVWgyelFISWFRekVfTi1FOXJSUkhfQmRHNnZnTk05a3czRVBOR0w4ak5mLW5EOFlqbVVNd1czVm5JV0ttRWoxZEU4NXlRNGpNY2pfUlpLOTRYeXZlbTBmejJk?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "daqo-2026-07-11-001",
     "date": "2026-07-11",
     "companies": [
@@ -179,6 +199,62 @@
       {
         "name": "cleantechnica",
         "url": "https://cleantechnica.com/2026/07/10/world-bank-funds-more-rooftop-solar-in-india-clean-energy-in-pakistan/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "jinko-2026-07-11-011",
+    "date": "2026-07-11",
+    "companies": [
+      "jinko"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "JinkoSolar (JKS) Stock Sees Fair Value Cut After Mixed Analyst Target Changes - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxQQXI2X1VCdGs1a3RhdXZxcGNjT0xsTGx4ajV3OVVSMFJ6QWpORnJCRmd3WEtyNzJLeng2cnhjVXdRaEhzTG8xbkg0elFEbUNqMGFBdTVPZGZjcV9JdE1KUldXSHVXYkhSeVQ5VGFMen",
+    "sources": [
+      {
+        "name": "jinko",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQQXI2X1VCdGs1a3RhdXZxcGNjT0xsTGx4ajV3OVVSMFJ6QWpORnJCRmd3WEtyNzJLeng2cnhjVXdRaEhzTG8xbkg0elFEbUNqMGFBdTVPZGZjcV9JdE1KUldXSHVXYkhSeVQ5VGFMenVPOGtDWG45WTl4dGw4c1JXaTFBbnZGNi1WRG5MY1JTam1NOEVzR2NydzJ5UQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-11-012",
+    "date": "2026-07-11",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Switzerland laid the world's first removable solar plant between its train tracks, and the early results are turning heads abroad - OkDiario",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi9gFBVV95cUxOVzgta0t6a1A4Z2xYRnlqYWIyU1ppVTVIaHBnX0JXRjZtR01NN0RDZHNuY1prUU9jcnlzVU1yREkyWk1sTWpHVURoMXlYaklBclZJYWoxUFFKUHU5WmdfVmRsRTl4bEZMS3VtTkw2Sn",
+    "sources": [
+      {
+        "name": "google_news_solar",
+        "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOVzgta0t6a1A4Z2xYRnlqYWIyU1ppVTVIaHBnX0JXRjZtR01NN0RDZHNuY1prUU9jcnlzVU1yREkyWk1sTWpHVURoMXlYaklBclZJYWoxUFFKUHU5WmdfVmRsRTl4bEZMS3VtTkw2SnFEYW1kakk3d2FtWWZPWWh2emNncThCdVZTb3FtT2pvRDRmUy1FMEtkanduY3NFNGRYc2FaQnR4cHM3amFkQmNYdTJwUU1KWDkwRkRVZVVLZWgydGVPVHZmVm4yMFA3MnJBSXBJa19qYTNWaFAzWnFkZ19ydDU3WXdUUnk3emthVWstclNYeUE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-11-013",
+    "date": "2026-07-11",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Germany Photovoltaic Panel Street Light - Market Analysis, Forecast, Size, Trends and Insights - IndexBox",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxOM0ZPV1h0OW9UV3FkMjRwZEJrem9mdmFlM2szMHpLd094cUpmdmpnUUJuNG5OUVVzbGpWSjVsQks1VmpQSWltU3RXeUNFYU5yTktYZDRVVEJKUTk0UnR6X2FITDc2RWlzenlSZnRKNF",
+    "sources": [
+      {
+        "name": "google_news_solar",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOM0ZPV1h0OW9UV3FkMjRwZEJrem9mdmFlM2szMHpLd094cUpmdmpnUUJuNG5OUVVzbGpWSjVsQks1VmpQSWltU3RXeUNFYU5yTktYZDRVVEJKUTk0UnR6X2FITDc2RWlzenlSZnRKNF9oVldReFhwbzBsWFIyUWd3Y05JMEJjYzRic1cxVDFpU1JaOEFkUUxQdnRfSkhaY1NzNS1ZLS1tUzQ2Qkt4MnM0djBiMVp1NTRRR3dLUA?oc=5",
         "type": "rss"
       }
     ]
@@ -1037,6 +1113,26 @@
       {
         "name": "cleantechnica",
         "url": "https://cleantechnica.com/2026/07/10/california-school-district-jumps-into-solar-storage-electric-buses/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nextracker-2026-07-10-047",
+    "date": "2026-07-10",
+    "companies": [
+      "nextracker"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Nextracker Is Maintained at Positive by Susquehanna - Moomoo",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxQQ01lMTA2bkZ0TGlWZW9kNzBqTTVOMXZoSENyMVc5MVpBUHpxRVVGY0tXZWM3R2VjMF9pQ3pnVFZwUnJSUUJHbXBSTHFwQzRRei1KVTFKUTFRX1BjcDlCVEZ2WE9GeExFNjVqQ1FEY0",
+    "sources": [
+      {
+        "name": "nextracker",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQQ01lMTA2bkZ0TGlWZW9kNzBqTTVOMXZoSENyMVc5MVpBUHpxRVVGY0tXZWM3R2VjMF9pQ3pnVFZwUnJSUUJHbXBSTHFwQzRRei1KVTFKUTFRX1BjcDlCVEZ2WE9GeExFNjVqQ1FEY0FYRi1Tck1ybl9JVzBJX2ZvT2ZtZng5TVlfT0Q5QzlQaXAtWUduTEZyNQ?oc=5",
         "type": "rss"
       }
     ]
@@ -4138,6 +4234,26 @@
     ]
   },
   {
+    "id": "jinko-2026-07-07-059",
+    "date": "2026-07-07",
+    "companies": [
+      "jinko"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Price to sales forward of JinkoSolar Holding Co., Ltd. Sponsored ADR – MUN:ZJS1 - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxQUHVIb01UZkNIN2hwUEtMOHF2WEoyQW9wY0RPcG9WaDhwdVlkb0d1bnZTdkxFeEg5MDBzeS1GcHhtV1VYaVFGUTJKemRnOURUdWdDZDI5cGtGZ0hUVGpKWmdhbnBiNnQ1ckJZemJDUW",
+    "sources": [
+      {
+        "name": "jinko",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQUHVIb01UZkNIN2hwUEtMOHF2WEoyQW9wY0RPcG9WaDhwdVlkb0d1bnZTdkxFeEg5MDBzeS1GcHhtV1VYaVFGUTJKemRnOURUdWdDZDI5cGtGZ0hUVGpKWmdhbnBiNnQ1ckJZemJDUWNHTlN5VkpTNG43TVVjaWROd1lXNjVOeXVVV2w0aHduMkZYTE1EbmJNNnpR?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "longi-2026-07-06-001",
     "date": "2026-07-06",
     "companies": [
@@ -4727,6 +4843,24 @@
       {
         "name": "gcl",
         "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOY1FOS3AwdkVJaF9PU1ZnQlR2cEFxZ0xmd2tTMWo2U0tQNHlHU3d2ZVdoT3VYVWdHUW9ZWFd0aDNNcGFEVkkzSnBsYkdxOWxMQWxpb0ZrU2tNTVpTWmxyeUhGbHJ4Q1NmdkpsYk5tZzh3a0x1RkpQSllNcll6d05XYzlWOWpLTGQwLUM4OXdkcUdlSjhVa2QxTHZVa19GRUk0MDlGYldZUmdrcmlTTm9lZjNVSDJJWFktWkpvbFRSQm1makd6ZGw0YUln?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-06-033",
+    "date": "2026-07-06",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Can India, Europe produce solar energy without China? - dw.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxOU0xwLTVuUUJ0QlU1bFllRDZDcFdGdWJBSWtud00yWlpHRk1GeWY4bzJhNlBwTnNLNzh0UUo3UGRYOFJHQk9RTmRLTVo2LWRLZzNGMTNLTWZqbVpiay1Pbm9tVHRlWl9aQVVQR09EdW",
+    "sources": [
+      {
+        "name": "google_news_solar",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOU0xwLTVuUUJ0QlU1bFllRDZDcFdGdWJBSWtud00yWlpHRk1GeWY4bzJhNlBwTnNLNzh0UUo3UGRYOFJHQk9RTmRLTVo2LWRLZzNGMTNLTWZqbVpiay1Pbm9tVHRlWl9aQVVQR09EdWhQR0FidG9sQU9paXNBWm9IR0hPWGhRRTJRcFJoYWw3VV8yRlVqdXJVRHZ2bUnSAZwBQVVfeXFMTVVyT3FNaXlrRHoyUTE4cVFVVndIY2VBU1ZPaUxGcHlVVGgxNElydDJzcy13VXdUQ0V5STBRYWtzUTc2Y2w5M0MzYjZPODNoSV9TOUt4NXdMVzBZSjJDMGNHQUhtbGlPbEQybDlRZ1R3NlUyN3RKbUdka0NJRXc1LXlaZjVCdTJaNkZyZEJ4U1JLVU5TRnQ3dFRkNW56?oc=5",
         "type": "rss"
       }
     ]
