@@ -1,0 +1,33 @@
+{
+  "date": "2026-07-13",
+  "total_events": 17,
+  "by_company": {
+    "gcl": {
+      "count": 1,
+      "sentiment_avg": 1.0
+    },
+    "longi": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "trina": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "jinko": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "industry_general": {
+      "count": 16,
+      "sentiment_avg": 0.02
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

@@ -1,0 +1,15 @@
+{
+  "total_raw": 446,
+  "dup_title": 224,
+  "no_date": 0,
+  "too_old": 150,
+  "gate1_fail": 48,
+  "gate2_fail": 4,
+  "passed": 20,
+  "gate2_samples": [
+    "Why Array Technologies, Inc. (ARRY) Outpaced the Stock Market Today - Yahoo Finance UK",
+    "Price to book forward of Array Technologies, Inc. – NASDAQ:ARRY - TradingView",
+    "Eaton is preferred smart breaker supplier for FranklinWH",
+    "The terminal they asked for wasn’t the terminal they needed A case study in energy storage component"
+  ]
+}

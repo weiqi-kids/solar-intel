@@ -1,0 +1,191 @@
+{
+  "date": "2026-07-13",
+  "generated_at": "2026-07-13T10:49:44.386571Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "gcl-2026-07-13-001",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "GCL Technology Holdings’s Stock Price Dips to 0.63 HKD, Records 1.56% Decline - Smartkarma",
+      "companies": [
+        "gcl"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNRkRqVmFobmVWR3hnOThFWktrUmxUV2V5bnVrR3Q2c1UyRzRmTkg2cDA5SGVhWHY4WHNGQXhYall6b0lxZERiNXJmcDVaMjFDUXd3LW9XRUg2ZlFyVkJoY3VoaTR1Q3lYNmJ4X3BGM0JVa1V2anQwdmdPTGxSNjhSWjRPQjlENURqTHROejItYXBwM1FRU3c0QmlBdFRDaEJXQmtrdXhuQlZGMERib3dWMDZOdUJ2dmVER2RrVFRB?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "longi-2026-07-13-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "LONGi Signs Strategic Partnership with Thailand’s TSE for Large-Scale Solar Projects - SolarQuarter",
+      "companies": [
+        "longi"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQbjdIdHdWdHFFdWx5clFqdDhZUWhjMlRzVkRocmZPS2luYV9NS2FyZlJ2Mm1RR0N1RlBHMTNlTm1JcDdxMkxlN2V1bjIzZ2FiUFYwUExXUFBKaVpHRzlIdnAwMjgyOE9nT0s5eEhhZkNjQk1EdEZ3d3gtU2pyMHFmaXZGSS1MRDFubTRua2EtWmhfWHhfeS1JNDNRYkRuZEx4N1JMUHF6N3BTcXMxRGgxZ2ZWVU9pS3lFVENOWA?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "longi-2026-07-13-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "LONGi Switches to Copper from Silver in Solar Cell Production at 21 GW Plant - Mercomindia.com",
+      "companies": [
+        "longi"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOckxZRjNMZ3h4b3V3NE1KUDN3Zm0weFA3bDY3Y1pBcnNVRkNSaVhsSnM3YUstUW1Menh4bUxyanhPcG1YTVN3OTZpX29LUlMwV053bUlzWi1jVHMzcjgxYkZKcFU1U0o4dGN1R2xGNFExWUs2TThhb1RaNlZmb29BWUlMMmt6aFpLS3MwakRsSXc1QnBtNkFMaG94dWQzemZwZVFVeXhwTQ?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "trina-2026-07-13-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Trinasolar Powers 37MW RASLAG 4 Solar Project in the Philippines - PR Newswire Asia",
+      "companies": [
+        "trina"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQVzdDLUgwN2N2dHJqcE12WDFXX05QckdFbWhtQUE3akFlWmwxZEt1MWFzZDlrcnJmMlctMjVEc0h1VnUzM29JOEw4UmVSWDJDamZyZ09SVHRqdVZFQXVaeWVsam5zay1JY3pReHZONFAzRF9lU1dZREtvY0xpUlN0S3BZWWYyZ05YVjU4ZXFTaXBXaXM3Z2hhc0NWTTdlRG1TZHItOVB6emdwYnVyYXhtdWlRM28?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-07-13-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "June PV Index - Premium modules reach new highs as confidence stays firm - pv Europe",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOQXFnaGtZMGdhR19sUmZReEt4eVBwb0NCVS1yRElzVFJNeU1qcnNBYU0zb3o0VElQQmNvQTVyeFJsY0FMWEhYdm1wWkRHd0t4MktJX1JrVkZKWE9GbzhPSHFpZ3A1cUhmZWw2bnpiWWU0QnVTbzhvcXBkOUdfdGpVLVJDekxrWmxSTU9UTzFMVGg5eUtPOXZ4eTB5SDQydlY1?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 16,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.02,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 17,
+    "sentiment_distribution": {
+      "positive": 3,
+      "neutral": 12,
+      "negative": 2
+    },
+    "top_companies": [
+      {
+        "id": "longi",
+        "count": 2
+      },
+      {
+        "id": "gcl",
+        "count": 1
+      },
+      {
+        "id": "trina",
+        "count": 1
+      },
+      {
+        "id": "jinko",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 16
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 446,
+    "dup_title": 224,
+    "too_old": 150,
+    "gate1_blocked": 48,
+    "gate2_blocked": 4,
+    "passed": 20,
+    "pass_rate": "9.0%",
+    "gate2_block_rate": "1.8%",
+    "gate2_samples": [
+      "Why Array Technologies, Inc. (ARRY) Outpaced the Stock Market Today - Yahoo Finance UK",
+      "Price to book forward of Array Technologies, Inc. – NASDAQ:ARRY - TradingView",
+      "Eaton is preferred smart breaker supplier for FranklinWH",
+      "The terminal they asked for wasn’t the terminal they needed A case study in energy storage component"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 17 則事件，焦點為隆基綠能、協鑫科技、天合光能相關動態：「GCL Technology Holdings’s Stock Price Dips to 0.63 HKD, R...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "GCL Technology Holdings’s Stock Price Dips to 0.63 HKD, Records 1.56% Decline...",
+        "level": "green"
+      },
+      {
+        "text": "LONGi Signs Strategic Partnership with Thailand’s TSE for Large-Scale Solar P...（太陽能產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
