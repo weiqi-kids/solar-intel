@@ -1,5 +1,299 @@
 [
   {
+    "id": "unknown-2026-07-14-001",
+    "date": "2026-07-14",
+    "companies": [],
+    "topics": [
+      "installation_demand",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Two injured in fire at photovoltaic plant in Spain",
+    "summary": "<p>A vegetation fire at a photovoltaic plant in Spain's Palencia province injured two people but was quickly contained, with authorities reporting no confirmed damage to the solar installation. The in",
+    "sources": [
+      {
+        "name": "pv_magazine",
+        "url": "https://www.pv-magazine.com/2026/07/14/two-injured-in-fire-at-photovoltaic-plant-in-spain/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-14-002",
+    "date": "2026-07-14",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "France, Italy, Spain set daily solar records",
+    "summary": "<p>AleaSoft Energy Forecasting’s latest analysis finds weekly average electricity prices increased across most major European markets last week as gas prices rose to their highest level since May.</p>",
+    "sources": [
+      {
+        "name": "pv_magazine",
+        "url": "https://www.pv-magazine.com/2026/07/14/france-italy-spain-set-daily-solar-records/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-14-003",
+    "date": "2026-07-14",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Jackery showcases plug-in solar storage systems and energy management accessories in Munich",
+    "summary": "<p>At The smarter E 2026, the company highlighted its new SolarVault 3 Series of plug-in solar energy storage products, along with its Home Energy Management System and related smart accessories.</p>\n",
+    "sources": [
+      {
+        "name": "pv_magazine",
+        "url": "https://www.pv-magazine.com/2026/07/14/jackery-showcases-plug-in-solar-storage-systems-and-energy-management-accessories-in-munich/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-14-004",
+    "date": "2026-07-14",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "German startup offers solar awnings",
+    "summary": "<p>German startup Solar Markise has launched photovoltaic awnings that combine sun protection with solar generation, offering 1.35 kW and 1.8 kW versions for residential and commercial self-consumptio",
+    "sources": [
+      {
+        "name": "pv_magazine",
+        "url": "https://www.pv-magazine.com/2026/07/14/german-startup-offers-solar-awnings/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-14-005",
+    "date": "2026-07-14",
+    "companies": [],
+    "topics": [
+      "installation_demand",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Amsterdam tightens conditions around sustainable solar panel subsidy",
+    "summary": "<p>Amsterdam's subsidy scheme for highly-sustainable solar panels has been extended to the end of the year. The scheme has already supported the installation of over 3,500 panels across the Dutch capi",
+    "sources": [
+      {
+        "name": "pv_magazine",
+        "url": "https://www.pv-magazine.com/2026/07/14/amsterdam-tightens-conditions-around-sustainable-solar-panel-subsidy/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-14-006",
+    "date": "2026-07-14",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Aditya Birla Group to acquire 5 GW renewables portfolio from Shell",
+    "summary": "<p>Aditya Birla Renewables has agreed to acquire Shell-backed Sprng Energy for $1.8 billion, expanding its renewable energy portfolio to around 9.4 GW.</p>\n<p>The post <a href=\"https://www.pv-magazine",
+    "sources": [
+      {
+        "name": "pv_magazine",
+        "url": "https://www.pv-magazine.com/2026/07/14/aditya-birla-group-to-acquire-sprng-energy-from-shell/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "risen-2026-07-14-007",
+    "date": "2026-07-14",
+    "companies": [
+      "risen"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Intertek CEA says 587Ah cells could drive down BESS costs through 2027",
+    "summary": "<p>US research firm Intertek CEA says wider adoption of 587Ah battery cells could lower the cost of standard battery energy storage system (BESS) containers through 2027, even as lithium carbonate pri",
+    "sources": [
+      {
+        "name": "pv_magazine",
+        "url": "https://www.pv-magazine.com/2026/07/14/intertek-cea-says-587ah-cells-could-drive-down-bess-costs-through-2027/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-14-008",
+    "date": "2026-07-14",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Peru proposes national energy planning framework with solar and storage scenarios",
+    "summary": "<p>Peru’s Ministry of Energy and Mines (MINEM) has published draft provisions to establish a national energy planning framework covering long-, medium-, and short-term horizons. The proposal does not ",
+    "sources": [
+      {
+        "name": "pv_magazine",
+        "url": "https://www.pv-magazine.com/2026/07/14/peru-proposes-national-energy-planning-framework-with-solar-and-storage-scenarios/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-14-009",
+    "date": "2026-07-14",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Hydraulic storage proves more cost-effective than batteries for PV irrigation",
+    "summary": "<p>Researchers in Spain found that hydraulic storage can be more cost-effective than batteries for photovoltaic irrigation systems, while combined storage maximizes self-sufficiency. The study shows t",
+    "sources": [
+      {
+        "name": "pv_magazine",
+        "url": "https://www.pv-magazine.com/2026/07/14/hydraulic-storage-proves-more-cost-effective-than-batteries-for-pv-irrigation/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-14-010",
+    "date": "2026-07-14",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "German startup offers solar awnings - pv magazine Global",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxQdmtpVjFYR3RQeGN4NlVwV3I2cHljNXNlUXYzeldHMFFUSG92OGdWaTJWd1Zwek4wZ0tFaWFMdGEtUVlVeGlkQ0k0dUVHR3hVMjFoYVJSMGhVSXI0LTFXR21ObGVSZHFpMWh3UlZkUT",
+    "sources": [
+      {
+        "name": "google_news_solar",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQdmtpVjFYR3RQeGN4NlVwV3I2cHljNXNlUXYzeldHMFFUSG92OGdWaTJWd1Zwek4wZ0tFaWFMdGEtUVlVeGlkQ0k0dUVHR3hVMjFoYVJSMGhVSXI0LTFXR21ObGVSZHFpMWh3UlZkUTUtTkF2bXlMSVZBSmFFU1Zrcw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-14-011",
+    "date": "2026-07-14",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Amsterdam tightens conditions around sustainable solar panel subsidy - pv magazine Global",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxNSWU1b3BJRTA4MDVySkdJUDNyeUIxM25pRE1jZ1dvSkVDbGZRbTBLZHRsM0Ntd2dRN0NZLWl5ZklRd1B3VWRZR1kxUDFVQlFkbnhacFNUcWhvQ1Y4TXJYQTgtYjhJOXBaOU8yT0FiRX",
+    "sources": [
+      {
+        "name": "google_news_solar",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNSWU1b3BJRTA4MDVySkdJUDNyeUIxM25pRE1jZ1dvSkVDbGZRbTBLZHRsM0Ntd2dRN0NZLWl5ZklRd1B3VWRZR1kxUDFVQlFkbnhacFNUcWhvQ1Y4TXJYQTgtYjhJOXBaOU8yT0FiRXJfRWdxTEptVG1XazNBUHpPSTVjZk5WbHFja09HTmltd25GT0RPZUw5dkFBdVNlZUVTNnVDaGdtLUFYdVBp?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-14-012",
+    "date": "2026-07-14",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Giga Storage secures finance for 2.8GWh ‘critical infrastructure’ Belgium BESS",
+    "summary": "Owner-operator has secured a €450 million (US$512 million) financing package for its 700MW/2,800MWh Green Turtle BESS project in Belgium.",
+    "sources": [
+      {
+        "name": "energy_storage_news",
+        "url": "https://www.energy-storage.news/giga-storage-secures-finance-for-2-8gwh-critical-infrastructure-belgium-bess/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-14-013",
+    "date": "2026-07-14",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "The technology breakthroughs behind Huawei’s next-generation Smart-String Grid-Forming ESS Platform",
+    "summary": "Huawei FusionSolar’s new Smart String Grid-Forming ESS Platform, LUTERRA, is born from technology breakthroughs designed to drive customer success.",
+    "sources": [
+      {
+        "name": "energy_storage_news",
+        "url": "https://www.energy-storage.news/the-technology-breakthroughs-behind-huaweis-next-generation-smart-string-grid-forming-ess-platform/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "risen-2026-07-14-014",
+    "date": "2026-07-14",
+    "companies": [
+      "risen"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "Lazard: US utility-scale energy storage LCOS has increased since restrictions on Chinese cells came into force",
+    "summary": "According to Lazard’s annual benchmarking report, the levelised cost of storage (LCOS) of utility-scale battery energy storage systems (BESS) in the US has risen, reversing declines reported in the 20",
+    "sources": [
+      {
+        "name": "energy_storage_news",
+        "url": "https://www.energy-storage.news/lazard-us-utility-scale-energy-storage-lcos-has-increased-since-restrictions-on-chinese-cells-came-into-force/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-14-015",
+    "date": "2026-07-14",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Australia’s Queensland government reportedly shelves 20GWh pumped hydro project",
+    "summary": "The Queensland government has reportedly shelved the proposed AU$6 billion (US$4 billion) Mt Rawdon pumped hydro project, ending state support for a mine-repurposing scheme that had attracted AU$50 mi",
+    "sources": [
+      {
+        "name": "energy_storage_news",
+        "url": "https://www.energy-storage.news/australias-queensland-government-reportedly-shelves-20gwh-pumped-hydro-project/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-14-016",
+    "date": "2026-07-14",
+    "companies": [],
+    "topics": [
+      "trade_tariff"
+    ],
+    "impact": "negative",
+    "title": "Are the EV Tariffs Working? Western Carmakers Shifted Production to EU, but Chinese Brands Continue to Grow — Analysis",
+    "summary": "<p>Imports of Chinese batteries, which face virtually no tariffs, increased seven fold. The EU’s electric car tariffs succeeded in reducing the market share of EVs made in China, according to T&#38;E ",
+    "sources": [
+      {
+        "name": "cleantechnica",
+        "url": "https://cleantechnica.com/2026/07/13/are-the-ev-tariffs-working-western-carmakers-shifted-production-to-eu-but-chinese-brands-continue-to-grow-analysis/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "gcl-2026-07-13-001",
     "date": "2026-07-13",
     "companies": [
@@ -314,6 +608,633 @@
     ]
   },
   {
+    "id": "meyer_burger-2026-07-13-018",
+    "date": "2026-07-13",
+    "companies": [
+      "meyer_burger"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Whatever happened to Meyer Burger? ... - eeNews Europe",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE0wd3FGZjB3UHItN0tEMl9FcGQ4S1JRVjd2b3g4X0ZWMGltWHdfNUhJT2wyNVlYNFFJM2tsNWMwdzdKTFJZV0lubUpZaVdpRGtRSkdJc1dKcGNBT2V6amMtNnN5Nk00Yl9DSU9Dd0JHSG",
+    "sources": [
+      {
+        "name": "meyer_burger",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE0wd3FGZjB3UHItN0tEMl9FcGQ4S1JRVjd2b3g4X0ZWMGltWHdfNUhJT2wyNVlYNFFJM2tsNWMwdzdKTFJZV0lubUpZaVdpRGtRSkdJc1dKcGNBT2V6amMtNnN5Nk00Yl9DSU9Dd0JHSG1jMnRP?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "longi-2026-07-13-019",
+    "date": "2026-07-13",
+    "companies": [
+      "longi"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "TAG: Longi Green Energy Technology Co. - KITCO",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTFBncmlGaUJqNVVZZnhZZ1l2X2RIVUd5ZjdDLXVPSE1NSS03RDNfRTh3UXV0ai15UURtUkZxZ1dlbkNpRGpndzBYR0NNZDJDZklOTHVxUUpsYUloU3l6b2paVFJkT3VaczBmcDRxUXB5MG",
+    "sources": [
+      {
+        "name": "longi",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBncmlGaUJqNVVZZnhZZ1l2X2RIVUd5ZjdDLXVPSE1NSS03RDNfRTh3UXV0ai15UURtUkZxZ1dlbkNpRGpndzBYR0NNZDJDZklOTHVxUUpsYUloU3l6b2paVFJkT3VaczBmcDRxUXB5MG4?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-13-020",
+    "date": "2026-07-13",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "How does a solar manufacturer plan to achieve a 25% market share in C&I projects in Mexico? - Energía Estratégica",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxNREs1WVNrbUllTHN1b29nRXQ0TVRHSC15eTVwdVhWYTVOTUpjSVlFNVVZWWQxNFZJeXdEcm5BMFRBT01FQnVqVzJGb1lOSWI5NTRtT2tRQzQ2eHBHRGs5U1RRWmlXc29aNzk1M2pIbX",
+    "sources": [
+      {
+        "name": "ja_solar",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNREs1WVNrbUllTHN1b29nRXQ0TVRHSC15eTVwdVhWYTVOTUpjSVlFNVVZWWQxNFZJeXdEcm5BMFRBT01FQnVqVzJGb1lOSWI5NTRtT2tRQzQ2eHBHRGs5U1RRWmlXc29aNzk1M2pIbXFDaDBmX2VVYU5ZNDVNSFhmSE1DYUVxZ1R0eHZNZWRraW5vdFdHOWdvTS1nalhLV2xVMFBOaURjaGpJWnltVjJORzhQcGRYYU9WUGZJbGh6aG9yMEZhLTZkTkpn?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "jinko-2026-07-13-021",
+    "date": "2026-07-13",
+    "companies": [
+      "jinko"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "JinkoSolar vice chairman and co-founder Chen Kangping resigns - PV Tech",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE93WHR4eTdtaVpqWUdNaVNQQVhuTU14VGtXUGVQUFkzbzlWUjk0S1JvTUNCaGNsX01wNmF2ZHktRGZzeHZhRW9WckRCdV8zSDlydm91V2FCeXU2YTgyZWJLcnlEenhYQTJONHVUNTBIYU",
+    "sources": [
+      {
+        "name": "jinko",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE93WHR4eTdtaVpqWUdNaVNQQVhuTU14VGtXUGVQUFkzbzlWUjk0S1JvTUNCaGNsX01wNmF2ZHktRGZzeHZhRW9WckRCdV8zSDlydm91V2FCeXU2YTgyZWJLcnlEenhYQTJONHVUNTBIYUw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "jinko-2026-07-13-022",
+    "date": "2026-07-13",
+    "companies": [
+      "jinko"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Hong Kong Stock Market Movement | Commercial Spaceflight Concept Retreats; JinkoSolar Holding Co., Ltd. (02865.HK) Drops Over 17%, Goldwind Science & Technology Co., Ltd. (02208.HK) Falls Over 9% - 富途牛牛",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxQQ0FyN0dYdEM0enlWRlZWVnptYXdOcGtnM1RvdTNCZTJ6UU0yYmpiLUNLa1JCb2FDUG9uMjdscGR6bmpqSzNreXZGWldnS2pncW5TeU9iNXBUanZ0dHdVSkV6VFFPMWxHUXRGdWk2d0",
+    "sources": [
+      {
+        "name": "jinko",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQQ0FyN0dYdEM0enlWRlZWVnptYXdOcGtnM1RvdTNCZTJ6UU0yYmpiLUNLa1JCb2FDUG9uMjdscGR6bmpqSzNreXZGWldnS2pncW5TeU9iNXBUanZ0dHdVSkV6VFFPMWxHUXRGdWk2d0tIUTJVOFFsTmNQOV9VVmJVWTNCMng5TTJDYUdoMy0tdFpqbDdXZU1XcElGRVNRcGZ1QjJzbjBBeTQ4NkdjeGUzMXNxSnFmcnoxRF9WcjE0Ym0?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-13-023",
+    "date": "2026-07-13",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Asian ADRs Inched Up As Tech Led Gains - Finimize",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE1QVFEyU2lpaFoyVkZZTFhYUG9hdF80OXF1clM0ekFha2xkSWZMWm90cVN0d011SkszbHRWbG9rVzlOZkJCa2JOQjc0UXVsNUpKajNmYzBuR1Y5dURvMHVHdHRSdWxkM19jekU0cXRWMF",
+    "sources": [
+      {
+        "name": "jinko",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1QVFEyU2lpaFoyVkZZTFhYUG9hdF80OXF1clM0ekFha2xkSWZMWm90cVN0d011SkszbHRWbG9rVzlOZkJCa2JOQjc0UXVsNUpKajNmYzBuR1Y5dURvMHVHdHRSdWxkM19jekU0cXRWMFRtUlhTLUE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "enphase-2026-07-13-024",
+    "date": "2026-07-13",
+    "companies": [
+      "enphase"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "Enphase Energy Expands IQ9N Microinverters with GaN Technology to Australia and New Zealand",
+    "summary": "FREMONT, Calif., July 13, 2026 (GLOBE NEWSWIRE) -- Enphase Energy, Inc. (NASDAQ: ENPH), a global energy technology company, today announced the launch of the new IQ9N™ Microinverter for residential so",
+    "sources": [
+      {
+        "name": "enphase",
+        "url": "https://newsroom.enphase.com/news-releases/news-release-details/enphase-energy-expands-iq9n-microinverters-gan-technology",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "array-2026-07-13-025",
+    "date": "2026-07-13",
+    "companies": [
+      "array"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "ARRAY Technologies Announces Second Quarter 2026 Earnings Release Date and Conference Call - WBOC TV",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAJBVV95cUxOck43THd4QThJeG53MFYxMGxqaUkwY3RZZm1yM0YyTEJpSGdtYnZBQ3I0V2JsZEpycE90VFp4MkktLVhfSFNPMUFjVmFQU1liZzJuZGFFTVZCOEFfRHdEOE5UdVZETXRLUnFGajRERE",
+    "sources": [
+      {
+        "name": "array",
+        "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxOck43THd4QThJeG53MFYxMGxqaUkwY3RZZm1yM0YyTEJpSGdtYnZBQ3I0V2JsZEpycE90VFp4MkktLVhfSFNPMUFjVmFQU1liZzJuZGFFTVZCOEFfRHdEOE5UdVZETXRLUnFGajREREF2UTJKQXJZc01uUVVxeXBmZXA4UUpvWEFuUkVLWGxTWWZaYTNiX3BBOUZHQ0JkVUp1cEs0QlZrMXBYUUdPNzVoNW1CelVlbHlmZ2E1TVdPOUtPQzdDdlpaekppYWtHQnJ3Q21RUjNQOVEzWk5zRERoUlVkSFhIc2x5YUc0aGM4Y0NaZlg1SGtsV2FtaldKZE5BdHA0azhudXg4a2N3NHFBR2N4bXlQZDJBMHhLQw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "array-2026-07-13-026",
+    "date": "2026-07-13",
+    "companies": [
+      "array"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Solar tracker maker Array Technologies plans Aug. 5 Q2 earnings webcast - Stock Titan",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxPcFFXZWNxTnFob3JYMmU0TzFNY0ZiSEVzNC1wUUgzcDZ5NlBhWHp6NTNTdEE0NlZYanhTcWUwTEk4UEdUS3RybG5NM01ETFhKWjFDbUx5amN6Yk9BMFZFdXNjNFJOX0hzZDRqVXRSaX",
+    "sources": [
+      {
+        "name": "array",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPcFFXZWNxTnFob3JYMmU0TzFNY0ZiSEVzNC1wUUgzcDZ5NlBhWHp6NTNTdEE0NlZYanhTcWUwTEk4UEdUS3RybG5NM01ETFhKWjFDbUx5amN6Yk9BMFZFdXNjNFJOX0hzZDRqVXRSaXlnZFVENnphQjItV3FtdmxrY0xUNXpQaklzRjM3YUFWaTJDOThoX1FmdVNvcUVjTV82WHhwVk11d2hJcHJCQXhqMnlQZURTR1BDb2s4Yw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-13-027",
+    "date": "2026-07-13",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "Solar industry sounds alarm on federal permitting delays, warning of $120 billion consumer cost",
+    "summary": "The Solar Energy Industries Association is warning that a Department of the Interior policy requiring top-level political sign-offs for projects on public lands has choked federal permitting, putting ",
+    "sources": [
+      {
+        "name": "pv_magazine_usa",
+        "url": "https://pv-magazine-usa.com/2026/07/13/solar-industry-sounds-alarm-on-federal-permitting-delays-warning-of-120-billion-consumer-cost/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-13-028",
+    "date": "2026-07-13",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "How EPCs can de-risk solar carport projects",
+    "summary": "Commercial solar carports represent an immense, high-growth market opportunity, but their complex heavy construction demands rigorous engineering, upfront soil risk pricing, and specialized expertise ",
+    "sources": [
+      {
+        "name": "pv_magazine_usa",
+        "url": "https://pv-magazine-usa.com/2026/07/13/how-epcs-can-de-risk-solar-carport-projects/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-13-029",
+    "date": "2026-07-13",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Peak Energy to build 4 GWh grid-scale sodium-ion BESS factory in California",
+    "summary": "Sodium-ion battery startup Peak Energy says its $71 million factory will be the first facility in the United States dedicated to grid-scale sodium-ion energy storage systems. Shipments are expected to",
+    "sources": [
+      {
+        "name": "pv_magazine_usa",
+        "url": "https://pv-magazine-usa.com/2026/07/13/peak-energy-to-build-4-gwh-grid-scale-sodium-ion-bess-factory-in-california/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-13-030",
+    "date": "2026-07-13",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "China could produce more batteries than global demand by 2030, says U.S. think tank",
+    "summary": "China’s battery cell manufacturing capacity could exceed projected global demand by 2030, according to a new Carnegie Endowment report, which recommends selective cooperation with Chinese companies to",
+    "sources": [
+      {
+        "name": "pv_magazine_usa",
+        "url": "https://pv-magazine-usa.com/2026/07/13/china-could-produce-more-batteries-than-global-demand-by-2030-says-us-think-tank/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-13-031",
+    "date": "2026-07-13",
+    "companies": [],
+    "topics": [
+      "grid_parity",
+      "trade_tariff",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "U.S. solar LCOE on the rise, says Lazard",
+    "summary": "Utility-scale solar PV remains one of the lowest-cost sources of new electricity despite an 18% year-on-year increase in unsubsidized LCOE to $40–98/MWh, driven by higher capital costs, interest rates",
+    "sources": [
+      {
+        "name": "pv_magazine_usa",
+        "url": "https://pv-magazine-usa.com/2026/07/13/u-s-solar-lcoe-on-the-rise-lazard-says/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-13-032",
+    "date": "2026-07-13",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Bright Saver begins offering plug-in solar kits at wholesale costs to customers nationwide",
+    "summary": "The California-based nonprofit is now accepting pre-orders for plug-in solar kits it says cost exactly what it pays to buy, ship and support them. The wholesale model is supported by a new membership ",
+    "sources": [
+      {
+        "name": "pv_magazine_usa",
+        "url": "https://pv-magazine-usa.com/2026/07/13/bright-saver-begins-offering-plug-in-solar-kits-at-wholesale-costs-to-customers-nationwide/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-13-033",
+    "date": "2026-07-13",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "ENGWE 150-mile L16 Utility e-bike from $899, Segway Xyber e-bike + extra battery $1,400 off, Navimow i215 LiDAR robot, more",
+    "summary": "<div class=\"feat-image\"><img src=\"https://electrek.co/wp-content/uploads/sites/3/2026/07/ENGWE-Segway-Navimow-and-Scooter-Worx-GDs-FI.jpg?quality=82&#038;strip=all&#038;w=1600\" /></div><p class=\"wp-bl",
+    "sources": [
+      {
+        "name": "electrek_solar",
+        "url": "https://electrek.co/2026/07/13/engwe-l16-utility-e-bike-segway-xyber-e-bike-extra-battery-navimow-i215-lidar-robot-more/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-13-034",
+    "date": "2026-07-13",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Vanlife: Vantrack promises a Kia PV5 camper you can actually buy",
+    "summary": "<div class=\"feat-image\"><img src=\"https://electrek.co/wp-content/uploads/sites/3/2026/07/vantrack_MAIN.jpeg?quality=82&#038;strip=all&#038;w=1600\" /></div><p class=\"wp-block-paragraph\">The conversion ",
+    "sources": [
+      {
+        "name": "electrek_solar",
+        "url": "https://electrek.co/2026/07/13/vanlife-vantrack-promises-a-kia-pv5-camper-you-can-actually-buy/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-13-035",
+    "date": "2026-07-13",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "More demand, more renewables and an outstanding issue: Uruguay debates new PPAs - Energía Estratégica",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxOUUtBMVR5WXdEcDl5SFNEQzdubHprVGt2WFVQX0pFMXZXclliMlBqWUtIbFBHYXBra2NrWTh6U2JrZTlEaFdWb2htZnJqSWMxRjBwMjNqWi15MU85UWJPLUNNb3JpUVBpNDZualhtNF",
+    "sources": [
+      {
+        "name": "google_news_solar",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOUUtBMVR5WXdEcDl5SFNEQzdubHprVGt2WFVQX0pFMXZXclliMlBqWUtIbFBHYXBra2NrWTh6U2JrZTlEaFdWb2htZnJqSWMxRjBwMjNqWi15MU85UWJPLUNNb3JpUVBpNDZualhtNFd2Y0xtdTBQTnk2T2UxZWxoLUhiWUlfeXJmWFVlaDFvRDAtNTRDckw4TkFhMVhNaVRBeXNWTDJ6QU8yNXVoa25SQXdwTjlRMW4td3I0?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-13-036",
+    "date": "2026-07-13",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "A solar farm was built only to make electricity, but the ground beneath the panels quietly began doing something no one had planned for - Vozpopuli",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgJBVV95cUxNM2hvcDJ5QnE0OVZOaFJuMW81SFU3VmdyTkdzWWVaNTZ2RVp2WE54b3k0NDdpd2E0X1l4bzVEbm0ycGJyY2pSRUtIQV96V2owODJaazlMLTdpekZWYk9PTV9VYk1TM3k4em5CMW5BaW",
+    "sources": [
+      {
+        "name": "google_news_solar",
+        "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNM2hvcDJ5QnE0OVZOaFJuMW81SFU3VmdyTkdzWWVaNTZ2RVp2WE54b3k0NDdpd2E0X1l4bzVEbm0ycGJyY2pSRUtIQV96V2owODJaazlMLTdpekZWYk9PTV9VYk1TM3k4em5CMW5BaW5QbzJtdldLbGNickxuLXA3WlR4VnQ1ZVFvOE9vN2VyQVpFTkhYUHZJTDJteUN2UVNTbFc4QlF2QXdTd0lLX2NxaF9ibzhfZkFlQm0zSWdudXpISG9tY1l6N0loenkzUzBPNDN6UThzZ3pTMGltX1VjTjQ2NmhTYlJQRkNvbkljcElqZGpTOWVBM3lBVk1mek10Qm1SMnBB?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-13-037",
+    "date": "2026-07-13",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Global Solar Nodes: Eco-Art Servers Energize Internet from Los Angeles to Beijing and Beyond - freeyork",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTFBGRUNJSWZLZC1hYVNiblRXeGlmeEZ3eTRpYklRZzFVaUQwWlZFU0NjZW9PenZnT0VLb0xzR1BMQXEzdlVEbVFIaUhneVhUS3lacUZVVmQwVVJIanVYcVNvOGY3Q2Z5R2U3WTZIUWVhaj",
+    "sources": [
+      {
+        "name": "google_news_solar",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBGRUNJSWZLZC1hYVNiblRXeGlmeEZ3eTRpYklRZzFVaUQwWlZFU0NjZW9PenZnT0VLb0xzR1BMQXEzdlVEbVFIaUhneVhUS3lacUZVVmQwVVJIanVYcVNvOGY3Q2Z5R2U3WTZIUWVhajhNbnM4UFU2QQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-13-038",
+    "date": "2026-07-13",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Aker Solutions wins contract for Norwegian hydropower plant",
+    "summary": "The Tussa II hydropower plant will feature two 75MW Pelton turbine units providing a total installed capacity of 150MW.",
+    "sources": [
+      {
+        "name": "renewableenergyw",
+        "url": "https://www.renewableenergyworld.com/hydro-power/aker-solutions-wins-contract-for-norwegian-hydropower-plant/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-13-039",
+    "date": "2026-07-13",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Energy storage brand merger: Stryten to acquire C&D Trojan",
+    "summary": "<p>Energy storage solutions provider Stryten Energy announced it would acquire C&#38;D Trojan, another American battery brand with a storied history. The transaction is anticipated to close in Q3 2026",
+    "sources": [
+      {
+        "name": "solar_power_world",
+        "url": "https://www.solarpowerworldonline.com/2026/07/energy-storage-brand-merger-stryten-to-acquire-cd-trojan/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-13-040",
+    "date": "2026-07-13",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "BlackRock subsidiary acquiring solar contractor Summit Ridge Energy",
+    "summary": "<p>Global Infrastructure Partners (GIP), a BlackRock subsidiary, intends to acquire a majority stake in community and commercial solar company Summit Ridge Energy. “We are thrilled to acquire Summit R",
+    "sources": [
+      {
+        "name": "solar_power_world",
+        "url": "https://www.solarpowerworldonline.com/2026/07/blackrock-subsidiary-acquiring-solar-contractor-summit-ridge-energy/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-13-041",
+    "date": "2026-07-13",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Solar Power World’s parent company, WTWH Media, rebrands as Arrowfly",
+    "summary": "<p>Solar Power World&#8217;s parent company, WTWH Media, today announced it has rebranded as Arrowfly. The new name and identity reflect the company&#8217;s transformation from a specialized trade pub",
+    "sources": [
+      {
+        "name": "solar_power_world",
+        "url": "https://www.solarpowerworldonline.com/2026/07/solar-power-worlds-parent-company-wtwh-media-rebrands-as-arrowfly/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-13-042",
+    "date": "2026-07-13",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "Does your logistics company understand the solar market?",
+    "summary": "<p>While a logistics failure in retail might only result in a customer complaint, a failure on a utility-scale solar project can lead to significant fines and project delays that threaten partnerships",
+    "sources": [
+      {
+        "name": "solar_power_world",
+        "url": "https://www.solarpowerworldonline.com/2026/07/does-your-logistics-company-understand-the-solar-market/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-13-043",
+    "date": "2026-07-13",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Argentina awards 700MW BESS in elevenfold oversubscribed tender",
+    "summary": "The Argentinian Government has awarded 700MW of battery energy storage system (BESS) in its latest tender, AlmaSADI, covering the entire country.",
+    "sources": [
+      {
+        "name": "energy_storage_news",
+        "url": "https://www.energy-storage.news/argentina-awards-700mw-bess-in-elevenfold-oversubscribed-tender/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-13-044",
+    "date": "2026-07-13",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Leaked EU Electrification Action Plan recognises need for 200GW of energy storage by 2030",
+    "summary": "According to a leaked draft of its Electrification Action Plan, the European Union (EU) must deploy 200GW of energy storage by 2030 to meet energy system flexibility needs.",
+    "sources": [
+      {
+        "name": "energy_storage_news",
+        "url": "https://www.energy-storage.news/leaked-eu-electrification-action-plan-recognises-need-for-200gw-of-energy-storage-by-2030/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-13-045",
+    "date": "2026-07-13",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "How Dahua is expanding into renewable energy with AI-powered solutions",
+    "summary": "We catch up with Dahua Technology, one of the world’s largest video-centric AIoT tech companies globally, about its expansion into clean energy technologies like EV charging.",
+    "sources": [
+      {
+        "name": "energy_storage_news",
+        "url": "https://www.energy-storage.news/how-dahua-is-expanding-into-renewable-energy-with-ai-powered-solutions/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-13-046",
+    "date": "2026-07-13",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Canada Has Named Five Interties. It Still Has To Build A National Grid",
+    "summary": "<p>Canada’s electricity strategy is finally becoming specific enough to test. Ottawa is no longer speaking only about clean power, energy security, nation building and doubling grid capacity. The fede",
+    "sources": [
+      {
+        "name": "cleantechnica",
+        "url": "https://cleantechnica.com/2026/07/13/canada-five-interties-national-electricity-grid/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-13-047",
+    "date": "2026-07-13",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Indigenous Organizations And Tribal Nations Are Innovating Energy Solutions",
+    "summary": "<p>Ever since Trump 2.0 ascended the golden staircase to the White House, clean energy has been boo&#8217;d, discredited, and denied. Individuals with conservative, closely-held cultural models and do",
+    "sources": [
+      {
+        "name": "cleantechnica",
+        "url": "https://cleantechnica.com/2026/07/13/indigenous-organizations-and-tribal-nations-are-innovating-energy-solutions/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-13-048",
+    "date": "2026-07-13",
+    "companies": [],
+    "topics": [
+      "grid_parity",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Renewable Energy Beats Fossil Fuels On Speed-To-Power (Shocker!)",
+    "summary": "<p>The 19th \"Levelized Cost of Energy+\" from the leading asset manager Lazard makes a strong case for renewable energy, particularly wind and solar.</p>\n<p>The post <a href=\"https://cleantechnica.com/",
+    "sources": [
+      {
+        "name": "cleantechnica",
+        "url": "https://cleantechnica.com/2026/07/13/lcoe-renewable-energy-wind-solar-lazard-us/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-13-049",
+    "date": "2026-07-13",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Renewables, Led By Solar, Were Largest Source of Energy Supply Growth Globally in 2025",
+    "summary": "<p>I wrote about the 75th edition of the Statistical Review of World Energy a few days ago with some bad news, that the US accounted for 47% of the world&#8217;s CO2 emissions growth in 2025, due in p",
+    "sources": [
+      {
+        "name": "cleantechnica",
+        "url": "https://cleantechnica.com/2026/07/13/renewables-led-by-solar-were-largest-source-of-energy-supply-growth-globally-in-2025/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-13-050",
+    "date": "2026-07-13",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "Ballard’s GeoPura Deal Turns Private Hydrogen Losses Into Public Dilution",
+    "summary": "<p>Perpetual loss-making hydrogen fuel cell firm Ballard Power is paying £275 million for GeoPura, but only £82.5 million is cash. Most of the price is 50.8 million newly issued and dilutive Ballard s",
+    "sources": [
+      {
+        "name": "cleantechnica",
+        "url": "https://cleantechnica.com/2026/07/13/ballard-geopura-deal-losses-dilution/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-13-051",
+    "date": "2026-07-13",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Perovskite Solar Cells Will Make Solar Power Even Cheaper",
+    "summary": "<p>The US startup Sofab is among the stakeholders pushing perovskite solar cell technology out of the laboratory and into the marketplace, offering improved supply chain stability alongside further cu",
+    "sources": [
+      {
+        "name": "cleantechnica",
+        "url": "https://cleantechnica.com/2026/07/13/perovskite-solar-cells-us-startups-uk-japan-australia/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "ja_solar-2026-07-12-001",
     "date": "2026-07-12",
     "companies": [
@@ -369,6 +1290,24 @@
       {
         "name": "jinko",
         "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5OR2tINUFCc1ZhQjdVYU5kVWZPUWF6ZmZUTmVFR09LbExNckRDSlR1UURUdHFXWXVLUUFKRHRpeld5cFlUVWdMYm5rSWRab2JkYUFJODY3SHRJNEZRcmtDd0l4amZpTThqREVrVVJtMmRyUFllbkE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-12-004",
+    "date": "2026-07-12",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Rooftop solar eases New England's electric demand in heat wave - Maine Public",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxNN2djS25fYVJJTGZhUlpySzZLeEU3QjFWazF6aWNFaWhOV2VSTFZlS3dmU0NuZ191TDRfeFptMkY5ZXJXS0ZDU1pqQjlzeFRrQTJ5OHdDejhEQWNFbFRvV0FFQWJZbUZnLVB4YTk4My",
+    "sources": [
+      {
+        "name": "google_news_solar",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNN2djS25fYVJJTGZhUlpySzZLeEU3QjFWazF6aWNFaWhOV2VSTFZlS3dmU0NuZ191TDRfeFptMkY5ZXJXS0ZDU1pqQjlzeFRrQTJ5OHdDejhEQWNFbFRvV0FFQWJZbUZnLVB4YTk4My1mT3FYUGFUc0IzTHE1UDhwMkZqeWV5MklMTlYyWGxaM0tPcU8tUXdYVDM1RnpUTkN4amJYbDRoYkZaTHgy?oc=5",
         "type": "rss"
       }
     ]
@@ -1487,6 +2426,26 @@
       {
         "name": "nextracker",
         "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQQ01lMTA2bkZ0TGlWZW9kNzBqTTVOMXZoSENyMVc5MVpBUHpxRVVGY0tXZWM3R2VjMF9pQ3pnVFZwUnJSUUJHbXBSTHFwQzRRei1KVTFKUTFRX1BjcDlCVEZ2WE9GeExFNjVqQ1FEY0FYRi1Tck1ybl9JVzBJX2ZvT2ZtZng5TVlfT0Q5QzlQaXAtWUduTEZyNQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "array-2026-07-10-048",
+    "date": "2026-07-10",
+    "companies": [
+      "array"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Array Technologies (ARRY) Short Interest & Short Float | Updated Jul 2026 $ARRY - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTFAzb0wzVk42c2tlN2xIaDNrMzcza2cyZkxVeHR3c1FSY08wdmM2OGJUMTdJTlR6UFBBajZMaWdfLTItaXRXNTZhN2FRakxGMF9hVzNCQVh3MGZSY21QQjNhal9QbkpnOWpvNTBLcl9R?o",
+    "sources": [
+      {
+        "name": "array",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFAzb0wzVk42c2tlN2xIaDNrMzcza2cyZkxVeHR3c1FSY08wdmM2OGJUMTdJTlR6UFBBajZMaWdfLTItaXRXNTZhN2FRakxGMF9hVzNCQVh3MGZSY21QQjNhal9QbkpnOWpvNTBLcl9R?oc=5",
         "type": "rss"
       }
     ]

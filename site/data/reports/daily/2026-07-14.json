@@ -1,0 +1,208 @@
+{
+  "date": "2026-07-14",
+  "generated_at": "2026-07-14T09:46:18.271026Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-07-14-002",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "France, Italy, Spain set daily solar records",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.75
+      },
+      "source_url": "https://www.pv-magazine.com/2026/07/14/france-italy-spain-set-daily-solar-records/"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-07-14-013",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "The technology breakthroughs behind Huawei’s next-generation Smart-String Grid-Forming ESS Platform",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://www.energy-storage.news/the-technology-breakthroughs-behind-huaweis-next-generation-smart-string-grid-forming-ess-platform/"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-07-14-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Two injured in fire at photovoltaic plant in Spain",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "installation_demand",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.pv-magazine.com/2026/07/14/two-injured-in-fire-at-photovoltaic-plant-in-spain/"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-07-14-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Jackery showcases plug-in solar storage systems and energy management accessories in Munich",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.pv-magazine.com/2026/07/14/jackery-showcases-plug-in-solar-storage-systems-and-energy-management-accessories-in-munich/"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-07-14-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "German startup offers solar awnings",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.pv-magazine.com/2026/07/14/german-startup-offers-solar-awnings/"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "installation_demand": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 15,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "trade_tariff": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.5,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 16,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 11,
+      "negative": 3
+    },
+    "top_companies": [
+      {
+        "id": "risen",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 15
+      },
+      {
+        "id": "installation_demand",
+        "count": 2
+      },
+      {
+        "id": "trade_tariff",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 467,
+    "dup_title": 201,
+    "too_old": 164,
+    "gate1_blocked": 46,
+    "gate2_blocked": 4,
+    "passed": 52,
+    "pass_rate": "19.5%",
+    "gate2_block_rate": "1.5%",
+    "gate2_samples": [
+      "DAQO New Energy (NYSE:DQ) Hits New 12-Month Low - What's Next? - MarketBeat",
+      "Why Array Technologies, Inc. (ARRY) Outpaced the Stock Market Today - Yahoo Finance UK",
+      "Three-source heat pump system for cold climates",
+      "Eaton is preferred smart breaker supplier for FranklinWH"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 16 則事件，焦點為東方日升相關動態：「France, Italy, Spain set daily solar records」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "France, Italy, Spain set daily solar records（太陽能產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "The technology breakthroughs behind Huawei’s next-generation Smart-String Gri...（太陽能產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "裝機需求持續受關注，產業趨勢帶動需求成長。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

@@ -1,0 +1,15 @@
+{
+  "total_raw": 467,
+  "dup_title": 201,
+  "no_date": 0,
+  "too_old": 164,
+  "gate1_fail": 46,
+  "gate2_fail": 4,
+  "passed": 52,
+  "gate2_samples": [
+    "DAQO New Energy (NYSE:DQ) Hits New 12-Month Low - What's Next? - MarketBeat",
+    "Why Array Technologies, Inc. (ARRY) Outpaced the Stock Market Today - Yahoo Finance UK",
+    "Three-source heat pump system for cold climates",
+    "Eaton is preferred smart breaker supplier for FranklinWH"
+  ]
+}
