@@ -1,0 +1,16 @@
+{
+  "total_raw": 466,
+  "dup_title": 208,
+  "no_date": 0,
+  "too_old": 154,
+  "gate1_fail": 42,
+  "gate2_fail": 7,
+  "passed": 55,
+  "gate2_samples": [
+    "DAQO New Energy (NYSE:DQ) Hits New 12-Month Low - What's Next? - MarketBeat",
+    "LONGi Makes S&P Global Energy Premier List of Tier 1 Cleantech Companies 2026 - PR Newswire",
+    "LONGi Green Energy Tech Sees H1 Net Loss At 3.4-3.8 Billion Yuan - TradingView",
+    "LONGi Makes S&P Global Energy Premier List of Tier 1 Cleantech Companies 2026 - The Globe and Mail",
+    "Why Array Technologies, Inc. (ARRY) Outpaced the Stock Market Today - Yahoo Finance UK"
+  ]
+}

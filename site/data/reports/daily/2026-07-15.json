@@ -1,0 +1,235 @@
+{
+  "date": "2026-07-15",
+  "generated_at": "2026-07-15T09:49:41.119473Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-07-15-005",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "ISC Konstanz study highlights atomic layer deposition as a superior approach for TOPCon UV stability",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://www.pv-magazine.com/2026/07/15/isc-konstanz-study-highlights-atomic-layer-deposition-as-a-superior-approach-for-topcon-uv-stability/"
+    },
+    {
+      "rank": 2,
+      "event_id": "longi-2026-07-15-007",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Longi sets new world record with 35.5%-efficient perovskite-silicon tandem cell",
+      "companies": [
+        "longi"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "installation_demand",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://www.pv-magazine.com/2026/07/15/longi-sets-new-world-record-with-35-5-efficient-perovskite-silicon-tandem-cell/"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-07-15-009",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Chinese scientists achieve world record efficiency of 28.04% for perovksite-organic tandem solar cell",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.75
+      },
+      "source_url": "https://www.pv-magazine.com/2026/07/15/chinese-scientists-achieve-world-record-efficiency-of-28-04-for-perovksite-organic-tandem-solar-cell/"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-07-15-017",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "25% of EU Power Came from Solar for the First Time in June",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://cleantechnica.com/2026/07/14/25-of-eu-power-came-from-solar-for-the-first-time-in-june/"
+    },
+    {
+      "rank": 5,
+      "event_id": "sungrow-2026-07-15-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Sungrow Power Supply : Secures World’s First German Inertia Market “Passport” with VDE FNN Prototype Certificate - marketscreener.com",
+      "companies": [
+        "sungrow"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQaGJCNi1XclpoQXg5WVQxOXpjNWJKcGNLMUV1N1ZqTnVOUTVYNUQ2ZWNzMlVpeXNrOC1wdU5NR0EwWjJkbmRKRm9iZl9xYmwzc2FLSkctUEpYelE1ZXN1aWh3NVYxN1FhUldOall3SHI5SUlmUkd6OWVlT0RXNDViV2MyUTRIUU1SM0FQRUV6X3hTa1NlVFZPekFQX3pLZVJCYUNFRFZLbnBxaEFYSGs2bHpINGZlTTFBTlN2QUFLZVIzX2JGVEhnV2JlWWZ0dWRXR0pXbVB3YktvcjBkY0s0Ng?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 19,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.07,
+      "sentiment_7d_avg": null
+    },
+    "trade_tariff": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "installation_demand": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 1.0,
+      "sentiment_7d_avg": null
+    },
+    "grid_parity": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 21,
+    "sentiment_distribution": {
+      "positive": 3,
+      "neutral": 16,
+      "negative": 2
+    },
+    "top_companies": [
+      {
+        "id": "sungrow",
+        "count": 2
+      },
+      {
+        "id": "longi",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 19
+      },
+      {
+        "id": "trade_tariff",
+        "count": 2
+      },
+      {
+        "id": "installation_demand",
+        "count": 1
+      },
+      {
+        "id": "grid_parity",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 466,
+    "dup_title": 208,
+    "too_old": 154,
+    "gate1_blocked": 42,
+    "gate2_blocked": 7,
+    "passed": 55,
+    "pass_rate": "21.3%",
+    "gate2_block_rate": "2.7%",
+    "gate2_samples": [
+      "DAQO New Energy (NYSE:DQ) Hits New 12-Month Low - What's Next? - MarketBeat",
+      "LONGi Makes S&P Global Energy Premier List of Tier 1 Cleantech Companies 2026 - PR Newswire",
+      "LONGi Green Energy Tech Sees H1 Net Loss At 3.4-3.8 Billion Yuan - TradingView",
+      "LONGi Makes S&P Global Energy Premier List of Tier 1 Cleantech Companies 2026 - The Globe and Mail",
+      "Why Array Technologies, Inc. (ARRY) Outpaced the Stock Market Today - Yahoo Finance UK"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 21 則事件，焦點為陽光電源、隆基綠能相關動態：「ISC Konstanz study highlights atomic layer deposition as ...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "ISC Konstanz study highlights atomic layer deposition as a superior approach ...（太陽能產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "Longi sets new world record with 35.5%-efficient perovskite-silicon tandem cell（裝機需求、太陽能產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "裝機需求持續受關注，產業趨勢帶動需求成長。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
