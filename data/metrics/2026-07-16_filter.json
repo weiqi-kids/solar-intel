@@ -1,0 +1,16 @@
+{
+  "total_raw": 466,
+  "dup_title": 209,
+  "no_date": 0,
+  "too_old": 160,
+  "gate1_fail": 40,
+  "gate2_fail": 6,
+  "passed": 51,
+  "gate2_samples": [
+    "DAQO New Energy (NYSE:DQ) Hits New 12-Month Low - What's Next? - MarketBeat",
+    "LONGi Green Energy Tech Sees H1 Net Loss At 3.4-3.8 Billion Yuan - TradingView",
+    "LONGi Makes S&P Global Energy Premier List of Tier 1 Cleantech Companies 2026 - PR Newswire",
+    "Why Array Technologies, Inc. (ARRY) Outpaced the Stock Market Today - Yahoo Finance UK",
+    "Elon Musk quietly buys a $1 billion gas turbine company to power Grok"
+  ]
+}

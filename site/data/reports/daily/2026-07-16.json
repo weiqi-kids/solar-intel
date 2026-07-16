@@ -1,0 +1,214 @@
+{
+  "date": "2026-07-16",
+  "generated_at": "2026-07-16T09:55:38.555585Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "longi-2026-07-16-003",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "35.5%! LONGi Once Again Breaks World Record for Crystalline Silicon-Perovskite Tandem Solar Cell Efficiency - PR Newswire",
+      "companies": [
+        "longi"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPUjdDc2tKdGhBYXA3aVNMQkI1cFdYRmhpRFIxNXdrQnVRTnJtOEZiR2dUakVaVGtEUmhLUGE3OXVhdEhaanNadXhXYWN5SHFUaDZvbnh5Y2Etby1HQ19GY0hxRGhUekp3ZE9Yc3paTjRsSExTZ2IyZXBXT0lWNUdlSEZJQUE2RUppRWxGMm42OF94dUstNmRScEdFM3RhRVUxS1NSb0N5X0Z6YWtnSG0zdF81T1lZV3o3c3dzT1F5NjJVaHJwWjhOSlFhWENEMEtRSmdOSXRNcDVUckRjYXgxOEZyR0pucG9mY0NQUE91ZU5IeE0?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "longi-2026-07-16-004",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "LONGi breaks its own efficiency record with next-gen solar tech - China Daily - Global Edition",
+      "companies": [
+        "longi"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNUjlQUEFWbGRvWU56Z21aQXQ3OFI1WnU2UDdxQzRZUEUxSVI5NTFQaFdvUkxFT3U4Rm9BdnFYNzl4ZUptZ0ZzS0xFamo0RzVPNGNkNENWTFlYN3VCWmF6VzA5akhQQy1hZmFoNGF6eHlKWmxBSEdPUkhlRmlpRzhva3dR?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "daqo-2026-07-16-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "DAQO New Energy Corp. (NYSE:DQ) Receives Consensus Recommendation of \"Hold\" from Brokerages - MarketBeat",
+      "companies": [
+        "daqo"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQT3E2aE81R2lFSlgyZ2FvY3dWZ19oZjByRUdUdVRWcmw1Y1oyRjMwckVtaVpmLTM4RlBpOVRYWjAyUjgyWi1FUXpOSWJSMnZjeDVEcm9DZGtNREVHdDl1QzhHWFhJZHVtXy0tWFVOa0pIQ1E4MmVTWk1WZnVnUzd1WTdNejY1R0lmczVOTHlfY0M3TGlGd3VRdDNvaHVEZEw4TFQzNFdERHRPRGlSUzdnOFlMRzJBemhodXoyMkcyb1hWX2c1WGZudzFadnhESVFpQWVYa3lR?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-07-16-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "The swiftest route to scale - pv magazine Global",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBNd1M5OWpiMXNyeEo4akFYOU5vSFJXRG1XVnVBYUQxZVZGdUxwYXd4bVpQSGRibkpUcmtGUUZfX1hoRUtkUkx2LXBsMnBaR0hWRGFJcGxHazNhT3phWmRwMHdSSzJPcktvYTZ6Y3hIdXlsZllpQWc?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "ja_solar-2026-07-16-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "JA Solar Begins Module Deliveries for Masdar's World-First 24/7 Gigascale Clean Energy Project - PR Newswire",
+      "companies": [
+        "ja_solar"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQNTA0dEtoNy0yQmhnY2FUVndUekM2ZkhpQmhNVFY1LTFxbUdKblJWV3A0dWdiQVh4eGxBNk0yOWlFVERVSmhLemFPdW5SUmJDczk2VUVRX20xbkJ0V0ZPcXVXUVZFdVhHRDIxY0Z5WEZSVERXMG55bEFFMnJLaTZiSzh0UmxuUHNpc0U4R1ZENHRleVRCRWphd0JrbG15MndLQko2OEJPTmRmQjQyMmkzVk9FT3ZOalVsMGR5OHdGMzMtYjhRUWlFREpvNXNkc1EzZVVLZEFueUctRHBPYWZDd1Bn?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 20,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.12,
+      "sentiment_7d_avg": null
+    },
+    "installation_demand": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 20,
+    "sentiment_distribution": {
+      "positive": 3,
+      "neutral": 17,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "longi",
+        "count": 2
+      },
+      {
+        "id": "daqo",
+        "count": 1
+      },
+      {
+        "id": "ja_solar",
+        "count": 1
+      },
+      {
+        "id": "trina",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 20
+      },
+      {
+        "id": "installation_demand",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 466,
+    "dup_title": 209,
+    "too_old": 160,
+    "gate1_blocked": 40,
+    "gate2_blocked": 6,
+    "passed": 51,
+    "pass_rate": "19.8%",
+    "gate2_block_rate": "2.3%",
+    "gate2_samples": [
+      "DAQO New Energy (NYSE:DQ) Hits New 12-Month Low - What's Next? - MarketBeat",
+      "LONGi Green Energy Tech Sees H1 Net Loss At 3.4-3.8 Billion Yuan - TradingView",
+      "LONGi Makes S&P Global Energy Premier List of Tier 1 Cleantech Companies 2026 - PR Newswire",
+      "Why Array Technologies, Inc. (ARRY) Outpaced the Stock Market Today - Yahoo Finance UK",
+      "Elon Musk quietly buys a $1 billion gas turbine company to power Grok"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 20 則事件，焦點為隆基綠能、大全新能源、晶澳科技相關動態：「35.5%! LONGi Once Again Breaks World Record for Crystalli...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "35.5%! LONGi Once Again Breaks World Record for Crystalline Silicon-Perovskit...（太陽能產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "LONGi breaks its own efficiency record with next-gen solar tech - China Daily...（太陽能產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "裝機需求持續受關注，產業趨勢帶動需求成長。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
