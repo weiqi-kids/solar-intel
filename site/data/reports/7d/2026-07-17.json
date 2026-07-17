@@ -1,0 +1,167 @@
+{
+  "date": "2026-07-17",
+  "date_range": {
+    "start": "2026-07-11",
+    "end": "2026-07-17"
+  },
+  "generated_at": "2026-07-17T09:46:14.646465Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "unknown-2026-07-11-004",
+      "date": "2026-07-11",
+      "title": "Study finds heatwaves cause hourly losses of up to 90% in PV plants in Iberian peninsula",
+      "importance_score": 0.65
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "industry_general": {
+      "this_week": 106,
+      "last_week": 112,
+      "week_over_week_change": "-5%",
+      "sentiment_this_week": 0.05
+    },
+    "module_price": {
+      "this_week": 1,
+      "last_week": 1,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    },
+    "trade_tariff": {
+      "this_week": 5,
+      "last_week": 2,
+      "week_over_week_change": "+150%",
+      "sentiment_this_week": -0.1
+    },
+    "installation_demand": {
+      "this_week": 6,
+      "last_week": 7,
+      "week_over_week_change": "-14%",
+      "sentiment_this_week": 0.17
+    },
+    "grid_parity": {
+      "this_week": 1,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "daqo": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 6
+    },
+    "sungrow": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 3
+    },
+    "ja_solar": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 4
+    },
+    "gcl": {
+      "event_count": 3,
+      "sentiment_avg": 0.33,
+      "rank": 5
+    },
+    "longi": {
+      "event_count": 5,
+      "sentiment_avg": 0.6,
+      "rank": 1
+    },
+    "trina": {
+      "event_count": 4,
+      "sentiment_avg": 0.0,
+      "rank": 2
+    },
+    "jinko": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 9
+    },
+    "risen": {
+      "event_count": 2,
+      "sentiment_avg": -0.12,
+      "rank": 7
+    },
+    "array": {
+      "event_count": 2,
+      "sentiment_avg": -0.25,
+      "rank": 8
+    },
+    "tongwei": {
+      "event_count": 1,
+      "sentiment_avg": 1.0,
+      "rank": 10
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 260,
+        "last": 284,
+        "change_pct": -8.5
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-07-11",
+      "event_count": 13,
+      "sentiment_avg": -0.08
+    },
+    {
+      "date": "2026-07-12",
+      "event_count": 4,
+      "sentiment_avg": -0.25
+    },
+    {
+      "date": "2026-07-13",
+      "event_count": 59,
+      "sentiment_avg": 0.04
+    },
+    {
+      "date": "2026-07-14",
+      "event_count": 50,
+      "sentiment_avg": 0.06
+    },
+    {
+      "date": "2026-07-15",
+      "event_count": 49,
+      "sentiment_avg": 0.05
+    },
+    {
+      "date": "2026-07-16",
+      "event_count": 59,
+      "sentiment_avg": 0.08
+    },
+    {
+      "date": "2026-07-17",
+      "event_count": 26,
+      "sentiment_avg": 0.1
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-07-11 ~ 2026-07-17）共 260 則事件，重點為「Study finds heatwaves cause hourly losses of up...」。Array Technologies情緒偏負面，建議留意相關風險。",
+    "watchlist": [
+      {
+        "company": "Array Technologies",
+        "reason": "本週情緒偏負面（-0.2），共 2 則相關事件，需關注後續發展。"
+      },
+      {
+        "company": "陽光電源",
+        "reason": "本週出現 3 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "晶澳科技",
+        "reason": "本週出現 3 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

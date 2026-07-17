@@ -1,0 +1,232 @@
+{
+  "date": "2026-07-17",
+  "generated_at": "2026-07-17T09:46:14.506753Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-07-17-003",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "China’s solar giants brace for losses in H1 - Renewables Now",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOMl9iQnQ1ZXpEdjYxRnd5UzZfWTNwU21DTk90SnkwRy1falJzNWVwZGZ6M2NzUG9ORk1oaVBnTHBlT25OQUFtYUMzWEh0M2hLaVB4Nk9Ib2dNUTdxbHBUaVczTHBKT01vcGxmQWw3RV8xTGlYMTNfSENpNjY2M2dCMnlTbWx2X0RlLWc?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "tongwei-2026-07-17-008",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Tongwei claims record-breaking 93.07% bifaciality factor for 770 W solar module",
+      "companies": [
+        "tongwei"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://www.pv-magazine.com/2026/07/17/tongwei-claims-record-breaking-93-07-bifaciality-factor-for-770-w-solar-module/"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-07-17-017",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Scientists build 31%-efficient indium-free tandem perovskite silicon mini-module via reactive plasma deposition",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://www.pv-magazine.com/2026/07/17/research-breakthrough-develops-indium-free-tandem-solar-cell-with-31-efficiency/"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-07-17-020",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Global solar module output declined in 20205 amid industry reset - Green Building Africa",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPQ2VtZzhNT3ROWXphQ3dhOXozOV83VG1RN0VVSlBNQkxXYlVQdzlkR3g3NnVFSUctVmZkcDJXb0QwTl9JYXNDZkw1NUN2ZjVlWlZEQnB4eThyUFNuck01TjI2U192cDdZX0RZQlNsdzcwdEZPYUJYRkFXMlZucTkxbkVGOF9VWTNMRWpvTlJKcTdKOGFzSG9wemtfc05PejBNTE9RclFR?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-07-17-025",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "6 Records Solar & Storage Have Crushed in the First Half of 2026",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://cleantechnica.com/2026/07/16/6-records-solar-storage-have-crushed-in-the-first-half-of-2026/"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 26,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.1,
+      "sentiment_7d_avg": null
+    },
+    "trade_tariff": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "installation_demand": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 26,
+    "sentiment_distribution": {
+      "positive": 5,
+      "neutral": 18,
+      "negative": 3
+    },
+    "top_companies": [
+      {
+        "id": "gcl",
+        "count": 2
+      },
+      {
+        "id": "trina",
+        "count": 2
+      },
+      {
+        "id": "array",
+        "count": 2
+      },
+      {
+        "id": "ja_solar",
+        "count": 1
+      },
+      {
+        "id": "tongwei",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 26
+      },
+      {
+        "id": "installation_demand",
+        "count": 2
+      },
+      {
+        "id": "trade_tariff",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 463,
+    "dup_title": 183,
+    "too_old": 154,
+    "gate1_blocked": 44,
+    "gate2_blocked": 11,
+    "passed": 71,
+    "pass_rate": "25.4%",
+    "gate2_block_rate": "3.9%",
+    "gate2_samples": [
+      "DAQO New Energy (NYSE:DQ) Hits New 12-Month Low - What's Next? - MarketBeat",
+      "LONGi Makes S&P Global Energy Premier List of Tier 1 Cleantech Companies 2026 - PR Newswire",
+      "LONGi Green Energy Tech Sees H1 Net Loss At 3.4-3.8 Billion Yuan - TradingView",
+      "ARRAY Technologies to Acquire Affordable Wire Management - GlobeNewswire",
+      "Array agrees to buy cable-systems business for $203M - Stock Titan"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 26 則事件，焦點為協鑫科技、天合光能、Array Technologies相關動態：「China’s solar giants brace for losses in H1 - Renewables Now」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "China’s solar giants brace for losses in H1 - Renewables Now（太陽能產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "Tongwei claims record-breaking 93.07% bifaciality factor for 770 W solar module（太陽能產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "裝機需求持續受關注，產業趨勢帶動需求成長。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
