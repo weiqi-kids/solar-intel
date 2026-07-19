@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-18T09:16:08.287944Z",
-  "quarter": "2025-06-30, 2025-12-31, 2026-03-31",
+  "updated_at": "2026-07-19T09:44:23.877616Z",
+  "quarter": "2025-12-31, 2026-03-31",
   "companies": [
     {
       "id": "array",
@@ -154,23 +154,6 @@
       "inventory_applicable": true,
       "alert": true,
       "quarter_date": "2026-03-31"
-    },
-    {
-      "id": "maxeon",
-      "name": "Maxeon Solar Technologies",
-      "ticker": "MAXN",
-      "currency": "USD",
-      "ar": 8772000,
-      "ar_prev": 4269000,
-      "ar_qoq": "+105%",
-      "ar_period": "QoQ",
-      "inventory": 34103000,
-      "inv_prev": 40220000,
-      "inv_qoq": "-15%",
-      "inv_period": "QoQ",
-      "inventory_applicable": true,
-      "alert": true,
-      "quarter_date": "2025-06-30"
     },
     {
       "id": "nextracker",

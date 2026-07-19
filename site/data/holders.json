@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-18T09:16:11.750169+00:00",
+  "updated_at": "2026-07-19T09:44:28.290509+00:00",
   "companies": {
     "xinyi_solar": {
       "name": "Xinyi Solar",
@@ -292,73 +292,6 @@
           "shares": 638309,
           "pct_held": 1.22,
           "value": 10525715
-        }
-      ]
-    },
-    "maxeon": {
-      "name": "Maxeon Solar Technologies",
-      "short_name": "Maxeon Solar Technologies",
-      "ticker": "MAXN",
-      "holders": [
-        {
-          "holder": "Citadel Advisors Llc",
-          "shares": 121655,
-          "pct_held": 0.22,
-          "value": 92372
-        },
-        {
-          "holder": "Maytree Asset Management Ltd",
-          "shares": 88082,
-          "pct_held": 0.16,
-          "value": 66880
-        },
-        {
-          "holder": "Northern Trust Corporation",
-          "shares": 62415,
-          "pct_held": 0.11,
-          "value": 47391
-        },
-        {
-          "holder": "Susquehanna International Group, LLP",
-          "shares": 60970,
-          "pct_held": 0.11,
-          "value": 46294
-        },
-        {
-          "holder": "Blackrock Inc.",
-          "shares": 32934,
-          "pct_held": 0.06,
-          "value": 25006
-        },
-        {
-          "holder": "Xtx Topco Ltd",
-          "shares": 14245,
-          "pct_held": 0.03,
-          "value": 10816
-        },
-        {
-          "holder": "Mackenzie Financial Corporation",
-          "shares": 14109,
-          "pct_held": 0.03,
-          "value": 10712
-        },
-        {
-          "holder": "Morgan Stanley",
-          "shares": 10382,
-          "pct_held": 0.02,
-          "value": 7883
-        },
-        {
-          "holder": "UBS Group AG",
-          "shares": 2301,
-          "pct_held": 0.0,
-          "value": 1747
-        },
-        {
-          "holder": "Royal Bank of Canada",
-          "shares": 2128,
-          "pct_held": 0.0,
-          "value": 1615
         }
       ]
     },

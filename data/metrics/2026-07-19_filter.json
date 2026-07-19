@@ -1,0 +1,16 @@
+{
+  "total_raw": 464,
+  "dup_title": 252,
+  "no_date": 0,
+  "too_old": 139,
+  "gate1_fail": 43,
+  "gate2_fail": 9,
+  "passed": 21,
+  "gate2_samples": [
+    "DAQO New Energy (NYSE:DQ) Hits New 12-Month Low - What's Next? - MarketBeat",
+    "LONGi Makes S&P Global Energy Premier List of Tier 1 Cleantech Companies 2026 - PR Newswire",
+    "LONGi Green Energy Tech Sees H1 Net Loss At 3.4-3.8 Billion Yuan - TradingView",
+    "ARRAY Technologies to Acquire Affordable Wire Management - GlobeNewswire",
+    "ARRAY Technologies to acquire Affordable Wire Management for $203M - Investing.com"
+  ]
+}
