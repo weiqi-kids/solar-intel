@@ -1,0 +1,225 @@
+{
+  "date": "2026-07-20",
+  "generated_at": "2026-07-20T10:40:59.875488Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "gcl-2026-07-20-003",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "GCL Technology Holdings’s Stock Price Drops to 0.58 HKD, Experiencing a 3.33% Decline - Smartkarma",
+      "companies": [
+        "gcl"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOVWdtYUR3eFRxcDRUMWhjSGhuS0hUVlgyem1VNC1XQnhidDI0ZlVEWEdwc2FUT2l6dHo1cXRaVHFpMzlHU1ZVNFh0eXIwalBPM2dWMW1iZ1FIS1RhMXhZeXdrM25fX09JM3NJd25VN3NRTmcxWW1kRnpYSU5FTUR4eUlsOHpKeTlSVV96M3RqYUpncl9kLUpfV2NUTTlmQjA4anE5dmRTNzdsOElUenRDRWgxZmkzbFh2U1dac0VjSWRfQkU2ZXJuOA?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-07-20-017",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Australia sees record surge in solar, wind and battery projects",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://www.pv-magazine.com/2026/07/20/solar-wind-and-battery-projects-surge-to-record-high/"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-07-20-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Xinyi Energy Earnings Remain Under Pressure From Falling Tariffs and Rising Curtailment - Morningstar",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "trade_tariff",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQVXMwT0xQUFNiRmxPYmJjSU01ZDY2VFo1cEhHWUpYcldFczN1SEdyall6emdoUnlxTDhWemJ5YTNvNzFFX3kxWGRyMnh3clBmb29GWXlPcXY4TEt6dnozR3laRFJ0ZF81aGFadlRtUGlIS1FVcy05Yy1PNEdET1JyckNEY0Jvb0VSOFphY2tZUmExYUFyd1lNY3JOVWJhLVotVllfZ3h2Ni0wVVRhN21GM0FwbktuYTludVpaSWNtSV9GZU53XzR3TFhOZGNVVGYyUmdHdG9B?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-07-20-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Xinyi Energy’s profit dives as China suffers from ‘solar hangover’ - thebambooworks.com",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNdE1IMjU1ZHdTNFBEVVJWSTJ0d0NLZ1NReWN3bzM3MUR3MG16a3dWenhuNFJYZGJ1bVNuc2hKeWpLaUh2TTBXY0FhQTlNMWZYbER1bnNLeVJtQ01NbG5sdDFIaUpLQjYxX0RBRC1veG5GTGEwdFpzNXJSLVFtbjBtZjY5SUtVaDg5WE5yWGF2dkNLN1Q5REE?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "ja_solar-2026-07-20-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Masdar receives first JA Solar modules for Abu Dhabi RTC project - Asian Power",
+      "companies": [
+        "ja_solar"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQUDhOZmVZWjR5b1VSajJqTjBXZGxqU1lWTlNKS0VDUkdiUWlEcEIxSWhIODZ5Nnl4ZDdkRUFtcmxHdUx6QTJiUXI5YTg4b3lWdFNkdFp6UWo5d2RfY2lwSHVLNEd5YWhVRHVqVUowYWRSYzBiTEFzVDZCV3lMRnFpQjZnRjByNjZ6XzBQU2hxcmtUQjA?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "trade_tariff": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.5,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 23,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.02,
+      "sentiment_7d_avg": null
+    },
+    "installation_demand": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 23,
+    "sentiment_distribution": {
+      "positive": 3,
+      "neutral": 18,
+      "negative": 2
+    },
+    "top_companies": [
+      {
+        "id": "ja_solar",
+        "count": 2
+      },
+      {
+        "id": "trina",
+        "count": 2
+      },
+      {
+        "id": "gcl",
+        "count": 1
+      },
+      {
+        "id": "array",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 23
+      },
+      {
+        "id": "trade_tariff",
+        "count": 1
+      },
+      {
+        "id": "installation_demand",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 464,
+    "dup_title": 240,
+    "too_old": 140,
+    "gate1_blocked": 46,
+    "gate2_blocked": 8,
+    "passed": 30,
+    "pass_rate": "13.4%",
+    "gate2_block_rate": "3.6%",
+    "gate2_samples": [
+      "DAQO New Energy (NYSE:DQ) Hits New 12-Month Low - What's Next? - MarketBeat",
+      "LONGi Makes S&P Global Energy Premier List of Tier 1 Cleantech Companies 2026 - PR Newswire",
+      "LONGi Green Energy Tech Sees H1 Net Loss At 3.4-3.8 Billion Yuan - TradingView",
+      "ARRAY Technologies to Acquire Affordable Wire Management - GlobeNewswire",
+      "ARRAY Technologies to acquire Affordable Wire Management for $203M - Investing.com"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 23 則事件，焦點為晶澳科技、天合光能、協鑫科技相關動態：「GCL Technology Holdings’s Stock Price Drops to 0.58 HKD, ...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "GCL Technology Holdings’s Stock Price Drops to 0.58 HKD, Experiencing a 3.33%...（太陽能產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "Australia sees record surge in solar, wind and battery projects（太陽能產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "裝機需求持續受關注，產業趨勢帶動需求成長。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

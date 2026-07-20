@@ -1,0 +1,156 @@
+{
+  "date": "2026-07-20",
+  "date_range": {
+    "start": "2026-07-14",
+    "end": "2026-07-20"
+  },
+  "generated_at": "2026-07-20T10:41:00.013668Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "xinyi_solar-2026-07-15-050",
+      "date": "2026-07-15",
+      "title": "A-share photovoltaic leader LONGi Green Energy (601012.SH) is expected to report a widened interim loss of RMB 3.4 billion to RMB 3.8 billion; Xinyi Solar (0968.HK) and Flat Glass Group (6865.HK) held steady in early trading. - 富途牛牛",
+      "importance_score": 0.85
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "installation_demand": {
+      "this_week": 7,
+      "last_week": 7,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.14
+    },
+    "industry_general": {
+      "this_week": 109,
+      "last_week": 118,
+      "week_over_week_change": "-8%",
+      "sentiment_this_week": 0.06
+    },
+    "trade_tariff": {
+      "this_week": 5,
+      "last_week": 2,
+      "week_over_week_change": "+150%",
+      "sentiment_this_week": -0.2
+    },
+    "grid_parity": {
+      "this_week": 1,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "risen": {
+      "event_count": 2,
+      "sentiment_avg": -0.12,
+      "rank": 6
+    },
+    "sungrow": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 7
+    },
+    "longi": {
+      "event_count": 3,
+      "sentiment_avg": 1.0,
+      "rank": 3
+    },
+    "daqo": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 8
+    },
+    "ja_solar": {
+      "event_count": 4,
+      "sentiment_avg": 0.0,
+      "rank": 2
+    },
+    "trina": {
+      "event_count": 5,
+      "sentiment_avg": 0.0,
+      "rank": 1
+    },
+    "gcl": {
+      "event_count": 3,
+      "sentiment_avg": -0.33,
+      "rank": 4
+    },
+    "array": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 5
+    },
+    "tongwei": {
+      "event_count": 1,
+      "sentiment_avg": 1.0,
+      "rank": 9
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 295,
+        "last": 293,
+        "change_pct": 0.7
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-07-14",
+      "event_count": 51,
+      "sentiment_avg": 0.06
+    },
+    {
+      "date": "2026-07-15",
+      "event_count": 50,
+      "sentiment_avg": 0.03
+    },
+    {
+      "date": "2026-07-16",
+      "event_count": 64,
+      "sentiment_avg": 0.1
+    },
+    {
+      "date": "2026-07-17",
+      "event_count": 75,
+      "sentiment_avg": 0.02
+    },
+    {
+      "date": "2026-07-18",
+      "event_count": 24,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-07-19",
+      "event_count": 8,
+      "sentiment_avg": 0.12
+    },
+    {
+      "date": "2026-07-20",
+      "event_count": 23,
+      "sentiment_avg": 0.02
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-07-14 ~ 2026-07-20）共 295 則事件，重點為「A-share photovoltaic leader LONGi Green Energy ...」。協鑫科技情緒偏負面，建議留意相關風險。",
+    "watchlist": [
+      {
+        "company": "協鑫科技",
+        "reason": "本週情緒偏負面（-0.3），共 3 則相關事件，需關注後續發展。"
+      },
+      {
+        "company": "隆基綠能",
+        "reason": "本週出現 3 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "晶澳科技",
+        "reason": "本週出現 4 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

@@ -1,5 +1,433 @@
 [
   {
+    "id": "unknown-2026-07-20-001",
+    "date": "2026-07-20",
+    "companies": [],
+    "topics": [
+      "trade_tariff",
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "Xinyi Energy Earnings Remain Under Pressure From Falling Tariffs and Rising Curtailment - Morningstar",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxQVXMwT0xQUFNiRmxPYmJjSU01ZDY2VFo1cEhHWUpYcldFczN1SEdyall6emdoUnlxTDhWemJ5YTNvNzFFX3kxWGRyMnh3clBmb29GWXlPcXY4TEt6dnozR3laRFJ0ZF81aGFadlRtUG",
+    "sources": [
+      {
+        "name": "xinyi_solar",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQVXMwT0xQUFNiRmxPYmJjSU01ZDY2VFo1cEhHWUpYcldFczN1SEdyall6emdoUnlxTDhWemJ5YTNvNzFFX3kxWGRyMnh3clBmb29GWXlPcXY4TEt6dnozR3laRFJ0ZF81aGFadlRtUGlIS1FVcy05Yy1PNEdET1JyckNEY0Jvb0VSOFphY2tZUmExYUFyd1lNY3JOVWJhLVotVllfZ3h2Ni0wVVRhN21GM0FwbktuYTludVpaSWNtSV9GZU53XzR3TFhOZGNVVGYyUmdHdG9B?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-20-002",
+    "date": "2026-07-20",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Xinyi Energy’s profit dives as China suffers from ‘solar hangover’ - thebambooworks.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxNdE1IMjU1ZHdTNFBEVVJWSTJ0d0NLZ1NReWN3bzM3MUR3MG16a3dWenhuNFJYZGJ1bVNuc2hKeWpLaUh2TTBXY0FhQTlNMWZYbER1bnNLeVJtQ01NbG5sdDFIaUpLQjYxX0RBRC1veG",
+    "sources": [
+      {
+        "name": "xinyi_solar",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNdE1IMjU1ZHdTNFBEVVJWSTJ0d0NLZ1NReWN3bzM3MUR3MG16a3dWenhuNFJYZGJ1bVNuc2hKeWpLaUh2TTBXY0FhQTlNMWZYbER1bnNLeVJtQ01NbG5sdDFIaUpLQjYxX0RBRC1veG5GTGEwdFpzNXJSLVFtbjBtZjY5SUtVaDg5WE5yWGF2dkNLN1Q5REE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "gcl-2026-07-20-003",
+    "date": "2026-07-20",
+    "companies": [
+      "gcl"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "GCL Technology Holdings’s Stock Price Drops to 0.58 HKD, Experiencing a 3.33% Decline - Smartkarma",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxOVWdtYUR3eFRxcDRUMWhjSGhuS0hUVlgyem1VNC1XQnhidDI0ZlVEWEdwc2FUT2l6dHo1cXRaVHFpMzlHU1ZVNFh0eXIwalBPM2dWMW1iZ1FIS1RhMXhZeXdrM25fX09JM3NJd25VN3",
+    "sources": [
+      {
+        "name": "gcl",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOVWdtYUR3eFRxcDRUMWhjSGhuS0hUVlgyem1VNC1XQnhidDI0ZlVEWEdwc2FUT2l6dHo1cXRaVHFpMzlHU1ZVNFh0eXIwalBPM2dWMW1iZ1FIS1RhMXhZeXdrM25fX09JM3NJd25VN3NRTmcxWW1kRnpYSU5FTUR4eUlsOHpKeTlSVV96M3RqYUpncl9kLUpfV2NUTTlmQjA4anE5dmRTNzdsOElUenRDRWgxZmkzbFh2U1dac0VjSWRfQkU2ZXJuOA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ja_solar-2026-07-20-004",
+    "date": "2026-07-20",
+    "companies": [
+      "ja_solar"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Masdar receives first JA Solar modules for Abu Dhabi RTC project - Asian Power",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxQUDhOZmVZWjR5b1VSajJqTjBXZGxqU1lWTlNKS0VDUkdiUWlEcEIxSWhIODZ5Nnl4ZDdkRUFtcmxHdUx6QTJiUXI5YTg4b3lWdFNkdFp6UWo5d2RfY2lwSHVLNEd5YWhVRHVqVUowYW",
+    "sources": [
+      {
+        "name": "ja_solar",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQUDhOZmVZWjR5b1VSajJqTjBXZGxqU1lWTlNKS0VDUkdiUWlEcEIxSWhIODZ5Nnl4ZDdkRUFtcmxHdUx6QTJiUXI5YTg4b3lWdFNkdFp6UWo5d2RfY2lwSHVLNEd5YWhVRHVqVUowYWRSYzBiTEFzVDZCV3lMRnFpQjZnRjByNjZ6XzBQU2hxcmtUQjA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-20-005",
+    "date": "2026-07-20",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "China Solar PV News Snippets: AIKO Wins 678 MW BC Module Supply Contract & More - TaiyangNews",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTFB1MFBkbmJ2OTQwVHlWdWhmVF9fU0tiXzA0Q0Rzb28xU1ZKMzZ2X3pfSXdpZTI0akVXN1hrTnhfMUpDY1l2eTl0cktUM3VGQTRvV21fZXRxel9kZVFiYWxvRWw2Sk8wZlZjbHBqZzQ0OU",
+    "sources": [
+      {
+        "name": "ja_solar",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB1MFBkbmJ2OTQwVHlWdWhmVF9fU0tiXzA0Q0Rzb28xU1ZKMzZ2X3pfSXdpZTI0akVXN1hrTnhfMUpDY1l2eTl0cktUM3VGQTRvV21fZXRxel9kZVFiYWxvRWw2Sk8wZlZjbHBqZzQ0OUZyd2F3YjRreEhEQVZIQm8?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ja_solar-2026-07-20-006",
+    "date": "2026-07-20",
+    "companies": [
+      "ja_solar"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "JA Solar unveils DeepBlue 5.0 modules and JAPlanet storage system - Green Building Africa",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxNdzJWS0kxMmQtN1c1UTRYYkwxd2tnMV9ILWJLbEdYQU5HUS0tblI1d0VvTFFwMGRmVVU1d0J0XzJpalNRcV96Q0lGemY3NXN5N1Q2N1B1YjgyVzNycTZuNjdfV196T1JBUXFmVXVNdU",
+    "sources": [
+      {
+        "name": "ja_solar",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNdzJWS0kxMmQtN1c1UTRYYkwxd2tnMV9ILWJLbEdYQU5HUS0tblI1d0VvTFFwMGRmVVU1d0J0XzJpalNRcV96Q0lGemY3NXN5N1Q2N1B1YjgyVzNycTZuNjdfV196T1JBUXFmVXVNdUx1emZVNkdCM3FCUHphY0lTS1FWbjhMa0R5UGNkbTB2SzZoa29yUmJiOFBZUzVnalJyQkREVmQ3VQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-20-007",
+    "date": "2026-07-20",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Lodestone Energy begins work on 31.5MWp solar PV plant in New Zealand - PV Tech",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxQWW1pYjhmNGdUTjBWUVlqOEtLRVBzS1BQQUNXX1o3LWJTMktZMF9jYWR6SHVJQzBlTWxvdU03aHhHOFR3akZia3UzYkQtVzYtUnhNeGRsOUlDaGlZN2VQWEFVbXBCc2wtSnhpY2E2dn",
+    "sources": [
+      {
+        "name": "trina",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQWW1pYjhmNGdUTjBWUVlqOEtLRVBzS1BQQUNXX1o3LWJTMktZMF9jYWR6SHVJQzBlTWxvdU03aHhHOFR3akZia3UzYkQtVzYtUnhNeGRsOUlDaGlZN2VQWEFVbXBCc2wtSnhpY2E2dnI1WHBhbXQ4T0pmdWlDRWlNdndJRVVDbl9CaFJjMXdJNlJHQlNsbE5fbnpn?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "trina-2026-07-20-008",
+    "date": "2026-07-20",
+    "companies": [
+      "trina"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Trina, Al-Raebi to explore 1.5-GW solar project pipeline in Yemen - Renewables Now",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxOdkh0bDkzYTBRXzV1bmtrYWZ6Y0FPcmhlcWxITXV0WHdzMTVMMU1VUTNvbGNGdHQzNFBzNUxzeTlVMFZ1Nk5xVm1hMXRXWW1wZ21TaFNhdnFRTmhRazlVMldFdFhpUVhieXFBS1BPNF",
+    "sources": [
+      {
+        "name": "trina",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOdkh0bDkzYTBRXzV1bmtrYWZ6Y0FPcmhlcWxITXV0WHdzMTVMMU1VUTNvbGNGdHQzNFBzNUxzeTlVMFZ1Nk5xVm1hMXRXWW1wZ21TaFNhdnFRTmhRazlVMldFdFhpUVhieXFBS1BPNFpDMFlHLTJqR2Q5ZWlHNWtRVHVYMzhlRWxxbThLRVJ5blBTbW1iZmJMQXBJWnoxT0s3V1Q3ZUdCSQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "trina-2026-07-20-009",
+    "date": "2026-07-20",
+    "companies": [
+      "trina"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Trinasolar and Al-Raebi Sign Memorandum of Understanding to Explore 1.5 GW Solar Project Pipeline in Yemen - PR Newswire UK",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi9wFBVV95cUxNdkJjeXRlSlZodGlVcUplQk9XYU9JRVMxSnNDUzM2RDVfc1BrbENwSmEzd1ZHcVI4eWRBMENuOFJiVmYwcmx0TlV0Rl8wUzNJSEZfbUU3R1FkTVVlcXhja3lEUU9QbURjQ25aUXJwbj",
+    "sources": [
+      {
+        "name": "trina",
+        "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNdkJjeXRlSlZodGlVcUplQk9XYU9JRVMxSnNDUzM2RDVfc1BrbENwSmEzd1ZHcVI4eWRBMENuOFJiVmYwcmx0TlV0Rl8wUzNJSEZfbUU3R1FkTVVlcXhja3lEUU9QbURjQ25aUXJwbjZGV25oT1FObGdjYmtSRWRfTWczS3JlWUtfVFRaUWZlMEpCUHFPdWphdmpHc2xaSTh5NXB4Y0hpeWY0U0NreWIzcTRZSGxSV3BndC15TkZVdTlyR0NvNFBvXzEyV1VfSDVxNDByM3FnVmZOSmdfbXNNMEtmb21NbUR1NFhWajVOWFdPNm9JZTFJ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "array-2026-07-20-010",
+    "date": "2026-07-20",
+    "companies": [
+      "array"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "ARRAY Technologies Acquires AWM for $203 Million to Expand Solar Portfolio - energynews.pro",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxNUjdVSEllYkFjU3U1SzJ5RzFfS1F3Vkg5QUtrUDExOU83WkxTVTdnbHhOZUY4QkZ0UjZQaGYwVG01RmF3M1ZMQTJVWVhNelR2N0JCaE9vM0JlSHhSSVRRUFcwdXByTkc2VXNzbi0zZD",
+    "sources": [
+      {
+        "name": "array",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNUjdVSEllYkFjU3U1SzJ5RzFfS1F3Vkg5QUtrUDExOU83WkxTVTdnbHhOZUY4QkZ0UjZQaGYwVG01RmF3M1ZMQTJVWVhNelR2N0JCaE9vM0JlSHhSSVRRUFcwdXByTkc2VXNzbi0zZDN2Y01iYjNjUGVTTzMzbFN1WXFxS1ZPMGlLOG94T0RTQnh3UU1obG5rUVB4SWVJa2NU?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-20-011",
+    "date": "2026-07-20",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Netherlands proposes stricter rules for solar near airports",
+    "summary": "<p>The Netherlands is working on a temporary framework governing permits for solar near airports. Trade association Holland Solar has said there is a lack of convincing evidence as to why solar panels",
+    "sources": [
+      {
+        "name": "pv_magazine",
+        "url": "https://www.pv-magazine.com/2026/07/20/netherlands-proposes-stricter-rules-for-solar-near-airports/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-20-012",
+    "date": "2026-07-20",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Nibe unveils residential propane air-to-water heat pumps reaching 5.53 COP",
+    "summary": "<p>Nibe has launched the S2060 series, a range of inverter-controlled air-to-water heat pumps using propane refrigerant for residential and small commercial applications. The monoblock units deliver u",
+    "sources": [
+      {
+        "name": "pv_magazine",
+        "url": "https://www.pv-magazine.com/2026/07/20/nibe-unveils-residential-propane-air-to-water-heat-pumps-reaching-5-53-cop/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-20-013",
+    "date": "2026-07-20",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Fraunhofer CSP develops ultrathin glass-glass PV modules strengthened by special coating",
+    "summary": "<p>A new glass coating technology developed by Exxosqel and Fraunhofer CSP could enable thinner, lighter PV modules by improving glass strength and reducing material use.</p>\n<p>The post <a href=\"http",
+    "sources": [
+      {
+        "name": "pv_magazine",
+        "url": "https://www.pv-magazine.com/2026/07/20/fraunhofer-csp-develops-ultrathin-glass-glass-pv-modules-strengthened-by-special-coating/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-20-014",
+    "date": "2026-07-20",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Autowell showcases latest PV and energy storage solutions at The smarter E 2026",
+    "summary": "<p>Johnny Wang, International Sales Deputy General Manager for Autowell (ATW), highlighted multi-cut and multi-busbar (0BB) stringing technology, as well as advanced analytical system in smart manufac",
+    "sources": [
+      {
+        "name": "pv_magazine",
+        "url": "https://www.pv-magazine.com/2026/07/20/autowell-showcases-latest-pv-and-energy-storage-solutions-at-the-smarter-e-2026/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-20-015",
+    "date": "2026-07-20",
+    "companies": [],
+    "topics": [
+      "installation_demand",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Ukraine recognizes solar installer as official profession",
+    "summary": "<p>The recognition will serve as a foundation for future education programs, professional certifications and training as Ukraine works to ensure the quality of solar installations is maintained amid r",
+    "sources": [
+      {
+        "name": "pv_magazine",
+        "url": "https://www.pv-magazine.com/2026/07/20/ukraine-recognizes-solar-installer-as-official-profession/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-20-016",
+    "date": "2026-07-20",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Electrification action plan aims to make Europe world’s first electric-powered continent",
+    "summary": "<p>The European Commission's Electrification Action Plan aims to raise electrification of final energy demand from 23% to 46% by 2040, cutting annual fossil fuel import costs by an estimated €240 bill",
+    "sources": [
+      {
+        "name": "pv_magazine",
+        "url": "https://www.pv-magazine.com/2026/07/20/electrification-action-plan-aims-to-make-europe-worlds-first-electric-powered-continent/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-20-017",
+    "date": "2026-07-20",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Australia sees record surge in solar, wind and battery projects",
+    "summary": "<p>Australia’s energy market operator says the past financial year was the best yet for the completion of large-scale renewable energy projects in the country, with a record 9.1 GW of new generation a",
+    "sources": [
+      {
+        "name": "pv_magazine",
+        "url": "https://www.pv-magazine.com/2026/07/20/solar-wind-and-battery-projects-surge-to-record-high/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-20-018",
+    "date": "2026-07-20",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "The silicon recycling loop remains open",
+    "summary": "<p>Retrieving silicon from end-of-life PV modules for reuse in solar applications relies heavily on small improvements. As scientists continue to chase that decimal point, AI and robotic labs might be",
+    "sources": [
+      {
+        "name": "pv_magazine",
+        "url": "https://www.pv-magazine.com/2026/07/20/the-silicon-recycling-loop-remains-open/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-20-019",
+    "date": "2026-07-20",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "World Photovoltaic Module Frame Glue Applicator - Market Analysis, Forecast, Size, Trends and Insights - IndexBox",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxNb1gyY2FsSXVFb0RuVW9uYlBHX3B1N081NWVmS1FRRkRVMUJlYzU0MDN4bVRkSVVYWUJJQ3F5NThhTHVDcS1EU2N3eUhWVXJNWXliTzltdkFnazdqVWgxSXQ5MXRFeHhweE8weF8wdE",
+    "sources": [
+      {
+        "name": "google_news_solar",
+        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNb1gyY2FsSXVFb0RuVW9uYlBHX3B1N081NWVmS1FRRkRVMUJlYzU0MDN4bVRkSVVYWUJJQ3F5NThhTHVDcS1EU2N3eUhWVXJNWXliTzltdkFnazdqVWgxSXQ5MXRFeHhweE8weF8wdE5hZ0RuUTdXa19pWW5FOVRYR3lKdGtUT1FINl9VTkhTM1RlQmhJQWltQUVMcjdlSlVMQ0RtUm1BcXktbWRuOGktX2NucnFZZjBTUDRQTmtLRXpzV0VDWVFZdEJtYzhBeGpmSTZodkpmUmQtaGJtMkNB?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-20-020",
+    "date": "2026-07-20",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Price of the brick going up | Factor This Brief",
+    "summary": "An innovative community solar site gets acquired, Spearmint adds storage to MISO, a controversial project receives unanimous approval, and a four-phase solar and storage project reaches commercial ope",
+    "sources": [
+      {
+        "name": "renewableenergyw",
+        "url": "https://www.renewableenergyworld.com/energy-business/new-project-development/price-of-the-brick-going-up-factor-this-brief/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-20-021",
+    "date": "2026-07-20",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Masdar reaches financial close on ‘round-the-clock’ hybrid solar project with 19GWh BESS in UAE",
+    "summary": "UAE state-owned IPP Masdar has reached financial close on what it has claimed is the world’s “first gigascale 24/7 renewable energy project”.",
+    "sources": [
+      {
+        "name": "energy_storage_news",
+        "url": "https://www.energy-storage.news/masdar-reaches-financial-close-on-round-the-clock-hybrid-solar-project-with-19gwh-bess-in-uae/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-20-022",
+    "date": "2026-07-20",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "EU releases Electrification Action Plan, reaffirms 200GW 2030 energy storage target",
+    "summary": "The European Commission has released its final Electrification Action Plan, reaffirming its belief that the bloc needs 200GW of energy storage by 2030. ",
+    "sources": [
+      {
+        "name": "energy_storage_news",
+        "url": "https://www.energy-storage.news/eu-releases-electrification-action-plan-reaffirms-200gw-2030-energy-storage-target/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-20-023",
+    "date": "2026-07-20",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Australia adds 9.1GW of new generation and storage in FY26 with battery storage dominating",
+    "summary": "Australia's NEM connected 9.1GW of new generation and energy storage to full output in FY26, more than double the result achieved in FY25.",
+    "sources": [
+      {
+        "name": "energy_storage_news",
+        "url": "https://www.energy-storage.news/australia-adds-9-1gw-of-new-generation-and-storage-in-fy26-with-battery-storage-dominating/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "unknown-2026-07-19-001",
     "date": "2026-07-19",
     "companies": [],
@@ -13,6 +441,136 @@
       {
         "name": "google_news_solar",
         "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNRzlqVnJtNk5oM1lRUW9vV2V5TF95WkxtR3hGNVdxdmt2WllTUDhhRk9CM3RldXZua0xqYjNoeUlKUHhmTWU1eFJxQ0NqLWtUZUhOaDU5ai1Wa0JTLWpXWXdvMDVPd3I1azU3RVNsbWtFcXN4cThNZlo1VWZqemlNRXpGcUJrbHJOSG9JNk5CeGw5SzVTdmplMnBmR2FfSE9YbG5zbDltRXN3U0hqbGJaZ0R4U2tCZGRjS25KN1BUT0ZWVDJYQkFqcDdRb1g2QjA0RkI2LVhncmMya1JmTWlsbQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "xinyi_solar-2026-07-19-002",
+    "date": "2026-07-19",
+    "companies": [
+      "xinyi_solar"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Xinyi Solar: Decrease in Solar Panel Installiations Hurt on Resutls >0968.HK - Moomoo",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxNWFlQUFJ6bDN4cnZVZmxSX2d4WXlOM1poREhHZnlNRXM0Vm95d1pWUGZJYlBfa0otTktQUEV5Y3k5Y2Zna3BfYjBNMHNCODZYbm9PbGJDX2tVU1FCbTZYbE9hRklEWXVQam8wa0ZDaT",
+    "sources": [
+      {
+        "name": "xinyi_solar",
+        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNWFlQUFJ6bDN4cnZVZmxSX2d4WXlOM1poREhHZnlNRXM0Vm95d1pWUGZJYlBfa0otTktQUEV5Y3k5Y2Zna3BfYjBNMHNCODZYbm9PbGJDX2tVU1FCbTZYbE9hRklEWXVQam8wa0ZDaTA0dzFNNV9jTHdIYkQ5VFQzeWlNc2dseUY1RVlsMFVYeFhoNmpqcjVPLWJNWGwyODZwTTEtVk53c2VsS0h2Ql8zeEtETW5nUm5hYTk5ZjNPN19LZ0IwczFmTXVWUndqNGZPY3lUYTRfRXEyZTA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-19-003",
+    "date": "2026-07-19",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "(JKS) Risk Channels and Responsive Allocation - Stock Traders Daily",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxPWFRFUjVoaUFjdlJFQjMwRDJnOVNWUm8tamNEOWJaT2NxQmxMN21xSVVVbjNVbkJPbHJ1c0hjRFNpZlpqSllhRF8tQmgtY3d6eE9uckRBLXJiSlVoU3JnLVJaTHpwN3ZpNkN3My1GNT",
+    "sources": [
+      {
+        "name": "jinko",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPWFRFUjVoaUFjdlJFQjMwRDJnOVNWUm8tamNEOWJaT2NxQmxMN21xSVVVbjNVbkJPbHJ1c0hjRFNpZlpqSllhRF8tQmgtY3d6eE9uckRBLXJiSlVoU3JnLVJaTHpwN3ZpNkN3My1GNTVZaDh4WXBONHRRWDh4aXVKUURxeU93US1EVWJtcEQ5d3lVT2R4MHIxMWo2cVNCMFNLTDA2ZmtuZGZLZFlwTjIxOWJzb3YybmlrQ3NRVDFZYU0?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "sungrow-2026-07-19-004",
+    "date": "2026-07-19",
+    "companies": [
+      "sungrow"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Sungrow Power Supply (300274) H1 2024 earnings summary - Quartr",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxNT01FY2E4b1RBT19sbjBMRlJaSEY5RXhVZXRDNXU1RU0yUUlOa3hOd0V0MVh0Zmt0cnFOeGFEaTVWajZWbGZNM0VBdVBTN0RrdDhPYjVBa2tuVnY2a0N5cWdUQXE1aGxlUVZXQWJVen",
+    "sources": [
+      {
+        "name": "sungrow",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNT01FY2E4b1RBT19sbjBMRlJaSEY5RXhVZXRDNXU1RU0yUUlOa3hOd0V0MVh0Zmt0cnFOeGFEaTVWajZWbGZNM0VBdVBTN0RrdDhPYjVBa2tuVnY2a0N5cWdUQXE1aGxlUVZXQWJVenFja1B2X3VHMi1iQWNYdkQzS091dw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-19-005",
+    "date": "2026-07-19",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "China Renewable Energy Push - dailyrecordnews.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxOQ1FzdHFFUDdqQlVCcENwdkZTVnRYRUdCVzdhMmlHZXBtZGpqWXF0RGZZUklmYTFBaVUtckJkMGlIbjU1c1EzeU82R1hXNUk5ZUV3ZzlvWlhfSHNIU3FMY3JzQ3ZIUmFxZVl3VEZwdF",
+    "sources": [
+      {
+        "name": "google_news_solar",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOQ1FzdHFFUDdqQlVCcENwdkZTVnRYRUdCVzdhMmlHZXBtZGpqWXF0RGZZUklmYTFBaVUtckJkMGlIbjU1c1EzeU82R1hXNUk5ZUV3ZzlvWlhfSHNIU3FMY3JzQ3ZIUmFxZVl3VEZwdFZVTmlLUDdDSFhRWkVuak9BekpjV0p5Tmh5Q05janA5N2Nla3owZUc4V0RZVUF0VUE0a29HaVBZRHFxLVl6S2NWbzFObnd1eEFBdVUzZzR0QVpzakVUbkd5RA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-19-006",
+    "date": "2026-07-19",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Australia moves to legislate net-generator requirement for large-scale data centres",
+    "summary": "Australian Prime Minister Anthony Albanese has said that large-scale data centres will be legally required to put at least as much energy into the grid as they draw from it, and that this supply must ",
+    "sources": [
+      {
+        "name": "energy_storage_news",
+        "url": "https://www.energy-storage.news/australia-moves-to-legislate-net-generator-requirement-for-large-scale-data-centres/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-19-007",
+    "date": "2026-07-19",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "ASEAN Shifts Focus to Battery Manufacturing, Scaling EV Adoption, and Grid Integration",
+    "summary": "<p>PUTRAJAYA, Malaysia — The rapid transition of Southeast Asia toward clean energy is moving from the early adoption of electric mobility to a regional industrialization effort. When the 4th ASEAN Ba",
+    "sources": [
+      {
+        "name": "cleantechnica",
+        "url": "https://cleantechnica.com/2026/07/19/asean-shifts-focus-to-battery-manufacturing-scaling-ev-adoption-and-grid-integration/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-19-008",
+    "date": "2026-07-19",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "A Campaign For Affordability: A Clean-Energy-For-All Agenda",
+    "summary": "<p>Wouldn&#8217;t you love to hear a politician base their campaign on clean energy affordability? Could the following speech be at the heart of an electoral awakening? The cost of living continues to",
+    "sources": [
+      {
+        "name": "cleantechnica",
+        "url": "https://cleantechnica.com/2026/07/19/a-campaign-for-affordability-a-clean-energy-for-all-agenda/",
         "type": "rss"
       }
     ]

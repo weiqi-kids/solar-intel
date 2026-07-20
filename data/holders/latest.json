@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-19T09:44:28.290509+00:00",
+  "updated_at": "2026-07-20T10:40:59.262494+00:00",
   "companies": {
     "xinyi_solar": {
       "name": "Xinyi Solar",
@@ -10,7 +10,7 @@
           "holder": "Boston Common Asset Management, LLC",
           "shares": 4141443,
           "pct_held": 0.05,
-          "value": 8324300
+          "value": 8407129
         }
       ]
     },
@@ -90,7 +90,7 @@
           "holder": "Winch Advisory Services LLC",
           "shares": 4000,
           "pct_held": 0.0,
-          "value": 2400
+          "value": 2319
         }
       ]
     },
@@ -158,73 +158,6 @@
           "shares": 1039122,
           "pct_held": 1.53,
           "value": 15534873
-        }
-      ]
-    },
-    "first_solar": {
-      "name": "First Solar",
-      "short_name": "First Solar",
-      "ticker": "FSLR",
-      "holders": [
-        {
-          "holder": "Blackrock Inc.",
-          "shares": 13821076,
-          "pct_held": 12.86,
-          "value": 2929929977
-        },
-        {
-          "holder": "Vanguard Capital Management LLC",
-          "shares": 6788934,
-          "pct_held": 6.32,
-          "value": 1439186155
-        },
-        {
-          "holder": "Vanguard Portfolio Management LLC",
-          "shares": 5696888,
-          "pct_held": 5.3,
-          "value": 1207683318
-        },
-        {
-          "holder": "State Street Corporation",
-          "shares": 5284617,
-          "pct_held": 4.92,
-          "value": 1120285986
-        },
-        {
-          "holder": "Geode Capital Management, LLC",
-          "shares": 3106826,
-          "pct_held": 2.89,
-          "value": 658616060
-        },
-        {
-          "holder": "Invesco Ltd.",
-          "shares": 2656785,
-          "pct_held": 2.47,
-          "value": 563211866
-        },
-        {
-          "holder": "JPMORGAN CHASE & CO",
-          "shares": 2304039,
-          "pct_held": 2.14,
-          "value": 488433240
-        },
-        {
-          "holder": "Hill City Capital, Lp",
-          "shares": 2177540,
-          "pct_held": 2.03,
-          "value": 461616716
-        },
-        {
-          "holder": "Amundi",
-          "shares": 2049465,
-          "pct_held": 1.91,
-          "value": 434466096
-        },
-        {
-          "holder": "FMR, LLC",
-          "shares": 1808433,
-          "pct_held": 1.68,
-          "value": 383369721
         }
       ]
     },

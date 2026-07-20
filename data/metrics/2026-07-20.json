@@ -1,0 +1,41 @@
+{
+  "date": "2026-07-20",
+  "total_events": 23,
+  "by_company": {
+    "gcl": {
+      "count": 1,
+      "sentiment_avg": -1.0
+    },
+    "ja_solar": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "trina": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "array": {
+      "count": 1,
+      "sentiment_avg": 0.5
+    }
+  },
+  "by_topic": {
+    "trade_tariff": {
+      "count": 1,
+      "sentiment_avg": -0.5
+    },
+    "industry_general": {
+      "count": 23,
+      "sentiment_avg": 0.02
+    },
+    "installation_demand": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}
