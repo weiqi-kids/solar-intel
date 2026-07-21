@@ -1,0 +1,220 @@
+{
+  "date": "2026-07-21",
+  "generated_at": "2026-07-21T10:14:11.879602Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-07-21-015",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Colombia’s PV capacity tops 4.58 GW, with 1.19 GW under testing",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://www.pv-magazine.com/2026/07/21/colombias-pv-capacity-tops-4-58-gw-with-1-19-gw-under-testing/"
+    },
+    {
+      "rank": 2,
+      "event_id": "gcl-2026-07-21-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "GCL Technology Holdings's Stock Price Soars to 0.59 HKD, Witnessing a Positive Leap of 1.72% - Smartkarma",
+      "companies": [
+        "gcl"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPMEFDV2tmQXFOMmg2ZW9va3JkUDdBUHlZVEFzWGpjaFRFQTJYdEVZS0RGVnFqYlRUYTMtQmVDSmJOcDZSN1BPa0t2Zk9jUzhjQzFpMzVQSzkxX1dDQ2Y5OXRDLVBLRU0wWktpWUhxX3BoY0hSNUJfQlRVYWhxTkxPemZZdUN4c0o0d0FjV2ZuZXJvcm1xT0dSUnU3aWRwY2laS3dic0NYOFMteHlMTmI5cE5JdmM2Mms0UWliTDdwR1VSMkcySFBxUjgxVVgyU0pMYXc?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "longi-2026-07-21-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "LONGi Green Energy Plants a Technology Forest on BC Cells: ACM Silver-Free Contact, Integrated Conductive Backsheet Lead Beyond 690W Modules - Pandaily",
+      "companies": [
+        "longi"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE91c3ZJUGN0TmdzTlI2MWR6c0NZUlRpQ0tDOTc4NXRITGZVd2VMUndkTVhvYmJsQ0VaOGxYVnRpOEJ1encyYS00Vl9yQml6ZktXVFlMenVoZzRPU1lWWEVxMVhNQjBuTjh4RjZSd2NNU1ozQURRamhB?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "jinko-2026-07-21-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "JinkoSolar Holding Company Limited (NYSE:JKS) Receives Consensus Recommendation of \"Hold\" from Analysts - MarketBeat",
+      "companies": [
+        "jinko"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOZzJkTEhvc2YtRlBnVkZ0VVlXeUpjc1lNNkJGZmJtTHVoa1N4Z1RkMmpZLTg5b0NTZ3pyQzBQTGdwd1VjUlZtSkx4YUJFdkc1OWxqMzc3TDE1QmFKb1k1bG5mRV96RUFwWUZKWTIzZ1Fzb00yMkxaN0lZazBxNVB5RmMyTFV2aHNOdzBYVUhQLTBfTjY2VDBGRmUyNnVxeFZXbzduc3ZuXzlSUUprWTdVWUNQazJrZ1RkaTZBYXVaY09SU2Jnb2FBWXl5WThjXzNuc0hiamxENFRBNmhHTFpseTk0WGlsRzQ?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "jinko-2026-07-21-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "JKS: JPMorgan Advises Buying JinkoSolar After Recent Price Drop - GuruFocus",
+      "companies": [
+        "jinko"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPWUJBSnZaWjhzT01sazFkN2phN3BwRXI2ZXVPQXYxQzZYUHFwekt5TzV4RUtiTXdjYkhqSVZUY05lM093c1ZReWg5LTI5VTZnNzZ1Y0JlaC1UU29SVkhadDlROU56Q09qSjFyak0wbURYYi1yTmNuUkRNd1MwVUNuN3hLdFpPNGpnMm1pa2ZSdUZXb18yNk05ZlpqenpDSjl0WGM4?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 21,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.1,
+      "sentiment_7d_avg": null
+    },
+    "grid_parity": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "trade_tariff": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 23,
+    "sentiment_distribution": {
+      "positive": 3,
+      "neutral": 20,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "sungrow",
+        "count": 4
+      },
+      {
+        "id": "jinko",
+        "count": 2
+      },
+      {
+        "id": "gcl",
+        "count": 1
+      },
+      {
+        "id": "longi",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 21
+      },
+      {
+        "id": "grid_parity",
+        "count": 1
+      },
+      {
+        "id": "trade_tariff",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 463,
+    "dup_title": 214,
+    "too_old": 143,
+    "gate1_blocked": 45,
+    "gate2_blocked": 10,
+    "passed": 51,
+    "pass_rate": "20.5%",
+    "gate2_block_rate": "4.0%",
+    "gate2_samples": [
+      "信義光能：股東週年大會通告 - Moomoo",
+      "LONGi Makes S&P Global Energy Premier List of Tier 1 Cleantech Companies 2026 - PR Newswire",
+      "LONGi Green Energy Tech Sees H1 Net Loss At 3.4-3.8 Billion Yuan - TradingView",
+      "ARRAY Technologies to Acquire Affordable Wire Management - GlobeNewswire",
+      "ARRAY Technologies to acquire Affordable Wire Management for $203M - Investing.com"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 23 則事件，焦點為陽光電源、晶科能源、協鑫科技相關動態：「Colombia’s PV capacity tops 4.58 GW, with 1.19 GW under t...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Colombia’s PV capacity tops 4.58 GW, with 1.19 GW under testing（太陽能產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "GCL Technology Holdings's Stock Price Soars to 0.59 HKD, Witnessing a Positiv...",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
