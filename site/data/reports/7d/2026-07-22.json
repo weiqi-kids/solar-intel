@@ -1,0 +1,156 @@
+{
+  "date": "2026-07-22",
+  "date_range": {
+    "start": "2026-07-16",
+    "end": "2026-07-22"
+  },
+  "generated_at": "2026-07-22T10:14:46.527098Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "trina-2026-07-17-043",
+      "date": "2026-07-17",
+      "title": "Chinese PV Industry Brief: module manufacturers forecast heavy losses as oversupply persists",
+      "importance_score": 0.7
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "industry_general": {
+      "this_week": 115,
+      "last_week": 104,
+      "week_over_week_change": "+11%",
+      "sentiment_this_week": 0.07
+    },
+    "installation_demand": {
+      "this_week": 4,
+      "last_week": 8,
+      "week_over_week_change": "-50%",
+      "sentiment_this_week": 0.0
+    },
+    "trade_tariff": {
+      "this_week": 3,
+      "last_week": 4,
+      "week_over_week_change": "-25%",
+      "sentiment_this_week": -0.17
+    },
+    "grid_parity": {
+      "this_week": 1,
+      "last_week": 1,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "daqo": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 7
+    },
+    "longi": {
+      "event_count": 3,
+      "sentiment_avg": 0.67,
+      "rank": 5
+    },
+    "ja_solar": {
+      "event_count": 4,
+      "sentiment_avg": 0.0,
+      "rank": 4
+    },
+    "trina": {
+      "event_count": 5,
+      "sentiment_avg": 0.0,
+      "rank": 2
+    },
+    "gcl": {
+      "event_count": 6,
+      "sentiment_avg": -0.17,
+      "rank": 1
+    },
+    "array": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 6
+    },
+    "tongwei": {
+      "event_count": 1,
+      "sentiment_avg": 1.0,
+      "rank": 9
+    },
+    "jinko": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 8
+    },
+    "sungrow": {
+      "event_count": 5,
+      "sentiment_avg": 0.0,
+      "rank": 3
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 302,
+        "last": 280,
+        "change_pct": 7.9
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-07-16",
+      "event_count": 66,
+      "sentiment_avg": 0.11
+    },
+    {
+      "date": "2026-07-17",
+      "event_count": 75,
+      "sentiment_avg": 0.02
+    },
+    {
+      "date": "2026-07-18",
+      "event_count": 24,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-07-19",
+      "event_count": 9,
+      "sentiment_avg": 0.11
+    },
+    {
+      "date": "2026-07-20",
+      "event_count": 51,
+      "sentiment_avg": 0.04
+    },
+    {
+      "date": "2026-07-21",
+      "event_count": 56,
+      "sentiment_avg": 0.1
+    },
+    {
+      "date": "2026-07-22",
+      "event_count": 21,
+      "sentiment_avg": 0.04
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-07-16 ~ 2026-07-22）共 302 則事件，重點為「Chinese PV Industry Brief: module manufacturers...」。隆基綠能、通威表現正面，整體氣氛穩健。",
+    "watchlist": [
+      {
+        "company": "隆基綠能",
+        "reason": "本週出現 3 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "晶澳科技",
+        "reason": "本週出現 4 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "天合光能",
+        "reason": "本週出現 5 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

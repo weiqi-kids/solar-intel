@@ -1,0 +1,178 @@
+{
+  "date": "2026-07-22",
+  "generated_at": "2026-07-22T10:14:46.390717Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "gcl-2026-07-22-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "GCL Technology Holdings's Stock Price Leaps by 3.39% to 0.61 HKD, Marking Noteworthy Market Performance - Smartkarma",
+      "companies": [
+        "gcl"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNNHBxUURCX0VGci1HOUJybno4elZ1bV9zS2w1amc1RWlEWlJIbTBHb0FuZ1lQOTF2UGl6V0NDUnhvdVBPUS1IZHlGR0d6U2tGQUc2WUVMRW5yVDNqMUV4RV9ybVFYeFBvTlc2UVFxVE5fZXoxLVNNV3o3ckxONlBSb2lVY2RZUWhiOGNiSDJCZEJEVjVNRmE1V0tubWJZNW10WlB6TUdqWHhuVXhvRkhzRGFzT3czeE8xM2k2dlc4MHRsbTdOc2xtZlphUk50THJQdGZFa2plcHR2S1pmT0Z3Zw?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "gcl-2026-07-22-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "BOCOM International: New national standards reflect the government's firm resolve against excessive competition; recommends GCL Technology (03800) as top pick - 富途牛牛",
+      "companies": [
+        "gcl"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPYXhkNmY3SGcxQ0RRUDdhTWtib1pzQ0IwUjd3MTZHMFZHR3A3MEhuOUNUcnJoWHg2aGp4aUdWQW9oYlRJZ2V3bXcxbEtDeE81aGtRNW1raktxaGl4WnIxaGUtaDN0YWRvay13eF9qbDJVc0xRdk1Sd3QwZjRqVGpTMEhpVDFWRWt1Qm53OHItdU9nTE80dVFVYXpWT2F4dmxmRVFGeGx0SjVOSFlVVmtxMlhIaw?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "sungrow-2026-07-22-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Sungrow Power Supply Chair Proposes Up to 1-Billion-Yuan Share Buyback - Moomoo",
+      "companies": [
+        "sungrow"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQN3RZbjhDQWtmTk50OEV1bUkwQ2N5M3piOG50U09XWlg3emRFaDhWV19saFNfcjloSV9rbWt5UGVZRnpPQXZ2WnlSRVRwd0hlengxMXA3TlF2SmZDcWQ5bmh4WUJfbHQzamhTUFdvNHR0SXZDUjM0b0xwTEk2Ty1hcU9ScURVazBDdllEWUwzR2d1azRBdDQwYUVGY3BVQlE?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-07-22-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "‘Grid failures, high diesel cost driving solar adoption’ - The Guardian Nigeria News",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNNEZPT241TVdJTTRSQTZ3aUl0TThTOFIyV0U1QUNlX1ZoQVp6Tzg5TTVuUkJyOUI5Sm1HeGxsQ3FSOTVvNkNfVnktTFUzOENjQWczczRZRThZa0dqN1lxdURmeGg3R2EyZVV1T1cwNkVsMGlpUmFKbnJVamdsaTZzTnpzMGNSYzdJ?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-07-22-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Phase-change material cooling for PV-powered e-bike charging",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.pv-magazine.com/2026/07/22/phase-change-material-cooling-for-pv-powered-e-bike-charging/"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 19,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.04,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 21,
+    "sentiment_distribution": {
+      "positive": 3,
+      "neutral": 16,
+      "negative": 2
+    },
+    "top_companies": [
+      {
+        "id": "gcl",
+        "count": 2
+      },
+      {
+        "id": "sungrow",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 19
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 464,
+    "dup_title": 208,
+    "too_old": 143,
+    "gate1_blocked": 44,
+    "gate2_blocked": 12,
+    "passed": 57,
+    "pass_rate": "22.3%",
+    "gate2_block_rate": "4.7%",
+    "gate2_samples": [
+      "信義光能：股東週年大會通告 - Moomoo",
+      "LONGi Makes S&P Global Energy Premier List of Tier 1 Cleantech Companies 2026 - PR Newswire",
+      "Why Array Technologies, Inc. (ARRY) Outpaced the Stock Market Today - Yahoo Finance Singapore",
+      "ARRAY Technologies to Acquire Affordable Wire Management - GlobeNewswire",
+      "Array Technologies to buy Affordable Wire Management for as much as $203M - MSN"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 21 則事件，焦點為協鑫科技、陽光電源相關動態：「GCL Technology Holdings's Stock Price Leaps by 3.39% to 0...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "GCL Technology Holdings's Stock Price Leaps by 3.39% to 0.61 HKD, Marking Not...",
+        "level": "green"
+      },
+      {
+        "text": "BOCOM International: New national standards reflect the government's firm res...（太陽能產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

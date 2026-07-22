@@ -1,0 +1,16 @@
+{
+  "total_raw": 464,
+  "dup_title": 208,
+  "no_date": 0,
+  "too_old": 143,
+  "gate1_fail": 44,
+  "gate2_fail": 12,
+  "passed": 57,
+  "gate2_samples": [
+    "信義光能：股東週年大會通告 - Moomoo",
+    "LONGi Makes S&P Global Energy Premier List of Tier 1 Cleantech Companies 2026 - PR Newswire",
+    "Why Array Technologies, Inc. (ARRY) Outpaced the Stock Market Today - Yahoo Finance Singapore",
+    "ARRAY Technologies to Acquire Affordable Wire Management - GlobeNewswire",
+    "Array Technologies to buy Affordable Wire Management for as much as $203M - MSN"
+  ]
+}
