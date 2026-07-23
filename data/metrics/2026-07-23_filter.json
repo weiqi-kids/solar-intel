@@ -1,0 +1,16 @@
+{
+  "total_raw": 445,
+  "dup_title": 212,
+  "no_date": 0,
+  "too_old": 145,
+  "gate1_fail": 35,
+  "gate2_fail": 5,
+  "passed": 48,
+  "gate2_samples": [
+    "信義光能：股東週年大會通告 - Moomoo",
+    "ARRAY Technologies to Acquire Affordable Wire Management - GlobeNewswire",
+    "Why Array Technologies, Inc. (ARRY) Outpaced the Stock Market Today - Yahoo Finance Singapore",
+    "Why is Array Technologies stock sliding today? - Investing.com",
+    "JPMorgan Downgrades Array Technologies to Neutral From Overweight, Adjusts PT to $8 From $10 - marke"
+  ]
+}

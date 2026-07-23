@@ -1,0 +1,192 @@
+{
+  "date": "2026-07-23",
+  "generated_at": "2026-07-23T10:12:15.836825Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "xinyi_solar-2026-07-23-001",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Xinyi Solar (SEHK:968) Is Up 10.2% After Forecasting Potential 1H 2026 Loss - What's Changed - simplywall.st",
+      "companies": [
+        "xinyi_solar"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQOHVGM0FOSHowTmhJWVVCXzhPOG0tWnJyWlRTemN4MkRHZmFrX3BtQlNndS1hUG5RTHc2NWhNeC1ldmkzMmNRSkxCaHh1YXFuODZZMHFxX2pnR3pjbmpDTS1ZNUpPei01OFdpREVNRWdPM3o1X0JxUWxzNXV2M2RURG1FMmxnYnVvSVBnNXRkS1phVEJrTE93aUh3ajJ3WFVzamxGeGhleDEtRV9iNkdzejRocmdyRzdTOG1yOWRURWZnc1AzQVJ5cXF4aFpqaHRGaF9VOU81bnJ2bVMyU196Zlc2blllTWvSAecBQVVfeXFMUDh1RjNBTkh6ME5oSVlVQl84TzhtLVpyclpUU3pjeDJER2Zha19wbUJTZ3UtYVBuUUx3NjVoTXgtZXZpMzJjUUpMQmh4dWFxbjg2WTBxcV9qZ0d6Y25qQ00tWTVKT3otNThXaURFTUVnTzN6NV9CcVFsczV1djNkVERtRTJsZ2J1b0lQZzV0ZEtaYVRCa0xPd2lId2oyd1hVc2psRnhoZXgxLUVfYjZHc3o0aHJnckc3UzhtcjlkVEVmZ3NQM0FSeXFxeGhaamh0RmhfVTlPNW5ydm1TMlNfemZXNm5ZZU1r?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-07-23-004",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Spanish operational PV assets stabilize at €596,000/MW following 50% value decline",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.75
+      },
+      "source_url": "https://www.pv-magazine.com/2026/07/23/spanish-operational-pv-assets-stabilize-at-e596000-mw-following-50-value-decline/"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-07-23-011",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Solar and storage account for 91% of new U.S. grid capacity in Q1",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://www.pv-magazine.com/2026/07/23/solar-and-storage-account-for-91-of-new-u-s-grid-capacity-in-first-half-of-2026/"
+    },
+    {
+      "rank": 4,
+      "event_id": "gcl-2026-07-23-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "GCL Technology Holdings's Stock Price Leaps to 0.63 HKD, Showcasing a Robust Increase of +3.28% - Smartkarma",
+      "companies": [
+        "gcl"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQVTNHS0lyYUxRc1IzT25Mc2JNZTJ2NDdPWnQzdzJ3OU5HVVBMTWJ5NThwTnBLakw5WVZoRE1GZDhYWHBMZXd2YTJpZHFwblNLcHpNaDRnSE1TZmoxcXhHV1RZT29hdjI4NTEwekxuREJNQWg5OTNTam9zdzdUZm10aHJyeWFqNzhCaXppQXlrZmExakdMWUdIWWF0N2lqeVNtOG05SkM1SzNYdUZMOEhKX0dKTTJpRVVRc1c2QnZNSGpWcTdYWkRfdlpHekVNbDNMOV9NUQ?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "array-2026-07-23-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "ARRAY introduces 60-degree solar tracker for extreme weather resilience - Solarbytes",
+      "companies": [
+        "array"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOcElGb2wxS21QaERLWnM4em1RMklGOW1mRHI2bVFMOUhxMFI1amhVcFp1WTAtWHFsbTZwYjhocEkwdWwzMndsb05MdWhmMEpHV0JidWlLaWd1cVhNUUNvTVV6U0dXOUVraHVNcENLS0w0WjhNR3VLRlZMb2hJTVZuVHUycHhaOFFSQm5YdHM4NmFHWng2UlRpWnpabjFpaTJvWFVsWEl2b1c3eUphbkFERjZB?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 20,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.04,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 20,
+    "sentiment_distribution": {
+      "positive": 5,
+      "neutral": 12,
+      "negative": 3
+    },
+    "top_companies": [
+      {
+        "id": "array",
+        "count": 2
+      },
+      {
+        "id": "xinyi_solar",
+        "count": 1
+      },
+      {
+        "id": "gcl",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 20
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 445,
+    "dup_title": 212,
+    "too_old": 145,
+    "gate1_blocked": 35,
+    "gate2_blocked": 5,
+    "passed": 48,
+    "pass_rate": "20.6%",
+    "gate2_block_rate": "2.1%",
+    "gate2_samples": [
+      "信義光能：股東週年大會通告 - Moomoo",
+      "ARRAY Technologies to Acquire Affordable Wire Management - GlobeNewswire",
+      "Why Array Technologies, Inc. (ARRY) Outpaced the Stock Market Today - Yahoo Finance Singapore",
+      "Why is Array Technologies stock sliding today? - Investing.com",
+      "JPMorgan Downgrades Array Technologies to Neutral From Overweight, Adjusts PT to $8 From $10 - marke"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 20 則事件，焦點為Array Technologies、信義光能、協鑫科技相關動態：「Xinyi Solar (SEHK:968) Is Up 10.2% After Forecasting Pote...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Xinyi Solar (SEHK:968) Is Up 10.2% After Forecasting Potential 1H 2026 Loss -...（太陽能產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "Spanish operational PV assets stabilize at €596,000/MW following 50% value de...（太陽能產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
