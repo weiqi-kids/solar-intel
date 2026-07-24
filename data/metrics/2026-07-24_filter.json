@@ -1,0 +1,16 @@
+{
+  "total_raw": 464,
+  "dup_title": 209,
+  "no_date": 0,
+  "too_old": 148,
+  "gate1_fail": 44,
+  "gate2_fail": 6,
+  "passed": 57,
+  "gate2_samples": [
+    "信義光能：股東週年大會通告 - Moomoo",
+    "Rome, Italy — LONGi Green Energy, a world-leading green energy technol - Shanghai Metals Market",
+    "Why is Array Technologies stock sliding today? - Investing.com",
+    "ARRAY to offer facility tour and live demos at Aug. 20 event - Stock Titan",
+    "JPMorgan Downgrades Array Technologies to Neutral From Overweight, Adjusts PT to $8 From $10 - marke"
+  ]
+}
