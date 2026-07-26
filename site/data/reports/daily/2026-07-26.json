@@ -1,0 +1,134 @@
+{
+  "date": "2026-07-26",
+  "generated_at": "2026-07-26T09:50:51.175071Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "first_solar-2026-07-26-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "First Solar Stock Faces New Pressure From China BRI Green Energy Spending - simplywall.st",
+      "companies": [
+        "first_solar"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQQi0zLUxxWTV6bEp5RDVSd1pWYkFKZndCSXJzZDRaVE0xWlk1ekc5bWZ6QU1QN1JQMVotMEpjUVJieDNnV2NCMlB3Y2JvV0VwN0ZBQmRZem1KOTFNejZTTlNFRUpDRVlpSGFRVHNWT3ZHQXdWZHdmcnZYazRMNGlNVU1YckpzeW9FMnljeWNTcHN4VG1KZDNWeHlHX0t1bzd2WElWeTZ3a2RCRVR5MDhqVmQxRlVOT0I0WWw5aHZVc1YzcXYxV09DU3FJLXBwdkY2anfSAdcBQVVfeXFMT1hVeGhKd0llQWtZTW1OWDN6Yy1iRV9VV3VwRlVwRzFSOXc4V1F3ZUxndnE5VzE0U2lmczByOWtKd29PaXU1M1ZncFBwbkFJWkw4VU1tRzNFN2dEOVM3RE1JVXRmaGhfamJFVHJxQ3piVXU5MnF6MlFlZGppbzVLY3hnUkJVZ2E5QzFmc3BFa3RHZHdOUlVzYnJhWjBSdDJhVFFQVXVfeTMwTmVTVzVXejRWMWg4QTBYQVgtd2FlX1M1MVAyWUNzOTJGdWdITGE2eXNwSFJTTkU?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-07-26-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "How next-generation photovoltaics could contribute to electricity storage - The Conversation",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPTXNETVFES0JudkozMG91OWNSdjlVaUExd2RhakRMNVdUQmIzeEtGcGRoN0dTV3o0MUlSenJhQURvR19RNF9fcVVza2NIeE5iaWUwNWMtNmZSZFZuMFl3WVFIQnZwVW9VT3kxMnpFRzZaR2UxMm82Q1E1WUhVR1FYUFlPNm45bWFsWXEteGx6bEpYVFJKamRFcFU1eURiQnRFa3h5R0xqQ2paRUVa?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-07-26-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "European hospital blaze blamed on solar. Are rooftop panels safe? - Euronews.com",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPZXQxMnRkaEhjaGxKbDBNb3llNUpOckhQY1BudXJ2NmNnLXpNUGVBV3E4eFNXYUlBZjFMbkhiWTAzU3hJRWEyWTJpUkNMTzBKa2xIYWRqRU5yaHlhWGpCTnBTZldXM21FVjF2RG5uaWN0WV9za2t2bWxUbnMwZENjamlPTUNodkozbXhjX1hTYkZXbXlwM0tHdFpUWGJodXVnSnRIclk5aW1obnpTUHg4Tk4zQ3ZZMVNMNWVQeA?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.17,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 3,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 2,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "first_solar",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 3
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 464,
+    "dup_title": 257,
+    "too_old": 145,
+    "gate1_blocked": 44,
+    "gate2_blocked": 5,
+    "passed": 13,
+    "pass_rate": "6.3%",
+    "gate2_block_rate": "2.4%",
+    "gate2_samples": [
+      "信義光能：股東週年大會通告 - Moomoo",
+      "DAQO New Energy (NYSE:DQ) Sets New 1-Year Low - Time to Sell? - MarketBeat",
+      "Rome, Italy — LONGi Green Energy, a world-leading green energy technol - Shanghai Metals Market",
+      "Down 26.9% in 4 Weeks, Here's Why Array Technologies (ARRY) Looks Ripe for a Turnaround - Yahoo Fina",
+      "Why is Array Technologies stock sliding today? - Investing.com"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 3 則事件，焦點為First Solar相關動態：「First Solar Stock Faces New Pressure From China BRI Green...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "First Solar Stock Faces New Pressure From China BRI Green Energy Spending - s...（太陽能產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "How next-generation photovoltaics could contribute to electricity storage - T...（太陽能產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

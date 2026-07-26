@@ -1,0 +1,16 @@
+{
+  "total_raw": 464,
+  "dup_title": 257,
+  "no_date": 0,
+  "too_old": 145,
+  "gate1_fail": 44,
+  "gate2_fail": 5,
+  "passed": 13,
+  "gate2_samples": [
+    "信義光能：股東週年大會通告 - Moomoo",
+    "DAQO New Energy (NYSE:DQ) Sets New 1-Year Low - Time to Sell? - MarketBeat",
+    "Rome, Italy — LONGi Green Energy, a world-leading green energy technol - Shanghai Metals Market",
+    "Down 26.9% in 4 Weeks, Here's Why Array Technologies (ARRY) Looks Ripe for a Turnaround - Yahoo Fina",
+    "Why is Array Technologies stock sliding today? - Investing.com"
+  ]
+}
