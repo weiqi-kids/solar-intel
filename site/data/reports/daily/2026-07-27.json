@@ -1,0 +1,185 @@
+{
+  "date": "2026-07-27",
+  "generated_at": "2026-07-27T11:01:43.505069Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-07-27-019",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Altus Power Partners with New Leaf Energy on Development of 5 Community Solar Projects in Virginia",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://cleantechnica.com/2026/07/26/altus-power-partners-with-new-leaf-energy-on-development-of-5-community-solar-projects-in-virginia/"
+    },
+    {
+      "rank": 2,
+      "event_id": "jinko-2026-07-27-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "JinkoSolar Holding Co Ltd (JKS) Revenue Breakdown: Business Segments, Regional Revenue & Profit Contribution - TradingKey",
+      "companies": [
+        "jinko"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5oeG8tdUkwSEkwR1FHQTlfRGNmM2dqSkVfUmFjS0tGa1dES005QnNNaWFtajdSaklNUmVJR1BtdjM3eGlzY2hqMzdVUndWYjRmanRmRk0xV2dlek5uei1zLUE5NA?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "jinko-2026-07-27-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "PowerKonnekt and Jinko ESS Sign Strategic Partnership Agreement at Intersolar Europe - ESS News",
+      "companies": [
+        "jinko"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNOFFOb3RadkhtT0RRUVNYVy1iZzFuTmhiMi1nU1BfUFIwMDdPRU9hNjFDNHVWX1lxVUthUEhuOGEzZGtHUm9tRi1nY0tSaVVBVDM4SEhOWUFDSFc5enc5b1FpZlpBbjFSMGNkbG1WbGdGbHpOZ1VmcHp0czRVUTRUR29nNVFqZklLZ293WWVuNEtGeDFCQ0tSNFBuRjVyaUxNR1VhTDBDZWRnMUd6QVNXd0xrT0w3TUxDSnV6RzNn?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "jinko-2026-07-27-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "JinkoSolar Holding Co Ltd (JKS) Dividends & Stock Splits: Historical Payouts and Event Timeline - TradingKey",
+      "companies": [
+        "jinko"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE51dWhtMGI1R2tRaV9XeHI4aWNWSDVmSnlRVXVNZ1N4T0FEbmhKYkZZR3hoVlRQV1BjcFYxZF9IamFZMTJydF83eDJwdE1BWFBQTFN1VTJMdWp2TFpQVDBhVEdLd0RkS0RtcVJaa0lR?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "jinko-2026-07-27-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "JinkoSolar Holding Co Ltd (JKS) Earnings Forecast: Future EPS & Revenue Growth Estimates - TradingKey",
+      "companies": [
+        "jinko"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBYeEh1ZTdXcVBTM2ZQcmRGU2xWeXJDOU5scS1FV3RGYUxsNmRxRzIxMlJvZ1dZZkQzN2tKaGZGTzlkZC1YcE1PRy02eWZMRzMyYjdwWGNWUy11eklHd3NDcjBVWnc?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 18,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.06,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 19,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 16,
+      "negative": 2
+    },
+    "top_companies": [
+      {
+        "id": "jinko",
+        "count": 5
+      },
+      {
+        "id": "array",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 18
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 464,
+    "dup_title": 233,
+    "too_old": 152,
+    "gate1_blocked": 43,
+    "gate2_blocked": 4,
+    "passed": 32,
+    "pass_rate": "13.9%",
+    "gate2_block_rate": "1.7%",
+    "gate2_samples": [
+      "DAQO New Energy (NYSE:DQ) Sets New 1-Year Low - Time to Sell? - MarketBeat",
+      "Down 26.9% in 4 Weeks, Here's Why Array Technologies (ARRY) Looks Ripe for a Turnaround - Yahoo Fina",
+      "Why is Array Technologies stock sliding today? - Investing.com",
+      "HyperStrong introduces C&I energy storage solutions at The smarter E 2026"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 19 則事件，焦點為晶科能源、Array Technologies相關動態：「Altus Power Partners with New Leaf Energy on Development ...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "Altus Power Partners with New Leaf Energy on Development of 5 Community Solar...（太陽能產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "JinkoSolar Holding Co Ltd (JKS) Revenue Breakdown: Business Segments, Regiona...（太陽能產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

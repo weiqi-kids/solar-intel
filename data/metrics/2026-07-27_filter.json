@@ -1,0 +1,15 @@
+{
+  "total_raw": 464,
+  "dup_title": 233,
+  "no_date": 0,
+  "too_old": 152,
+  "gate1_fail": 43,
+  "gate2_fail": 4,
+  "passed": 32,
+  "gate2_samples": [
+    "DAQO New Energy (NYSE:DQ) Sets New 1-Year Low - Time to Sell? - MarketBeat",
+    "Down 26.9% in 4 Weeks, Here's Why Array Technologies (ARRY) Looks Ripe for a Turnaround - Yahoo Fina",
+    "Why is Array Technologies stock sliding today? - Investing.com",
+    "HyperStrong introduces C&I energy storage solutions at The smarter E 2026"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "date": "2026-07-27",
+  "total_events": 19,
+  "by_company": {
+    "jinko": {
+      "count": 5,
+      "sentiment_avg": 0.1
+    },
+    "array": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "industry_general": {
+      "count": 18,
+      "sentiment_avg": -0.06
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}
