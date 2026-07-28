@@ -1,5 +1,464 @@
 [
   {
+    "id": "daqo-2026-07-28-001",
+    "date": "2026-07-28",
+    "companies": [
+      "daqo"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "DQ|Daqo New Energy Corp|Price:12.045|Chg%:+0.375 - TradingKey",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE9JV0kyVjZvaXhCckloZ1o3amViLVQ1QjhTNDcwcUNXbFl6ZGJrSm92bkpKMFYzcGZhSUxYQm94d0xGSTN2YUlucGRFaTVVODR3S0FjUjVxSExLbW9XSkVEMXBDNzMyQlpvellz?oc=5\"",
+    "sources": [
+      {
+        "name": "daqo",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9JV0kyVjZvaXhCckloZ1o3amViLVQ1QjhTNDcwcUNXbFl6ZGJrSm92bkpKMFYzcGZhSUxYQm94d0xGSTN2YUlucGRFaTVVODR3S0FjUjVxSExLbW9XSkVEMXBDNzMyQlpvellz?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "gcl-2026-07-28-002",
+    "date": "2026-07-28",
+    "companies": [
+      "gcl"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Enterprise value to revenue forward of GCL TECHNOLOGY HOLDINGS LIMITED – OTC:GCPEF - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxQaWlXU3ktZmhtTFlMOTA5bUVLWHAxZldZbGQySFpaaTJCLTZETzZPZGFueDZoUVhFbng5ZGY1UkF1cDZZWmE4YXNqVGJRVmNldnZmd3FsZWhRTGRhS0h1QkF1aVRZQTZrNWduejBuZm",
+    "sources": [
+      {
+        "name": "gcl",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQaWlXU3ktZmhtTFlMOTA5bUVLWHAxZldZbGQySFpaaTJCLTZETzZPZGFueDZoUVhFbng5ZGY1UkF1cDZZWmE4YXNqVGJRVmNldnZmd3FsZWhRTGRhS0h1QkF1aVRZQTZrNWduejBuZmhSNnIzTFF6ZlJ4YXFLRVhyZHhTdVhtNXdEX2JyUmg3aXp0dk9xRlUyVVRyYnF5ZTFyWWtLb25NQzNEQQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "array-2026-07-28-003",
+    "date": "2026-07-28",
+    "companies": [
+      "array"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "ARRY|Array Technologies Inc|Price:5.515|Chg%:+0.195 - TradingKey",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE1aWk9TZ3kzNmd2ekdOdm51QmxDVnV4LTRnWlZTVXMycDI2MHAzZ3RxNENZUTRMTTB3dUg1dW9kY1llZ3oyV0NvQjRRaDZUdElIZ01XR0pvTVMxeUxLSzd3WGc3SU1zNmczQUQ5TVZ3?o",
+    "sources": [
+      {
+        "name": "array",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1aWk9TZ3kzNmd2ekdOdm51QmxDVnV4LTRnWlZTVXMycDI2MHAzZ3RxNENZUTRMTTB3dUg1dW9kY1llZ3oyV0NvQjRRaDZUdElIZ01XR0pvTVMxeUxLSzd3WGc3SU1zNmczQUQ5TVZ3?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "sungrow-2026-07-28-004",
+    "date": "2026-07-28",
+    "companies": [
+      "sungrow"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "BYD and Sungrow Win UAE Solar Storage Contracts, Outpacing CATL - News and Statistics - IndexBox",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxPTldjWkI0WDRiMFNYTHZWMGVQNkFmNkU4SHlneEgwNkJlTVpDNXJJdW0wVHBzTmQ2dXpmX2g3REJfbnhNTVRCX3RTSGtPZGVkVl9WY0NMRHc5ZU40TTJsMW02MDdMVnpaMVpWT2Q1MT",
+    "sources": [
+      {
+        "name": "sungrow",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPTldjWkI0WDRiMFNYTHZWMGVQNkFmNkU4SHlneEgwNkJlTVpDNXJJdW0wVHBzTmQ2dXpmX2g3REJfbnhNTVRCX3RTSGtPZGVkVl9WY0NMRHc5ZU40TTJsMW02MDdMVnpaMVpWT2Q1MTFFM0VsUlJMYWJ4UGNQNmVMczlnbFhSWmJ0eUg3dkVIRTM1QQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-28-005",
+    "date": "2026-07-28",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "OCI Holdings plans to double polysilicon production capacity by 2029",
+    "summary": "<p>The South Korean company says the expansion is geared towards meeting demand from the AI and space industries in the US.</p>\n<p>The post <a href=\"https://www.pv-magazine.com/2026/07/28/oci-holdings",
+    "sources": [
+      {
+        "name": "pv_magazine",
+        "url": "https://www.pv-magazine.com/2026/07/28/oci-holdings-plans-to-double-polysilicon-production-capacity-by-2029/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-28-006",
+    "date": "2026-07-28",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Mexican graduates develop agrivoltaic system with rainwater harvesting, smart irrigation",
+    "summary": "<p>The group's agrivoltaic proposal, known as SolarRoot, integrates photovoltaics with crops, rainwater harvesting and subsurface drip irrigation controlled by moisture sensors.</p>\n<p>The post <a hre",
+    "sources": [
+      {
+        "name": "pv_magazine",
+        "url": "https://www.pv-magazine.com/2026/07/28/mexican-graduates-develop-agrivoltaic-system-with-rainwater-harvesting-smart-irrigation/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-28-007",
+    "date": "2026-07-28",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Solmeria opens platform for buying solar, storage projects",
+    "summary": "<p>The French company, formerly known as Ferme Solaire, launched the new marketplace for buying and selling solar and storage projects in Europe earlier this month.</p>\n<p>The post <a href=\"https://ww",
+    "sources": [
+      {
+        "name": "pv_magazine",
+        "url": "https://www.pv-magazine.com/2026/07/28/solmeria-opens-platform-for-buying-solar-storage-projects/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tongwei-2026-07-28-008",
+    "date": "2026-07-28",
+    "companies": [
+      "tongwei"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "New Tongwei modules boost bifaciality toward 90%",
+    "summary": "<p>The company showcased its new TNC 3.0 module series and BIFIMAX variants at The smarter E 2026, demonstrating high performance in low-light scenarios.</p>\n<p>The post <a href=\"https://www.pv-magazi",
+    "sources": [
+      {
+        "name": "pv_magazine",
+        "url": "https://www.pv-magazine.com/2026/07/28/new-tongwei-modules-boost-bifaciality-toward-90/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-28-009",
+    "date": "2026-07-28",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Fire at Spanish solar plant burns 90 hectares",
+    "summary": "<p>The fire, which broke out last Wednesday afternoon, left one worker injured with burns. The cause of the fire is yet to be reported.</p>\n<p>The post <a href=\"https://www.pv-magazine.com/2026/07/28/",
+    "sources": [
+      {
+        "name": "pv_magazine",
+        "url": "https://www.pv-magazine.com/2026/07/28/fire-at-spanish-solar-plant-burns-90-hectares/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-28-010",
+    "date": "2026-07-28",
+    "companies": [],
+    "topics": [
+      "installation_demand",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Floating PV economically viable at Moroccan dams",
+    "summary": "<p>Research from Morocco assessing the techno-economic potential of floating PV at a Moroccan dam finds such installations can help to mitigate water stress while increasing the country's renewable en",
+    "sources": [
+      {
+        "name": "pv_magazine",
+        "url": "https://www.pv-magazine.com/2026/07/28/floating-pv-economically-viable-at-moroccan-dams/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-28-011",
+    "date": "2026-07-28",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Zambia doubles capacity of Chisamba solar project",
+    "summary": "<p>Zambia has added 100 MW to its Chisamba solar plant, with construction of the second phase taking just seven months.</p>\n<p>The post <a href=\"https://www.pv-magazine.com/2026/07/28/zambia-doubles-c",
+    "sources": [
+      {
+        "name": "pv_magazine",
+        "url": "https://www.pv-magazine.com/2026/07/28/zambia-doubles-capacity-of-chisamba-solar-project/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-28-012",
+    "date": "2026-07-28",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Open-access framework for intraday PV power prediction",
+    "summary": "<p>An international research team developed an open-source framework for intraday, national-scale PV forecasting that combines satellite-based deep learning, optical-flow techniques, and numerical wea",
+    "sources": [
+      {
+        "name": "pv_magazine",
+        "url": "https://www.pv-magazine.com/2026/07/28/open-access-framework-for-intraday-pv-power-prediction/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-28-013",
+    "date": "2026-07-28",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Australian researchers achieve 30.2% efficiency for 10 cm2 perovskite-silicon tandem solar cell",
+    "summary": "<p>The result was confirmed by the PV Performance Lab at the Commonwealth Scientific and Industrial Research Organisation (CSIRO).</p>\n<p>The post <a href=\"https://www.pv-magazine.com/2026/07/28/austr",
+    "sources": [
+      {
+        "name": "pv_magazine",
+        "url": "https://www.pv-magazine.com/2026/07/28/australian-researchers-achieve-30-2-efficiency-for-10-cm2-perovskite-silicon-tandem-solar-cell/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-28-014",
+    "date": "2026-07-28",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "BMW is finally making the electric convertible we’ve been waiting for",
+    "summary": "<div class=\"feat-image\"><img src=\"https://electrek.co/wp-content/uploads/sites/3/2026/07/BMW-i4-convertible-concept.png?w=1600\" /></div><p class=\"wp-block-paragraph\">BMW is planning an all-electric i4",
+    "sources": [
+      {
+        "name": "electrek_solar",
+        "url": "https://electrek.co/2026/07/27/bmw-i4-electric-convertible-2028/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-28-015",
+    "date": "2026-07-28",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Meridian Secures Consent for Its 110 MW Solar Farm - energynews.pro",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxOb01ORThMUU42N2ZlNFNlWFMybGFHd2V1dVRCM09Db0YtT29tdTdqMDRXRlR4Z0RaT0tySTdvUXZ3STdxNnpuYklsNmRmU3ZWYll2bU1DblVjd1YwYjlmSnNEcmZSdlpMVFlWeWI3dG",
+    "sources": [
+      {
+        "name": "google_news_solar",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOb01ORThMUU42N2ZlNFNlWFMybGFHd2V1dVRCM09Db0YtT29tdTdqMDRXRlR4Z0RaT0tySTdvUXZ3STdxNnpuYklsNmRmU3ZWYll2bU1DblVjd1YwYjlmSnNEcmZSdlpMVFlWeWI3dGRxc3FaUGFBa052bGpMbHdVSjNn?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-28-016",
+    "date": "2026-07-28",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Ecological Harmony: Solar Park in Qinghai Transforms Desert into Pasture - Alwihda Info",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxQakQ5dmVpdHY3YlI3NXhqVWlGQlJzTExzWDJvNXJKMXJ1R1lsXzdyMDNxaWRrZ0VoVUhQZFAzMnhSdXg2dWhHVWRNREpZNGpCTms1Z3RRc3l3d0FXOTk1TEs2ZmVkdmFjcWNqTDhLUG",
+    "sources": [
+      {
+        "name": "google_news_solar",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQakQ5dmVpdHY3YlI3NXhqVWlGQlJzTExzWDJvNXJKMXJ1R1lsXzdyMDNxaWRrZ0VoVUhQZFAzMnhSdXg2dWhHVWRNREpZNGpCTms1Z3RRc3l3d0FXOTk1TEs2ZmVkdmFjcWNqTDhLUGFMQ2ZIaUFJODBqUnBxOFBMN1MzbGZ1TUpiZnNibkhVd2theDhLV2FDSlJEa1FNQV81M2c?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-28-017",
+    "date": "2026-07-28",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Solar sector in value rebuilding - China Daily",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTFBiNmtqeGFGYURWR1FtRVo4MXpiZmFESTFsdGFQcXNlVDZQVG9hODU1a3gyWm1DRW9GWTROdmJWRXdya1FFb25EcmVhX3l6MzQ4ZWJRM1FwNnh4cWRuV2M4eUNWT2UycldiaENfeEkwc1",
+    "sources": [
+      {
+        "name": "google_news_solar",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBiNmtqeGFGYURWR1FtRVo4MXpiZmFESTFsdGFQcXNlVDZQVG9hODU1a3gyWm1DRW9GWTROdmJWRXdya1FFb25EcmVhX3l6MzQ4ZWJRM1FwNnh4cWRuV2M4eUNWT2UycldiaENfeEkwc19wbVdkYlJUdmlzekxiQQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-28-018",
+    "date": "2026-07-28",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Germany gets a plug-and-play AI home battery for existing solar, no panel swap needed - The Cool Down",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxQcXJWQWc1UWg5MUxMQVI0UmtpZXl6R3BMaUtDVWRiSG1Ub2tlT0lFUWlTeTFLbW1wVzAyZHQ5dmdIVHJRYUc3VHhDXzJJYUd2ZzRJcHdadFhjTDhuVkF6ekhFUk51bnd3ZjA4VlVaal",
+    "sources": [
+      {
+        "name": "google_news_solar",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQcXJWQWc1UWg5MUxMQVI0UmtpZXl6R3BMaUtDVWRiSG1Ub2tlT0lFUWlTeTFLbW1wVzAyZHQ5dmdIVHJRYUc3VHhDXzJJYUd2ZzRJcHdadFhjTDhuVkF6ekhFUk51bnd3ZjA4VlVaalJOSGM0ckJVTkhELTByNnltTElVLXRlVVE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-28-019",
+    "date": "2026-07-28",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Inside the container: looking at CATL’s sodium-ion Tener’s specs",
+    "summary": "In this deep-dive, we go through and analyse all of the technical features and claims of CATL's new sodium-ion grid-scale BESS product, including its 'millisecond-level self-healing'. ",
+    "sources": [
+      {
+        "name": "energy_storage_news",
+        "url": "https://www.energy-storage.news/inside-the-container-looking-at-catls-sodium-ion-teners-specs/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-28-020",
+    "date": "2026-07-28",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Zenobē buys German BESS developer SDP Energie, inheriting 1.75GW transmission-level pipeline",
+    "summary": "UK-based BESS and EV charging firm Zenobē has entered the German market with the acquisition of Bavaria-headquartered BESS developer SDP Energie. ",
+    "sources": [
+      {
+        "name": "energy_storage_news",
+        "url": "https://www.energy-storage.news/zenobe-buys-german-bess-developer-sdp-energie-inheriting-1-75gw-transmission-level-pipeline/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-28-021",
+    "date": "2026-07-28",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Minister of Energy leads ceremony to commission Malawi’s first grid-scale standalone BESS",
+    "summary": "Malawi’s energy minister was on hand last week as the southeast African country inaugurated its first large-scale standalone battery energy storage system (BESS).",
+    "sources": [
+      {
+        "name": "energy_storage_news",
+        "url": "https://www.energy-storage.news/minister-of-energy-leads-ceremony-to-commission-malawis-first-grid-scale-standalone-bess/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-28-022",
+    "date": "2026-07-28",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Malaysia launches tender for 2.5GW of solar PV with co-located battery storage",
+    "summary": "The government of Malaysia has unveiled the next round of its Large-scale solar (LSS) program tender seeking 2.5GW of solar PV co-located with 1.25GW of battery energy storage system (BESS) capacity.",
+    "sources": [
+      {
+        "name": "energy_storage_news",
+        "url": "https://www.energy-storage.news/malaysia-launches-tender-for-2-5gw-of-solar-pv-with-co-located-battery-storage/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-28-023",
+    "date": "2026-07-28",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Hanoi Power Corporation inaugurates the first 100MWh battery storage portfolio in Vietnamese capital",
+    "summary": "Hanoi Power Corporation (EVNHANOI) has begun pilot operation of five battery energy storage systems at substations in Hanoi, Vietnam.",
+    "sources": [
+      {
+        "name": "energy_storage_news",
+        "url": "https://www.energy-storage.news/hanoi-power-corporation-inaugurates-the-first-100mwh-battery-storage-portfolio-in-vietnamese-capital/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-28-024",
+    "date": "2026-07-28",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Affordable Homes, Cooling Centers, and a Faster Grid? Yes, Please",
+    "summary": "<p>How 4 Companies Are Working To Bring New Technologies to Communities in Need—With Help From National Laboratory Experts By Caitlin McDermott-Murphy and Stacy Parker, NLR A year after the Palisades ",
+    "sources": [
+      {
+        "name": "cleantechnica",
+        "url": "https://cleantechnica.com/2026/07/27/affordable-homes-cooling-centers-and-a-faster-grid-yes-please/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-28-025",
+    "date": "2026-07-28",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Ameren Missouri Bets Big on Expensive New Gas",
+    "summary": "<p>Supply chain problems driving up new gas turbine prices as solar &#38; storage compete on cost ST. LOUIS, MO — Amid surging costs for new turbines, Ameren Missouri announced today its plan to build",
+    "sources": [
+      {
+        "name": "cleantechnica",
+        "url": "https://cleantechnica.com/2026/07/27/ameren-missouri-bets-big-on-expensive-new-gas/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "jinko-2026-07-27-001",
     "date": "2026-07-27",
     "companies": [
@@ -347,6 +806,428 @@
       {
         "name": "cleantechnica",
         "url": "https://cleantechnica.com/2026/07/26/altus-power-partners-with-new-leaf-energy-on-development-of-5-community-solar-projects-in-virginia/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "daqo-2026-07-27-020",
+    "date": "2026-07-27",
+    "companies": [
+      "daqo"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Daqo New Energy Corp (DQ) Income Statement - TradingKey",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE1BTXhfcGpmRWpmSmR5WUNjYzBucVZwWEVWQURkX3pqdmJKYVY4anRfMHExdWlJVFY0SGRLajRlYmVTbjZHZDRFVHBZenVQZnRwT3pQNnVaQ3JlRERGVTVPLWJtUkZIRWJsOWF1Zk1R?o",
+    "sources": [
+      {
+        "name": "daqo",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1BTXhfcGpmRWpmSmR5WUNjYzBucVZwWEVWQURkX3pqdmJKYVY4anRfMHExdWlJVFY0SGRLajRlYmVTbjZHZDRFVHBZenVQZnRwT3pQNnVaQ3JlRERGVTVPLWJtUkZIRWJsOWF1Zk1R?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "daqo-2026-07-27-021",
+    "date": "2026-07-27",
+    "companies": [
+      "daqo"
+    ],
+    "topics": [],
+    "impact": "positive",
+    "title": "Daqo New Energy Corp (DQ) Earnings Forecast: Future EPS & Revenue Growth Estimates - TradingKey",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTFA1RHFQb3hzbDNROUtCYVlXN2w2amdsOE81WGczWVVKWDVkRTY5RVlZcDRHWG53dERGT0phOV8tRmNXUkw5N1U4T2ljVkcwNVU0bktITE1EOExFN2dpbHJneHdPMA?oc=5\" target=\"_",
+    "sources": [
+      {
+        "name": "daqo",
+        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFA1RHFQb3hzbDNROUtCYVlXN2w2amdsOE81WGczWVVKWDVkRTY5RVlZcDRHWG53dERGT0phOV8tRmNXUkw5N1U4T2ljVkcwNVU0bktITE1EOExFN2dpbHJneHdPMA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "jinko-2026-07-27-022",
+    "date": "2026-07-27",
+    "companies": [
+      "jinko"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "JinkoSolar Holding Co., Ltd. Sponsored ADR Revenue Breakdown – HAN:ZJS1 - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE9pdmNlX3Vtd0FpWlBZRXhjNFpTemIzRVpDcUpid3dFdG9vSExNMGQ1eWJoeVhTVFMtU0RBQ3Y0UHBIWnVnalVHVXQ2ckprcjNzQl9JYWNrUDhla0tMUnAwMWtGak5qZVZWVE4tUzQ0S1",
+    "sources": [
+      {
+        "name": "jinko",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9pdmNlX3Vtd0FpWlBZRXhjNFpTemIzRVpDcUpid3dFdG9vSExNMGQ1eWJoeVhTVFMtU0RBQ3Y0UHBIWnVnalVHVXQ2ckprcjNzQl9JYWNrUDhla0tMUnAwMWtGak5qZVZWVE4tUzQ0S1NUajQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "array-2026-07-27-023",
+    "date": "2026-07-27",
+    "companies": [
+      "array"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Should Value Investors Buy Array Technologies (ARRY) Stock? - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxNZi0tVnVIS3ZGT0R1dFJlQ2QzcU9Bejg1aHRaY21JNkpvMGRDWG5LV29DbWdUUE5XYUROYmtJUnRFRFJ5bFRyVWM3Q2o0a1puLW1kenhZUUdYLXNfSjU4WFhyZUF2MnFWZDZJVi13TU",
+    "sources": [
+      {
+        "name": "array",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNZi0tVnVIS3ZGT0R1dFJlQ2QzcU9Bejg1aHRaY21JNkpvMGRDWG5LV29DbWdUUE5XYUROYmtJUnRFRFJ5bFRyVWM3Q2o0a1puLW1kenhZUUdYLXNfSjU4WFhyZUF2MnFWZDZJVi13TUU2aXJLVW5KNjUza0pCUFNBQ3ZjRi1MMl9FNFhrOGJpUVNfa2taSTlYVjdMZDZvT2g0OF9QdENn?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "array-2026-07-27-024",
+    "date": "2026-07-27",
+    "companies": [
+      "array"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Croatia’s first energy community begins sharing solar power",
+    "summary": "<p>A community in northern Croatia has become the first in the country to benefit from new regulations governing energy communities. The 17 members share solar energy from a rooftop array located on a",
+    "sources": [
+      {
+        "name": "pv_magazine",
+        "url": "https://www.pv-magazine.com/2026/07/27/croatias-first-energy-community-begins-sharing-solar-power/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-27-025",
+    "date": "2026-07-27",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Global battery storage capacity projected to surge sixfold by 2030",
+    "summary": "Global battery energy storage capacity is projected to expand sixfold between 2025 and 2030 at a 42% compound annual growth rate, driven by utility procurement, grid constraints, and surging power dem",
+    "sources": [
+      {
+        "name": "pv_magazine_usa",
+        "url": "https://pv-magazine-usa.com/2026/07/27/global-battery-storage-capacity-projected-to-surge-sixfold-by-2030/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-27-026",
+    "date": "2026-07-27",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "As solar breaks records, its security must catch up",
+    "summary": "In May 2026, U.S. solar power hit a historic milestone by generating more electricity than coal for the first time, but rapid industry expansion brings critical security risks, particularly during con",
+    "sources": [
+      {
+        "name": "pv_magazine_usa",
+        "url": "https://pv-magazine-usa.com/2026/07/27/as-solar-breaks-records-its-security-must-catch-up/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-27-027",
+    "date": "2026-07-27",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Solar PPA prices dip in Q2 while wind climbs as July 4 tax credit deadline looms, reports LevelTen",
+    "summary": "Power purchase agreement prices for solar projects in North America fell in the second quarter of 2026 for the first time in two years, while wind prices continued to rise ahead of a major federal tax",
+    "sources": [
+      {
+        "name": "pv_magazine_usa",
+        "url": "https://pv-magazine-usa.com/2026/07/27/solar-ppa-prices-dip-in-q2-while-wind-climbs-as-july-4-tax-credit-deadline-looms-reports-levelten/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-27-028",
+    "date": "2026-07-27",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "Battery virtual power plant that paid homeowners $5.4 million now expanding to EV batteries",
+    "summary": "The ConnectedSolutions program, which paid more than $5.4 million to residential battery owners in Massachusetts in 2025, is now adding vehicle-to-grid capacity, offering drivers a chance to support t",
+    "sources": [
+      {
+        "name": "pv_magazine_usa",
+        "url": "https://pv-magazine-usa.com/2026/07/27/battery-virtual-power-plant-that-paid-homeowners-5-4-million-now-expanding-to-ev-batteries/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-27-029",
+    "date": "2026-07-27",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Meta is backing 10 gas plants to power data centers – and just quit a global renewables pledge",
+    "summary": "<div class=\"feat-image\"><img src=\"https://electrek.co/wp-content/uploads/sites/3/2026/07/MetaSite-1030x599-1.jpg?quality=82&#038;strip=all&#038;w=1200\" /></div><p class=\"wp-block-paragraph\">Facebook a",
+    "sources": [
+      {
+        "name": "electrek_solar",
+        "url": "https://electrek.co/2026/07/27/meta-is-backing-10-gas-plants-and-just-quit-a-global-renewables-pledge/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-27-030",
+    "date": "2026-07-27",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Kia’s next electric van is hard to miss on the road [Video]",
+    "summary": "<div class=\"feat-image\"><img src=\"https://electrek.co/wp-content/uploads/sites/3/2026/06/Kia-PV7-EV-van-first-look.jpeg?quality=82&#038;strip=all&#038;w=1400\" /></div><p class=\"wp-block-paragraph\">The",
+    "sources": [
+      {
+        "name": "electrek_solar",
+        "url": "https://electrek.co/2026/07/27/kias-next-electric-van-hard-to-miss-on-road-video/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-27-031",
+    "date": "2026-07-27",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "BMW iX5 LWB debuts with a range of over 620 miles and a huge Theater Screen [Images]",
+    "summary": "<div class=\"feat-image\"><img src=\"https://electrek.co/wp-content/uploads/sites/3/2026/07/BMW-iX5-LWB-range.jpeg?quality=82&#038;strip=all&#038;w=1400\" /></div><p class=\"wp-block-paragraph\"><a href=\"ht",
+    "sources": [
+      {
+        "name": "electrek_solar",
+        "url": "https://electrek.co/2026/07/27/bmw-ix5-lwb-debuts-620-miles-range-huge-screens-images/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-27-032",
+    "date": "2026-07-27",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Artificial Intelligence Driven Solar Tracking System for Enhanced Energy Efficiency and Environmental Sustainability - Springer Nature Link",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE1Nb2pFS2gzSDYtcnNxMGRqZm5yWGFvbGI5b24xeHFNeWU0V0p2bTMxZW5ILTFWbWR0QkE1N2xIN0phdWlRMEdobXlfV3FiSzlyTl9SVmpPUklKVVBSVnZwMWFCcENxMi1LNWNj?oc=5\"",
+    "sources": [
+      {
+        "name": "google_news_solar",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1Nb2pFS2gzSDYtcnNxMGRqZm5yWGFvbGI5b24xeHFNeWU0V0p2bTMxZW5ILTFWbWR0QkE1N2xIN0phdWlRMEdobXlfV3FiSzlyTl9SVmpPUklKVVBSVnZwMWFCcENxMi1LNWNj?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-27-033",
+    "date": "2026-07-27",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Solar-powered facade systems that turn the building envelope into a power source - The Architect’s Newspaper",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE84dFZ4UFlSclZRbEJYd09Tc1FuMGYxRGhyYVdsSFlwNVdiR0NNZWs4UVBXLUE2WlZhTmRyVXJlalRqVmRBU1ZwNHpua240OGdkaTRVQS1mdzJhcGVGNTJOUEwtYjg0M01oLXJIUjkwbD",
+    "sources": [
+      {
+        "name": "google_news_solar",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE84dFZ4UFlSclZRbEJYd09Tc1FuMGYxRGhyYVdsSFlwNVdiR0NNZWs4UVBXLUE2WlZhTmRyVXJlalRqVmRBU1ZwNHpua240OGdkaTRVQS1mdzJhcGVGNTJOUEwtYjg0M01oLXJIUjkwbDc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-27-034",
+    "date": "2026-07-27",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Greece moves to allow balcony solar for the first time in self-consumption overhaul - The Cool Down",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTFB3LVpTTjg0WEJsbTdLWTlnVV8wTi1jYzJlM2FRVzliVXJoNmtmWHlzZndHYXo4VmR3OXpra1VDSzVITFRGUUkyWVJYY0RsLWp2UlJpUm1Lb0dCRTljZE15dFRRUFNnUEJQZFk1Ti1aSz",
+    "sources": [
+      {
+        "name": "google_news_solar",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFB3LVpTTjg0WEJsbTdLWTlnVV8wTi1jYzJlM2FRVzliVXJoNmtmWHlzZndHYXo4VmR3OXpra1VDSzVITFRGUUkyWVJYY0RsLWp2UlJpUm1Lb0dCRTljZE15dFRRUFNnUEJQZFk1Ti1aSzNLUFNnZERwTThsdVJJQQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "array-2026-07-27-035",
+    "date": "2026-07-27",
+    "companies": [
+      "array"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Op-ed: Agrivoltaics isn’t one thing. Our policy shouldn’t be either.",
+    "summary": "<p>Farming and solar energy share something fundamental: they both depend on land, sunlight and long time horizons. A solar array generating power for 25+ years and a farm stewarding the same ground f",
+    "sources": [
+      {
+        "name": "solar_power_world",
+        "url": "https://www.solarpowerworldonline.com/2026/07/op-ed-agrivoltaics-isnt-one-thing-our-policy-shouldnt-be-either/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-27-036",
+    "date": "2026-07-27",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "DYCM’s journey to panel manufacturing leads to California",
+    "summary": "<p>Long-time renewables investor Sriram Das has been nurturing a dream for the last half-decade to make solar panels in the United States. Finally, after many starts and stops, his company DYCM is clo",
+    "sources": [
+      {
+        "name": "solar_power_world",
+        "url": "https://www.solarpowerworldonline.com/2026/07/dycms-journey-to-panel-manufacturing-leads-to-california/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-27-037",
+    "date": "2026-07-27",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Irley thermal camera suggested for early fault detection on solar projects",
+    "summary": "<p>Thermal imaging and monitoring solutions company moviTHERM has launched Irley, a new IoT thermal camera built to flag fire risk, equipment failure and heat related problems so teams can step in bef",
+    "sources": [
+      {
+        "name": "solar_power_world",
+        "url": "https://www.solarpowerworldonline.com/2026/07/irley-thermal-camera-suggested-for-early-fault-detection-on-solar-projects/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-27-038",
+    "date": "2026-07-27",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Vehicle-to-grid added to Massachusetts utilities’ ConnectedSolutions demand response VPP",
+    "summary": "Eversource and National Grid will enable customers in Massachusetts to enrol vehicle-to-grid (V2G) -capable EVs in their demand side flexibility programme.",
+    "sources": [
+      {
+        "name": "energy_storage_news",
+        "url": "https://www.energy-storage.news/vehicle-to-grid-added-to-massachusetts-utilities-connectedsolutions-demand-response-vpp/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-27-039",
+    "date": "2026-07-27",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "This “Clap-On, Clap-Off” Laser Weapon Can Beam Power Wirelessly, Too",
+    "summary": "<p>A transportable, compact laser weapon can serve a dual purpose for wireless power transfer, potentially opening up new opportunities for renewable energy to power remote operations.</p>\n<p>The post",
+    "sources": [
+      {
+        "name": "cleantechnica",
+        "url": "https://cleantechnica.com/2026/07/27/drone-warfare-laser-weapon-wireless-power-transfer-boeing/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-27-040",
+    "date": "2026-07-27",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Hawaiian Electric Seeks to Expand Renewables, Energy Storage on Oʻahu, Hawaiʻi Island, and Maui",
+    "summary": "<p>Represents significant progress toward 100% renewable energy One of state’s largest energy procurements ever Additional 500 MW of firm generation on O‘ahu to be sought HONOLULU — Hawaiian Electric ",
+    "sources": [
+      {
+        "name": "cleantechnica",
+        "url": "https://cleantechnica.com/2026/07/27/hawaiian-electric-seeks-to-expand-renewables-energy-storage-on-o%ca%bbahu-hawai%ca%bbi-island-and-maui/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-27-041",
+    "date": "2026-07-27",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Zayed Sustainability Prize’s Beyond2020 Initiative Strengthens Healthcare Resilience for Over 200,000 People in India",
+    "summary": "<p>Six solar-powered health facilities continue to improve reliable healthcare delivery across rural Karnataka ABU DHABI, United Arab Emirates — Beyond2020, the flagship initiative launched by the Zay",
+    "sources": [
+      {
+        "name": "cleantechnica",
+        "url": "https://cleantechnica.com/2026/07/27/zayed-sustainability-prizes-beyond2020-initiative-strengthens-healthcare-resilience-for-over-200000-people-in-india/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-27-042",
+    "date": "2026-07-27",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "ESS & Juniper Energy Sign Agreement for 500 MWh+ of Sodium-Ion Energy Storage Deployments",
+    "summary": "<p>Partnership Begins with Planned 80 MWh California Project and Establishes Framework for Long-term Collaboration WILSONVILLE, Oregon — ESS Tech, Inc. (ESS) (NYSE: GWH) (“ESS” or the “company”), a le",
+    "sources": [
+      {
+        "name": "cleantechnica",
+        "url": "https://cleantechnica.com/2026/07/27/ess-juniper-energy-sign-agreement-for-500-mwh-of-sodium-ion-energy-storage-deployments/",
         "type": "rss"
       }
     ]
@@ -953,6 +1834,64 @@
       {
         "name": "daqo",
         "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE52bEd6eU94S2hXQ0RpSmp4b2l1QjB4YmU4cUk3SG5LYVRNekhldklsQ3RYRmx3a25xU3owZHEtcTJoTGs0SEQtOUp1VGNyVXhlRnJNVlZpZVhhcThlUWNrZm1jYkNCY1ZFZ2lzOElfajFRUQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "jinko-2026-07-25-021",
+    "date": "2026-07-25",
+    "companies": [
+      "jinko"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Jinkosolar (JKSN) Earnings Dates, Call Summary & Reports - TipRanks",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE85c2dfTTI3dTFFREI0dEREa1hvQ1NQN3RHelVZMWZyeDRyQzhoUVR6UDBoMG8zc3BqcjJDWjFJb3llRFAwaHdWQjhQWmVBNFJPMnozSUwyVGtheXo1?oc=5\" target=\"_blank\">Jin",
+    "sources": [
+      {
+        "name": "jinko",
+        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE85c2dfTTI3dTFFREI0dEREa1hvQ1NQN3RHelVZMWZyeDRyQzhoUVR6UDBoMG8zc3BqcjJDWjFJb3llRFAwaHdWQjhQWmVBNFJPMnozSUwyVGtheXo1?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "maxeon-2026-07-25-022",
+    "date": "2026-07-25",
+    "companies": [
+      "maxeon"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Maxeon Solar Technologies, Ltd. Revenue Breakdown – OTC:MAXNQ - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTFA1NTR0TF9laFRWZHdBN0pKOVNXUXpkRC0zZU16VnVFRWZrZlJuaFp1LUtxSHV4cS1heDJwMXNjeEdrakJQM1J4TFdLWXM4ampFa3BWQkJOeEFEeWpoWW1acjBEZ0tGWUszTno1Ym1GN1",
+    "sources": [
+      {
+        "name": "maxeon",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA1NTR0TF9laFRWZHdBN0pKOVNXUXpkRC0zZU16VnVFRWZrZlJuaFp1LUtxSHV4cS1heDJwMXNjeEdrakJQM1J4TFdLWXM4ampFa3BWQkJOeEFEeWpoWW1acjBEZ0tGWUszTno1Ym1GN1ZMbzZP?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-25-023",
+    "date": "2026-07-25",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Farmers put 40 sheep near solar panels: it wasn't a stunt, it quietly changed how clean energy gets made - OkDiario",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxOdXhJMHdtQzhoUUR6ZDhYb1N5TFhEaU0yNmVjUjBJNGM1Qm93cFdNcllYdktPcVZUaGQyZzJmS3NSdWUwN3RxZ3ZMYmFZYWpTb1R0U1BfYlZONHNXcjNMa2NvajhhWkFMNFFPYTQzcm",
+    "sources": [
+      {
+        "name": "google_news_solar",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOdXhJMHdtQzhoUUR6ZDhYb1N5TFhEaU0yNmVjUjBJNGM1Qm93cFdNcllYdktPcVZUaGQyZzJmS3NSdWUwN3RxZ3ZMYmFZYWpTb1R0U1BfYlZONHNXcjNMa2NvajhhWkFMNFFPYTQzcmY3X3YzSk91LTNza2VGWjg3NV9HejZzQXJxa21jbjZFMERURldjQ0gtZWIyOG9XbUthaThEWkE4SndyS1VadC1PQjNraUJDNWVfRUUwaFlPb29pdENsUS1pWHpzNWYtRDRlc0tv?oc=5",
         "type": "rss"
       }
     ]
@@ -4074,6 +5013,26 @@
       {
         "name": "google_news_solar",
         "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQN0ZQdDg5M0lnd3J1M3JyMG10azRTZGZLa211OXlFem1RVUE1OHVNU2NuUlFKdkFoWVJBS0IwdmZKdFh1c3JfWnpyaEREMjVLcVFuNXluSlNrNzVRS0VmSWk2amtWQ2VtWFEwRHZjNWNLNDJZT3VRLWxFMmQxRDA1MXM4b0tUSm5LazU0SVhiZ1RrTVRCVWNBQTV6bTNWMjl6WnV2a0E5V1pOUXJlVXNPVzVNUEtTcU5fMFZSbkFIVndOQ3JY?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "gcl-2026-07-22-051",
+    "date": "2026-07-22",
+    "companies": [
+      "gcl"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "GCL Technology (03800) repurchased 9 million shares on July 22 at a cost of HK$5.4 million. - Moomoo",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxOXy0yejF1U2pTZU5XRFp5QjRydEJ2eTV2ODZmV05oTGJ1VXdPTmFmZU9uOEZaUHdSb3MyWFZHTW1Dc1A4UmUzYU41RThTX3dUQlVuUS1pVWtxTTN0Mkx6UVlkc3JVRGwtTVJLTlZMZG",
+    "sources": [
+      {
+        "name": "gcl",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOXy0yejF1U2pTZU5XRFp5QjRydEJ2eTV2ODZmV05oTGJ1VXdPTmFmZU9uOEZaUHdSb3MyWFZHTW1Dc1A4UmUzYU41RThTX3dUQlVuUS1pVWtxTTN0Mkx6UVlkc3JVRGwtTVJLTlZMZGxxdmE4bjZVNGYxLUc4UDM3dTBJNXZraUI3S1hwMkl0QUVOTExieG02MnBxb0l4NldicEdkNw?oc=5",
         "type": "rss"
       }
     ]
