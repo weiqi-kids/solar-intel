@@ -1,0 +1,15 @@
+{
+  "total_raw": 465,
+  "dup_title": 204,
+  "no_date": 0,
+  "too_old": 154,
+  "gate1_fail": 46,
+  "gate2_fail": 4,
+  "passed": 57,
+  "gate2_samples": [
+    "DAQO New Energy (NYSE:DQ) Sets New 1-Year Low - Time to Sell? - MarketBeat",
+    "Enphase Energy Publishes White Paper on Kestrel ASIC, Its Fifth-Generation Silicon Platform for Inte",
+    "Array Technologies, Inc. (ARRY) Stock Declines While Market Improves: Some Information for Investors",
+    "Down 26.9% in 4 Weeks, Here's Why Array Technologies (ARRY) Looks Ripe for a Turnaround - Yahoo Fina"
+  ]
+}
