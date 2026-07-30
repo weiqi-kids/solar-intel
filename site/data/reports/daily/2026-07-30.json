@@ -1,0 +1,210 @@
+{
+  "date": "2026-07-30",
+  "generated_at": "2026-07-30T10:12:10.601454Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "gcl-2026-07-30-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "GCL Technology Holdings's Stock Price Climbs to 0.62 HKD, Marking a Positive 1.64% Shift in Performance - Smartkarma",
+      "companies": [
+        "gcl"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPWmJRWFhOY1FzWmFRTTIzaVBWcEdHeHVHNDdwUzBPUFlhMVNscTlEaFA4aDByY24ySXQ1SjhkTFZ2R2k3Q2pXZU5SUWgxLVJpY0pONGdqMTlrSERzTmFrcER4WnBEZkw5ME1iNDJPeXUwb1pKQXhuQVRsX2lHTDNsZ3ZTcDNVdTBYWGw4NHFxbnRmblFKS0NsR2t6N1ZjVFlpakhkVExteUhqc09qb3MwRDBDMUI4b3VWUTRwRzRvSzBrS1p5QWtIaFcwakZvaTgyX1B2RVNQVlc2cU82X1ZrZQ?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "meyer_burger-2026-07-30-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Meyer Burger Technology AG Revenue Breakdown – LS:A40H1E - TradingView",
+      "companies": [
+        "meyer_burger"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5CQlFMZFlac2toeEg1T2JGa1lUQTRyY2lhaEI3XzRxcVFZdHNYSUo1bEhfclJjSkxuN0phWDZ3RFdOc0xKdmc2YU5tUWE5R0tTVHQzenU4RjRXX282NnNnLW1aeUVhU3JTUmYtZGo1QW9xSFJ1?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "jinko-2026-07-30-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "JKS|JinkoSolar Holding Co Ltd|Price:14.590|Chg%:-0.340 - TradingKey",
+      "companies": [
+        "jinko"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBsSzJOekFJcGRJQnNFc0pKRGJXQWJHX3FMZnl5N2hiNG5OZnVKejJoQy1IV05OTnE5MXlhSWs1ZC16dmdpVV9WTWdHbXdhVmpMaVBYdVRaUnFSQ0RiT1BUVEZMVUx5WWpTOGRsVg?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "jinko-2026-07-30-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "JinkoSolar Holding Co Ltd (JKS) Institutional Confidence - TradingKey",
+      "companies": [
+        "jinko"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1qaEtfM1JRVmFEVWtXYlp2cVlKTUJXNGhqcWxDZ0c0aUJEalJqQk1QVVhoUzlEYzFCV1FDU29GMlJra0JNWDFka2pVcWRNZ3JUTGozellCeElRYXZfNDBIRG15WXVzQQ?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "array-2026-07-30-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Array launches Atlas suite of foundation-to-tracker solutions - PV Tech",
+      "companies": [
+        "array"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQRUUydVJkVGpiSEszVmd5QWpoYUNXQTNzTjZ1Zk1HUjNaTE9sNlBkNXY0RXBBcTMxTk5majFrZVAydFNRejl2aDZCdkdZRGViUnUtMi0wYXFRa0Etb3hqRVRXcnhCaHA5X01PTmJ1YWlncVJpSDRBcFBfR1cyZkVPRDI2X1otU0tTWldn?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 22,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.02,
+      "sentiment_7d_avg": null
+    },
+    "installation_demand": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 23,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 22,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "jinko",
+        "count": 2
+      },
+      {
+        "id": "gcl",
+        "count": 1
+      },
+      {
+        "id": "meyer_burger",
+        "count": 1
+      },
+      {
+        "id": "array",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 22
+      },
+      {
+        "id": "installation_demand",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 466,
+    "dup_title": 203,
+    "too_old": 146,
+    "gate1_blocked": 49,
+    "gate2_blocked": 6,
+    "passed": 62,
+    "pass_rate": "23.6%",
+    "gate2_block_rate": "2.3%",
+    "gate2_samples": [
+      "3 Asian Penny Stocks With Market Caps Up To US$3B - simplywall.st",
+      "DAQO New Energy (NYSE:DQ) Sets New 1-Year Low - Time to Sell? - MarketBeat",
+      "Enphase Energy Publishes White Paper on Kestrel ASIC, Its Fifth-Generation Silicon Platform for Inte",
+      "Array Technologies, Inc. (ARRY) Stock Declines While Market Improves: Some Information for Investors",
+      "Down 26.9% in 4 Weeks, Here's Why Array Technologies (ARRY) Looks Ripe for a Turnaround - Yahoo Fina"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 23 則事件，焦點為晶科能源、協鑫科技、Meyer Burger相關動態：「GCL Technology Holdings's Stock Price Climbs to 0.62 HKD,...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "GCL Technology Holdings's Stock Price Climbs to 0.62 HKD, Marking a Positive ...（太陽能產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "Meyer Burger Technology AG Revenue Breakdown – LS:A40H1E - TradingView",
+        "level": "green"
+      },
+      {
+        "text": "裝機需求持續受關注，產業趨勢帶動需求成長。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

@@ -1,0 +1,16 @@
+{
+  "total_raw": 466,
+  "dup_title": 203,
+  "no_date": 0,
+  "too_old": 146,
+  "gate1_fail": 49,
+  "gate2_fail": 6,
+  "passed": 62,
+  "gate2_samples": [
+    "3 Asian Penny Stocks With Market Caps Up To US$3B - simplywall.st",
+    "DAQO New Energy (NYSE:DQ) Sets New 1-Year Low - Time to Sell? - MarketBeat",
+    "Enphase Energy Publishes White Paper on Kestrel ASIC, Its Fifth-Generation Silicon Platform for Inte",
+    "Array Technologies, Inc. (ARRY) Stock Declines While Market Improves: Some Information for Investors",
+    "Down 26.9% in 4 Weeks, Here's Why Array Technologies (ARRY) Looks Ripe for a Turnaround - Yahoo Fina"
+  ]
+}
