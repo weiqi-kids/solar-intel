@@ -1,0 +1,29 @@
+{
+  "date": "2026-07-31",
+  "total_events": 11,
+  "by_company": {
+    "daqo": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "industry_general": {
+      "count": 11,
+      "sentiment_avg": 0.05
+    },
+    "module_price": {
+      "count": 1,
+      "sentiment_avg": -0.5
+    },
+    "installation_demand": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

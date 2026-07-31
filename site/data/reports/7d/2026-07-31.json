@@ -1,0 +1,165 @@
+{
+  "date": "2026-07-31",
+  "date_range": {
+    "start": "2026-07-25",
+    "end": "2026-07-31"
+  },
+  "generated_at": "2026-07-31T10:28:14.144908Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "unknown-2026-07-25-018",
+      "date": "2026-07-25",
+      "title": "China Keeps Beating Renewable Targets And Missing Nuclear Ones",
+      "importance_score": 0.65
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "industry_general": {
+      "this_week": 102,
+      "last_week": 115,
+      "week_over_week_change": "-11%",
+      "sentiment_this_week": -0.01
+    },
+    "installation_demand": {
+      "this_week": 3,
+      "last_week": 3,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    },
+    "module_price": {
+      "this_week": 1,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": -0.5
+    }
+  },
+  "company_7d_summary": {
+    "daqo": {
+      "event_count": 4,
+      "sentiment_avg": 0.0,
+      "rank": 2
+    },
+    "jinko": {
+      "event_count": 10,
+      "sentiment_avg": 0.05,
+      "rank": 1
+    },
+    "array": {
+      "event_count": 4,
+      "sentiment_avg": 0.0,
+      "rank": 3
+    },
+    "nextracker": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 6
+    },
+    "canadian_solar": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 7
+    },
+    "first_solar": {
+      "event_count": 2,
+      "sentiment_avg": -0.25,
+      "rank": 4
+    },
+    "gcl": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 5
+    },
+    "sungrow": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 8
+    },
+    "tongwei": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 9
+    },
+    "xinyi_solar": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 10
+    },
+    "longi": {
+      "event_count": 1,
+      "sentiment_avg": -1.0,
+      "rank": 11
+    },
+    "meyer_burger": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 12
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 287,
+        "last": 316,
+        "change_pct": -9.2
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-07-25",
+      "event_count": 26,
+      "sentiment_avg": 0.02
+    },
+    {
+      "date": "2026-07-26",
+      "event_count": 16,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-07-27",
+      "event_count": 47,
+      "sentiment_avg": 0.03
+    },
+    {
+      "date": "2026-07-28",
+      "event_count": 65,
+      "sentiment_avg": -0.02
+    },
+    {
+      "date": "2026-07-29",
+      "event_count": 59,
+      "sentiment_avg": -0.08
+    },
+    {
+      "date": "2026-07-30",
+      "event_count": 63,
+      "sentiment_avg": 0.03
+    },
+    {
+      "date": "2026-07-31",
+      "event_count": 11,
+      "sentiment_avg": 0.05
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-07-25 ~ 2026-07-31）共 287 則事件，重點為「China Keeps Beating Renewable Targets And Missi...」。First Solar、隆基綠能情緒偏負面，建議留意相關風險。",
+    "watchlist": [
+      {
+        "company": "First Solar",
+        "reason": "本週情緒偏負面（-0.2），共 2 則相關事件，需關注後續發展。"
+      },
+      {
+        "company": "隆基綠能",
+        "reason": "本週情緒偏負面（-1.0），共 1 則相關事件，需關注後續發展。"
+      },
+      {
+        "company": "大全新能源",
+        "reason": "本週出現 4 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

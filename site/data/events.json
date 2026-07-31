@@ -1,5 +1,207 @@
 [
   {
+    "id": "daqo-2026-07-31-001",
+    "date": "2026-07-31",
+    "companies": [
+      "daqo"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Arrowstreet Capital Limited Partnership Decreases Stock Position in DAQO New Energy Corp. $DQ - marketbeat.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5wFBVV95cUxPN0pKb2hTc2ZkS1JDMkU1ZEl6Ml9DRnZEZnUxMVlQNEtTRlhNRkZ5Ty01bWI1dnFpN0puRlJZVURaeERFQnduVHhtU0JwcG1jbmVXY2IxOFpVT2E1MGJYN2RrMmFLTC01NTJHa2E5ZD",
+    "sources": [
+      {
+        "name": "daqo",
+        "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPN0pKb2hTc2ZkS1JDMkU1ZEl6Ml9DRnZEZnUxMVlQNEtTRlhNRkZ5Ty01bWI1dnFpN0puRlJZVURaeERFQnduVHhtU0JwcG1jbmVXY2IxOFpVT2E1MGJYN2RrMmFLTC01NTJHa2E5ZDRvRnMwOEZwN05OYjYwVVVVc2YxOXk5NXdHQWNMYjBaSkdiNFhoTk53Wjd1YkEtd3A2YW1VZm14RWt1WGJmVVFtLUJuR2FUb2E0X2EzcnpDSUFvSkY2ZTlUcWFiX0RnN2s1MWdLbnhmc1JYYURRczlwcnZmQk9fVFE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-31-002",
+    "date": "2026-07-31",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "esides Betting on BESS & New Tech, Why Are China's Solar Giants Set to Bleed Billions Again? - Saur Energy",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxPVHNyaDhyZFhWRVpXelNQM2lJcXJfRF9iNjhHWVlnZXloNmx1WE9PTXV6MldNVHAxVVgwWWpJdTM4d3pCMElEeFZrRk1zN1lLRTdDb2F0VGg3WEZSZUlkY1F5VElVSldqVlJtOTBtN2",
+    "sources": [
+      {
+        "name": "longi",
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPVHNyaDhyZFhWRVpXelNQM2lJcXJfRF9iNjhHWVlnZXloNmx1WE9PTXV6MldNVHAxVVgwWWpJdTM4d3pCMElEeFZrRk1zN1lLRTdDb2F0VGg3WEZSZUlkY1F5VElVSldqVlJtOTBtN2lkbEtIN2g1QVVwaVVXQksyWmhZX251RzFFY1c5ZHVQQkpEX3d0ZXlCTmN4QkUtYzRGZGFBODNScF9oVExhS3VnOEFJaVNJLXEyb0hyNlFxellZRkFWQkdFcndLMlhfU1RHVXYzT0RScHE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-31-003",
+    "date": "2026-07-31",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Europe’s heatwave brings high irradiance as smoke, dust impact southern PV systems",
+    "summary": "<p>In a new weekly update for pv magazine, Solcast, a DNV company, reports that Europe's July heatwave led to positive irradiance anomalies across western and northern Europe, while wildfires in Franc",
+    "sources": [
+      {
+        "name": "pv_magazine",
+        "url": "https://www.pv-magazine.com/2026/07/31/europes-heatwave-brings-high-irradiance-as-smoke-dust-impact-southern-pv-systems/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-31-004",
+    "date": "2026-07-31",
+    "companies": [],
+    "topics": [
+      "module_price",
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "Chinese TOPCon module prices fall as high-efficiency supply adds pressure",
+    "summary": "<p>In a new weekly update for <b>pv magazine</b>, OPIS, a Dow Jones company, provides a quick look at the main price trends in the global PV industry.</p>\n<p>The post <a href=\"https://www.pv-magazine.",
+    "sources": [
+      {
+        "name": "pv_magazine",
+        "url": "https://www.pv-magazine.com/2026/07/31/chinese-topcon-module-prices-fall-as-high-efficiency-supply-adds-pressure/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-31-005",
+    "date": "2026-07-31",
+    "companies": [],
+    "topics": [
+      "installation_demand",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "New Zealand looks to legalize plug-in solar",
+    "summary": "<p>A solar regulatory review from New Zealand's Ministry for Regulation suggests legalizing plug-in solar, approving installations under 10 kW by the next working day and allowing accredited installer",
+    "sources": [
+      {
+        "name": "pv_magazine",
+        "url": "https://www.pv-magazine.com/2026/07/31/new-zealand-looks-to-legalize-plug-in-solar/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-31-006",
+    "date": "2026-07-31",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Colombia awards 725 MW of solar on second day of green energy auction",
+    "summary": "<p>The country's Clean Energy Procurement Auction awarded 995 MW of solar and nearly 100 MW of battery energy storage systems across two days.</p>\n<p>The post <a href=\"https://www.pv-magazine.com/2026",
+    "sources": [
+      {
+        "name": "pv_magazine",
+        "url": "https://www.pv-magazine.com/2026/07/31/colombia-awards-725-mw-of-solar-on-second-day-of-green-energy-auction/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-31-007",
+    "date": "2026-07-31",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Study shows consequences of PV-related fires are generally limited in severity",
+    "summary": "<p>An international study analyzed PV-related fires across the UK, Italy, Slovenia, and Sweden, showing that differences in reported fire rates are largely driven by national data collection methods a",
+    "sources": [
+      {
+        "name": "pv_magazine",
+        "url": "https://www.pv-magazine.com/2026/07/31/study-shows-consequences-of-pv-related-fires-are-generally-limited-in-severity/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-31-008",
+    "date": "2026-07-31",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Australia identifies utility-scale project delivery as key barrier to lower solar costs",
+    "summary": "<p>The speed and scale of delivering large solar projects is now the key risk to reaching Australia’s ambitions for ultra low-cost solar, according to a white paper from the Australian Renewable Energ",
+    "sources": [
+      {
+        "name": "pv_magazine",
+        "url": "https://www.pv-magazine.com/2026/07/31/utility-scale-pv-project-delivery-a-roadblock-to-ultra-low-cost-solar-arena/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-31-009",
+    "date": "2026-07-31",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Exploring electrochemical recovery of silver from end-of-life solar modules",
+    "summary": "<p>Australian researchers have identified 316L stainless steel as an effective electrode material for recovering silver from recycled PV cells, achieving up to 93% recovery and 96% Faradaic efficiency",
+    "sources": [
+      {
+        "name": "pv_magazine",
+        "url": "https://www.pv-magazine.com/2026/07/31/exploring-electrochemical-recovery-of-silver-from-end-of-life-solar-modules/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-31-010",
+    "date": "2026-07-31",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Exploring electrochemical recovery of silver from end-of-life solar modules - pv magazine Global",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxPZlhab1MzYVlOcGFQdkNaNjdPR1JBQzBqY3g4OU1uZTNlalhUVGo1SDk2dkNtMHVqSXNkUlJlSGMxdmNFbGIwaEV6bTdUQlI4U20wbk5NMDRQSjFJUzhQcHZ6VlZaVkVieVFUMTJCQ0",
+    "sources": [
+      {
+        "name": "google_news_solar",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPZlhab1MzYVlOcGFQdkNaNjdPR1JBQzBqY3g4OU1uZTNlalhUVGo1SDk2dkNtMHVqSXNkUlJlSGMxdmNFbGIwaEV6bTdUQlI4U20wbk5NMDRQSjFJUzhQcHZ6VlZaVkVieVFUMTJCQ0FTSjVUVFJQYVFLQUxuVzJBZlBxV2dHWHJsVEdoVHM4QU9OV0ZGNUVOSlJibEhRUmhGTGEtcGhuYlN6OTZMeFBZejlfOVktdw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-31-011",
+    "date": "2026-07-31",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Thermal energy storage company 1414 Degrees secures 1GW data centre deal in South Australia",
+    "summary": "1414 Degrees has signed a deal to develop up to 1GW of AI data centre infrastructure at its Aurora Energy Precinct in South Australia.",
+    "sources": [
+      {
+        "name": "energy_storage_news",
+        "url": "https://www.energy-storage.news/thermal-energy-storage-company-1414-degrees-secures-1gw-data-centre-deal-in-south-australia/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "gcl-2026-07-30-001",
     "date": "2026-07-30",
     "companies": [
@@ -418,6 +620,748 @@
       {
         "name": "cleantechnica",
         "url": "https://cleantechnica.com/2026/07/29/the-50-states-of-solar-report-q2-2026/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-30-024",
+    "date": "2026-07-30",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "China Solar PV News Snippets: JA ESS Delivers First JAPlanet Fusion C&I Solar-Storage Unit & More - TaiyangNews",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE1PcTlfdUJlNmRCWVJ5NmJnbTBiZ1lQODBwS0F6ZEtLRE8xajRka0U5MFFLZllEbU1ZeUotZEJYbFM5ZlZXTlVQcmc3cGlMMGg5YlpLRExyUndRTFN0eG9uZXRuX3VQVlRSVEc1UEdQcm",
+    "sources": [
+      {
+        "name": "ja_solar",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1PcTlfdUJlNmRCWVJ5NmJnbTBiZ1lQODBwS0F6ZEtLRE8xajRka0U5MFFLZllEbU1ZeUotZEJYbFM5ZlZXTlVQcmc3cGlMMGg5YlpLRExyUndRTFN0eG9uZXRuX3VQVlRSVEc1UEdQcmZCWWFaLS1LMWFEamVmcHc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "trina-2026-07-30-025",
+    "date": "2026-07-30",
+    "companies": [
+      "trina"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Trinasolar to supply solar modules for NSW green hydrogen project - renewablesnow.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxNU2ZfMWtzS0dxUjJIS2U4WVIyX0hFN21EbkZwWWc0ZGktOVJWcWdnQVQwdEFTVWhyQXFxMFRyZ2Q4VUk3TDVJNnNlMkY0SU9pWHBvZExXbkJ2Njl5bTZnNTZDLVhCTkNULUpvWE9CaX",
+    "sources": [
+      {
+        "name": "trina",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNU2ZfMWtzS0dxUjJIS2U4WVIyX0hFN21EbkZwWWc0ZGktOVJWcWdnQVQwdEFTVWhyQXFxMFRyZ2Q4VUk3TDVJNnNlMkY0SU9pWHBvZExXbkJ2Njl5bTZnNTZDLVhCTkNULUpvWE9CaXdHQ1p0Ny1RcGtxUXRScWx6eVZIeTdZeFlnbnRmcEdGcmNETjFWSldEOUd0UE0xOGprZnFMQTJGQTM?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "canadian_solar-2026-07-30-026",
+    "date": "2026-07-30",
+    "companies": [
+      "canadian_solar"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Canadian Solar Schedules Second Quarter 2026 Earnings Conference Call for August 27",
+    "summary": "KITCHENER, ON, July 30, 2026 /PRNewswire/ -- Canadian Solar Inc. (\"the Company\", \" Canadian Solar \") (NASDAQ: CSIQ) today announced that it will hold a conference call on&nbsp;Thursday, August 27, 202",
+    "sources": [
+      {
+        "name": "canadian_solar",
+        "url": "https://investors.canadiansolar.com/news-releases/news-release-details/canadian-solar-schedules-second-quarter-2026-earnings-conference",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "canadian_solar-2026-07-30-027",
+    "date": "2026-07-30",
+    "companies": [
+      "canadian_solar"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Canadian Solar's U.S.-Manufactured TOPCon and HJT HP Modules Achieve FM Approvals Recognition for Their Severe Hail Resilience",
+    "summary": "KITCHENER, ON, July 30, 2026 /PRNewswire/ -- Canadian Solar Inc. &nbsp;(the \"Company\" or \" Canadian Solar \") (NASDAQ: CSIQ) today announced that its U.S.-manufactured TOPCon and HJT Low Carbon hail-re",
+    "sources": [
+      {
+        "name": "canadian_solar",
+        "url": "https://investors.canadiansolar.com/news-releases/news-release-details/canadian-solars-us-manufactured-topcon-and-hjt-hp-modules",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "jinko-2026-07-30-028",
+    "date": "2026-07-30",
+    "companies": [
+      "jinko"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "JinkoSolar (NYSE:JKS) Sets New 12-Month Low - Here's Why - marketbeat.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxQMGV2RW44WWF5Q1hIYjc4MUxBVGYyVTM1WFF3cnR6eVo5ejJiZlVKWms3eGV3VkU1WlBMeTBxc2NQZUJjemJ0YjZvcmtSZ3luajBsSmI1eGxGXzJGaWZMMHhmNWJCTFJjOVRYd2xVRk",
+    "sources": [
+      {
+        "name": "jinko",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQMGV2RW44WWF5Q1hIYjc4MUxBVGYyVTM1WFF3cnR6eVo5ejJiZlVKWms3eGV3VkU1WlBMeTBxc2NQZUJjemJ0YjZvcmtSZ3luajBsSmI1eGxGXzJGaWZMMHhmNWJCTFJjOVRYd2xVRkN6OFEwUDNETTV1OHhMNHY2NF9jbWRwZ2EzUVkyZnFHREVrQ0FrOFVmaXNhRElsMGNMRG1DbmJlbw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "array-2026-07-30-029",
+    "date": "2026-07-30",
+    "companies": [
+      "array"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Array Technologies (ARRY) Atlas Launch Puts Its Undervalued Narrative Back In Focus - finance.yahoo.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxNc1UwMFpMZFU4SDRMMTQteWVENXVteUN0QTZfa1Rra3ljcUZQQy04UWtYanNiY3Y3UXlnS2MtbmlfQzJvS051R0xaRldsMEtSS245bkFRNWhmQ3AxXzBjSjhrLWJrdUNrNXpBRXJMRT",
+    "sources": [
+      {
+        "name": "array",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNc1UwMFpMZFU4SDRMMTQteWVENXVteUN0QTZfa1Rra3ljcUZQQy04UWtYanNiY3Y3UXlnS2MtbmlfQzJvS051R0xaRldsMEtSS245bkFRNWhmQ3AxXzBjSjhrLWJrdUNrNXpBRXJMRTlLOFFoYVdDMWI2Y29ES3Z3LTlVUExQaVhQbE9nQTAwQVpyOHB2Y3ZkZ3YwUVYybDVQSjZv?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "array-2026-07-30-030",
+    "date": "2026-07-30",
+    "companies": [
+      "array"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Array Technologies launches Atlas foundation platform for standard and difficult soil conditions - pv magazine USA",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxQN0JWNjNaNXNZN1Z4SVJOUnktU1p3RHd5TTZvVmc5NEVwcGVjWGFDYi1kVE1pUFJJT0pEUXFTUzVSVUNHX3NwQ2F4X0l2cXRmOHdkWlhSdzJZdmVRNVRpVEQyVnVvTDZpRGx4eGxwMU",
+    "sources": [
+      {
+        "name": "array",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQN0JWNjNaNXNZN1Z4SVJOUnktU1p3RHd5TTZvVmc5NEVwcGVjWGFDYi1kVE1pUFJJT0pEUXFTUzVSVUNHX3NwQ2F4X0l2cXRmOHdkWlhSdzJZdmVRNVRpVEQyVnVvTDZpRGx4eGxwMUYyX3Z4RjZqYzVCOHh5VWhhbzJQUDFwLWhMY1ZyN2pDSXBkbjQwNDdHbFZjbGNucy14ZS1fQ3FLblNrQ19FMUpLX1BZQXBOVWw5Y0lLbXlOdGFsSjhxOHdiQzJiWVJHWFpIdFE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "array-2026-07-30-031",
+    "date": "2026-07-30",
+    "companies": [
+      "array"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Array Technologies launches Atlas line of tracker foundation products - Solar Builder",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxNY2hjVFJ6ZG5xaEFwSEFlS09kYUJWQzkwT21aVUpXdkhzdHZRdEJuM1VYZ21ILTA1V0RDbHZ4UzBBNU9KaWpvem0taVhXTVpkLVhKVVY5b0tTbzdHM2lVZjNwc25MTl94bUZYMmRnTl",
+    "sources": [
+      {
+        "name": "array",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNY2hjVFJ6ZG5xaEFwSEFlS09kYUJWQzkwT21aVUpXdkhzdHZRdEJuM1VYZ21ILTA1V0RDbHZ4UzBBNU9KaWpvem0taVhXTVpkLVhKVVY5b0tTbzdHM2lVZjNwc25MTl94bUZYMmRnTlI2NmVWTF9tLUJkTE15S0t5RlNSZ05GREpXekJwUkFjR2ZjRlE3Y21jbUNwNjRiaW11RHVoam9ueDNHNk0?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "array-2026-07-30-032",
+    "date": "2026-07-30",
+    "companies": [
+      "array"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "First Trust group reports 6.76% Array Technologies, Inc. (ARRY) stake - Stock Titan",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxQU19EYVZYM2tuYmdaaU9SV0RENV8yeWNIel9jQ3d5azM3NkZiTmo2aGJ3SXBvaHRWTUlUdVZwcngzYzhJdnpuSFZRS19vMklkTklmWFpaaDRWQmk2c3E1c0hQd1pCQ1pxYnVDWWlPYV",
+    "sources": [
+      {
+        "name": "array",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQU19EYVZYM2tuYmdaaU9SV0RENV8yeWNIel9jQ3d5azM3NkZiTmo2aGJ3SXBvaHRWTUlUdVZwcngzYzhJdnpuSFZRS19vMklkTklmWFpaaDRWQmk2c3E1c0hQd1pCQ1pxYnVDWWlPYVNQbzhJczRjOVRHMV9qMENCR3IwSFhfdGR0cThTM0R0SWZ6dlFpQ19pT1FEU2Q2ZW5tRVM2UXVsemFnalBSZXlCUnNRZlJEb0pqR3lRVExCdkVudmhUSTFEag?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-30-033",
+    "date": "2026-07-30",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Nextpower Completes Acquisition of Power Conversion Assets, Accelerates U.S. Manufacturing Ramp - Nextpower",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi9gFBVV95cUxNNF9iUjMwdmFQLW5HRmVHVUJ6ZGRsOTRPMnVtTUdsdnlqS0RpZjBCUnVMbWxwSW1SbEJsZ2VkTVJiZkk5dW5wSE5XZVl1bnhld0NSZmZMNVpwXy1YU2dmV3E5cHpKSzFkVmJaek9pTk",
+    "sources": [
+      {
+        "name": "nextracker",
+        "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNNF9iUjMwdmFQLW5HRmVHVUJ6ZGRsOTRPMnVtTUdsdnlqS0RpZjBCUnVMbWxwSW1SbEJsZ2VkTVJiZkk5dW5wSE5XZVl1bnhld0NSZmZMNVpwXy1YU2dmV3E5cHpKSzFkVmJaek9pTkl1SWZvYTFHN0FYVFFhOFJ0OEpBVjBocDlwSS1jR1d6djVlTDJ2VkdCWUNTMjBucXFWZDA0OWd1Vm9SS1lsR19CWmZxQndObjEyNHk4QzQybEFPVUk1TGRkQ1p0QUhsMWw0Ni1rR0V6akNXdXFyZEZINGhCc2FFS3RiNmx3c09FX2JROTEyckE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-30-034",
+    "date": "2026-07-30",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Türkiye adds 2.1 GW of solar in H1",
+    "summary": "<p>Türkiye's solar additions from the first half of the year take total capacity to around 26.9 GW. The number of solar plants in the country now exceeds 41,000, up from around 37,600 at the start of ",
+    "sources": [
+      {
+        "name": "pv_magazine",
+        "url": "https://www.pv-magazine.com/2026/07/30/turkiye-adds-2-1-gw-of-solar-in-h1/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-30-035",
+    "date": "2026-07-30",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Indonesia signals start of 100 GW solar initiative",
+    "summary": "<p>Indonesia’s Minister of Energy and Mineral Resources, Bahlil Lahadalia, says a groundbreaking ceremony will soon take place for the first phase of the country’s flagship 100 GW solar program.</p>\n<",
+    "sources": [
+      {
+        "name": "pv_magazine",
+        "url": "https://www.pv-magazine.com/2026/07/30/indonesia-signals-start-of-100-gw-solar-initiative/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-30-036",
+    "date": "2026-07-30",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Colombia awards 270 MW of solar, 100 MW of storage in clean energy auction",
+    "summary": "<p>Colombia's Ministry of Mines and Energy awarded contracts for around 270 MW of new solar tied to 100 MW of battery energy storage in the first round of its long-term clean energy auction. The 15-ye",
+    "sources": [
+      {
+        "name": "pv_magazine",
+        "url": "https://www.pv-magazine.com/2026/07/30/colombia-awards-270-mw-of-solar-100-mw-of-storage-in-clean-energy-auction/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-30-037",
+    "date": "2026-07-30",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "New York plug-in solar advocates rally in support of SUNNY Act",
+    "summary": "Dozens of New York City politicians and advocates are urging Governor Kathy Hochul to sign the bill, which passed both houses of the legislature with large majorities in late May and would make New Yo",
+    "sources": [
+      {
+        "name": "pv_magazine_usa",
+        "url": "https://pv-magazine-usa.com/2026/07/30/new-york-plug-in-solar-advocates-rally-in-support-of-sunny-act/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "array-2026-07-30-038",
+    "date": "2026-07-30",
+    "companies": [
+      "array"
+    ],
+    "topics": [
+      "installation_demand",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Array Technologies launches Atlas foundation platform for standard and difficult soil conditions",
+    "summary": "Array Technologies has introduced Atlas I and Atlas II, fully integrated foundation-to-tracker solutions engineered to streamline pile installation, reduce component counts, and eliminate field rework",
+    "sources": [
+      {
+        "name": "pv_magazine_usa",
+        "url": "https://pv-magazine-usa.com/2026/07/30/array-technologies-launches-atlas-foundation-platform-for-standard-and-difficult-soil-conditions/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-30-039",
+    "date": "2026-07-30",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Solar nonprofits are taking the federal government to court over rescinded grants",
+    "summary": "Several nonprofits are suing the EPA in the U.S. Court of Federal Claims to recover the full value of their terminated Solar for All grants following the agency's controversial cancellation of the $7 ",
+    "sources": [
+      {
+        "name": "pv_magazine_usa",
+        "url": "https://pv-magazine-usa.com/2026/07/30/solar-nonprofits-are-taking-the-federal-government-to-court-over-rescinded-grants/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-30-040",
+    "date": "2026-07-30",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "U.S. solar module assembly prices stabilize as trade cases and ownership shifts shake supply chains",
+    "summary": "Median solar module assembly pricing in the United States held steady at $0.30 per watt as Chinese manufacturers divested U.S. manufacturing assets to clear Foreign Entity of Concern guidelines and do",
+    "sources": [
+      {
+        "name": "pv_magazine_usa",
+        "url": "https://pv-magazine-usa.com/2026/07/30/u-s-solar-module-assembly-prices-stabilize-as-trade-cases-and-ownership-shifts-shake-supply-chains/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-30-041",
+    "date": "2026-07-30",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Solar’s emerging steel bottleneck: Capacity, compliance, and closed-loop supply",
+    "summary": "While the United States is poised for record solar capacity growth in 2026, a bottleneck in the domestic steel supply chain driven by surging prices, strict domestic-content rules, and fragmented scra",
+    "sources": [
+      {
+        "name": "pv_magazine_usa",
+        "url": "https://pv-magazine-usa.com/2026/07/30/solars-emerging-steel-bottleneck-capacity-compliance-and-closed-loop-supply/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-30-042",
+    "date": "2026-07-30",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "GM Energy calls for vehicle-to-grid collaboration to cut grid costs by up to $7 billion per year",
+    "summary": "Electric vehicles with vehicle-to-grid capability could reduce grid costs by up to $7 billion per year by 2030, says a report by the consultancy E3, and a GM Energy executive has called on other autom",
+    "sources": [
+      {
+        "name": "pv_magazine_usa",
+        "url": "https://pv-magazine-usa.com/2026/07/30/gm-energy-urges-vehicle-to-grid-collaboration-to-cut-grid-costs-by-up-to-7-billion-per-year/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-30-043",
+    "date": "2026-07-30",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Tesla, ContourGlobal enter PPA for 1.4 GWh of BESS with solar in Arizona",
+    "summary": "Tesla will buy around 1 TWh per year of electricity from ContourGlobal’s hybrid solar and storage project Sterling, which is due to begin commercial operations in 2028.",
+    "sources": [
+      {
+        "name": "pv_magazine_usa",
+        "url": "https://pv-magazine-usa.com/2026/07/30/tesla-contourglobal-enter-ppa-for-1-4-gwh-of-bess-with-solar-in-arizona/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-30-044",
+    "date": "2026-07-30",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Ontario approves 1.2 GWh Simcoe BESS, signs 20-year capacity agreement",
+    "summary": "Consortium of energy developers and First Nation groups secure energy facility agreement, target commercial operation in 2030.",
+    "sources": [
+      {
+        "name": "pv_magazine_usa",
+        "url": "https://pv-magazine-usa.com/2026/07/30/ontario-approves-1-2-gwh-simcoe-bess-signs-20-year-capacity-agreement/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-30-045",
+    "date": "2026-07-30",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "The PJM grid’s largest battery is now under construction in Ohio",
+    "summary": "<div class=\"feat-image\"><img src=\"https://electrek.co/wp-content/uploads/sites/3/2026/07/Flint-Battery-storage-screenshot.jpg?quality=82&#038;strip=all&#038;w=1200\" /></div><p class=\"wp-block-paragrap",
+    "sources": [
+      {
+        "name": "electrek_solar",
+        "url": "https://electrek.co/2026/07/30/pjm-grid-largest-battery-is-now-under-construction-in-ohio/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-30-046",
+    "date": "2026-07-30",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "A new Zipcar pilot pairs shared EVs with off-grid solar charging",
+    "summary": "<div class=\"feat-image\"><img src=\"https://electrek.co/wp-content/uploads/sites/3/2026/07/Beam-Zipcar-Boston.jpg?quality=82&#038;strip=all&#038;w=1600\" /></div><p class=\"wp-block-paragraph\">Four Greate",
+    "sources": [
+      {
+        "name": "electrek_solar",
+        "url": "https://electrek.co/2026/07/30/a-new-zipcar-pilot-pairs-shared-evs-with-off-grid-solar-charging/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-30-047",
+    "date": "2026-07-30",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "BMW opens i3 orders months early as buyers rush in",
+    "summary": "<div class=\"feat-image\"><img src=\"https://electrek.co/wp-content/uploads/sites/3/2026/06/BMW-i3-EV-orders-open.jpeg?quality=82&#038;strip=all&#038;w=1400\" /></div><p class=\"wp-block-paragraph\">The <a ",
+    "sources": [
+      {
+        "name": "electrek_solar",
+        "url": "https://electrek.co/2026/07/30/bmw-opens-i3-orders-months-early-demand-surges/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-30-048",
+    "date": "2026-07-30",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Crops and solar power? Virginia farms are ripe for the combo - whro.org",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxONFJPbFVTNEhNVWhlRWlmMzloMlJncDk2RW50UHZUd1d4S19FMlI5aXc5Y01DQkMwUDgzanZNOU56bVo0NkJuR2JTQUhUM0J6ZTdoLXRZMkwxcjlDTDMyem1wMHJ1eHltUmFud1pkby",
+    "sources": [
+      {
+        "name": "google_news_solar",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxONFJPbFVTNEhNVWhlRWlmMzloMlJncDk2RW50UHZUd1d4S19FMlI5aXc5Y01DQkMwUDgzanZNOU56bVo0NkJuR2JTQUhUM0J6ZTdoLXRZMkwxcjlDTDMyem1wMHJ1eHltUmFud1pkby15R3M0TUlPUnNwZVI0LTBpQkpTSUpIbXBNamtuV1Boc2ZUWi1SRmZJMkVxa1BYOEUydlA2U3k1ZkktYTg2VVB2ZUJjRDZpNFhmS2JqcVBMWDBNUGk1aWgtdmtmcWlIR3Z1Snc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-30-049",
+    "date": "2026-07-30",
+    "companies": [],
+    "topics": [
+      "installation_demand",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "The solar panels you can plug straight into a wall are almost here — but are they worth it? Industry experts answer your biggest questions about cost, installation, and when they'll pay for themselves - Yahoo Tech",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxNVElnZ01iTDVIcF9fN2U4V3Fvenl1ZVZoZVFPTFFlbExad19XS3JjSlVYRndkSHBhNElEVVFTckExT2J6bTJTeUxneTk1dzA0LU1KcmFoNXJZRmlSNU43Vzh0TkRGOGlOVDB4UC15cn",
+    "sources": [
+      {
+        "name": "google_news_solar",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNVElnZ01iTDVIcF9fN2U4V3Fvenl1ZVZoZVFPTFFlbExad19XS3JjSlVYRndkSHBhNElEVVFTckExT2J6bTJTeUxneTk1dzA0LU1KcmFoNXJZRmlSNU43Vzh0TkRGOGlOVDB4UC15cnliNFptcnAxQlBCbmdiTEJrajhObXBZRy03eVlQZWtZTQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-30-050",
+    "date": "2026-07-30",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Navitas, Caelux create perovskite-and-silicon solar module partnership - renewablesnow.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxOeW5hR2R2VnRxOVNzR1FYRzlJN1JwRm8taG5NOUZvN2dvNWozV2NTUUM5R1hYTjFnd3dWMHJDV0o3VFI4UXh5RV95TUw2UkpuemNYeVkzc05QRERDM3lXWkZXTWFwNlRIWFBtZGlrRV",
+    "sources": [
+      {
+        "name": "google_news_solar",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOeW5hR2R2VnRxOVNzR1FYRzlJN1JwRm8taG5NOUZvN2dvNWozV2NTUUM5R1hYTjFnd3dWMHJDV0o3VFI4UXh5RV95TUw2UkpuemNYeVkzc05QRERDM3lXWkZXTWFwNlRIWFBtZGlrRVExQmRudDVqMnpnX1ZhcVpEOG1HVGM4WW1OWEwzd3lWS045SW0wUE5hQjlCRG5UeC1zeXdCaGZXNWJrYjRSSlE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-30-051",
+    "date": "2026-07-30",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "GE Vernova upgrades its Veresegyház gas turbine facility with 14.5 MW solar park, new production lines, and 80-plus new hires on its 25th anniversary - Energies Media",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE53dG5nWDkxNWFxNkkzV25Cd2d2SWFFWmdtamZOLV9VeHptaVZYMnlpcm8yWktVelNrZW9VRllvdHdSYjdXb2JueUxVX2E0S2N5LVk3cWpDVVMzNVBaWVVndWNHcE9DUzlWWlBZelJQQi",
+    "sources": [
+      {
+        "name": "google_news_solar",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE53dG5nWDkxNWFxNkkzV25Cd2d2SWFFWmdtamZOLV9VeHptaVZYMnlpcm8yWktVelNrZW9VRllvdHdSYjdXb2JueUxVX2E0S2N5LVk3cWpDVVMzNVBaWVVndWNHcE9DUzlWWlBZelJQQi01N3I4Uzk3cw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-30-052",
+    "date": "2026-07-30",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Relieving grid congestion with advanced transmission technologies | Factor This Policycast",
+    "summary": "This episode of the Factor This Policycast, presented in partnership with Advanced Energy United, explores the offerings of advanced transmission technologies (ATTs), including grid-enhancing technolo",
+    "sources": [
+      {
+        "name": "renewableenergyw",
+        "url": "https://www.renewableenergyworld.com/energy-business/policy-and-regulation/relieving-grid-congestion-with-advanced-transmission-technologies-factor-this-policycast/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "array-2026-07-30-053",
+    "date": "2026-07-30",
+    "companies": [
+      "array"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Pittsburgh neighborhood organization taps local talent for rooftop solar project",
+    "summary": "<p>The Wilkinsburg Community Development Corporation (WCDC), a nonprofit in eastern Pittsburgh, Pennsylvania, commemorated commercial operation of a solar project three years in the making today. A 23",
+    "sources": [
+      {
+        "name": "solar_power_world",
+        "url": "https://www.solarpowerworldonline.com/2026/07/pittsburgh-neighborhood-organization-taps-local-talent-for-rooftop-solar-project/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-30-054",
+    "date": "2026-07-30",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Nautilus, TPE bring online 4-MW community solar project in Delaware",
+    "summary": "<p>Nautilus Solar Energy and TurningPoint Energy (TPE) have completed a 4-MW community solar project in Dover, Delaware. The project will deliver renewable energy to the Delmarva Power grid, with a de",
+    "sources": [
+      {
+        "name": "solar_power_world",
+        "url": "https://www.solarpowerworldonline.com/2026/07/nautilus-tpe-bring-online-4-mw-community-solar-project-in-delaware/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-30-055",
+    "date": "2026-07-30",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Connecticut Green Bank signs panel supply agreement with HD Hyundai Energy Solutions",
+    "summary": "<p>HD Hyundai Energy Solutions has signed a supply agreement with CEFIA Solar Services, a wholly owned subsidiary of the Connecticut Green Bank, for 25 MW of solar panels on projects throughout Connec",
+    "sources": [
+      {
+        "name": "solar_power_world",
+        "url": "https://www.solarpowerworldonline.com/2026/07/connecticut-green-bank-signs-panel-supply-agreement-with-hd-hyundai-energy-solutions/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-30-056",
+    "date": "2026-07-30",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "1-GWh energy storage project to be sited on Ohio data center campus",
+    "summary": "<p>A 200-MW energy storage project is being built outside Columbus, Ohio, by Eolian. The Flint Grid project is located adjacent to New Albany datacenter and industrial load and is the first gird-scale",
+    "sources": [
+      {
+        "name": "solar_power_world",
+        "url": "https://www.solarpowerworldonline.com/2026/07/1-gwh-energy-storage-project-to-be-sited-on-ohio-data-center-campus/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-30-057",
+    "date": "2026-07-30",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Video game subscriptions support 110-MW solar project buildout in Texas",
+    "summary": "<p>SuperPower, a platform that lets gamers earn rewards while helping bring new clean energy projects online, today announced its participation in an agreement supporting the new 110-MW Three W Solar ",
+    "sources": [
+      {
+        "name": "solar_power_world",
+        "url": "https://www.solarpowerworldonline.com/2026/07/video-game-subscriptions-support-110-mw-solar-project-buildout-in-texas/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-30-058",
+    "date": "2026-07-30",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Aecon executes energy storage agreement for 1,200MWh Ontario BESS",
+    "summary": "Infrastructure and construction company Aecon Group has executed an agreement with Ontario’s Independent Electricity System Operator (IESO) for the 150MW/1,200MWh Simcoe energy storage project in Norf",
+    "sources": [
+      {
+        "name": "energy_storage_news",
+        "url": "https://www.energy-storage.news/aecon-executes-energy-storage-agreement-for-1200mwh-ontario-bess/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-30-059",
+    "date": "2026-07-30",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Eolian begins construction on 1.06GWh Ohio BESS, largest system built in PJM",
+    "summary": "IPP Eolian has begun construction on Flint Grid, a 200MW/1.06GWh energy storage project in Jersey Township, Licking County, Ohio, US.",
+    "sources": [
+      {
+        "name": "energy_storage_news",
+        "url": "https://www.energy-storage.news/eolian-begins-construction-on-1-06gwh-ohio-bess-largest-system-built-in-pjm/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-30-060",
+    "date": "2026-07-30",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "VIDEO: Rept Battero’s overseas team on navigating the evolving landscape and requirements for Chinese OEMs",
+    "summary": "How do Chinese OEMs respond to evolving customer requirements and new risks that come with business outside their home market? We sat down with executives from Rept Battero at Intersolar in June to di",
+    "sources": [
+      {
+        "name": "energy_storage_news",
+        "url": "https://www.energy-storage.news/video-rept-batteros-overseas-team-on-navigating-the-evolving-landscape-and-requirements-for-chinese-oems/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-30-061",
+    "date": "2026-07-30",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Central & Eastern Europe: UK’s Alcemi buys 2.3GWh Romania projects, Slovakia’s biggest BESS brought online",
+    "summary": "Alcemi, developer of some of the UK’s biggest projects, has entered the Romanian battery storage market, while Slovakia’s biggest project to date has gone into operation.",
+    "sources": [
+      {
+        "name": "energy_storage_news",
+        "url": "https://www.energy-storage.news/central-eastern-europe-uks-alcemi-buys-2-3gwh-romania-projects-slovakias-biggest-bess-brought-online/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-30-062",
+    "date": "2026-07-30",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "China’s 15th Five-Year Plan For Solar & Wind Is Huge",
+    "summary": "<p>China’s National Development and Reform Commission (NDRC) and National Energy Administration (NEA) have published their 15th Five-Year Plan for Renewable Energy Development. Basically, this is what",
+    "sources": [
+      {
+        "name": "cleantechnica",
+        "url": "https://cleantechnica.com/2026/07/30/chinas-15th-five-year-plan-for-solar-wind-is-huge/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-30-063",
+    "date": "2026-07-30",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Hyundai Motor Group Executive Chair Euisun Chung Charts Mid-to-Long-Term Growth Strategy in Brazil",
+    "summary": "<p>Executive Chair Chung visits Hyundai Motor Company’s plant in Piracicaba to chart local production, quality and sales strategy Hyundai Motor to strengthen its SUV lineup and develop electrified mod",
+    "sources": [
+      {
+        "name": "cleantechnica",
+        "url": "https://cleantechnica.com/2026/07/30/hyundai-motor-group-executive-chair-euisun-chung-charts-mid-to-long-term-growth-strategy-in-brazil/",
         "type": "rss"
       }
     ]
@@ -1351,6 +2295,178 @@
       {
         "name": "cleantechnica",
         "url": "https://cleantechnica.com/2026/07/29/2100-projections-2050-decarbonization-roadmaps/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-29-051",
+    "date": "2026-07-29",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Exclusive: China's Regulators Step In to Curb Solar Price War, Photovoltaic Stocks Surge - finance.biggo.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE9tSVhCQzhZM0E1TkhJODVzN3RFXzVicEo0VjV4c18wd3dvSEFKZDV3dzh0NVRKd3BOdXRlaDl3Z29LM1FPdUpGdmRub0d5dzBJbDIxa1owaU41blBfWEhjUU5pZ3RlQ0xlOEJCZ01neE",
+    "sources": [
+      {
+        "name": "xinyi_solar",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9tSVhCQzhZM0E1TkhJODVzN3RFXzVicEo0VjV4c18wd3dvSEFKZDV3dzh0NVRKd3BOdXRlaDl3Z29LM1FPdUpGdmRub0d5dzBJbDIxa1owaU41blBfWEhjUU5pZ3RlQ0xlOEJCZ01neEFLYUhMdGc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-29-052",
+    "date": "2026-07-29",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Photovoltaic Giants Are Moving Away From Low-Margin Penny-Stakes Market Competition - 36 Kr",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE80b20wZHlBckU3aXJoTjVSX1I1cFBuY1FDUkJCcXZzOF9RR2N1SHVpOXhXZDFmSXF0bkd5UV9zaS13Mk1QeHZlRkxKRjJnNVZXVE9R?oc=5\" target=\"_blank\">Photovoltaic Gi",
+    "sources": [
+      {
+        "name": "longi",
+        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE80b20wZHlBckU3aXJoTjVSX1I1cFBuY1FDUkJCcXZzOF9RR2N1SHVpOXhXZDFmSXF0bkd5UV9zaS13Mk1QeHZlRkxKRjJnNVZXVE9R?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "array-2026-07-29-053",
+    "date": "2026-07-29",
+    "companies": [
+      "array"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "ARRAY Technologies debuts new foundations for solar trackers - solarpowerworldonline.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxPR1RKR09WNVlBeU1yQkhyZWttOUJ5Y01tcTNWSUdmTkdvNzV4dWtnc05ZazFOMnRWUDMwN3EwU2lmWDVMdjBrUnZjcVU5ZGNWWG85Y041T0puMy1PTzFGUFhuWDVpS01vcWo1SDBzWF",
+    "sources": [
+      {
+        "name": "array",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPR1RKR09WNVlBeU1yQkhyZWttOUJ5Y01tcTNWSUdmTkdvNzV4dWtnc05ZazFOMnRWUDMwN3EwU2lmWDVMdjBrUnZjcVU5ZGNWWG85Y041T0puMy1PTzFGUFhuWDVpS01vcWo1SDBzWFZVZjdoaTRUazhValZmX2NPaEFOM0h4ZjNXemc3TVVwZlZFWEduQXNIalNKbnJ2SElIT1VOc3BGNG82VzQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "array-2026-07-29-054",
+    "date": "2026-07-29",
+    "companies": [
+      "array"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "ARRAY Technologies Launches Atlas™, Expanding Product - GlobeNewswire",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2gJBVV95cUxQaVp1TExRdUpHbWpQTUdUd3NkVFUzalVvb2VXQ0lTWUFVaUM5bHZhNWlrWjFidkdudW1vT2lQU3ZsYWFOdUZsSXBZc2lJenUtc25mX09lZGJDb0dfSWpVNGdsdnQ4OW9qb1NLQlhUbk",
+    "sources": [
+      {
+        "name": "array",
+        "url": "https://news.google.com/rss/articles/CBMi2gJBVV95cUxQaVp1TExRdUpHbWpQTUdUd3NkVFUzalVvb2VXQ0lTWUFVaUM5bHZhNWlrWjFidkdudW1vT2lQU3ZsYWFOdUZsSXBZc2lJenUtc25mX09lZGJDb0dfSWpVNGdsdnQ4OW9qb1NLQlhUbk1tUXZ0N09wb2NNdmliNnJHYXRGS2JzQko5R2hlY2J5TTN6OXhMY2dydWNtQmtZeXZsLVNtVzlHb1pSalpfVGEyUTFiZ3pUanhRR1BlQTNfb1hoaUwtVGxxc081Rlo4UkRQeTlnZGpsN3VHcGJJcUNuYVBuX1kyXzVFcWpaWTllbHlCT1VlTGd4Rkp3NVNmS3lJcU1pRTZ3X1JmUU5YVjhJWkxSTC01Qk9XaEtuRWVQZ2g1MHd5bV9OSl82VzFPLWhfZGstcEt4QlJRX3gwN21CYTJmTzN0Wk9ZTDB5VTlZZ21WMUpQcGxJSTZn?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "array-2026-07-29-055",
+    "date": "2026-07-29",
+    "companies": [
+      "array"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Array Technologies launches Atlas foundation-to-tracker suite - Investing.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxPVlBPbWhRWWtLMTAzWGtTT1pkZDNKQWVhVG9EaWhrS1RoTElMZFYyWnRhaVJJYk5tV29mY2VNdnloN21CVnhqTEJjSkRkNmQyRjc5dGU1d19HQ05CaXZ0bkFON0taampLaU5xQzItal",
+    "sources": [
+      {
+        "name": "array",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPVlBPbWhRWWtLMTAzWGtTT1pkZDNKQWVhVG9EaWhrS1RoTElMZFYyWnRhaVJJYk5tV29mY2VNdnloN21CVnhqTEJjSkRkNmQyRjc5dGU1d19HQ05CaXZ0bkFON0taampLaU5xQzItalcxODNvRmJoVWhEekdYSTZoWkRkRTVJUXpqWVk2Zk9JcFVsMUhnZFZkbFdEaktiUjVYb2xmOTNpcEFJXzFXUDZHTjlfRWJYNzg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "array-2026-07-29-056",
+    "date": "2026-07-29",
+    "companies": [
+      "array"
+    ],
+    "topics": [],
+    "impact": "negative",
+    "title": "Earnings Preview: Array Technologies, Inc. (ARRY) Q2 Earnings Expected to Decline - finance.yahoo.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxNbFRzN3huMnE1V1JfZEVBOE1BX3hVQmtkTWxkZGplbTh6S1RGRnJ4LWZNTnVIOGlkdnQ2QWY4Q0M1cWJhMUkxY18yTkhEdWRZYnRpTDlJSjlIbGR2MFJEdlZtakNCemdxSW9FVXE1WE",
+    "sources": [
+      {
+        "name": "array",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNbFRzN3huMnE1V1JfZEVBOE1BX3hVQmtkTWxkZGplbTh6S1RGRnJ4LWZNTnVIOGlkdnQ2QWY4Q0M1cWJhMUkxY18yTkhEdWRZYnRpTDlJSjlIbGR2MFJEdlZtakNCemdxSW9FVXE1WENJOFN4NlhOWDJqaU56dDNFY0dnamZ1RUliNDZMR2UtTFpGRXN5Q0dsTlAzb2p6QVl5TkN5blFDcw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "array-2026-07-29-057",
+    "date": "2026-07-29",
+    "companies": [
+      "array"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "ARRAY's Atlas Links Foundations and Trackers Across Challenging Soil - Stock Titan",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxOQlQxVzlONXhEMHNBQU1oYmdYNnJLY3FRTnJSX29RTGRYTXYzaXZ1c3hwZ3JJRnJKN3pnRGhraXZvQlJZR0pvajhsQTVFWXpTX3JEaHg0bV9OLUhma0gwS2MwTTZoSkxTajlaU2wzSk",
+    "sources": [
+      {
+        "name": "array",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOQlQxVzlONXhEMHNBQU1oYmdYNnJLY3FRTnJSX29RTGRYTXYzaXZ1c3hwZ3JJRnJKN3pnRGhraXZvQlJZR0pvajhsQTVFWXpTX3JEaHg0bV9OLUhma0gwS2MwTTZoSkxTajlaU2wzSkd6TGhnWVZFX0ZuWXpaYzZtVk9nMElqWGgxaXh3VFk1QUhIN19ib19UWlJmQzJHZ0dPRl9oVm9odkdZSTZaRHhBY3pZTXRiUXBiVVNv?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nextracker-2026-07-29-058",
+    "date": "2026-07-29",
+    "companies": [
+      "nextracker"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "NXT|Nextracker Inc|Price:99.418|Chg%:+6.748 - TradingKey",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTE1VTTBsTVhISVRsSG9pa19tbnNZSWlQQkt3ZVpSa2F5RWtjRTNBSEdRRFZaWGtmVUtUT3FvVnM5WmNHTVczZEJjTEdBcS1ERmFNdUdxZEtZWHM?oc=5\" target=\"_blank\">NXT|Next",
+    "sources": [
+      {
+        "name": "nextracker",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1VTTBsTVhISVRsSG9pa19tbnNZSWlQQkt3ZVpSa2F5RWtjRTNBSEdRRFZaWGtmVUtUT3FvVnM5WmNHTVczZEJjTEdBcS1ERmFNdUdxZEtZWHM?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-29-059",
+    "date": "2026-07-29",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Solarcycle, Southern Power partner on solar panel recycling - Recycling Today",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxPTzBOVV9WV0V5ZW9KcUpuNEluTENDYVB6YTZkVHlVR1F6SnNEcVZrTWQ4NURpLWVfT01NTmtwUGZTY25KWjlDVTlSelZ4YkxOQ3VkZEk0N2hLX3VBQkItMW1CTWxGaEZZanR5Y21Zdn",
+    "sources": [
+      {
+        "name": "google_news_solar",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPTzBOVV9WV0V5ZW9KcUpuNEluTENDYVB6YTZkVHlVR1F6SnNEcVZrTWQ4NURpLWVfT01NTmtwUGZTY25KWjlDVTlSelZ4YkxOQ3VkZEk0N2hLX3VBQkItMW1CTWxGaEZZanR5Y21ZdnAwb0FpYnZ5S3hXNlBNZ0tJU3YtOHAweWFwVWw0a0VfWVVmNFZ6Y2tGbUNaeTRFREFP?oc=5",
         "type": "rss"
       }
     ]
@@ -2477,6 +3593,78 @@
     ]
   },
   {
+    "id": "gcl-2026-07-28-062",
+    "date": "2026-07-28",
+    "companies": [
+      "gcl"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "GCL TECHNOLOGY HOLDINGS LIMITED Revenue Breakdown – OTC:GCPEF - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE8tMFkwTGRxcWthTHJraElLRkNzUVRnVk5wVnBwaDRyOVUxa0dBMVhfeDgtVzlpRkFpMkN0eWFDVWp6ZEdNV2JRb1BaSjdReXJuX3dZaWlSOF9OWGgyRG1vWkx5b3ItaGlzck9SU2Rya2",
+    "sources": [
+      {
+        "name": "gcl",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE8tMFkwTGRxcWthTHJraElLRkNzUVRnVk5wVnBwaDRyOVUxa0dBMVhfeDgtVzlpRkFpMkN0eWFDVWp6ZEdNV2JRb1BaSjdReXJuX3dZaWlSOF9OWGgyRG1vWkx5b3ItaGlzck9SU2Rya2FVaXM4?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-28-063",
+    "date": "2026-07-28",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "T1 Energy buys TOPCon patents through deal with Evervolt - solarpowerworldonline.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxPaXA5cGJ1aUNTNTZ4R0tETWZMUXVrTmo2eHZkbTFMX0FiWC11Z0VSdGpWX056SjFhN3R0bTNQbzQtN1lZOVV6dUdWWVNXZm8wbDR6OEdNb1Y2emxXZWRBaURHMTlJNXFMelhmUTJKcm",
+    "sources": [
+      {
+        "name": "trina",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPaXA5cGJ1aUNTNTZ4R0tETWZMUXVrTmo2eHZkbTFMX0FiWC11Z0VSdGpWX056SjFhN3R0bTNQbzQtN1lZOVV6dUdWWVNXZm8wbDR6OEdNb1Y2emxXZWRBaURHMTlJNXFMelhmUTJKcmJzazAwOEVzVmowSHhlWjJsSzJPdWViN0VCZmI0WXJKOElTRjZ2N29kekRPZ3Z3MHJhdVlGemlLOHNWV2NDd190dFZKTW5BUQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-28-064",
+    "date": "2026-07-28",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Analysis: Wind and solar power overtake fossil fuels in Germany for first time ever - Carbon Brief",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxNM1VfZkwyU2RHTnZRVmhRdTA5OUlaQXlhYUFGVnQwWGpYdmZyV1Bud0lYaDdjVk9DZlBEeFRQN2ZKQ1c0WjFOSkh5UnZ2MVJZR3RCdmhCVkowSmZUV0wxLVlrX2J2N2ZOUE5GRDlqSm",
+    "sources": [
+      {
+        "name": "google_news_solar",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNM1VfZkwyU2RHTnZRVmhRdTA5OUlaQXlhYUFGVnQwWGpYdmZyV1Bud0lYaDdjVk9DZlBEeFRQN2ZKQ1c0WjFOSkh5UnZ2MVJZR3RCdmhCVkowSmZUV0wxLVlrX2J2N2ZOUE5GRDlqSmRKS0stMzVLS2JjVnMxaUc3eEtEaE9LVEhCZHB6eUVLZ1NIYVdIc1dCeWt6RUFIZUNqNkozMjlmU0ViZEFkZnpB?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-28-065",
+    "date": "2026-07-28",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "As data centers strain grid, states look to distributed energy for relief - Pluribus News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxQYXVDV0VYR2VTM0dHTklHRkhLUDM5azZWYXlCUUtyZEZqUGNtVXBYc2JUMjAyS2hmMVRPdzV1MEQ1Qk5JZlBLRjRpRzNpSHhxSTZEWWhTQlY1NE1hdFU5b25TSkFRbjRub3I3eUcyOE",
+    "sources": [
+      {
+        "name": "google_news_solar",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQYXVDV0VYR2VTM0dHTklHRkhLUDM5azZWYXlCUUtyZEZqUGNtVXBYc2JUMjAyS2hmMVRPdzV1MEQ1Qk5JZlBLRjRpRzNpSHhxSTZEWWhTQlY1NE1hdFU5b25TSkFRbjRub3I3eUcyOEJDVjMxU0lFbVpycDR2ZWp0c0ZlOVBHVjR4Si1TbndGUkZPUExSdmVzVDF1WmxtZ0V4UEFWY29oeGh4LU53MUtXU3ItX3U?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "jinko-2026-07-27-001",
     "date": "2026-07-27",
     "companies": [
@@ -3331,6 +4519,26 @@
     ]
   },
   {
+    "id": "array-2026-07-27-047",
+    "date": "2026-07-27",
+    "companies": [
+      "array"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Should Value Investors Buy Array Technologies (ARRY) Stock? - finance.yahoo.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxNZi0tVnVIS3ZGT0R1dFJlQ2QzcU9Bejg1aHRaY21JNkpvMGRDWG5LV29DbWdUUE5XYUROYmtJUnRFRFJ5bFRyVWM3Q2o0a1puLW1kenhZUUdYLXNfSjU4WFhyZUF2MnFWZDZJVi13TU",
+    "sources": [
+      {
+        "name": "array",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNZi0tVnVIS3ZGT0R1dFJlQ2QzcU9Bejg1aHRaY21JNkpvMGRDWG5LV29DbWdUUE5XYUROYmtJUnRFRFJ5bFRyVWM3Q2o0a1puLW1kenhZUUdYLXNfSjU4WFhyZUF2MnFWZDZJVi13TUU2aXJLVW5KNjUza0pCUFNBQ3ZjRi1MMl9FNFhrOGJpUVNfa2taSTlYVjdMZDZvT2g0OF9QdENn?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "first_solar-2026-07-26-001",
     "date": "2026-07-26",
     "companies": [
@@ -4110,6 +5318,26 @@
       {
         "name": "gcl",
         "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE13dkhKRV9XaHozN2w5WHJKTlUtR1diTGw1d2pOT095NlVRbzREZno3cGJkLTA0bUNNdTl2LTRzVkg1ZFpMWDJDUHgyakduck9IQ0lxZkN5Y0VtTTFTTGM0SWMxQ09JWURWaEpncFQxRnhtdw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "jinko-2026-07-25-026",
+    "date": "2026-07-25",
+    "companies": [
+      "jinko"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Hsbc Holdings PLC Boosts Stake in JinkoSolar Holding Company Limited $JKS - marketbeat.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxPYmJDRnNQcmJ2X1BGUkRaQ05CSmhQTDAwY2h2d2IwLTRZNDEyUHJfdks3dTRqT0l4SXdHUVRaUjJqaWwwMDdqaHJiay1QQU9BbjZoTjF2T0F0MWJhaERnZHQ5eWN2aDlQWjBxNTZ6Zj",
+    "sources": [
+      {
+        "name": "jinko",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPYmJDRnNQcmJ2X1BGUkRaQ05CSmhQTDAwY2h2d2IwLTRZNDEyUHJfdks3dTRqT0l4SXdHUVRaUjJqaWwwMDdqaHJiay1QQU9BbjZoTjF2T0F0MWJhaERnZHQ5eWN2aDlQWjBxNTZ6ZjFoYnhOUnJUd0lOSWpyWkswblBhUVNMQ1ZlRF84WXlCMWtkZ1BWQXF6SVpER0VPMTVYejdkcHR3eXdWQUpGQTZTcERjdUR1VTNuUG5xRkYyNzNsN1d0U3BOMmlnZ0ZEQQ?oc=5",
         "type": "rss"
       }
     ]
@@ -5336,6 +6564,26 @@
       {
         "name": "google_news_solar",
         "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5qMF9sd1BTcVVSZm1OMDNLVWhqYms3ZkdyNlhHeWRXaWdRTzNUTG52Qm9pYkhPNFg4SkxyQ21GRDdTeTdPNkprWEZYTVZHV3lTQWp4N1dFX0hKRURrb0xDRVRLaVFGNjdwcUQxTU9ETEVra3djVHRFVF9XU0tDdw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "jinko-2026-07-24-067",
+    "date": "2026-07-24",
+    "companies": [
+      "jinko"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "JinkoSolar (NYSE:JKS) Reaches New 1-Year Low - Time to Sell? - marketbeat.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxPRWhmZm85MHhXc2FqeVNkbFhwS3RHLVVGMGdmY2V3LWl4MWdVaDR6OWJvaVIwQ2RfaDBUUEFkYmk1dWxIWExoeURGTTVuVGpIMzBIeGd3RFhMRWFCa2c0Z1JVdDI5LVRTRnNxS0RfS3",
+    "sources": [
+      {
+        "name": "jinko",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPRWhmZm85MHhXc2FqeVNkbFhwS3RHLVVGMGdmY2V3LWl4MWdVaDR6OWJvaVIwQ2RfaDBUUEFkYmk1dWxIWExoeURGTTVuVGpIMzBIeGd3RFhMRWFCa2c0Z1JVdDI5LVRTRnNxS0RfS3ZJZ3Nvd19Ta3NMdzR0SWZOTmpyQkpSV1hONzkwRHRTbTI0TzBVYnNnc3pVNGN1bG9EaTBnOHg5ak1mX2VP?oc=5",
         "type": "rss"
       }
     ]
