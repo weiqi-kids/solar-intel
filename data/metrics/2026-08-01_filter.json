@@ -1,0 +1,16 @@
+{
+  "total_raw": 466,
+  "dup_title": 208,
+  "no_date": 0,
+  "too_old": 159,
+  "gate1_fail": 46,
+  "gate2_fail": 5,
+  "passed": 48,
+  "gate2_samples": [
+    "Daqo's Inner Mongolia Unit Reached an 85% Clean Electricity Ratio - Stock Titan",
+    "Enphase Energy Publishes White Paper on Kestrel ASIC, Its Fifth-Generation Silicon Platform for Inte",
+    "Array Number of Employees 2026 | Employee Count & Headcount Data - Revelio Labs",
+    "Array Technologies, Inc. (ARRY) Stock Declines While Market Improves: Some Information for Investors",
+    "Water Power Winners Emerge As Collegiate Competitions Surge"
+  ]
+}

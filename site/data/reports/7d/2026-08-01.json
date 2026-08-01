@@ -1,0 +1,155 @@
+{
+  "date": "2026-08-01",
+  "date_range": {
+    "start": "2026-07-26",
+    "end": "2026-08-01"
+  },
+  "generated_at": "2026-08-01T09:49:22.856873Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "unknown-2026-07-27-019",
+      "date": "2026-07-27",
+      "title": "Altus Power Partners with New Leaf Energy on Development of 5 Community Solar Projects in Virginia",
+      "importance_score": 0.65
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "industry_general": {
+      "this_week": 97,
+      "last_week": 118,
+      "week_over_week_change": "-18%",
+      "sentiment_this_week": -0.01
+    },
+    "installation_demand": {
+      "this_week": 3,
+      "last_week": 3,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    },
+    "module_price": {
+      "this_week": 1,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": -0.5
+    }
+  },
+  "company_7d_summary": {
+    "first_solar": {
+      "event_count": 2,
+      "sentiment_avg": -0.25,
+      "rank": 4
+    },
+    "jinko": {
+      "event_count": 9,
+      "sentiment_avg": 0.06,
+      "rank": 1
+    },
+    "array": {
+      "event_count": 4,
+      "sentiment_avg": 0.0,
+      "rank": 2
+    },
+    "daqo": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 5
+    },
+    "gcl": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 3
+    },
+    "sungrow": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 6
+    },
+    "tongwei": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 7
+    },
+    "xinyi_solar": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 8
+    },
+    "longi": {
+      "event_count": 1,
+      "sentiment_avg": -1.0,
+      "rank": 9
+    },
+    "meyer_burger": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 10
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 309,
+        "last": 318,
+        "change_pct": -2.8
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-07-26",
+      "event_count": 16,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-07-27",
+      "event_count": 48,
+      "sentiment_avg": 0.03
+    },
+    {
+      "date": "2026-07-28",
+      "event_count": 66,
+      "sentiment_avg": -0.02
+    },
+    {
+      "date": "2026-07-29",
+      "event_count": 62,
+      "sentiment_avg": -0.08
+    },
+    {
+      "date": "2026-07-30",
+      "event_count": 70,
+      "sentiment_avg": 0.03
+    },
+    {
+      "date": "2026-07-31",
+      "event_count": 44,
+      "sentiment_avg": 0.08
+    },
+    {
+      "date": "2026-08-01",
+      "event_count": 3,
+      "sentiment_avg": 0.0
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-07-26 ~ 2026-08-01）共 309 則事件，重點為「Altus Power Partners with New Leaf Energy on De...」。First Solar、隆基綠能情緒偏負面，建議留意相關風險。",
+    "watchlist": [
+      {
+        "company": "First Solar",
+        "reason": "本週情緒偏負面（-0.2），共 2 則相關事件，需關注後續發展。"
+      },
+      {
+        "company": "隆基綠能",
+        "reason": "本週情緒偏負面（-1.0），共 1 則相關事件，需關注後續發展。"
+      },
+      {
+        "company": "晶科能源",
+        "reason": "本週出現 9 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

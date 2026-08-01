@@ -1,0 +1,146 @@
+{
+  "date": "2026-08-01",
+  "generated_at": "2026-08-01T09:49:22.722911Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "gcl-2026-08-01-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Price to sales forward of GCL Technology Holdings Limited – HKEX:3800 - TradingView",
+      "companies": [
+        "gcl"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNeGI1di1IUExwMVZFX1FlN2c5TmxBVm9ZMkRhMFg4V19GdHRrd3FQOFJZYnB4NUktd2NySENJRGVpbExiWjQxSE9GVWE2dndVenZiaUF0VzRCNjFOdXh5R1B6ZDAxZWhsYzVTX185Z1hYX0JZaU1wSW9ibmxGYjNjNjd2TC16d1FIZTBfVGpFRDlSOU9vMEkxRnlZRQ?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "jinko-2026-08-01-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "JinkoSolar's Silver Squeeze: When Being a Tech Leader Backfires - AD HOC NEWS",
+      "companies": [
+        "jinko"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxORVVQUUZkM1ZyX0xxeExSM0dEeFVMc21iX2RUOG1yVFhFa29wOW5sTno0NDF5Z1NENXlfUGE4M25RdjBaMEVLbGpvMjROd3dqWFBodXFySWQyUXZpVm9RdFJKbmxsWlBMOTI0T2h3UmVjUktoWEpLdkdkMXlRR2I4aFBKdzlFWVlqT3o3OFNEcDhqY1hFNGJSemNBNDZqU2cxaEwxOFg2ZTcyMjlrUGtCZzFHWHVNbF9GbGs1R2J4LWZVMUV3MDd1dHhrV3lTSkE?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "array-2026-08-01-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "ARRAY Atlas Foundation-to-Tracker Launch Might Change The Case For Investing In Array Technologies (ARRY) - simplywall.st",
+      "companies": [
+        "array"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQeXQ1MllweUxWb3hIWllXY21ONEIyV1lnXzRza1ZjaklNcDFSdGVCN2pMOXNySWxDdVFjYXhNX01JcDhwNjlXcGdmazhlZDQ2WHRWUHhtZ2lmMk5XVnhGa0hJeXlWT05GdldBSzBxM2RCTzhnSGw1YVExY3Y1aWI1VWd3YlNNdnM2YzVIX2xqUXphbGFNd1ZPMzdkc2F0dGJQOEliTnp4Mm5PcXRwcE1OTVpoeFZJTVNRcXBPT2hLaVJERmJkZ1p0R2NlcDJ1M3daZEpXWHNQd0ZWWTBqV0k40gHfAUFVX3lxTFB5dDUyWXB5TFZveEhaWVdjbU40QjJXWWdfNHNrVmNqSU1wMVJ0ZUI3akw5c3JJbEN1UWNheE1fTUlwOHA2OVdwZ2ZrOGVkNDZYdFZQeG1naWYyTldWeEZrSEl5eVZPTkZ2V0FLMHEzZEJPOGdIbDVhUTFjdjVpYjVVZ3diU012czZjNUhfbGpRemFsYU13Vk8zN2RzYXR0YlA4SWJOengybk9xdHBwTU5NWmh4VklNU1FxcE9PaEtpUkRGYmRnWnRHY2VwMnUzd1pkSldYc1B3RlZZMGpXSTg?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 3,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 3,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "gcl",
+        "count": 1
+      },
+      {
+        "id": "jinko",
+        "count": 1
+      },
+      {
+        "id": "array",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 3
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 466,
+    "dup_title": 208,
+    "too_old": 159,
+    "gate1_blocked": 46,
+    "gate2_blocked": 5,
+    "passed": 48,
+    "pass_rate": "18.6%",
+    "gate2_block_rate": "1.9%",
+    "gate2_samples": [
+      "Daqo's Inner Mongolia Unit Reached an 85% Clean Electricity Ratio - Stock Titan",
+      "Enphase Energy Publishes White Paper on Kestrel ASIC, Its Fifth-Generation Silicon Platform for Inte",
+      "Array Number of Employees 2026 | Employee Count & Headcount Data - Revelio Labs",
+      "Array Technologies, Inc. (ARRY) Stock Declines While Market Improves: Some Information for Investors",
+      "Water Power Winners Emerge As Collegiate Competitions Surge"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 3 則事件，焦點為協鑫科技、晶科能源、Array Technologies相關動態：「Price to sales forward of GCL Technology Holdings Limited...」。主要關注主題為太陽能產業通用，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Price to sales forward of GCL Technology Holdings Limited – HKEX:3800 - Tradi...（太陽能產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "JinkoSolar's Silver Squeeze: When Being a Tech Leader Backfires - AD HOC NEWS（太陽能產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
