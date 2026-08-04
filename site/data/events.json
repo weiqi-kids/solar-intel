@@ -1,5 +1,228 @@
 [
   {
+    "id": "jinko-2026-08-04-001",
+    "date": "2026-08-04",
+    "companies": [
+      "jinko"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "JinkoSolar and Jinko ESS earn top ratings in solar and storage industry rankings - Green Building Africa",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxPa1I4WWxxY3l0YVB2TXB2c1ZrNjNLTjUzekRNTXc5MWF0WW9jUW4xNUczWFBieWdBSS1fSGEzekVLdHYwN0J1RktOb3pmUDBmeXBqMkpfVU9tZ1FnQVhKSzFlSVhIX1N2TFc3aEJ6cn",
+    "sources": [
+      {
+        "name": "jinko",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPa1I4WWxxY3l0YVB2TXB2c1ZrNjNLTjUzekRNTXc5MWF0WW9jUW4xNUczWFBieWdBSS1fSGEzekVLdHYwN0J1RktOb3pmUDBmeXBqMkpfVU9tZ1FnQVhKSzFlSVhIX1N2TFc3aEJ6cnFBcEYzd1k4MGkzNjAxOTFwMERRcjRUU2ZGNlItZmFwblJQYjBpTmUyUERpSTNjTjk1TFJKVktoUU84LWxRSWFJY1FpejhtMHlWbXA0?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "sungrow-2026-08-04-002",
+    "date": "2026-08-04",
+    "companies": [
+      "sungrow"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Sungrow delivers 35 MWh of battery storage in Sierra Leone - Renewables Now",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxQVGlPQU5HWWpwX1hSRmFCeGRmaWV0ZlI2U1d5OWg0dDAtc3A4MHZEN1NWUXZQRGplVVhONm9kOVMwSnJ4N2c2dS14cWhTWFpMTlBnYkdvZUs5Ry1RR2d3VjhrQjVzR2xlNDhyek5pdW",
+    "sources": [
+      {
+        "name": "sungrow",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQVGlPQU5HWWpwX1hSRmFCeGRmaWV0ZlI2U1d5OWg0dDAtc3A4MHZEN1NWUXZQRGplVVhONm9kOVMwSnJ4N2c2dS14cWhTWFpMTlBnYkdvZUs5Ry1RR2d3VjhrQjVzR2xlNDhyek5pdWVrMFhBM2JLSkhmR08zQ2V3VkJ4UVk2dEMwZjUwYXRNc3YzLXBaSFpuejc1b2dSTzA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "sungrow-2026-08-04-003",
+    "date": "2026-08-04",
+    "companies": [
+      "sungrow"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Raya Smart Buildings and Sungrow Boost Electra’s EV Charging Leadership in Egypt - fintechgate.net",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiREFVX3lxTE84NS1fMWFRVTVMMkh5SnhoUjNXZVk5Z0JyeXg4eGtBa2lqZ0E5dk9BNnBXZFNQclkwTnpJbnp5SjEtN0RI?oc=5\" target=\"_blank\">Raya Smart Buildings and Sungrow Bo",
+    "sources": [
+      {
+        "name": "sungrow",
+        "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE84NS1fMWFRVTVMMkh5SnhoUjNXZVk5Z0JyeXg4eGtBa2lqZ0E5dk9BNnBXZFNQclkwTnpJbnp5SjEtN0RI?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-04-004",
+    "date": "2026-08-04",
+    "companies": [],
+    "topics": [
+      "installation_demand",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Researchers design PVT heat pump with single integrated evaporator",
+    "summary": "<p>The dual-source photovoltaic-thermal (PVT) heat pump combines solar and ambient-air heat collection in a single finned evaporator, eliminating the need for separate heat exchangers. The researchers",
+    "sources": [
+      {
+        "name": "pv_magazine",
+        "url": "https://www.pv-magazine.com/2026/08/04/researchers-design-pvt-heat-pump-with-single-integrated-evaporator/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-04-005",
+    "date": "2026-08-04",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Clean energy offers least-cost path to meeting US electricity demand",
+    "summary": "<p>Study by the Electricity and Energy Innovation finds choosing a clean energy pathway to meeting America's electricity demand in 2030 would cost $5 billion less than meeting the demand with fossil f",
+    "sources": [
+      {
+        "name": "pv_magazine",
+        "url": "https://www.pv-magazine.com/2026/08/04/clean-energy-offers-least-cost-path-to-meeting-electricity-demand-says-report/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-04-006",
+    "date": "2026-08-04",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "France, Germany, Italy, Spain, Portugal set daily solar records for August",
+    "summary": "<p>AleaSoft Energy Forecasting recorded five new records for solar produced on a day in August over the weekend. Despite these records, the weekly average electricity price stood in excess of €100 ($1",
+    "sources": [
+      {
+        "name": "pv_magazine",
+        "url": "https://www.pv-magazine.com/2026/08/04/france-germany-italy-spain-portugal-set-daily-solar-records-for-august/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-04-007",
+    "date": "2026-08-04",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "IRENA opens funding call for renewable energy projects in Central America, the Caribbean",
+    "summary": "<p>Selected projects will have access to financing instruments, investment partnerships and risk reduction mechanisms. Proposals submitted before September 1 will receive priority consideration.</p>\n<",
+    "sources": [
+      {
+        "name": "pv_magazine",
+        "url": "https://www.pv-magazine.com/2026/08/04/irena-opens-funding-call-for-renewable-energy-projects-in-central-america-the-caribbean/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-04-008",
+    "date": "2026-08-04",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Floating PV systems may face lower humidity stress than ground-mounted counterparts",
+    "summary": "<p>Researchers found that floating PV systems do not necessarily experience higher humidity-induced stress than ground-mounted systems, with climate conditions and system design often playing a larger",
+    "sources": [
+      {
+        "name": "pv_magazine",
+        "url": "https://www.pv-magazine.com/2026/08/04/floating-pv-systems-may-face-lower-humidity-stress-than-ground-mounted-counterparts/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-04-009",
+    "date": "2026-08-04",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Photovoltaics feed record 12 TWh into Germany’s public grid in July",
+    "summary": "<p>Solar generation surpassed the previous monthly high set in June, when photovoltaic systems delivered more than 11 TWh to the grid for the first time.</p>\n<p>The post <a href=\"https://www.pv-magazi",
+    "sources": [
+      {
+        "name": "pv_magazine",
+        "url": "https://www.pv-magazine.com/2026/08/04/photovoltaics-feed-record-12-twh-into-germanys-public-grid-in-july/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-04-010",
+    "date": "2026-08-04",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Waste solar silicon repurposed as support for palladium nanoparticle catalysts",
+    "summary": "<p>Italian researchers have developed a palladium-on-silicon catalyst using recycled PV module silicon, enabling efficient microwave-assisted biaryl synthesis. The catalyst achieved high yields, recyc",
+    "sources": [
+      {
+        "name": "pv_magazine",
+        "url": "https://www.pv-magazine.com/2026/08/04/waste-solar-silicon-repurposed-as-support-for-palladium-nanoparticle-catalysts/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-04-011",
+    "date": "2026-08-04",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Indonesia advances next-generation solar panel research to establish domestic production - TV BRICS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxOWF9Pa3R3WERCb190enhpQmZSTVRaa3puWFh4WXJiQTdYclJXcDFPZmFyVHRJTVYyclk0U1NzOXduY1BrZjB3cWhQSlROLXNnTlR2QnFzazVpOXZWQ3F4dlRuZFZNNEFZajB1dVNfdH",
+    "sources": [
+      {
+        "name": "google_news_solar",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOWF9Pa3R3WERCb190enhpQmZSTVRaa3puWFh4WXJiQTdYclJXcDFPZmFyVHRJTVYyclk0U1NzOXduY1BrZjB3cWhQSlROLXNnTlR2QnFzazVpOXZWQ3F4dlRuZFZNNEFZajB1dVNfdHVrU2dWaDNJMDE0aFNVc205ZkR5TUZXbV9qb2QwcjNvS09PYnlCQ3lHZVl6QkhOS3Q2UHR6TEJXOVpLMnU0VHphc2pMd3RjaXRL?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-04-012",
+    "date": "2026-08-04",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Habitat Energy appointed to optimise DC-coupled 614MWh solar-plus-storage portfolio for Octopus Australia",
+    "summary": "Habitat Energy has been appointed by Octopus Australia to provide optimisation services for two DC-coupled solar-plus-storage sites.",
+    "sources": [
+      {
+        "name": "energy_storage_news",
+        "url": "https://www.energy-storage.news/habitat-energy-appointed-to-optimise-dc-coupled-614mwh-solar-plus-storage-portfolio-for-octopus-australia/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "xinyi_solar-2026-08-03-001",
     "date": "2026-08-03",
     "companies": [
@@ -386,6 +609,561 @@
       {
         "name": "cleantechnica",
         "url": "https://cleantechnica.com/2026/08/02/fuel-cell-buses-trucks-green-hydrogen-innovation/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "xinyi_solar-2026-08-03-022",
+    "date": "2026-08-03",
+    "companies": [
+      "xinyi_solar"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Jefferies Adjusts Xinyi Solar Holdings' Price Target to HK$3.30 From HK$4.59, Keeps at Buy - Moomoo",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxPMlpZSjU5ajQtRFAwODJQM0VSY2ltdUVjRTJkeW1EYlNjanVDSTM4OXl5MjVTblUxNlpwNjNDN3dvdEdVcFhNQWswd1FMT3dXbEUyWktheEpSY2RXTlNoRVZKQkZlbGhQS3lqU3ZOY2",
+    "sources": [
+      {
+        "name": "xinyi_solar",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPMlpZSjU5ajQtRFAwODJQM0VSY2ltdUVjRTJkeW1EYlNjanVDSTM4OXl5MjVTblUxNlpwNjNDN3dvdEdVcFhNQWswd1FMT3dXbEUyWktheEpSY2RXTlNoRVZKQkZlbGhQS3lqU3ZOY2JOQkNFTVpMc1gxR1NHclF1SkJLVVBLOTktOEE1NWF5SEV1dEluUXBVTFplMEFtMTlnckl3?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-03-023",
+    "date": "2026-08-03",
+    "companies": [],
+    "topics": [
+      "trade_tariff"
+    ],
+    "impact": "neutral",
+    "title": "Xinyi Energy Faces Headwinds From Lower Tariffs and Higher Curtailment - Morningstar",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxQTDBYZjBNQ1lhdk0wcXJZVG9NbUtLOEFoNjVSaWVVRmhRc293UERmN3E2MC1SQU5MRDVENnJpMEVHRmNMN1k5SkJZNVZHajZVX2JzNGhBT25MSF9YRW1UcnBHWGtaUjMyaDROY2JYek",
+    "sources": [
+      {
+        "name": "xinyi_solar",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQTDBYZjBNQ1lhdk0wcXJZVG9NbUtLOEFoNjVSaWVVRmhRc293UERmN3E2MC1SQU5MRDVENnJpMEVHRmNMN1k5SkJZNVZHajZVX2JzNGhBT25MSF9YRW1UcnBHWGtaUjMyaDROY2JYekN3QlhVbmpwdWIzMldobHl5UFFIa1VTd3lucDZGMDduS2VoQmp2TGRYZUhncFlMMnZ4SjIyWm9odGkyaUJDc1RlU19BUW95cS10SVl4SkRMRQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "xinyi_solar-2026-08-03-024",
+    "date": "2026-08-03",
+    "companies": [
+      "xinyi_solar"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Trending Industry Today: XINYI SOLAR Leads Gains In Electrical Equipment Stocks - Moomoo",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxOUl9HME5Ra2Mwb2tCLXBjODBmZXFTV0htUXdIUlBMay1LOTQ5NERzMXBUMnUtU2p2ZzA0UzRWSVRLRkpoOE1EazZrVC1vNVB3SVhOM0ZOdlNIdnk0VzZDNFU5bFR4NkF6ZkpTT1FNbn",
+    "sources": [
+      {
+        "name": "xinyi_solar",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOUl9HME5Ra2Mwb2tCLXBjODBmZXFTV0htUXdIUlBMay1LOTQ5NERzMXBUMnUtU2p2ZzA0UzRWSVRLRkpoOE1EazZrVC1vNVB3SVhOM0ZOdlNIdnk0VzZDNFU5bFR4NkF6ZkpTT1FNbnh3Z1drYVBlU1pEMUliakRFVGw2YU9zOXhSS3VoQXZMcUc4NUp3MW5MZEdzWGdvYUlOU1N6RVNFY2hUd0dnUWVvVDVYdw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "xinyi_solar-2026-08-03-025",
+    "date": "2026-08-03",
+    "companies": [
+      "xinyi_solar"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Initial signs of a supply-demand inflection point and valuation recovery for industry leaders drive Xinyi Solar up nearly 11%, leading gains among solar stocks - 富途牛牛",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxOMF9PX1FnSmI3cUVrQlF0N3Q3b1dRbFU0dlpvTExQU1lZUmdvWnkzck81bE9UUjh5VkZmQ3RBczFoX3VRZWpiWVJSRjFLSXZuNEl2Q3did3gtMzRrVHRrSkoxamZpbmhDYXFaYjE5Ml",
+    "sources": [
+      {
+        "name": "xinyi_solar",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOMF9PX1FnSmI3cUVrQlF0N3Q3b1dRbFU0dlpvTExQU1lZUmdvWnkzck81bE9UUjh5VkZmQ3RBczFoX3VRZWpiWVJSRjFLSXZuNEl2Q3did3gtMzRrVHRrSkoxamZpbmhDYXFaYjE5Ml81MzVJc1JIdF9FTDI4NTlyZld5dUVQX0ExcTlkMEhKR0xvZWl5aUdYMWtDeVFFT25hYTl6RmRTOFRPYjNfbWdZTE1KM2RBSHlqb0RVWlZwQUV3UFVpU1BKRkN4SGRpaFRXT1J6QWFB?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "xinyi_solar-2026-08-03-026",
+    "date": "2026-08-03",
+    "companies": [
+      "xinyi_solar"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Alibaba surges 7%, and Xinyi Solar jumps over 13% after earnings release - 富途牛牛",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxNRDF4VzVoc016d1hGNk9yZEZmX05sbVNvN3JBWjhpS0VuajBwZWtVWkdaWDBvOEROd1BFNUJyeEt5d2IzclE0eEVCS3NNY2JuQXM1U2dTMkgzbThSckktSnk1aW9zRExmNUMzaVl2b0",
+    "sources": [
+      {
+        "name": "xinyi_solar",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNRDF4VzVoc016d1hGNk9yZEZmX05sbVNvN3JBWjhpS0VuajBwZWtVWkdaWDBvOEROd1BFNUJyeEt5d2IzclE0eEVCS3NNY2JuQXM1U2dTMkgzbThSckktSnk1aW9zRExmNUMzaVl2b012U1NaUlRVeTFGUjRkVzNCaTA2LW5jT2lhbXFlYW9Ga21zeDNUcTZBMi1PTEZBOW8?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "trina-2026-08-03-027",
+    "date": "2026-08-03",
+    "companies": [
+      "trina"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Trina Solar will promote a green hydrogen project in Australia - Inspenet",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE9yS0JPZWhaNkdTc0IxY0tGNnlYQW92Q04yOW51cEdQTk5KOEN5UDBLZG1YT2Z0VDA0S2pIOVBKSHdXUy1oTGxGREczdU9VNzA2c1A1Z1VDenJ0ejlHSGZmZnBrRlFDbG5lSXBneEFhTk",
+    "sources": [
+      {
+        "name": "trina",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9yS0JPZWhaNkdTc0IxY0tGNnlYQW92Q04yOW51cEdQTk5KOEN5UDBLZG1YT2Z0VDA0S2pIOVBKSHdXUy1oTGxGREczdU9VNzA2c1A1Z1VDenJ0ejlHSGZmZnBrRlFDbG5lSXBneEFhTkg0dw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "array-2026-08-03-028",
+    "date": "2026-08-03",
+    "companies": [
+      "array"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Array Technologies Inc expected to post earnings of 12 cents a share - Earnings Preview - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6wFBVV95cUxPOF92WFQtdHEtQVhlajZEY3U5R25GTWQwUTFMUkRrRDZuR0p0bmUtRXZmQnZrdDRuUXNOZER3TXdwWHNzbDEzT1FWMUtCWVNzbkpCNTd1REVkVmJSSkFYVG9qNlYzOVVIenFaUngxWl",
+    "sources": [
+      {
+        "name": "array",
+        "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPOF92WFQtdHEtQVhlajZEY3U5R25GTWQwUTFMUkRrRDZuR0p0bmUtRXZmQnZrdDRuUXNOZER3TXdwWHNzbDEzT1FWMUtCWVNzbkpCNTd1REVkVmJSSkFYVG9qNlYzOVVIenFaUngxWlFFZk53VXF0elQ3VGtvLUw0dVcwTGJtQXRfWGV0RE92bHExQWJORkJUWGE4cHU2c2htWXVHNlF3WlJxLU1PMG55Q0x1RVNOTnc0NzI1X0xYcmpnMWNKZUxVelNBUkRZWlR5VmhVVmNkTV9aNExkekt1S1YxNWZUR0RzN29Z?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-03-029",
+    "date": "2026-08-03",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Kazakhstan’s solar capacity surpasses 1.37 GW",
+    "summary": "<p>Kazakhstan's total installed renewables capacity exceeded 3.7 GW by the second quarter of this year. The country is planning to commission 245 MW of renewables, including five solar projects, durin",
+    "sources": [
+      {
+        "name": "pv_magazine",
+        "url": "https://www.pv-magazine.com/2026/08/03/kazakhstans-solar-capacity-surpasses-1-37-gw/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-03-030",
+    "date": "2026-08-03",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Engie, Legrand sign France’s first 24/7 renewable energy supply deal",
+    "summary": "<p>Engie says the supply agreement, concluded for 2029 to 2031, is the first of its kind in France. The deal will see Engie match renewable electricity production and offtaker consumption for Legrand ",
+    "sources": [
+      {
+        "name": "pv_magazine",
+        "url": "https://www.pv-magazine.com/2026/08/03/engie-legrand-sign-frances-first-24-7-renewable-energy-supply-deal/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-03-031",
+    "date": "2026-08-03",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Shenling releases new air-to-water heat pump series",
+    "summary": "<p>The Chinese manufacturer's new all-in-one heat pump series comes in three models with heating capacities of 8.03 kW, 9.88 kW and 11.75 kW.</p>\n<p>The post <a href=\"https://www.pv-magazine.com/2026/",
+    "sources": [
+      {
+        "name": "pv_magazine",
+        "url": "https://www.pv-magazine.com/2026/08/03/shenling-releases-new-air-to-water-heat-pump-series/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-03-032",
+    "date": "2026-08-03",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Tandem PV acquires transparent coating tech firm nexTC to advance perovskite manufacturing",
+    "summary": "Tandem PV has acquired Oregon startup nexTC, bringing the latter’s firm’s advanced thin-film metal oxide coating processes in-house and allowing the manufacturer greater control over a critical step a",
+    "sources": [
+      {
+        "name": "pv_magazine_usa",
+        "url": "https://pv-magazine-usa.com/2026/08/03/tandem-pv-acquires-transparent-coating-tech-firm-nextc-to-advance-perovskite-manufacturing/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-03-033",
+    "date": "2026-08-03",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Avantus closes $1 billion upsized corporate credit facility",
+    "summary": "The clean energy developer expanded its financial runway to support the build-out of a 24 GW solar and energy storage pipeline across California and the Desert Southwest.",
+    "sources": [
+      {
+        "name": "pv_magazine_usa",
+        "url": "https://pv-magazine-usa.com/2026/08/03/avantus-closes-1-05-billion-upsized-corporate-credit-facility/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "first_solar-2026-08-03-034",
+    "date": "2026-08-03",
+    "companies": [
+      "first_solar"
+    ],
+    "topics": [
+      "trade_tariff",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "First Solar hits sales record as it reaffirms 2026 guidance, balances tariff risk",
+    "summary": "The company’s $1 billion in sales for Q2 led to a record for the first half of the year. First Solar now plans for the impact of the upcoming Section 232 tariff decision while it works to bring new fa",
+    "sources": [
+      {
+        "name": "pv_magazine_usa",
+        "url": "https://pv-magazine-usa.com/2026/08/03/first-solar-hits-sales-record-as-it-reaffirms-2026-guidance-balances-tariff-risk/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-03-035",
+    "date": "2026-08-03",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Goldman Sachs Alternatives to acquire RWE U.S. distributed energy business",
+    "summary": "Goldman Sachs Alternatives has signed an agreement to acquire the U.S. Distributed Clean Energy (DCE) business of RWE Americas, establishing a standalone distributed generation platform backed by 348 ",
+    "sources": [
+      {
+        "name": "pv_magazine_usa",
+        "url": "https://pv-magazine-usa.com/2026/08/03/goldman-sachs-alternatives-to-acquire-rwe-u-s-distributed-energy-business/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-03-036",
+    "date": "2026-08-03",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Quantifying El Niño effects help solar project financing and operations",
+    "summary": "New tools for understanding solar irradiance patterns at the local level arrive to manage extreme weather effects and tighter economic margins.",
+    "sources": [
+      {
+        "name": "pv_magazine_usa",
+        "url": "https://pv-magazine-usa.com/2026/08/03/quantifying-el-nino-effects-help-solar-project-financing-and-operations/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-03-037",
+    "date": "2026-08-03",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Clean energy offers least-cost path to meeting electricity demand, says report",
+    "summary": "Choosing a clean energy pathway to meeting electricity demand in 2030 would cost $5 billion less than meeting the demand with fossil fuels, according to a recent study by Electricity and Energy Innova",
+    "sources": [
+      {
+        "name": "pv_magazine_usa",
+        "url": "https://pv-magazine-usa.com/2026/08/03/clean-energy-offers-least-cost-path-to-meeting-electricity-demand-says-report/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-03-038",
+    "date": "2026-08-03",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Antora raises $550 million for U.S.-made thermal battery storage",
+    "summary": "U.S. manufacturer closes funding round shortly after deploying 5 GWh thermal battery in South Dakota. New finance will be used to accelerate deployment and establish a second U.S. manufacturing facili",
+    "sources": [
+      {
+        "name": "pv_magazine_usa",
+        "url": "https://pv-magazine-usa.com/2026/08/03/antora-raises-550-million-for-u-s-made-thermal-battery-storage/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-03-039",
+    "date": "2026-08-03",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "This solar-powered ‘ambulance’ has a range of up to 444 miles",
+    "summary": "<div class=\"feat-image\"><img src=\"https://electrek.co/wp-content/uploads/sites/3/2026/08/Eindhoven-solar-ambulance.jpg?quality=82&#038;strip=all&#038;w=1600\" /></div><p class=\"wp-block-paragraph\">A te",
+    "sources": [
+      {
+        "name": "electrek_solar",
+        "url": "https://electrek.co/2026/08/03/this-solar-powered-ambulance-has-a-range-of-up-to-444-miles/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-03-040",
+    "date": "2026-08-03",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Argentina’s solar train brings zero-emission travel to an ancient trade route",
+    "summary": "<div class=\"feat-image\"><img src=\"https://electrek.co/wp-content/uploads/sites/3/2026/08/zero-emission_TRAIN.jpg?quality=82&#038;strip=all&#038;w=1600\" /></div><p class=\"wp-block-paragraph\">The Tren S",
+    "sources": [
+      {
+        "name": "electrek_solar",
+        "url": "https://electrek.co/2026/08/03/argentinas-solar-train-brings-zero-emission-travel-to-an-ancient-trade-route/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-03-041",
+    "date": "2026-08-03",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Utah produced more power from solar than any other source in May, marking a new first - The Salt Lake Tribune",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxOYzhhb01LWDFPOUsySUdUT0Q3RHBlNnJ3ZUVmdkZUeUI5NTJVTjQ4MGIzRDdNLWlBazUzY01rTGYwTWVvODk0VW9yUHljSGdUcUI2bHZ0VEZpZEZuMEFMRENMdUpsNVAxR3RVMjdXWU",
+    "sources": [
+      {
+        "name": "google_news_solar",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOYzhhb01LWDFPOUsySUdUT0Q3RHBlNnJ3ZUVmdkZUeUI5NTJVTjQ4MGIzRDdNLWlBazUzY01rTGYwTWVvODk0VW9yUHljSGdUcUI2bHZ0VEZpZEZuMEFMRENMdUpsNVAxR3RVMjdXWURxZXBCb3hRZWJWTmdLQmQ0VWh3Rkdpa0k?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-03-042",
+    "date": "2026-08-03",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Neighborhood effects of rooftop solar support the energy transition - Tech Xplore",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxNZldIYms3UldTa2RnUHQ2aDlBNjdsRFYzblNMMGdscjE0Ykd5OFRBYXVHelJWLWdkUklSb2NsMEh5Z21zd3VoNVhOMHpnZldWYVowOW1RNk0xOXVST2tYaGI0RkJ1akJPc0gzU1VJU2",
+    "sources": [
+      {
+        "name": "google_news_solar",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNZldIYms3UldTa2RnUHQ2aDlBNjdsRFYzblNMMGdscjE0Ykd5OFRBYXVHelJWLWdkUklSb2NsMEh5Z21zd3VoNVhOMHpnZldWYVowOW1RNk0xOXVST2tYaGI0RkJ1akJPc0gzU1VJU2lTVmZzcFdEU3BGTlplVFRnT19EQ0hkbktSemc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-03-043",
+    "date": "2026-08-03",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Solar Data Centers Are Fine, But Here's How Many Panels They Would Actually Need - bgr.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE5QTGtKamRFcGQwZ014WGdsYWQwd216ZHVpQlB6ajdEZ1FsZzNFZVBEeDNKMVIwY1E1eXUxZHdpYmdkVDVaU3pNb2NvZVBHaEw0OGhOOHBqM1MtQm1WUk5Raml0aHRKTDlLTFB1X0dkNV",
+    "sources": [
+      {
+        "name": "google_news_solar",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5QTGtKamRFcGQwZ014WGdsYWQwd216ZHVpQlB6ajdEZ1FsZzNFZVBEeDNKMVIwY1E1eXUxZHdpYmdkVDVaU3pNb2NvZVBHaEw0OGhOOHBqM1MtQm1WUk5Raml0aHRKTDlLTFB1X0dkNVpVX0FTd2c?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-03-044",
+    "date": "2026-08-03",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Hybridizing hydro could ease grid constraints says Ember",
+    "summary": "A new report from Ember shows that adding wind and solar behind the meter of existing hydro assets could bypass grid constraints.",
+    "sources": [
+      {
+        "name": "renewableenergyw",
+        "url": "https://www.renewableenergyworld.com/hydro-power/hybridizing-hydro-could-ease-grid-constraints-says-ember/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-03-045",
+    "date": "2026-08-03",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Redefining the utility playbook with PG&E’s Sumeet Singh",
+    "summary": "In this episode of the Factor This podcast, Sumeet Singh, CEO of Pacific Gas &#038; Electric, details how utility leaders can balance cultural shifts with the economic imperative to maximize underutil",
+    "sources": [
+      {
+        "name": "renewableenergyw",
+        "url": "https://www.renewableenergyworld.com/power-grid/grid-modernization/redefining-the-utility-playbook-with-pges-sumeet-singh/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-03-046",
+    "date": "2026-08-03",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Tandem PV acquires nexTC coating processes for perovskite solar panel efforts",
+    "summary": "<p>U.S. perovskite company Tandem PV has acquired nexTC, an Oregon-based developer of advanced thin-film metal oxide coating processes. The acquisition brings nexTC’s coating technology, intellectual ",
+    "sources": [
+      {
+        "name": "solar_power_world",
+        "url": "https://www.solarpowerworldonline.com/2026/08/tandem-pv-acquires-nextc-coating-processes-for-perovskite-solar-panel-efforts/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-03-047",
+    "date": "2026-08-03",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Researchers improve day-ahead solar forecasting by 13%",
+    "summary": "<p>Researchers from North Carolina State University have demonstrated techniques that can improve day-ahead solar forecasts by up to 13% over the most consistently performing individual model. The wor",
+    "sources": [
+      {
+        "name": "solar_power_world",
+        "url": "https://www.solarpowerworldonline.com/2026/08/researchers-improve-day-ahead-solar-forecasting-by-13/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-03-048",
+    "date": "2026-08-03",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Florida’s Naples Airport adds solar to new warehouse storage building",
+    "summary": "<p>Naples Airport in Florida is installing a 100-kW solar system atop a newly build warehouse storage building on its campus. The project should be fully operational by the end of summer. “The cost sa",
+    "sources": [
+      {
+        "name": "solar_power_world",
+        "url": "https://www.solarpowerworldonline.com/2026/08/floridas-naples-airport-adds-solar-to-new-warehouse-storage-building/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-03-049",
+    "date": "2026-08-03",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "Concerns over lack of clarity, transparency as US bans foreign power inverters",
+    "summary": "The Public Safety and Homeland Security Bureau (PSHSB) of the US Federal Communications Commission (FCC) has classified foreign-produced power inverters and \"advanced robotic devices\" as national secu",
+    "sources": [
+      {
+        "name": "energy_storage_news",
+        "url": "https://www.energy-storage.news/concerns-over-lack-of-clarity-transparency-as-us-bans-foreign-power-inverters/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-03-050",
+    "date": "2026-08-03",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "European Commission approves scheme to support 370MWh of battery storage in Slovenia",
+    "summary": "The European Commission (EC) has approved a financial support scheme to accelerate the deployment of battery storage technologies in Slovenia.",
+    "sources": [
+      {
+        "name": "energy_storage_news",
+        "url": "https://www.energy-storage.news/european-commission-approves-scheme-to-support-370mwh-of-battery-storage-in-slovenia/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-03-051",
+    "date": "2026-08-03",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Blocking New Imported Inverters Will Cost America",
+    "summary": "<p>Last week, the FCC added foreign-produced inverters to its “Covered List.” Effective immediately, new inverter models cannot be imported. This applies “regardless of the nationality of origin” to a",
+    "sources": [
+      {
+        "name": "cleantechnica",
+        "url": "https://cleantechnica.com/2026/08/03/blocking-new-imported-inverters-will-cost-america/",
         "type": "rss"
       }
     ]
@@ -1639,6 +2417,84 @@
       {
         "name": "jinko",
         "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBOeWowVktwU3JwWThUcEtaSk1vdldrUThTRWlGMV9kS1p5anZtY0dsVXczOEJLeE5yZ3FBUFBYSFJ4amdodzNpZXZrbFBIeTBybVlaOTdhbWwzcE9vVThlOEJuRDdiN1ZlaE9vRjI0U28?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "array-2026-07-31-054",
+    "date": "2026-07-31",
+    "companies": [
+      "array"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Array Technologies Inc - Google",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE9GdVIyQkJoZU9IUF9CUFE4aExSYk5pLXJzdXFrMzBobk0xZmRLZ0dVNGdNMDhHVEFSNGhhVmdEMVZKZUlDVEtfWVVicjNuTy1pV1FVTVVDRTZJWXNl?oc=5\" target=\"_blank\">Arr",
+    "sources": [
+      {
+        "name": "array",
+        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9GdVIyQkJoZU9IUF9CUFE4aExSYk5pLXJzdXFrMzBobk0xZmRLZ0dVNGdNMDhHVEFSNGhhVmdEMVZKZUlDVEtfWVVicjNuTy1pV1FVTVVDRTZJWXNl?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "array-2026-07-31-055",
+    "date": "2026-07-31",
+    "companies": [
+      "array"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "ARRAY Technologies launches Atlas foundation-to-tracker suite - solarbytes.info",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxQOVpYX2pCcThCU0ZPaUIzU1FpSVU5cUlwdjAzVTNXdWh1cUhTQ0VpcEpYdXluVXdTcTNZUkNPWlpWczZQNXJwcDhDTFc2TExnUzVnMl93eV9PRWhjZWkybi1VaWpiU0RCd1F2UWFZc2",
+    "sources": [
+      {
+        "name": "array",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQOVpYX2pCcThCU0ZPaUIzU1FpSVU5cUlwdjAzVTNXdWh1cUhTQ0VpcEpYdXluVXdTcTNZUkNPWlpWczZQNXJwcDhDTFc2TExnUzVnMl93eV9PRWhjZWkybi1VaWpiU0RCd1F2UWFZc2NTc1Q2VWp0MWNaR19DUFBRWGNFbHo5dXpZVjVqN1k4V2c5NVdqYlhTbjkxdXk1cGFxcF9BN2pGWjF1eW5YbncxOFdLbzQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nextracker-2026-07-31-056",
+    "date": "2026-07-31",
+    "companies": [
+      "nextracker"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "NXT|Nextracker Inc|Price:89.870|Chg%:-7.030 - TradingKey",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTE1VTTBsTVhISVRsSG9pa19tbnNZSWlQQkt3ZVpSa2F5RWtjRTNBSEdRRFZaWGtmVUtUT3FvVnM5WmNHTVczZEJjTEdBcS1ERmFNdUdxZEtZWHM?oc=5\" target=\"_blank\">NXT|Next",
+    "sources": [
+      {
+        "name": "nextracker",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1VTTBsTVhISVRsSG9pa19tbnNZSWlQQkt3ZVpSa2F5RWtjRTNBSEdRRFZaWGtmVUtUT3FvVnM5WmNHTVczZEJjTEdBcS1ERmFNdUdxZEtZWHM?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-31-057",
+    "date": "2026-07-31",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Mocean Energy targets wave-powered offshore data centers",
+    "summary": "Scotland-based Mocean Energy plans to move data centers out to sea with power from wave energy, solar PV and battery storage.",
+    "sources": [
+      {
+        "name": "renewableenergyw",
+        "url": "https://www.renewableenergyworld.com/hydro-power/tidal-wave-energy/mocean-energy-targets-wave-powered-offshore-data-centers/",
         "type": "rss"
       }
     ]
@@ -3009,6 +3865,24 @@
     ]
   },
   {
+    "id": "daqo-2026-07-30-074",
+    "date": "2026-07-30",
+    "companies": [
+      "daqo"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Daqo New Energy Issues Its 2025 Environmental, Social and Governance (ESG) Report - marketscreener.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxPdFlnNGROa05nSFRQZ1BqVzRtZlBhR1QwZkR0Vi0tekIycEFMOUdVNGM1TDhtd3k5enc2bnRFcUQ2U0Fuc1hnUkZwZW1QZkh5amtyZnQyckN2aDJjeW9aQTRyckpFcUdWa045aGdjQ2",
+    "sources": [
+      {
+        "name": "daqo",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPdFlnNGROa05nSFRQZ1BqVzRtZlBhR1QwZkR0Vi0tekIycEFMOUdVNGM1TDhtd3k5enc2bnRFcUQ2U0Fuc1hnUkZwZW1QZkh5amtyZnQyckN2aDJjeW9aQTRyckpFcUdWa045aGdjQ2dLUEw3UXlSd2ZnME42UW5veTNqRnBtZVM2R1RadVlFTlN5T2pSNjBDbkpJS08wRVZ3VTBKVVd2c19GSVkzZ09YaEozbWhhN09zUUVJWVZwT3ZXTnh2ZzhVZFYtMA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "xinyi_solar-2026-07-29-001",
     "date": "2026-07-29",
     "companies": [
@@ -4272,6 +5146,26 @@
     ]
   },
   {
+    "id": "sungrow-2026-07-29-068",
+    "date": "2026-07-29",
+    "companies": [
+      "sungrow"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "FCC Ban Expands to Robots and Inverters, Wiping Over $14.8 Billion from Sungrow's Market Cap in a Single Day - finance.biggo.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTFBubDNrSE9GWmdkU1U0OWltU0lYVW1GbF82bmlkOEVlcmYteUM4NV9mLVlGLTlGNE1WNFI0ZV9YQUlRUFZMT2I1bDZ6b0FVS2RUaXphRmxtUGVobWhrcUxtcWF5ZW0tVEx5Y1gyM0gzU0",
+    "sources": [
+      {
+        "name": "sungrow",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBubDNrSE9GWmdkU1U0OWltU0lYVW1GbF82bmlkOEVlcmYteUM4NV9mLVlGLTlGNE1WNFI0ZV9YQUlRUFZMT2I1bDZ6b0FVS2RUaXphRmxtUGVobWhrcUxtcWF5ZW0tVEx5Y1gyM0gzU0k4MjdYYWc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "daqo-2026-07-28-001",
     "date": "2026-07-28",
     "companies": [
@@ -5496,6 +6390,26 @@
       {
         "name": "daqo",
         "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBYSm9lczhxTGpKNHBMOTlPbkpIM0VidndabzZiNnNuZmdqN3FwbG9kMXAwVFdNY3ZFUXpmZW1WUmZidVl4WHU2V1R5TjVpOVZwcXFyaEg3b1BJVXh2Z0R2VEN3?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "sungrow-2026-07-28-068",
+    "date": "2026-07-28",
+    "companies": [
+      "sungrow"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "BYD and Sungrow Win UAE Solar Storage Contracts, Outpacing CATL - News and Statistics - indexbox.io",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxPTldjWkI0WDRiMFNYTHZWMGVQNkFmNkU4SHlneEgwNkJlTVpDNXJJdW0wVHBzTmQ2dXpmX2g3REJfbnhNTVRCX3RTSGtPZGVkVl9WY0NMRHc5ZU40TTJsMW02MDdMVnpaMVpWT2Q1MT",
+    "sources": [
+      {
+        "name": "sungrow",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPTldjWkI0WDRiMFNYTHZWMGVQNkFmNkU4SHlneEgwNkJlTVpDNXJJdW0wVHBzTmQ2dXpmX2g3REJfbnhNTVRCX3RTSGtPZGVkVl9WY0NMRHc5ZU40TTJsMW02MDdMVnpaMVpWT2Q1MTFFM0VsUlJMYWJ4UGNQNmVMczlnbFhSWmJ0eUg3dkVIRTM1QQ?oc=5",
         "type": "rss"
       }
     ]
