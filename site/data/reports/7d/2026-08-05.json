@@ -1,0 +1,157 @@
+{
+  "date": "2026-08-05",
+  "date_range": {
+    "start": "2026-07-30",
+    "end": "2026-08-05"
+  },
+  "generated_at": "2026-08-05T10:24:19.753923Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "unknown-2026-07-31-025",
+      "date": "2026-07-31",
+      "title": "Solar’s share of EU electricity demand tops 20% for three consecutive months",
+      "importance_score": 0.65
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "industry_general": {
+      "this_week": 85,
+      "last_week": 115,
+      "week_over_week_change": "-26%",
+      "sentiment_this_week": 0.07
+    },
+    "installation_demand": {
+      "this_week": 4,
+      "last_week": 3,
+      "week_over_week_change": "+33%",
+      "sentiment_this_week": 0.0
+    },
+    "module_price": {
+      "this_week": 2,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": -0.25
+    },
+    "trade_tariff": {
+      "this_week": 1,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "gcl": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 2
+    },
+    "meyer_burger": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 6
+    },
+    "jinko": {
+      "event_count": 7,
+      "sentiment_avg": 0.0,
+      "rank": 1
+    },
+    "array": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 3
+    },
+    "daqo": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 7
+    },
+    "xinyi_solar": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 8
+    },
+    "ja_solar": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 9
+    },
+    "trina": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 4
+    },
+    "longi": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 10
+    },
+    "sungrow": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 5
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 252,
+        "last": 345,
+        "change_pct": -27.0
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-07-30",
+      "event_count": 74,
+      "sentiment_avg": 0.02
+    },
+    {
+      "date": "2026-07-31",
+      "event_count": 57,
+      "sentiment_avg": 0.06
+    },
+    {
+      "date": "2026-08-01",
+      "event_count": 9,
+      "sentiment_avg": 0.06
+    },
+    {
+      "date": "2026-08-02",
+      "event_count": 6,
+      "sentiment_avg": 0.33
+    },
+    {
+      "date": "2026-08-03",
+      "event_count": 56,
+      "sentiment_avg": 0.11
+    },
+    {
+      "date": "2026-08-04",
+      "event_count": 35,
+      "sentiment_avg": 0.16
+    },
+    {
+      "date": "2026-08-05",
+      "event_count": 15,
+      "sentiment_avg": 0.03
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-07-30 ~ 2026-08-05）共 252 則事件，重點為「Solar’s share of EU electricity demand tops 20%...」。太陽能產業通用、裝機需求、元件價格為本週焦點話題。",
+    "watchlist": [
+      {
+        "company": "協鑫科技",
+        "reason": "本週出現 3 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "晶科能源",
+        "reason": "本週出現 7 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
