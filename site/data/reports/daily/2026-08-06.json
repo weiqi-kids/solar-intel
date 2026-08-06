@@ -1,0 +1,215 @@
+{
+  "date": "2026-08-06",
+  "generated_at": "2026-08-06T10:26:29.810707Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "first_solar-2026-08-06-003",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "USITC Ends Patent Probe Against Philadelphia Solar USA, Trina Solar After First Solar Withdrawal - Saur Energy",
+      "companies": [
+        "first_solar",
+        "trina"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPcTRPUzJJc1dKNHdCcHVPV015bHRtUTBvSk93Tk53RjFja1JCakdhc256cnBYdnVCM25VU2VZNWVvQmFwNVlFcFB5X2tjVkFVNjJ5N1hhQjZzcFhlQzVvaW9QekpIb0hEODhKX3JYcDNzcXY3cDFRUXlxNHcyOXI5MF9JM0FsaU94Qk1IMlpjVXhKZDB1bW94R2hNQk5KcDFGZlpaVERyUnl2WmxzZ1VfS1ZWejlPYVNsV2I2ZHBtM3JheTk0S3dPeDE0TDhKQ2h4MWtpdkRXcWdqaGg0ZW1sZmZfZw?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "array-2026-08-06-007",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Array Technologies, Inc. (ARRY) Q2 Earnings and Revenues Surpass Estimates - Yahoo! Finance Canada",
+      "companies": [
+        "array"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOcjl5QWZUQlk2QzRBS2NOX016NEtWN24tUXVSM0d5VGpJS2dhX2pkY2Z6cW1WNi05c24wWWJ3aVR2ZXhWR3NFdFNlQ0IzLTNoNGNpcGNfTGtyY0w1TlQtT0o1UGhrX3FMRV9QZF9kMjlQTXkwdmhmZ2l5WURnRUJUNnVMRS14dw?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-08-06-019",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Eugene Clean Energy Fund Officially Qualifies for the November 2026 Ballot",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://cleantechnica.com/2026/08/05/eugene-clean-energy-fund-officially-qualifies-for-the-november-2026-ballot/"
+    },
+    {
+      "rank": 4,
+      "event_id": "longi-2026-08-06-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "LONGi Becomes Official Partner of FC Bayern Munich, Uniting Solar Energy Innovation and Football Passion - PR Newswire",
+      "companies": [
+        "longi"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOaUwxd2tLWFliY2xUejliQXprRi1JaldJaWtCcFVDc2tZeFI4OHNURnZ1ZFFhaEFqeW5RUVYxbmw0djl3TXJBY2NRTTR0UC1JZXJZOTFOMmFzQmhYaE5MNmZsTVZ1MXJRZEpmdTBCcWVYcFNIdjdiSFBJOW02MGhpbl9iWF8wMTVSZnp6MEJvb2RTSWRIWWhxR2ZYTDBoZzJDSVFTV25JTG9vR0lJMGpYVUNhQjVzNGcwcnc0eV85bGdEWXQzY0F1eDI0UjhtVUgycVRtdUlHQWZmcTdhdldxS1doa1dadzZpR083eW5yMm4?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "longi-2026-08-06-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "FC Bayern and LONGi seal international partnership - Yahoo Sports Canada",
+      "companies": [
+        "longi"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOc0NLSjB4ek9udjdmUEJmcnU3TVAzX2swTklJUEhIOEJzOHF0blZMNkI5THpJM0MwajNKcHdLaUhrVy1mWXlrX3I0alFrTk0tR25LbWIwRWQ3eXNSQ0phMXBFSlhCNks4MEQ4YVFCbWFOSUd3ODRCMmV5dnp6YlgtdUJsbWNvQnFpNGc?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 18,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.08,
+      "sentiment_7d_avg": null
+    },
+    "grid_parity": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 19,
+    "sentiment_distribution": {
+      "positive": 3,
+      "neutral": 16,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "array",
+        "count": 3
+      },
+      {
+        "id": "longi",
+        "count": 2
+      },
+      {
+        "id": "first_solar",
+        "count": 1
+      },
+      {
+        "id": "trina",
+        "count": 1
+      },
+      {
+        "id": "risen",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 18
+      },
+      {
+        "id": "grid_parity",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 466,
+    "dup_title": 213,
+    "too_old": 148,
+    "gate1_blocked": 42,
+    "gate2_blocked": 6,
+    "passed": 57,
+    "pass_rate": "22.5%",
+    "gate2_block_rate": "2.4%",
+    "gate2_samples": [
+      "DAQO New Energy (NYSE:DQ) Shares Gap Up - Should You Buy? - MarketBeat",
+      "Daqo New Energy Price Target Cut to $22.00/Share From $35.50 by JP Morgan - Moomoo",
+      "Daqo's Inner Mongolia Unit Reached an 85% Clean Electricity Ratio - Stock Titan",
+      "Price to sales forward of Risen Energy Co., Ltd. Class A – SZSE:300118 - TradingView",
+      "Form 10-Q Array Technologies, Inc. For: Jun 30 - StreetInsider"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 19 則事件，焦點為Array Technologies、隆基綠能、First Solar相關動態：「USITC Ends Patent Probe Against Philadelphia Solar USA, T...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "USITC Ends Patent Probe Against Philadelphia Solar USA, Trina Solar After Fir...（太陽能產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Array Technologies, Inc. (ARRY) Q2 Earnings and Revenues Surpass Estimates - ...",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

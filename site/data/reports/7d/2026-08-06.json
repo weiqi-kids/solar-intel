@@ -1,0 +1,177 @@
+{
+  "date": "2026-08-06",
+  "date_range": {
+    "start": "2026-07-31",
+    "end": "2026-08-06"
+  },
+  "generated_at": "2026-08-06T10:26:29.949540Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "longi-2026-08-05-018",
+      "date": "2026-08-05",
+      "title": "JinkoSolar, LONGi and Canadian Solar focus on module efficiency - PV Tech",
+      "importance_score": 0.7
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "industry_general": {
+      "this_week": 81,
+      "last_week": 117,
+      "week_over_week_change": "-31%",
+      "sentiment_this_week": 0.08
+    },
+    "module_price": {
+      "this_week": 2,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": -0.25
+    },
+    "installation_demand": {
+      "this_week": 3,
+      "last_week": 4,
+      "week_over_week_change": "-25%",
+      "sentiment_this_week": 0.0
+    },
+    "trade_tariff": {
+      "this_week": 1,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    },
+    "grid_parity": {
+      "this_week": 1,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "daqo": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 7
+    },
+    "gcl": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 5
+    },
+    "jinko": {
+      "event_count": 5,
+      "sentiment_avg": 0.0,
+      "rank": 1
+    },
+    "array": {
+      "event_count": 4,
+      "sentiment_avg": 0.25,
+      "rank": 2
+    },
+    "xinyi_solar": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 8
+    },
+    "ja_solar": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 9
+    },
+    "trina": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 3
+    },
+    "longi": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 4
+    },
+    "sungrow": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 6
+    },
+    "first_solar": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 10
+    },
+    "risen": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 11
+    },
+    "maxeon": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 12
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 235,
+        "last": 367,
+        "change_pct": -36.0
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-07-31",
+      "event_count": 57,
+      "sentiment_avg": 0.06
+    },
+    {
+      "date": "2026-08-01",
+      "event_count": 9,
+      "sentiment_avg": 0.06
+    },
+    {
+      "date": "2026-08-02",
+      "event_count": 6,
+      "sentiment_avg": 0.33
+    },
+    {
+      "date": "2026-08-03",
+      "event_count": 60,
+      "sentiment_avg": 0.1
+    },
+    {
+      "date": "2026-08-04",
+      "event_count": 36,
+      "sentiment_avg": 0.13
+    },
+    {
+      "date": "2026-08-05",
+      "event_count": 48,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-08-06",
+      "event_count": 19,
+      "sentiment_avg": 0.13
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-07-31 ~ 2026-08-06）共 235 則事件，重點為「JinkoSolar, LONGi and Canadian Solar focus on m...」。事件量較上週減少，市場進入觀望階段。",
+    "watchlist": [
+      {
+        "company": "晶科能源",
+        "reason": "本週出現 5 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "Array Technologies",
+        "reason": "本週出現 4 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "天合光能",
+        "reason": "本週出現 3 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
