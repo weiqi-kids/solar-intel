@@ -1,0 +1,14 @@
+{
+  "total_raw": 466,
+  "dup_title": 184,
+  "no_date": 0,
+  "too_old": 168,
+  "gate1_fail": 40,
+  "gate2_fail": 3,
+  "passed": 71,
+  "gate2_samples": [
+    "DAQO New Energy (NYSE:DQ) Shares Gap Up - Should You Buy? - MarketBeat",
+    "Daqo New Energy Price Target Cut to $22.00/Share From $35.50 by JP Morgan - moomoo.com",
+    "Price to book forward of Risen Energy Co., Ltd. Class A – SZSE:300118 - TradingView"
+  ]
+}

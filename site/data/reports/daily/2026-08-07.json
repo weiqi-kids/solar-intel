@@ -1,0 +1,221 @@
+{
+  "date": "2026-08-07",
+  "generated_at": "2026-08-07T08:46:11.797487Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "trina-2026-08-07-002",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Trina Solar H1 Revenue Rises to 31.99 Billion Yuan, Losses Narrow Over 90% - finance.biggo.com",
+      "companies": [
+        "trina"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5PeUhiSEI0TjJLcHNaNjd5SW1wYkRjV2JhcWtGVFdtb2UycUtaM2FMd1NsR0FlWXVIZEJxWFRDS3ZNcUtVMUE1S0tMWk9iVzl5bjRTaDhQdTJsbTByWVo1bjFTSTF1TkNuUXpkRmV6YVFQTlB5Znc?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "array-2026-08-07-003",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Array surpasses 100GW of tracker deliveries as Q2 orders reach US$2.5 billion - pv-tech.org",
+      "companies": [
+        "array"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQSWpYVVhVU0Vpd1lxdVJRTlBwVnozS0FnVTRvbjdBbXJJbFM5Si1RcW9vZEtzbV9MYmJTS3VtUGVyUndLOWVjRlluYzRfVEZfSW5EejFZVGFNcjNEX05wTHgyeTBJRVhzNml0TEM5TDBQN0NxUzY1NWJiY0ZvdW1rcWJKTHJWcGtQZVBMdUNmTWtPOWJZMUZhODdNSQ?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "daqo-2026-08-07-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "DAQO New Energy Corp. Stock 12‑Month Price Target Cut to $22.64, Implies 67% Upside - TradingView",
+      "companies": [
+        "daqo"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOUHpvQmtGWV9qQ01fOUZESVpvejg2MWN3NGt3ZHQzbC1jWnU0SWZZdDJOamJjaEJyODNjcEVnM1VCbHlrZnhHUERkMkJ0Nno4cWwzcFBuTk51UGhCMV8xYnVEU3drdGpnbTVGVHVnemstR21FY1JYX1lxQzc1STFSWGJZZlFSQm1LZkFLSWNiZ0VuN0xZWjh4Q0RrZF9CMkkzVF9MX0VOQjNYaWRGVWxkVS1yaDlwQ2dmZENMQjA0X1dGOG1yblQ4aTRFdXpGaXkxR0JPbDRTZXc?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-08-07-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Global polysilicon prices hold steady as U.S. unveils Section 232 import floors",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "polysilicon_price",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.pv-magazine.com/2026/08/07/global-polysilicon-prices-hold-steady-as-u-s-unveils-section-232-import-floors/"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-08-07-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Researchers warn of unexpected copper corrosion in perovskite solar cells",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.pv-magazine.com/2026/08/07/researchers-warn-of-unexpected-copper-corrosion-in-perovskite-solar-cells/"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 11,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.05,
+      "sentiment_7d_avg": null
+    },
+    "polysilicon_price": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "trade_tariff": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 11,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 8,
+      "negative": 2
+    },
+    "top_companies": [
+      {
+        "id": "daqo",
+        "count": 1
+      },
+      {
+        "id": "trina",
+        "count": 1
+      },
+      {
+        "id": "array",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 11
+      },
+      {
+        "id": "polysilicon_price",
+        "count": 1
+      },
+      {
+        "id": "trade_tariff",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 466,
+    "dup_title": 184,
+    "too_old": 168,
+    "gate1_blocked": 40,
+    "gate2_blocked": 3,
+    "passed": 71,
+    "pass_rate": "25.2%",
+    "gate2_block_rate": "1.1%",
+    "gate2_samples": [
+      "DAQO New Energy (NYSE:DQ) Shares Gap Up - Should You Buy? - MarketBeat",
+      "Daqo New Energy Price Target Cut to $22.00/Share From $35.50 by JP Morgan - moomoo.com",
+      "Price to book forward of Risen Energy Co., Ltd. Class A – SZSE:300118 - TradingView"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 11 則事件，焦點為大全新能源、天合光能、Array Technologies相關動態：「Trina Solar H1 Revenue Rises to 31.99 Billion Yuan, Losse...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "Trina Solar H1 Revenue Rises to 31.99 Billion Yuan, Losses Narrow Over 90% - ...（太陽能產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "Array surpasses 100GW of tracker deliveries as Q2 orders reach US$2.5 billion...（太陽能產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "多晶矽價格話題出現 1 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
