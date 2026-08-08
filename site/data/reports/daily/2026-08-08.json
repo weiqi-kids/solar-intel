@@ -1,0 +1,125 @@
+{
+  "date": "2026-08-08",
+  "generated_at": "2026-08-08T08:27:55.475062Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-08-08-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "In China, cheaper high-efficiency solar panels could ease clean energy project costs - Yahoo Finance",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOQTExRTgwSHY0VHA4SHlJWlpkeXp2UXZ0U1AzNmtES09HUTVWak9JVDFMVmV6MEJ2bGVNSlVLYl9XNEI5STFDN2JBQUVvZmktcDQ3M0ZnM0Q2bldUc1FNWU5CcTBmM2tYQVZVU2hueV9KWGxOLVk2am9HUGFkenJFeUpkalgtcW53aU9GNUVBNllQTUZaWUMw?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-08-08-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "The Road To Green Hydrogen Is Paved With Green Deuterium",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://cleantechnica.com/2026/08/07/green-hydrogen-us-renewable-energy-delaware-mid-atlantic/"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-08-08-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "U.S. Battery Storage Capacity Averaged 70% Growth Over The Last Three Years",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://cleantechnica.com/2026/08/07/u-s-battery-storage-capacity-averaged-70-growth-over-the-last-three-years/"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.17,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 3,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 2,
+      "negative": 0
+    },
+    "top_companies": [],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 3
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 466,
+    "dup_title": 226,
+    "too_old": 147,
+    "gate1_blocked": 40,
+    "gate2_blocked": 3,
+    "passed": 50,
+    "pass_rate": "20.8%",
+    "gate2_block_rate": "1.2%",
+    "gate2_samples": [
+      "DAQO New Energy (NYSE:DQ) Shares Gap Up - Should You Buy? - MarketBeat",
+      "Is the traditional PPA dying in Southern Africa?",
+      "New Anti-Energy Efficiency Bill Will Cost Consumers, Waste Energy"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 3 則事件，焦點為太陽能產業通用相關動態：「In China, cheaper high-efficiency solar panels could ease...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "In China, cheaper high-efficiency solar panels could ease clean energy projec...（太陽能產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "The Road To Green Hydrogen Is Paved With Green Deuterium（太陽能產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

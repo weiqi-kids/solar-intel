@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-07T08:46:07.739137Z",
+  "updated_at": "2026-08-08T08:27:50.893727Z",
   "quarter": "2025-12-31, 2026-03-31, 2026-06-30",
   "companies": [
     {
@@ -7,17 +7,17 @@
       "name": "Array Technologies",
       "ticker": "ARRY",
       "currency": "USD",
-      "ar": 292327000,
-      "ar_prev": 271578000,
-      "ar_qoq": "+8%",
+      "ar": 323439000,
+      "ar_prev": 292327000,
+      "ar_qoq": "+11%",
       "ar_period": "QoQ",
-      "inventory": 167973000,
-      "inv_prev": 150374000,
-      "inv_qoq": "+12%",
+      "inventory": 156469000,
+      "inv_prev": 167973000,
+      "inv_qoq": "-7%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
       "alert": false,
-      "quarter_date": "2026-03-31"
+      "quarter_date": "2026-06-30"
     },
     {
       "id": "canadian_solar",
@@ -194,17 +194,17 @@
       "name": "SolarEdge Technologies",
       "ticker": "SEDG",
       "currency": "USD",
-      "ar": 222704000,
-      "ar_prev": 267441000,
-      "ar_qoq": "-17%",
+      "ar": 211874000,
+      "ar_prev": 222704000,
+      "ar_qoq": "-5%",
       "ar_period": "QoQ",
-      "inventory": 596824000,
-      "inv_prev": 552632000,
-      "inv_qoq": "+8%",
+      "inventory": 599817000,
+      "inv_prev": 596824000,
+      "inv_qoq": "+1%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
       "alert": false,
-      "quarter_date": "2026-03-31"
+      "quarter_date": "2026-06-30"
     },
     {
       "id": "sungrow",
@@ -245,17 +245,17 @@
       "name": "天合光能",
       "ticker": "688599.SS",
       "currency": "CNY",
-      "ar": 13999527046,
-      "ar_prev": 12985688034,
-      "ar_qoq": "+8%",
+      "ar": 13587535304,
+      "ar_prev": 13999527046,
+      "ar_qoq": "-3%",
       "ar_period": "QoQ",
-      "inventory": 24254043558,
-      "inv_prev": 25257854455,
-      "inv_qoq": "-4%",
+      "inventory": 26070937105,
+      "inv_prev": 24254043558,
+      "inv_qoq": "+7%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
       "alert": false,
-      "quarter_date": "2026-03-31"
+      "quarter_date": "2026-06-30"
     },
     {
       "id": "xinyi_solar",
@@ -279,17 +279,17 @@
       "name": "元晶太陽能",
       "ticker": "6443.TW",
       "currency": "TWD",
-      "ar": 205600000,
-      "ar_prev": 204346000,
-      "ar_qoq": "+1%",
+      "ar": 133272000,
+      "ar_prev": 205600000,
+      "ar_qoq": "-35%",
       "ar_period": "QoQ",
-      "inventory": 374853000,
-      "inv_prev": 1036307000,
-      "inv_qoq": "-64%",
+      "inventory": 482167000,
+      "inv_prev": 374853000,
+      "inv_qoq": "+29%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
       "alert": true,
-      "quarter_date": "2025-12-31"
+      "quarter_date": "2026-03-31"
     }
   ]
 }
