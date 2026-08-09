@@ -1,0 +1,15 @@
+{
+  "total_raw": 466,
+  "dup_title": 252,
+  "no_date": 0,
+  "too_old": 149,
+  "gate1_fail": 41,
+  "gate2_fail": 4,
+  "passed": 20,
+  "gate2_samples": [
+    "DAQO New Energy (NYSE:DQ) Shares Gap Up - Should You Buy? - MarketBeat",
+    "Daqo New Energy Corp (DQ) Stock News Today - TradingKey",
+    "Is the traditional PPA dying in Southern Africa?",
+    "New Anti-Energy Efficiency Bill Will Cost Consumers, Waste Energy"
+  ]
+}

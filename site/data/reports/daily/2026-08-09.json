@@ -1,0 +1,126 @@
+{
+  "date": "2026-08-09",
+  "generated_at": "2026-08-09T08:30:27.478183Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-08-09-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "A Colorado farm added 3,276 solar panels, and heat-stressed crops now thrive in their shade - Yahoo",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQcjc2aExISElPWGV2OTI4RnpKTThFVFZiSzNEQjUtQjNaU3h3YkR4d3ZyUmNfZUtFUjBCeS1tZTZUbmR6SU1CRGtWMlV0RzZ6UHFMSi1rQ3ZDcHp0eGNlMzFTX0RvNTc2LVU3OWU2RjM1LVpJcDF1THZTTUlQV19qd2NYYnhJVXpFdWhlZw?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-08-09-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "The United States Taxes Polysilicon at 15% to Counter China - energynews.pro",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOV2FmeUFhT1ZLNF9Temx5eVh3ek95WnRCOWY1MVpJVW9nRGZ3WnVqaVFvN1NUeDFoLTk4eFFuSEJ5WHlmeDNOdFNGd0R2MDNLVHRac1NhckpvQWN4ZHFxVUhLVVRPNmUxVnYtMFJDcGxvX05UUEVSWnFPTjdkN2laNk44ZlFCUXdJdVJabg?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-08-09-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Power Systems Have More Flexibility Plans Than Flexible Grids",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://cleantechnica.com/2026/08/09/grid-flexibility-plans-outpacing-delivery/"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 3,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 3,
+      "negative": 0
+    },
+    "top_companies": [],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 3
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 466,
+    "dup_title": 252,
+    "too_old": 149,
+    "gate1_blocked": 41,
+    "gate2_blocked": 4,
+    "passed": 20,
+    "pass_rate": "9.3%",
+    "gate2_block_rate": "1.9%",
+    "gate2_samples": [
+      "DAQO New Energy (NYSE:DQ) Shares Gap Up - Should You Buy? - MarketBeat",
+      "Daqo New Energy Corp (DQ) Stock News Today - TradingKey",
+      "Is the traditional PPA dying in Southern Africa?",
+      "New Anti-Energy Efficiency Bill Will Cost Consumers, Waste Energy"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 3 則事件，焦點為太陽能產業通用相關動態：「A Colorado farm added 3,276 solar panels, and heat-stress...」。主要關注主題為太陽能產業通用，市場情緒中性。",
+    "signals": [
+      {
+        "text": "A Colorado farm added 3,276 solar panels, and heat-stressed crops now thrive ...（太陽能產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "The United States Taxes Polysilicon at 15% to Counter China - energynews.pro（太陽能產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

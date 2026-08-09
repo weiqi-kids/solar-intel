@@ -1,5 +1,59 @@
 [
   {
+    "id": "unknown-2026-08-09-001",
+    "date": "2026-08-09",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "A Colorado farm added 3,276 solar panels, and heat-stressed crops now thrive in their shade - Yahoo",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxQcjc2aExISElPWGV2OTI4RnpKTThFVFZiSzNEQjUtQjNaU3h3YkR4d3ZyUmNfZUtFUjBCeS1tZTZUbmR6SU1CRGtWMlV0RzZ6UHFMSi1rQ3ZDcHp0eGNlMzFTX0RvNTc2LVU3OWU2Rj",
+    "sources": [
+      {
+        "name": "google_news_solar",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQcjc2aExISElPWGV2OTI4RnpKTThFVFZiSzNEQjUtQjNaU3h3YkR4d3ZyUmNfZUtFUjBCeS1tZTZUbmR6SU1CRGtWMlV0RzZ6UHFMSi1rQ3ZDcHp0eGNlMzFTX0RvNTc2LVU3OWU2RjM1LVpJcDF1THZTTUlQV19qd2NYYnhJVXpFdWhlZw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-09-002",
+    "date": "2026-08-09",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "The United States Taxes Polysilicon at 15% to Counter China - energynews.pro",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxOV2FmeUFhT1ZLNF9Temx5eVh3ek95WnRCOWY1MVpJVW9nRGZ3WnVqaVFvN1NUeDFoLTk4eFFuSEJ5WHlmeDNOdFNGd0R2MDNLVHRac1NhckpvQWN4ZHFxVUhLVVRPNmUxVnYtMFJDcG",
+    "sources": [
+      {
+        "name": "google_news_solar",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOV2FmeUFhT1ZLNF9Temx5eVh3ek95WnRCOWY1MVpJVW9nRGZ3WnVqaVFvN1NUeDFoLTk4eFFuSEJ5WHlmeDNOdFNGd0R2MDNLVHRac1NhckpvQWN4ZHFxVUhLVVRPNmUxVnYtMFJDcGxvX05UUEVSWnFPTjdkN2laNk44ZlFCUXdJdVJabg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-09-003",
+    "date": "2026-08-09",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Power Systems Have More Flexibility Plans Than Flexible Grids",
+    "summary": "<p>Grid flexibility is easy to mistake for a technology market. One jurisdiction announces several gigawatt-hours of batteries, another creates a new ancillary-service product, and a third launches a ",
+    "sources": [
+      {
+        "name": "cleantechnica",
+        "url": "https://cleantechnica.com/2026/08/09/grid-flexibility-plans-outpacing-delivery/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "unknown-2026-08-08-001",
     "date": "2026-08-08",
     "companies": [],
@@ -49,6 +103,157 @@
       {
         "name": "cleantechnica",
         "url": "https://cleantechnica.com/2026/08/07/u-s-battery-storage-capacity-averaged-70-growth-over-the-last-three-years/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "enphase-2026-08-08-004",
+    "date": "2026-08-08",
+    "companies": [
+      "enphase"
+    ],
+    "topics": [
+      "trade_tariff",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Enphase Stock Faces A New US Tariff Test In Polysilicon - Sahm",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxOdXcydldzZl9jdVFVZDZuSGhCYVdfbVV2Z2JIbDBMYWFReXZ4ZDc5MnJTcGtjOG9MdUVPQVpXVVdsaVNrVFFnZkxTdzJvcmtoTVdINEtpSEhPVkhDSW10Ny1yOVNIRXd1Ul83WERuSl",
+    "sources": [
+      {
+        "name": "gcl",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOdXcydldzZl9jdVFVZDZuSGhCYVdfbVV2Z2JIbDBMYWFReXZ4ZDc5MnJTcGtjOG9MdUVPQVpXVVdsaVNrVFFnZkxTdzJvcmtoTVdINEtpSEhPVkhDSW10Ny1yOVNIRXd1Ul83WERuSld4Q3l1SDFQZkoybnZOZkhVaFFRVDdrUnRxTWNOVWxCSnVXWjJ2alpwLTVsbnJYT2h2M1R0cmgyME9pYjg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ja_solar-2026-08-08-005",
+    "date": "2026-08-08",
+    "companies": [
+      "ja_solar"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Overview Of JA Solar With BayWa R E Chris Pratt (wv30mLM6iq) - Mshale",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE1ZNGV6ZlhmTnNNbFVtT1JuRzVDeGxXbE9weEFGU0pyZTc2N1A2bURjV0dTc21ET1ZDUFNUcmEtX2gteW4wcVlobG5wNHA2c2p5MUkyZlNOT3draEU?oc=5\" target=\"_blank\">Over",
+    "sources": [
+      {
+        "name": "ja_solar",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1ZNGV6ZlhmTnNNbFVtT1JuRzVDeGxXbE9weEFGU0pyZTc2N1A2bURjV0dTc21ET1ZDUFNUcmEtX2gteW4wcVlobG5wNHA2c2p5MUkyZlNOT3draEU?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "array-2026-08-08-006",
+    "date": "2026-08-08",
+    "companies": [
+      "array"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "ARRAY Technologies reports Q2 2026 financial results - Solarbytes",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxQQnhQTngzQ2U3Ym1VcllHT0R1TkpDWjREdFloajlZMzJnSXBRRm5MVXBoM25PdlAwZDdZVHoyWDNjQ19RN2ltaW5mem5zcERoMmlKQTFxbnowVjAySWJ2RzJzY2hPVjVvOHJrV1BDTD",
+    "sources": [
+      {
+        "name": "array",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQQnhQTngzQ2U3Ym1VcllHT0R1TkpDWjREdFloajlZMzJnSXBRRm5MVXBoM25PdlAwZDdZVHoyWDNjQ19RN2ltaW5mem5zcERoMmlKQTFxbnowVjAySWJ2RzJzY2hPVjVvOHJrV1BDTDJMU3p6NG5SeGFXX2xiVnRhZE81NW1kMENLc1NpeTFHbmZrQllrWkg4WUZmYVVOMnpwcldmaGQtS1JpSE1TSUE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-08-007",
+    "date": "2026-08-08",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "The space nobody used for solar was hiding between the rails: a Swiss startup has now claimed it - OkDiario",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxNQzhDOWFtT3hBSEo1eDVkT0ZESEkxdHFtRW1xZDAzbUlwQ3RBLWVVbjFXS0ZhMUdmWFlKM3l2cUpUVk1KaFJUb0xlY3lxVFlLX0RvU2JveFY2UU0zNmxOVnFmRDFxUy1iQUs1NzBsaz",
+    "sources": [
+      {
+        "name": "google_news_solar",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNQzhDOWFtT3hBSEo1eDVkT0ZESEkxdHFtRW1xZDAzbUlwQ3RBLWVVbjFXS0ZhMUdmWFlKM3l2cUpUVk1KaFJUb0xlY3lxVFlLX0RvU2JveFY2UU0zNmxOVnFmRDFxUy1iQUs1NzBsazZMSmpSQWNqYVhwbk1KaTVxVElzdFRINktNck1mcjFjM0FOZlphWnE4R2NTczhpQXhhVWpBajZWcjNrRFlNbmFhY1NTM1dtWWpYYTFQTVZZLXhNSDJOb3ZacFBFUQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-08-008",
+    "date": "2026-08-08",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Top Efficiency Features: Trending 100W Foldable Solar Panel For Camping Enhancing Outdoor Adventures - The National Law Review",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxQQmdJV1c1Z2REUWd2M0tQSFpsQUVodjlBNjBLWEZxQ2JnRndtMzBkeUp1RGh1a2tiM1BhNUNRVDd3X0VTTGV4aURXZm83WkVuQ3RiSXc4UXR4UzEwX1FCV05pbGJrYWVNTDdHV0F4LW",
+    "sources": [
+      {
+        "name": "google_news_solar",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQQmdJV1c1Z2REUWd2M0tQSFpsQUVodjlBNjBLWEZxQ2JnRndtMzBkeUp1RGh1a2tiM1BhNUNRVDd3X0VTTGV4aURXZm83WkVuQ3RiSXc4UXR4UzEwX1FCV05pbGJrYWVNTDdHV0F4LWliUjdMWFI5LWoxM0NudmZMM0dSNXludTE2bFdPczl0b0tkdXI5WHcwSmxicGN4c1BzWU5YRl92TU1lSkotNzlIUTZHdk9ZMUE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-08-009",
+    "date": "2026-08-08",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Is Buying A Reliable Portable Solar Panel For RV / Van Life The Ultimate Off-Grid Upgrade? - EIN Presswire",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxNeWdOaFZmMWNsUTBMd2lyUEZQTFFxN0xJeVFLVzY1WVZ5eEc2dGFNTWo1OVJTOVZ0MWhBcEJyZUJlRElrdVp3MlVKN2ROSjhhc3B5ek0zejRsTVBNaHdtZWFtaDRlbWg0V3U2d2Ffcn",
+    "sources": [
+      {
+        "name": "google_news_solar",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNeWdOaFZmMWNsUTBMd2lyUEZQTFFxN0xJeVFLVzY1WVZ5eEc2dGFNTWo1OVJTOVZ0MWhBcEJyZUJlRElrdVp3MlVKN2ROSjhhc3B5ek0zejRsTVBNaHdtZWFtaDRlbWg0V3U2d2FfcnF2WmFZM29OREZFekdFTjkxSER0OE1iRGpSdDEwVllSQjJEaHVxdHNyY25XeEJyamJzVkw3UlRGWW00eWNvVlh4NU11OThfYTNwQ1FSX3ppUjhJcERfeFk3Wm9WSlVGRWs?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-08-010",
+    "date": "2026-08-08",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Meet the Solar Garden Upgrades Turning Ordinary Yards Into Smarter, More Efficient Spaces - Yahoo",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxNdTh4ZFVDVkoxdkktTzhqQmxhcEljSjl1cXlSQ3gwYjhyZ0FnUDVxLVZGcHhQODBnN2hJR1FycDlFQUNRZVA1cXNJUlBTcnFZZVdTVDNxRXBGcVFXR2ExMVplSHBKckVoUHRpOUx3V2",
+    "sources": [
+      {
+        "name": "google_news_solar",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNdTh4ZFVDVkoxdkktTzhqQmxhcEljSjl1cXlSQ3gwYjhyZ0FnUDVxLVZGcHhQODBnN2hJR1FycDlFQUNRZVA1cXNJUlBTcnFZZVdTVDNxRXBGcVFXR2ExMVplSHBKckVoUHRpOUx3V2x0dEQ3OHFoVlBTWk5pYjloU1ZKTHY0dW95eWZlTnFadXA5S3RQR25SUGN0d2RYSDNtRHpQYnJPOHM?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-08-011",
+    "date": "2026-08-08",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "World’s Largest 12.8 GWh Battery Storage Cluster Activated in China",
+    "summary": "<p>CLEAN energy technology developer Envision Group just completed the final stages of the incorporation of an artificial intelligence (AI) management system into the 12.8-gigawatt-hour battery storag",
+    "sources": [
+      {
+        "name": "cleantechnica",
+        "url": "https://cleantechnica.com/2026/08/08/worlds-largest-12-8-gwh-battery-storage-cluster-activated-in-china/",
         "type": "rss"
       }
     ]
@@ -792,6 +997,26 @@
       {
         "name": "cleantechnica",
         "url": "https://cleantechnica.com/2026/08/07/u-s-solar-and-storage-industry-statement-on-new-sec-232-tariffs-on-solar/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "trina-2026-08-07-041",
+    "date": "2026-08-07",
+    "companies": [
+      "trina"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "Trina Solar Narrows H1 Loss, Revenue Up 3% - marketscreener.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxPTHFOUXR0NTY2RTU5Z24yQm5mMDBFbWROZUhBQndaYkw0NzZfbWI3Mkt6RG1ZdG4yOUZYbEJyc3hGYmwxaFVQdXhSTkZETWtYY3ZQRTVSaW1ZczNlc0FjMFZVVkJWTzVHREtlYlpiOW",
+    "sources": [
+      {
+        "name": "trina",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPTHFOUXR0NTY2RTU5Z24yQm5mMDBFbWROZUhBQndaYkw0NzZfbWI3Mkt6RG1ZdG4yOUZYbEJyc3hGYmwxaFVQdXhSTkZETWtYY3ZQRTVSaW1ZczNlc0FjMFZVVkJWTzVHREtlYlpiOWJLd2IxZkRWUE5OSnIxbDJUMXFCVm5Qa2R5QzFZNmJDRjVEXy1OQ29QdQ?oc=5",
         "type": "rss"
       }
     ]
@@ -2194,6 +2419,119 @@
     ]
   },
   {
+    "id": "daqo-2026-08-06-075",
+    "date": "2026-08-06",
+    "companies": [
+      "daqo"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Daqo New Energy to Announce Unaudited Financial Results for the Second Quarter of 2026 on August 20, 2026 - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxOemJBM2VHck5LcTVRN2gzZ0dMaTZ2M2Y5UkVGdnMyRWxMZlF6dllCcVZxa1I4akV4a010SnIyYXR6MlBTVGg2b3NCRG56N2VRVm5WQXp2QUVLZGYweDhhbU82ZXpsVUJGR3FpbHV0Vk",
+    "sources": [
+      {
+        "name": "daqo",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOemJBM2VHck5LcTVRN2gzZ0dMaTZ2M2Y5UkVGdnMyRWxMZlF6dllCcVZxa1I4akV4a010SnIyYXR6MlBTVGg2b3NCRG56N2VRVm5WQXp2QUVLZGYweDhhbU82ZXpsVUJGR3FpbHV0VkdzMUpYcWtVWExha0lELVh2aFlBSXVTNzIyZTRCdVNMSFZibEQ3Ums3MFRLUGxvUQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "array-2026-08-06-076",
+    "date": "2026-08-06",
+    "companies": [
+      "array"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Array Technologies, Inc. Stock 12‑Month Price Target Cut to $9.3, Implies 65% Upside - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxQdHVfZVVPd1h2YWQ1SVZCTm1GeHZlMUtmY1Zya1hYejJVajNvaTRoWi1qeXVjOWFIbVJxUF9NeF9iSWlYUEZOVmZoVVVqT01qcURMdXRQTlk2cmhZYk1US0htRFlsS3pYUFpsSVZDcG",
+    "sources": [
+      {
+        "name": "array",
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQdHVfZVVPd1h2YWQ1SVZCTm1GeHZlMUtmY1Zya1hYejJVajNvaTRoWi1qeXVjOWFIbVJxUF9NeF9iSWlYUEZOVmZoVVVqT01qcURMdXRQTlk2cmhZYk1US0htRFlsS3pYUFpsSVZDcGxOdk4wWmNSVXg4MTNHWEFtZzRXZjhxMFB3dzdrRjA3N0NubzI5TzQ4enBBcHBGR0pVMTBuMXBtbHZNbUVCUUZDWkFlYXNpV1dDeldOUXBLaXFwakh6ZnJremJqSjAtcG5YZDhVMTgycEI?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "array-2026-08-06-077",
+    "date": "2026-08-06",
+    "companies": [
+      "array"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Wolfe Research lowers Array Technologies stock price target on solar tracker outlook - Investing.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxOWjZPY2IwbmNKbWZRdkpCUTdZMktyWnBhRU05OXlZQ19yeVBuQjIwMWt4SVNqcnFuTG9QNVFORUNSYmxlaGdQaGUwbzlRcDd4eC1NRllqd0U3aVlHdWhmckstWDkzMm5tbWZfX09STE",
+    "sources": [
+      {
+        "name": "array",
+        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOWjZPY2IwbmNKbWZRdkpCUTdZMktyWnBhRU05OXlZQ19yeVBuQjIwMWt4SVNqcnFuTG9QNVFORUNSYmxlaGdQaGUwbzlRcDd4eC1NRllqd0U3aVlHdWhmckstWDkzMm5tbWZfX09STExPZHF2WXh2alZLR1JBQ2xNMGVfd1hLbUprbXFRTF9OZkM2SVpTeGI3MXlvbGV5ME9fYzhSSnNUcllTNWMxdXdSTmZ2N1RVdmwtd25uUUdZbU4ycWNkdHBleGkzSC1rVHpCZ2o5UXhtcXllRWJM?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-06-078",
+    "date": "2026-08-06",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Nextpower Inc. (NXT) stock price, news, quote and history - au.finance.yahoo.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiUEFVX3lxTFAwUnZHTGc2MW03b003SEFmTkduczI0b3YzU1p4OFdQRU1YYTcxcGNJUUh2X1M2OVAtRHpZZXd3ejVxMjdHdExPa3REdkR2Q0FO?oc=5\" target=\"_blank\">Nextpower Inc. (NXT",
+    "sources": [
+      {
+        "name": "nextracker",
+        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFAwUnZHTGc2MW03b003SEFmTkduczI0b3YzU1p4OFdQRU1YYTcxcGNJUUh2X1M2OVAtRHpZZXd3ejVxMjdHdExPa3REdkR2Q0FO?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-06-079",
+    "date": "2026-08-06",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Virginia farmers are grazing 1,500 sheep beneath solar panels and growing their herds at a pace that is quietly rewriting the future of American farmland - Energies Media",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE9LUU9LUmRJblhSNHZPN3VUQXJHVU50UjVIaVJrRXZRVzhrdnYwTjU3cXkxN2RLVTdEN2R4VFVlYWlITFdVQnI0VE8yaVZ3UGV1a1FoUlNuSGVndjEyU2VMaVVIT19pZ25LUXYySzkwME",
+    "sources": [
+      {
+        "name": "google_news_solar",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9LUU9LUmRJblhSNHZPN3VUQXJHVU50UjVIaVJrRXZRVzhrdnYwTjU3cXkxN2RLVTdEN2R4VFVlYWlITFdVQnI0VE8yaVZ3UGV1a1FoUlNuSGVndjEyU2VMaVVIT19pZ25LUXYySzkwMEF6MlNqcFZTMQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-06-080",
+    "date": "2026-08-06",
+    "companies": [],
+    "topics": [
+      "trade_tariff",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Trump is planning a 15% tariff and price floors on solar panel materials to counter China - qz.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTFBUdkxadThOcEJDZW9tb1lvai1LdzMwZFN2elhRYXhPTHBCLUUzVzFKcjk2Y1RRRDdCWDhiUzJsSmE4QUpIcFdMM2t5Z1BkMUFNTEE1a3RxRmx2QVNlcmFVSFItdkh5YjJ5VWVWX0IzN1",
+    "sources": [
+      {
+        "name": "google_news_solar_trade",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBUdkxadThOcEJDZW9tb1lvai1LdzMwZFN2elhRYXhPTHBCLUUzVzFKcjk2Y1RRRDdCWDhiUzJsSmE4QUpIcFdMM2t5Z1BkMUFNTEE1a3RxRmx2QVNlcmFVSFItdkh5YjJ5VWVWX0IzN194d1g4N3IyaXlZNmI?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "trina-2026-08-05-001",
     "date": "2026-08-05",
     "companies": [
@@ -3301,6 +3639,44 @@
       {
         "name": "daqo",
         "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNTnJFRDdkM1ZzVGVpdGtJLUlLTGdNVThEc1MxS2VjQ2w3VkEzMnM1UE4zbDA0bFJ6QWpXNHBFM1pmWUhzNEVZV2JmSWRJRWdNeHVpUDlsa3BvX2NGNDZmTDJuYThVbFBvM25FZ1lPanhsY3NVVTBXdHBMSVNqQUtZRzNSUW1icmRVb3ZncWRkMFFxdzdnS1VhUDJRT015dzQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "array-2026-08-05-060",
+    "date": "2026-08-05",
+    "companies": [
+      "array"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Array Technologies, Inc. 2026: Revenue $342.07M, EPS $0.05— 10-Q Summary - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxQN2NKM1huRXlwTllXYUdXdUFtTzFLOFYxd0xZN1JvRm52QTk2UmM5bGI0RlJRazNlek1veVNVektDeWoySEVjTVhfcDM0ampJMVgtNW1PRTdReGZwc205Z1VxVXRZLUpLdkNJTVNuRE",
+    "sources": [
+      {
+        "name": "array",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQN2NKM1huRXlwTllXYUdXdUFtTzFLOFYxd0xZN1JvRm52QTk2UmM5bGI0RlJRazNlek1veVNVektDeWoySEVjTVhfcDM0ampJMVgtNW1PRTdReGZwc205Z1VxVXRZLUpLdkNJTVNuRE5OS2tRWVF1elRsRklCNTJwYTJnM3pIV0Vfc2JZRkc0WG5nM2xwZnlXeFJmZTd2cU1UWXVWM0F2ODBOZkpaOEUwSkduaU9XLURUVnk2OVo4ZnI2ZjBYMlE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "array-2026-08-05-061",
+    "date": "2026-08-05",
+    "companies": [
+      "array"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Array Technologies Q2 revenue and profit fall, orderbook hits record - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxNM2M5eUp2Y0wwb3RnQjhrY01tMVhvUWpuNDYyNWQ0b0Zkbk5xWHZXdFJGeHZ4SUxJRVNmeGZzRlBIbXJrME1nYXN2ZEFnLVV3bVdfNjQxWGRNZkhIT2xmVDhnWGwtUFRoNEhuQnNBTk",
+    "sources": [
+      {
+        "name": "array",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNM2M5eUp2Y0wwb3RnQjhrY01tMVhvUWpuNDYyNWQ0b0Zkbk5xWHZXdFJGeHZ4SUxJRVNmeGZzRlBIbXJrME1nYXN2ZEFnLVV3bVdfNjQxWGRNZkhIT2xmVDhnWGwtUFRoNEhuQnNBTk5uN2k3cHh5X3I5cFJtOTNIQ1VZTWVuMWRXM3lsUmVRYVVsYnd6QXNrd1RTbjF3SnJheWVHNWV6N01BOHFzWldRWGRVcUk4VVoyUy01bnBvaENNRzNGd2NuYzEwU2pWYzlLcHQ0?oc=5",
         "type": "rss"
       }
     ]
