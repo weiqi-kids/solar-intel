@@ -1,0 +1,16 @@
+{
+  "total_raw": 466,
+  "dup_title": 236,
+  "no_date": 0,
+  "too_old": 153,
+  "gate1_fail": 44,
+  "gate2_fail": 5,
+  "passed": 28,
+  "gate2_samples": [
+    "DAQO New Energy Corp. (NYSE:DQ) Receives Average Recommendation of \"Hold\" from Brokerages - MarketBe",
+    "DAQO New Energy (NYSE:DQ) Shares Gap Up - Should You Buy? - MarketBeat",
+    "Array Technologies, Inc. (9AY.F) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+    "Samsung, Oak Ridge National Laboratory testing cold climate vapor compression heat pump tech",
+    "Is the traditional PPA dying in Southern Africa?"
+  ]
+}

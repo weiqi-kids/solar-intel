@@ -1,5 +1,193 @@
 [
   {
+    "id": "trina-2026-08-10-001",
+    "date": "2026-08-10",
+    "companies": [
+      "trina"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "Trina Remained Under Pressure from Industry Oversupply - Morningstar",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxPOHMzbXlrSWJXZm82QkFEZ0lIdlNhbWpkWXgxUnRrclgxTUd2LV8yNldfMWwzM2VGTkY3bW5UUTBNQ0p5cDBsT1o0aTM1aUtpeDI5cGJRUUhnU1l0eERXdXROcmdhTVlfZVh5RlVFdH",
+    "sources": [
+      {
+        "name": "trina",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPOHMzbXlrSWJXZm82QkFEZ0lIdlNhbWpkWXgxUnRrclgxTUd2LV8yNldfMWwzM2VGTkY3bW5UUTBNQ0p5cDBsT1o0aTM1aUtpeDI5cGJRUUhnU1l0eERXdXROcmdhTVlfZVh5RlVFdHBZUjhsQ2lFX3ZqdXg2ZnNCMm5MUkdJMlc2cXZnRjdtU09tR2FHeTgxdzFJaXR3UmZCWnJIelpkY1Z3Zw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "jinko-2026-08-10-002",
+    "date": "2026-08-10",
+    "companies": [
+      "jinko"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "JinkoSolar Unveils the “Sunny 365” Smart Solar-Storage System: An Integrated Solar-Storage AIDC Model - SolarQuarter",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxNUnNCaTVaVTBveGFwUzlGY1JUd0xuMnFURzFGa012RzJBajcxRTIydWdtcXVVS1FlVFZEMi11aTljU1BIVkctdDF3VGJCXzI5YWUxeW95N3BkZWVBSEpORmgzbE15Zkc1bFVuRXRUaV",
+    "sources": [
+      {
+        "name": "jinko",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNUnNCaTVaVTBveGFwUzlGY1JUd0xuMnFURzFGa012RzJBajcxRTIydWdtcXVVS1FlVFZEMi11aTljU1BIVkctdDF3VGJCXzI5YWUxeW95N3BkZWVBSEpORmgzbE15Zkc1bFVuRXRUaVF1cEtCRW45cVdjVElaakoxS0o4UXllWjRlN0xubVJwZXlLdG1BeExudERHRUFaQ0h5blgzcVdXM1I2SDZ5XzMzN3RadTlXSUYxVkFDVUM4bmRXOVJUaU9DY1laMlNBTzRs?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-10-003",
+    "date": "2026-08-10",
+    "companies": [],
+    "topics": [
+      "grid_parity",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Zinc oxide UV shield cuts heterojunction solar cell degradation and boosts lifetime output by 4.8%",
+    "summary": "<p>Researchers in China have demonstrated that zinc oxide (ZnO) thin films can act as a 'sunscreen' for heterojunction solar cells, reducing UV-induced degradation while maintaining high visible-light",
+    "sources": [
+      {
+        "name": "pv_magazine",
+        "url": "https://www.pv-magazine.com/2026/08/10/zinc-oxide-uv-shield-cuts-heterojunction-solar-cell-degradation-and-boosts-lifetime-output-by-4-8/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-10-004",
+    "date": "2026-08-10",
+    "companies": [],
+    "topics": [
+      "installation_demand",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "South Korea selects first villages for community solar scheme",
+    "summary": "<p>The Sunshine Income Villages scheme plans to deploy solar installations across South Korea under a resident-led renewable energy profit-sharing model.</p>\n<p>The post <a href=\"https://www.pv-magazi",
+    "sources": [
+      {
+        "name": "pv_magazine",
+        "url": "https://www.pv-magazine.com/2026/08/10/south-korea-selects-first-villages-for-community-solar-scheme/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-10-005",
+    "date": "2026-08-10",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "European transmission system operators prepare for solar eclipse",
+    "summary": "<p>European transmission system operators are preparing for the August 12 solar eclipse, which is expected to temporarily reduce photovoltaic generation but pose no threat to electricity supply. Frenc",
+    "sources": [
+      {
+        "name": "pv_magazine",
+        "url": "https://www.pv-magazine.com/2026/08/10/european-transmission-system-operators-prepare-for-solar-eclipse/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-10-006",
+    "date": "2026-08-10",
+    "companies": [],
+    "topics": [
+      "installation_demand",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "France expands renewable curtailment mechanism amid negative prices, lowers threshold to 1 MW",
+    "summary": "<p>France will expand its renewable curtailment mechanism to more solar and wind installations, lowering the capacity threshold from 10 MW to 1 MW in two stages from December 2026. The rules target pe",
+    "sources": [
+      {
+        "name": "pv_magazine",
+        "url": "https://www.pv-magazine.com/2026/08/10/france-expands-renewable-curtailment-mechanism-amid-negative-prices-lowers-threshold-to-1-mw/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-10-007",
+    "date": "2026-08-10",
+    "companies": [],
+    "topics": [
+      "trade_tariff",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "India’s round-the-clock renewables tender attracts lowest bid of $0.055/kWh",
+    "summary": "<p>The Solar Energy Corp. of India (SECI) has discovered a lowest tariff of INR 5.25/kWh in its tender to procure 1 GW of firm and dispatchable renewable energy (FDRE) on a round-the-clock (RTC) basis",
+    "sources": [
+      {
+        "name": "pv_magazine",
+        "url": "https://www.pv-magazine.com/2026/08/10/secis-1-gw-fdre-rtc-power-tender-discovers-inr-5-25-kwh-tariff/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-10-008",
+    "date": "2026-08-10",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "PV Progress across Latin America",
+    "summary": "<p>InfoLink’s Jenny Lin shares the latest analysis on the key markets accounting for nearly 80% of Latin America’s total PV capacity as solar continues to grow its share of regional electricity genera",
+    "sources": [
+      {
+        "name": "pv_magazine",
+        "url": "https://www.pv-magazine.com/2026/08/10/pv-progress-across-latin-america/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-10-009",
+    "date": "2026-08-10",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "A half-mile solar strip floats above an irrigation canal in Gujarat, generating 1.6 million kilowatt-hour - The Times of India",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4gJBVV95cUxOME5yV2FHWnFwWlpDeHVVNHY5S21CVlpsY2Q3TTZJRDRocHpUZVRpdk5SNGVZZ2pOOTEtMWdwVlAyMk85MDB3QlVSVUQ4b3JOdmFLTTVqMmpjQ05rNkVWaFFTdzZlbUpTYzMzMUFhMW",
+    "sources": [
+      {
+        "name": "google_news_solar",
+        "url": "https://news.google.com/rss/articles/CBMi4gJBVV95cUxOME5yV2FHWnFwWlpDeHVVNHY5S21CVlpsY2Q3TTZJRDRocHpUZVRpdk5SNGVZZ2pOOTEtMWdwVlAyMk85MDB3QlVSVUQ4b3JOdmFLTTVqMmpjQ05rNkVWaFFTdzZlbUpTYzMzMUFhMWVpM0dUcHBZU2xJb252UG81eUZvZlRHVnJINkF2OGlMT3NuSTluRWU2VnBXMzNCSmI3TWcyUWdZVDUwTGpid2dUaExIYmtnZlFkTjh5N1d0NWFxSnE5cFlTNnpPeTZuaW5vUW5QUlVaWTRDSFVzNWQyTldtZWlsV1Y4RlJjUFNCZ3R1Tm02V2JJSWpDTzVMRWhub3hKMW9BeGhIVGZ5WkdLaGdnMk9RYUpmZnBQcWhXZ3I0ZEhTU21IQVV5SzQtNHNGTU9pb0N4bWpPMDhHa1U0aXRuMjdqbFN1R0NvS0cyYlQ5VXU2X3R5bnhURUMycUdKZmfSAecCQVVfeXFMUFczMEFYX0FHYW1xVS1QNjM2YmN0NGdpUDJEM0tQeHBzVjhMN1NqcUlCaEFQTXNDUWV6bGFjQlExbHRMbHdsc0Vhc1k4MGt0ejU3OVFQdm9xMmZPMVhwTExaMnRvNk9xLS1KMFBZQW4tYkhxVHZ4NGVsWS1aUGdBWldlZzlQdlFWUUlyU19GbmhQbWthQ1k1QnVhVnB4NmVqZDhobF84WktXbzJITlpfRkd5TkdQQ3BFb016VVVWVWp1MDRmOEJuVW5JRktDOElvYzVaalJ6VWxCelJfN2ZOVlNVQkFBUUpleUtVYll2UFo0UUc1cE9KejJiWGczYzJIOUpoUTJDVmdOdGdBRDdpZ3N6VmVUREdYREpuaTVMU2FVQkpWNVpLVlJLSmFweHB2cGF4WEs2S2tlSjQ5WXZVb1FoX1ZHREY3ODZnNnZhWTBFWUQ5WUxHb21TREY1ZThPUV8taTh1d3M?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-10-010",
+    "date": "2026-08-10",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Serentica Renewables commissions first phase of 1GWh BESS for round-the-clock renewable energy delivery in Rajasthan, India",
+    "summary": "Serentica Renewables has commissioned the first phase of a battery storage project that will help deliver round-the-clock (RTC) renewable energy in Rajasthan, India.",
+    "sources": [
+      {
+        "name": "energy_storage_news",
+        "url": "https://www.energy-storage.news/serentica-renewables-commissions-first-phase-of-1gwh-bess-for-round-the-clock-renewable-energy-delivery-in-rajasthan-india/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "unknown-2026-08-09-001",
     "date": "2026-08-09",
     "companies": [],
@@ -49,6 +237,81 @@
       {
         "name": "cleantechnica",
         "url": "https://cleantechnica.com/2026/08/09/grid-flexibility-plans-outpacing-delivery/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "daqo-2026-08-09-004",
+    "date": "2026-08-09",
+    "companies": [
+      "daqo"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Renaissance Technologies LLC Buys New Shares in DAQO New Energy Corp. $DQ - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxQcTVEZ0VSZmdZSVJuSVpJYnI5RWNadm5iZV8zLW5wemEzRmt4Q2NMWGR3Slg1cEk3VFhOVmNEbXpYSF8zSWZFWDFtMnhISmRuMEpFOWx4Z2NqOUxjNUs1STQ4WFVlc1NpUHhUcjhLOE",
+    "sources": [
+      {
+        "name": "daqo",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQcTVEZ0VSZmdZSVJuSVpJYnI5RWNadm5iZV8zLW5wemEzRmt4Q2NMWGR3Slg1cEk3VFhOVmNEbXpYSF8zSWZFWDFtMnhISmRuMEpFOWx4Z2NqOUxjNUs1STQ4WFVlc1NpUHhUcjhLOEJsanVGNmFyU0RoTi1tSFUxd3RYZU9vTlN5WjVnN2picHI5UnVpc2pvTWdvNkpwb0h3a3Z4TVlQeWFZVEozU213WndtSFNjQVJ6ZER0UXRzdS1NdDRZRkVYYTI1SmQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-09-005",
+    "date": "2026-08-09",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Rural America is being told solar panels are devouring farmland, but solar occupies just 0.07% of all U.S. farmland - Energies Media",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTFBXWEdmU095ek5XR214bTk1TmZSdzk4R1pqMnlxbXJRa3g1ZjVIZ2M4SHUyWXkzZG5QSVdhSmRnUXk4dnowRWxMT1dJcW80QzNBMWpLVU5wYXJXTjNnUE44cE5wODNwN2d6NXF6UUtabm",
+    "sources": [
+      {
+        "name": "google_news_solar",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBXWEdmU095ek5XR214bTk1TmZSdzk4R1pqMnlxbXJRa3g1ZjVIZ2M4SHUyWXkzZG5QSVdhSmRnUXk4dnowRWxMT1dJcW80QzNBMWpLVU5wYXJXTjNnUE44cE5wODNwN2d6NXF6UUtabmtVaXV3WDlYTGJn?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-09-006",
+    "date": "2026-08-09",
+    "companies": [],
+    "topics": [
+      "trade_tariff",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "How the US Is Trying to End Solar Tariff Whack-a-Mole - Bloomberg.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTFBzdDBsM3U0QU43b0kyUUNLWlI5bEhmbzBzM1VpSURQaFZtRjVOOE16M0dCTm5ueWMxcFFZX1N6VEZiNE5OQnNfNXBpeXEyYXZVUGdxekRJMWtqTTRHYXUydG9rZlJhVld3YVVIQw?oc=",
+    "sources": [
+      {
+        "name": "google_news_solar",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBzdDBsM3U0QU43b0kyUUNLWlI5bEhmbzBzM1VpSURQaFZtRjVOOE16M0dCTm5ueWMxcFFZX1N6VEZiNE5OQnNfNXBpeXEyYXZVUGdxekRJMWtqTTRHYXUydG9rZlJhVld3YVVIQw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-09-007",
+    "date": "2026-08-09",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Sold as clean for 25 years, more than a third of America's solar fields now carry an aging semiconductor layer, and the small creature living downstream never had a seat at the table - Energies Media",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE4za3RKaW9jeXRXcTI5MnYyNUItcXQwMm5reDltclMxZm5vYTFmNnYtV1JfQmZqaTJIYWM4dXhpSllDZEtHUG1WcHRNLV9ZNGdHQ1dlQ1g4aUpnX1NkeXFtUVI2bTFORUpV?oc=5\" tar",
+    "sources": [
+      {
+        "name": "google_news_solar",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE4za3RKaW9jeXRXcTI5MnYyNUItcXQwMm5reDltclMxZm5vYTFmNnYtV1JfQmZqaTJIYWM4dXhpSllDZEtHUG1WcHRNLV9ZNGdHQ1dlQ1g4aUpnX1NkeXFtUVI2bTFORUpV?oc=5",
         "type": "rss"
       }
     ]
@@ -254,6 +517,26 @@
       {
         "name": "cleantechnica",
         "url": "https://cleantechnica.com/2026/08/08/worlds-largest-12-8-gwh-battery-storage-cluster-activated-in-china/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "daqo-2026-08-08-012",
+    "date": "2026-08-08",
+    "companies": [
+      "daqo"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Daqo New Energy Corp Sponsored ADR Revenue Breakdown – GETTEX:5DQ2 - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTFAtSG44OHlHbWhBWEpXQkg4MjM2T3llbFIxMjlTSFhpSnpfWDdDcVZzMlJzM2ltNXB6NDhpajFyeER6cHVjUUlUV3J0WENYWnh1NXpVZm1TVkwzSFhlUVlPUEQ4QUE4Ulk4MjZtTzRpcD",
+    "sources": [
+      {
+        "name": "daqo",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFAtSG44OHlHbWhBWEpXQkg4MjM2T3llbFIxMjlTSFhpSnpfWDdDcVZzMlJzM2ltNXB6NDhpajFyeER6cHVjUUlUV3J0WENYWnh1NXpVZm1TVkwzSFhlUVlPUEQ4QUE4Ulk4MjZtTzRpcDBmZ0IxQzZB?oc=5",
         "type": "rss"
       }
     ]
@@ -1017,6 +1300,124 @@
       {
         "name": "trina",
         "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPTHFOUXR0NTY2RTU5Z24yQm5mMDBFbWROZUhBQndaYkw0NzZfbWI3Mkt6RG1ZdG4yOUZYbEJyc3hGYmwxaFVQdXhSTkZETWtYY3ZQRTVSaW1ZczNlc0FjMFZVVkJWTzVHREtlYlpiOWJLd2IxZkRWUE5OSnIxbDJUMXFCVm5Qa2R5QzFZNmJDRjVEXy1OQ29QdQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "trina-2026-08-07-042",
+    "date": "2026-08-07",
+    "companies": [
+      "trina"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "Trina Solar Narrows H1 Loss, Revenue Up 3% - moomoo.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxORDg5MEJULXpNbjZGS01sdzJJRVd4aXg4cFZFOTJ2RzdQampaajFuMzkybnU4cWlUMWNPYnkybEZUakxEUTJxOU8yUmtydXJSeUZmVzJlVzh5dno5RkVMN2QtaVlHcHJxSy1MV2dxMk",
+    "sources": [
+      {
+        "name": "trina",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxORDg5MEJULXpNbjZGS01sdzJJRVd4aXg4cFZFOTJ2RzdQampaajFuMzkybnU4cWlUMWNPYnkybEZUakxEUTJxOU8yUmtydXJSeUZmVzJlVzh5dno5RkVMN2QtaVlHcHJxSy1MV2dxMk9TV1dENmVoUDA4dWtrazg0Z3RoVmVZTGJ2cXc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "trina-2026-08-07-043",
+    "date": "2026-08-07",
+    "companies": [
+      "trina"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "Trina Solar (688599.SH) reported its interim results, with a net loss attributable to shareholders of RMB 270 million. - moomoo.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxQM29iY0hvODVvbDdLU2stY05jbUJfNzFpU3pVTDBKN1FQRGFkOUhBdFdLcEtYZGtXcHZTRTREM2wtZHFUUUVNamx6RnU3OEN3SWx2M3ZJNnZYanVIakNkTEdfMVMycjVxOGlDM0lyTF",
+    "sources": [
+      {
+        "name": "trina",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQM29iY0hvODVvbDdLU2stY05jbUJfNzFpU3pVTDBKN1FQRGFkOUhBdFdLcEtYZGtXcHZTRTREM2wtZHFUUUVNamx6RnU3OEN3SWx2M3ZJNnZYanVIakNkTEdfMVMycjVxOGlDM0lyTFFROWlJRDYwSlEydGVJRHl5dWpQZHdIcmV2Q2gxSkFmc3EyMjJoaHgyejZYUmNYbUI3?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "array-2026-08-07-044",
+    "date": "2026-08-07",
+    "companies": [
+      "array"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Analysts Offer Insights on Technology Companies: Shopify (SHOP), Array Technologies (ARRY) and Bitdeer Technologies (BTDR) - theglobeandmail.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAJBVV95cUxNQklyZUM1M1RYdWMzSG93MWpnSTNpaHN0WFluMWtiSjR6VnJ5Tnc1Vy0zNFNoamF0UU9HYWV5UmRwNlBJN3p0OUkxbTVnOTMxVVRydzM2ZVZIWHp2ZXppNDltcEF1WjZFTTEwN3J1cm",
+    "sources": [
+      {
+        "name": "array",
+        "url": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxNQklyZUM1M1RYdWMzSG93MWpnSTNpaHN0WFluMWtiSjR6VnJ5Tnc1Vy0zNFNoamF0UU9HYWV5UmRwNlBJN3p0OUkxbTVnOTMxVVRydzM2ZVZIWHp2ZXppNDltcEF1WjZFTTEwN3J1cmQ2VVVRbmd5TTAxdURNckk5UU9RNlZNUGh5X0pCTEdrTzFjbWNaY1NMS0tjUWVucnhjTmJHVVNhSmZ3NDYteXBKdTNqTTJDSUwxTVJSMjVwTHllM012c0UtT2lOWEJ6ZDJxZVk1anExWHlPT1hTR3BodnRjc0R4NWZveXJDamlCeUMzVEFtbHJUOGg5RlVYNkdWb0xBUVZUeFdyMkczVHRBbTFkNktma0V5RnRVMV9DMFoxQm82bXVnWQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "array-2026-08-07-045",
+    "date": "2026-08-07",
+    "companies": [
+      "array"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Analysts’ Top Technology Picks: Paycom (PAYC), Array Technologies (ARRY) - theglobeandmail.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxOR1JiN3MwdHFzUl92MGN2eElZU1Z6WmN1encyNHFMX0tqNUdQdmttbGotZ3JPRk4zN1FtVEtRa09ybGxlRzZ3ZGE3SWN1NEYyOVNlUTIwNFlJT2wyZkVZN3FpVWlPZk5VZkozWUVUby",
+    "sources": [
+      {
+        "name": "array",
+        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOR1JiN3MwdHFzUl92MGN2eElZU1Z6WmN1encyNHFMX0tqNUdQdmttbGotZ3JPRk4zN1FtVEtRa09ybGxlRzZ3ZGE3SWN1NEYyOVNlUTIwNFlJT2wyZkVZN3FpVWlPZk5VZkozWUVUby1tTS1GNjRIMEU1NXpLY0JoT2U0UG9RdFJITGZKNWxfRVpjNElhS0pDOUJSZGtEUHF1RFFnbjFVaFB4OFJCb1RqaE40M0ktWnRTSk53Ynk1bmZ5TzVBcVY3V0xjZVVUckRVdnpCRmNPT3FIcnlZd2dtSEoyZXE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nextracker-2026-08-07-046",
+    "date": "2026-08-07",
+    "companies": [
+      "nextracker"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Nextracker Inc (NXT) Stock News Today - TradingKey",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE9FbFpQXzhqOHN5UWpkc0V1MXM0MGVvQlJGeG4zc24xZllWZW43NTJsMXFUYnRaRUc4RXFzVW5xdXhycGMzMEhRY2d4b2xZbXdvRUJRTlpjb0tIZUNxU0RJ?oc=5\" target=\"_blank\"",
+    "sources": [
+      {
+        "name": "nextracker",
+        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9FbFpQXzhqOHN5UWpkc0V1MXM0MGVvQlJGeG4zc24xZllWZW43NTJsMXFUYnRaRUc4RXFzVW5xdXhycGMzMEhRY2d4b2xZbXdvRUJRTlpjb0tIZUNxU0RJ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-07-047",
+    "date": "2026-08-07",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "India plans polysilicon incentives to reduce reliance on China - Reuters",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxQYWt4Z042YUtEOGlFN25QVGxCeXVXVkhBX3ljV20yc3Y3T1FQM0ktQVBMbkJDWVY0LUVLbURGNm1mMTJ4S1h1aDFsLVMwZWE5R3FoMHhhTWZOQzFob0ZkWjU0TjNiRWpqaUl6R0w1OE",
+    "sources": [
+      {
+        "name": "google_news_solar",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQYWt4Z042YUtEOGlFN25QVGxCeXVXVkhBX3ljV20yc3Y3T1FQM0ktQVBMbkJDWVY0LUVLbURGNm1mMTJ4S1h1aDFsLVMwZWE5R3FoMHhhTWZOQzFob0ZkWjU0TjNiRWpqaUl6R0w1OENZOGJab2V6OTJJdEtEQkN5Y01xdVdWaUE3RVE3RUFsRnNRRFM4VFpzMnFUUDVUNk55MHl5MTJpNA?oc=5",
         "type": "rss"
       }
     ]
@@ -2532,6 +2933,26 @@
     ]
   },
   {
+    "id": "array-2026-08-06-081",
+    "date": "2026-08-06",
+    "companies": [
+      "array"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "UBS Adjusts Array Technologies Price Target to $10 From $11, Maintains Buy Rating - moomoo.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxQb19RWGNRbk1yaGpLS2pBVkpZRHNFZDFVRnVnY3JBaTU3ejNxaHJqdy1LSUFYWmRDd0VUaW1nMENJUzRiUmUxSzlwVzdzdXRYcVZWUkRjMWRqMjJkZFNwVEJUQ2dadmVWOVEwOEhTcm",
+    "sources": [
+      {
+        "name": "array",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQb19RWGNRbk1yaGpLS2pBVkpZRHNFZDFVRnVnY3JBaTU3ejNxaHJqdy1LSUFYWmRDd0VUaW1nMENJUzRiUmUxSzlwVzdzdXRYcVZWUkRjMWRqMjJkZFNwVEJUQ2dadmVWOVEwOEhTcmhGRTdlR2JFY3NjV2JiSmRodFlLSjh6ekFLeE5COU4wclE2d295QXo3X2s1aC1KSGFO?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "trina-2026-08-05-001",
     "date": "2026-08-05",
     "companies": [
@@ -3682,6 +4103,66 @@
     ]
   },
   {
+    "id": "daqo-2026-08-05-062",
+    "date": "2026-08-05",
+    "companies": [
+      "daqo"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "J.P. Morgan Maintains Daqo New Energy(DQ.US) With Buy Rating, Maintains Target Price $22 - moomoo.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxNTnJFRDdkM1ZzVGVpdGtJLUlLTGdNVThEc1MxS2VjQ2w3VkEzMnM1UE4zbDA0bFJ6QWpXNHBFM1pmWUhzNEVZV2JmSWRJRWdNeHVpUDlsa3BvX2NGNDZmTDJuYThVbFBvM25FZ1lPan",
+    "sources": [
+      {
+        "name": "daqo",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNTnJFRDdkM1ZzVGVpdGtJLUlLTGdNVThEc1MxS2VjQ2w3VkEzMnM1UE4zbDA0bFJ6QWpXNHBFM1pmWUhzNEVZV2JmSWRJRWdNeHVpUDlsa3BvX2NGNDZmTDJuYThVbFBvM25FZ1lPanhsY3NVVTBXdHBMSVNqQUtZRzNSUW1icmRVb3ZncWRkMFFxdzdnS1VhUDJRT015dzQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "gcl-2026-08-05-063",
+    "date": "2026-08-05",
+    "companies": [
+      "gcl"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "ETFs Investing in GCL Technology Holdings Limited Stocks - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE13RERTNHdiQnJXeC15QXNrc3FfWXVEei1kN2ZRNFpoeVdBdXhvN2kzSXVsaDRHV2V4Sk9kdHVQTE8zbzNzdmdQZlAwMW02cng3T1pvMkIxMkgzR2dOWkE?oc=5\" target=\"_blank\">",
+    "sources": [
+      {
+        "name": "gcl",
+        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE13RERTNHdiQnJXeC15QXNrc3FfWXVEei1kN2ZRNFpoeVdBdXhvN2kzSXVsaDRHV2V4Sk9kdHVQTE8zbzNzdmdQZlAwMW02cng3T1pvMkIxMkgzR2dOWkE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "maxeon-2026-08-05-064",
+    "date": "2026-08-05",
+    "companies": [
+      "maxeon"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Maxeon Solar CFO Dmitri Hu resigns effective Aug. 14 - Bitget",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE5XVUt1OW9HTHJGWUtDNjhKWTdiNkVKLWs5Z0phTXlqNVJ3YTZmMTFRekhYaC1BZjBjbUhUd0dyMlFLc3Q0YXNGYUhKbEtXSHlabHItNTBVWDZyNXQyYTZkR1RQWdIBY0FVX3lxTE5XVU",
+    "sources": [
+      {
+        "name": "maxeon",
+        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5XVUt1OW9HTHJGWUtDNjhKWTdiNkVKLWs5Z0phTXlqNVJ3YTZmMTFRekhYaC1BZjBjbUhUd0dyMlFLc3Q0YXNGYUhKbEtXSHlabHItNTBVWDZyNXQyYTZkR1RQWdIBY0FVX3lxTE5XVUt1OW9HTHJGWUtDNjhKWTdiNkVKLWs5Z0phTXlqNVJ3YTZmMTFRekhYaC1BZjBjbUhUd0dyMlFLc3Q0YXNGYUhKbEtXSHlabHItNTBVWDZyNXQyYTZkR1RQWQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "jinko-2026-08-04-001",
     "date": "2026-08-04",
     "companies": [
@@ -4384,6 +4865,26 @@
       {
         "name": "xinyi_solar",
         "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNX0tab2k0b3pjcUJiOHJFOENvdFhWY0diNXpzQmFFOHFqZXcyYWYyenFtUFFfWWVrOTRCUGs2UTlNVnJhZjFCWkdiZmJEdVFaS2hYMU53bzdGd0xxdkxURDVTWmFPMWJ2Qnd6NDVOU19vQjJwQ1ZjVllFaGNHWmNFVTVpazBVUDNrZlhEVUZ1SGRIWmYxQ1gxR1F5SDE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "xinyi_solar-2026-08-04-039",
+    "date": "2026-08-04",
+    "companies": [
+      "xinyi_solar"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "$XINYI SOLAR (00968.HK)$Rising from HK$1.87 to an early-morning high of HK$2.52 today, it finally became technically overbought and pulled back. Immediate support levels are at the 5-day and 10-day moving averages. - moomoo.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxPZ3k3VHVaczA5NEpsYWZRb1d2RWtYU1dkRm5OU0RwcEhxRTBzcV9uNGtrblJiZXhlODA5UnRvWWdMM2FCT3pzQTFvY05KQjVrbkFtRW9hNEFSTHY3ek9rWWtLZjFQNVBwMnlOaGV5ak",
+    "sources": [
+      {
+        "name": "xinyi_solar",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPZ3k3VHVaczA5NEpsYWZRb1d2RWtYU1dkRm5OU0RwcEhxRTBzcV9uNGtrblJiZXhlODA5UnRvWWdMM2FCT3pzQTFvY05KQjVrbkFtRW9hNEFSTHY3ek9rWWtLZjFQNVBwMnlOaGV5akhMcF8xWWduTTdvTTdvQkFvc3d3UGNXR2N0OFBuQWtKRWNfa3p0MklnRS1RWQ?oc=5",
         "type": "rss"
       }
     ]
@@ -5705,6 +6206,46 @@
       {
         "name": "gcl",
         "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOTnc1RzJhZTJPUlhMVE9hajBkX2hBVXBLczBqQ1RKNndyZFZvZVZwQ1pLZVV1TW4tZ0xEUnlPaDdjNEpPdWNzbHRaQ2VuYmUxOHByTEg4WXdqWm9YckMtVFppb1puUWxQY1Z0Tm1mbFg0V20yQW5lR284eU1xTmJjYzZNMlFhS3dXcGR5X3FVQl9lNjZiZGZKR2Z2bmFSY29ocDZ4OTlHQ2t2R2xnaTFmTlJJcWk?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "trina-2026-08-03-071",
+    "date": "2026-08-03",
+    "companies": [
+      "trina"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Trina Solar will promote a green hydrogen project in Australia - inspenet.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE9yS0JPZWhaNkdTc0IxY0tGNnlYQW92Q04yOW51cEdQTk5KOEN5UDBLZG1YT2Z0VDA0S2pIOVBKSHdXUy1oTGxGREczdU9VNzA2c1A1Z1VDenJ0ejlHSGZmZnBrRlFDbG5lSXBneEFhTk",
+    "sources": [
+      {
+        "name": "trina",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9yS0JPZWhaNkdTc0IxY0tGNnlYQW92Q04yOW51cEdQTk5KOEN5UDBLZG1YT2Z0VDA0S2pIOVBKSHdXUy1oTGxGREczdU9VNzA2c1A1Z1VDenJ0ejlHSGZmZnBrRlFDbG5lSXBneEFhTkg0dw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "gcl-2026-08-03-072",
+    "date": "2026-08-03",
+    "companies": [
+      "gcl"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "China Solar PV News Snippets: GCL Perovskite Raises RMB 100 Million+ In Series D1 Funding & More - taiyangnews.info",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxQRUVyVVBkSEJJUHR1YWQ5WVRiRjhMeXdlV0ptVnpOMWx6UDJ3YzcyUWpjbDV2R0J4NXktTFluaUNuakk5SUlNU0dKSnFKU04tay11eEJvb3JoVjA5VGhsSUE2YXhKWHRqeEt6dVFtTW",
+    "sources": [
+      {
+        "name": "risen",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQRUVyVVBkSEJJUHR1YWQ5WVRiRjhMeXdlV0ptVnpOMWx6UDJ3YzcyUWpjbDV2R0J4NXktTFluaUNuakk5SUlNU0dKSnFKU04tay11eEJvb3JoVjA5VGhsSUE2YXhKWHRqeEt6dVFtTWZmMlpHUWs2a0V0bFl5RjRjQw?oc=5",
         "type": "rss"
       }
     ]

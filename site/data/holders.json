@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-09T08:30:26.817355+00:00",
+  "updated_at": "2026-08-10T09:06:45.563179+00:00",
   "companies": {
     "xinyi_solar": {
       "name": "Xinyi Solar",
@@ -10,7 +10,7 @@
           "holder": "Boston Common Asset Management, LLC",
           "shares": 4141443,
           "pct_held": 0.05,
-          "value": 10105121
+          "value": 10250071
         }
       ]
     },
