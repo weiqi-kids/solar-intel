@@ -1,0 +1,213 @@
+{
+  "date": "2026-08-11",
+  "generated_at": "2026-08-11T08:43:49.029870Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-08-11-005",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Czechia installs 295 MW of solar in H1",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "installation_demand",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://www.pv-magazine.com/2026/08/11/czechia-installs-295-mw-of-solar-in-h1/"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-08-11-009",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "U.S. could surpass 100 GW of annual inverter manufacturing capacity by 2027",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://www.pv-magazine.com/2026/08/11/u-s-could-surpass-100-gw-of-annual-inverter-manufacturing-capacity-by-2027/"
+    },
+    {
+      "rank": 3,
+      "event_id": "xinyi_solar-2026-08-11-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Did Profit Compression and a Lower Dividend Just Shift Xinyi Solar Holdings' (SEHK:968) Investment Narrative? - simplywall.st",
+      "companies": [
+        "xinyi_solar"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPbC12aC1kTEJxQVR4MmtxdWdRWEpreDE3TGxnaXhhcUhHaGgtSmU3REdCZE9qdWhDbmI4ZU9ScnpXcVEyTFhvSk83U1VLdGR1UGZibHRNeDBWTHBZTzhsRHBIUndpa1E2YWk2QTM2XzBZUXZBeF9Kb0Nmd0gzdnlYSU1jemNjNWd6WWdZd01rNFRNV2dDQjlPbmlhdFlJTkxpWWFBVTB1cE1wSE9Xay1lR2Zfa0FqcHkyd21xckJ4UGpLSVNWTFZEMDBUYldSckZFb3dsRDEtRGRDLWpMSllDZ2dB0gHnAUFVX3lxTE1zN2hBWDRoZlNoZU9XV3ZBd3ZEV3huWHJIVXZENkZhNkVvbkp6cUZid2F2R3dRQXg0VlduVy1CamwwbTlFbzFtYVFwLXFlV09sWjhGelBqQTVxSlFTeEVlVXY2R2RucnRqN0VBaHY2ZS1DbUttVl90Njl1MmJNMVpxTk5nN0w4SHVKOExBRVBYUDBJOHVfX2VCWmo4aWdTNTVxUElCbV90UkstazRqNDZKYlFGbEFHZnlwc0xnalVMV0lRZTA3M1M0Y1ZhMWVzaUI2Ymo2UW9RSGhoT0F3aEtiaWZQVUtqUQ?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "longi-2026-08-11-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Bayern Munich announces solar energy partnership with LONGi - Sustainability Online",
+      "companies": [
+        "longi"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOYWQ4OEowWlV2c1RsQjI0RHJKR1BPUmpjZE95MGlRdnRFSDMxWjQ5MGo5Vk53S0hISmhDU3BxVWZ4SXhxTXRhWVR6TURub0JXOElLTFpzQllPWWtOQ3VxektYTS1QWmM2RjR1c3dmMDZpMW5GNzV5a1J5SU1TSVJXTDV4bEZzekF2MHdTUm0zYk52bTFNOEFLTFdLUlgweEk?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "jinko-2026-08-11-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "JinkoSolar Once Again Receives the Highest “AAA” Bankability Rating from PV Tech for Q2 2026 - SolarQuarter",
+      "companies": [
+        "jinko"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQeWRrZWxRdTdqdEljUlVob2E1cnItMHljNldCZThfRHJLQ0t5Y3A3NVlsRDZnNzdWX1NoWUZxTVJ1OEU5V0xTaUJmeUQyaURZQTVKU0JyaDNPQTRTNFRJSWZRcWNCQUdEdEhJZGM2cGM5anhUam5hYkYycVotVE5RaUZMSHJKYnQxV1hrM2pKUERtdnhrNmw1UDJwRzBLZGNfdnk4S3kxeGJ0VEhBQnQtakF1YnJ6eVN6WmE4MEFsNHBNWGFLZVE?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 15,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.18,
+      "sentiment_7d_avg": null
+    },
+    "installation_demand": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 1.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 15,
+    "sentiment_distribution": {
+      "positive": 5,
+      "neutral": 9,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "xinyi_solar",
+        "count": 1
+      },
+      {
+        "id": "longi",
+        "count": 1
+      },
+      {
+        "id": "jinko",
+        "count": 1
+      },
+      {
+        "id": "sungrow",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 15
+      },
+      {
+        "id": "installation_demand",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 464,
+    "dup_title": 222,
+    "too_old": 145,
+    "gate1_blocked": 44,
+    "gate2_blocked": 7,
+    "passed": 46,
+    "pass_rate": "19.0%",
+    "gate2_block_rate": "2.9%",
+    "gate2_samples": [
+      "Daqo New Energy Schedules August 20 Release of Q2 2026 Results - The Globe and Mail",
+      "DAQO New Energy Corp. (NYSE:DQ) Receives Average Recommendation of \"Hold\" from Brokerages - MarketBe",
+      "Array Technologies (ARRY): Hill City Capital group discloses 8.4% ownership position - Stock Titan",
+      "Array Technologies, Inc. (9AY.F) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+      "GM makes charging easy while Elon bets big on fossil fuels and Leno talks Tesla"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 15 則事件，焦點為信義光能、隆基綠能、晶科能源相關動態：「Czechia installs 295 MW of solar in H1」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Czechia installs 295 MW of solar in H1（裝機需求、太陽能產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "U.S. could surpass 100 GW of annual inverter manufacturing capacity by 2027（太陽能產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "裝機需求持續受關注，產業趨勢帶動需求成長。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
