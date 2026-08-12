@@ -1,0 +1,191 @@
+{
+  "date": "2026-08-12",
+  "generated_at": "2026-08-12T09:00:20.310718Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "jinko-2026-08-12-008",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "European Patent Office revokes Hanwha’s long-disputed passivation patent",
+      "companies": [
+        "jinko",
+        "longi"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.pv-magazine.com/2026/08/12/european-patent-office-revokes-hanwhas-long-disputed-passivation-patent/"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-08-12-016",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Australia: Battery storage systems hit record 4,325MW discharge as NEM cycling swing reaches 8.3GW",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://www.energy-storage.news/australia-battery-storage-systems-hit-record-4325mw-discharge-as-nem-cycling-swing-reaches-8-3gw/"
+    },
+    {
+      "rank": 3,
+      "event_id": "trina-2026-08-12-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Trina Solar solar panels review - which.co.uk",
+      "companies": [
+        "trina"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNRXFPNXJTZWw1SHA5X2h0em5VX3BlWmRpZFhmeXQtRFZpeVlBa0hpaVAtSW5pZUFpd1Qzdktsd3R4Vm5KeUxSOFBoWk01bmJGTUUtSjhheVdTdUs5cnRhVTZad2RFNGx3bkRfQ1hkNUdXS1hxUFJuRUhqTGNTRjlPWHEzci11eWMzQloyVjZTUm9yREd6clU2aEFHODF5SFY1MXV1eDAxV3NwMTQ3cEtzU0oyZTMzbS1XalBBSkhR?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "jinko-2026-08-12-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "JinkoSolar Unveils “Sunny 365” Integrated PV-Storage Solutions for Retail and Supermarkets - SolarQuarter",
+      "companies": [
+        "jinko"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPMFMxazNVdXR2VlpUNE1LWDZJUkRIRzVJYmNDeGVscVota0ZCdG04cFgwc3JTT0JrYzFyZDE3ZkNsUGN0NFk2bEVOSmo3TVlzMjBNM3I5bzJjcmRZMUxfN0VHX0JuOGxwcHl6aDNtNVNfY0JLU3FoeWZyMlJlYjZJOEdhOXVoU1ZKdi1XS1E3NGc0RHQtS0lOVjdoaFRLMW1NclZ4dUhmZ2ljby1qRldHaEtWMUZkOGhoSFBFYnJIbVZFOEk?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-08-12-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Around 14 GW of irregular distributed solar threatens grid security in Brazil, warns TÜV Rheinland",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": "https://www.pv-magazine.com/2026/08/12/around-14-gw-of-irregular-distributed-solar-threatens-grid-security-in-brazil-warns-tuv-rheinland/"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 18,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.03,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 18,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 16,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "jinko",
+        "count": 2
+      },
+      {
+        "id": "trina",
+        "count": 1
+      },
+      {
+        "id": "longi",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 18
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 466,
+    "dup_title": 206,
+    "too_old": 152,
+    "gate1_blocked": 45,
+    "gate2_blocked": 7,
+    "passed": 56,
+    "pass_rate": "21.5%",
+    "gate2_block_rate": "2.7%",
+    "gate2_samples": [
+      "Daqo New Energy Schedules August 20 Release of Q2 2026 Results - The Globe and Mail",
+      "DAQO New Energy Corp. (NYSE:DQ) Receives Average Recommendation of \"Hold\" from Brokerages - MarketBe",
+      "Array Technologies (ARRY): Hill City Capital group discloses 8.4% ownership position - Stock Titan",
+      "Array Technologies, Inc. (9AY.F) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+      "GM makes charging easy while Elon bets big on fossil fuels and Leno talks Tesla"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 18 則事件，焦點為晶科能源、天合光能、隆基綠能相關動態：「European Patent Office revokes Hanwha’s long-disputed pas...」。主要關注主題為太陽能產業通用，市場情緒中性。",
+    "signals": [
+      {
+        "text": "European Patent Office revokes Hanwha’s long-disputed passivation patent（太陽能產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Australia: Battery storage systems hit record 4,325MW discharge as NEM cyclin...（太陽能產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
