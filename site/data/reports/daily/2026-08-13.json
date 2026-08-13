@@ -1,0 +1,194 @@
+{
+  "date": "2026-08-13",
+  "generated_at": "2026-08-13T09:01:54.926807Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "longi-2026-08-13-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "China's Solar Anti-Involution Push Stalls: Why Is LONGi Green Energy's Market Value Management Failing? - finance.biggo.com",
+      "companies": [
+        "longi"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBEaXUyYm1RamNHemlsRTBLWmNXTFVVODBQcUlfWWZEOHpNdzBlY21TVE5QbEx3WXhpNUJzMm5DRTdJNXV6RzRmVWF5cmxUSTNiUzRwVy1sR25scXFYYU1CNFNFX19OREoxUm50czlMQlFKdjRSQ1E?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "jinko-2026-08-13-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "JinkoSolar Secures 300 MW Utility-Scale Solar Project in Tajikistan Featuring Tiger Neo 3.0 - SolarQuarter",
+      "companies": [
+        "jinko"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNTkRVdGdwUHZJdUNGeW1rLVVQWHRfdkljODVmSTF3TERfZjFNNUJfc3JOckhoUHgxeE5CNTZjMUxBdThuMFFPYXM4bF9uaVo5bVRFWlJhWGNNclhYSkdoeXdZTkR6M3pXNTlBM1ZuUm05bzBVcVFuZVN4d0ttN0lZRTlQclB4OTU5U19SZE9IankwVDY2aDFLQ284M2NyX1RsaldWQ0tOY01XVC1mNWNrMmY0WEtXWTgxSUZLNE9jMDJ1NVp5NGpn?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-08-13-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "PVcase adds key export option to its solar design software",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.pv-magazine.com/2026/08/13/pvcase-adds-key-export-option-to-its-solar-design-software/"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-08-13-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Brazil’s curtailment compensation offer attracts 1,539 solar and wind plant operators",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.pv-magazine.com/2026/08/13/brazils-curtailment-compensation-offer-attracts-1539-solar-and-wind-plant-operators/"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-08-13-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Mass-scale reuse pilot project finds 15% of second-life solar modules fail to meet safety requirements",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.pv-magazine.com/2026/08/13/mass-scale-reuse-pilot-project-finds-15-of-second-life-solar-modules-fail-to-meet-safety-requirements/"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 17,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.03,
+      "sentiment_7d_avg": null
+    },
+    "trade_tariff": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 18,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 17,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "longi",
+        "count": 1
+      },
+      {
+        "id": "jinko",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 17
+      },
+      {
+        "id": "trade_tariff",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 466,
+    "dup_title": 221,
+    "too_old": 148,
+    "gate1_blocked": 50,
+    "gate2_blocked": 6,
+    "passed": 41,
+    "pass_rate": "16.7%",
+    "gate2_block_rate": "2.4%",
+    "gate2_samples": [
+      "Daqo New Energy Schedules August 20 Release of Q2 2026 Results - The Globe and Mail",
+      "DAQO New Energy Corp. (NYSE:DQ) Receives Average Recommendation of \"Hold\" from Brokerages - MarketBe",
+      "Array Technologies (ARRY): Hill City Capital group discloses 8.4% ownership position - Stock Titan",
+      "Goldman Sachs Sticks to Its Buy Rating for Array Technologies (ARRY) - The Globe and Mail",
+      "Scandium doping, coating improve cycling stability of sodium-ion battery cathodes"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 18 則事件，焦點為隆基綠能、晶科能源相關動態：「China's Solar Anti-Involution Push Stalls: Why Is LONGi G...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "China's Solar Anti-Involution Push Stalls: Why Is LONGi Green Energy's Market...（太陽能產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "JinkoSolar Secures 300 MW Utility-Scale Solar Project in Tajikistan Featuring...（太陽能產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

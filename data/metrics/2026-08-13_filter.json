@@ -1,0 +1,16 @@
+{
+  "total_raw": 466,
+  "dup_title": 221,
+  "no_date": 0,
+  "too_old": 148,
+  "gate1_fail": 50,
+  "gate2_fail": 6,
+  "passed": 41,
+  "gate2_samples": [
+    "Daqo New Energy Schedules August 20 Release of Q2 2026 Results - The Globe and Mail",
+    "DAQO New Energy Corp. (NYSE:DQ) Receives Average Recommendation of \"Hold\" from Brokerages - MarketBe",
+    "Array Technologies (ARRY): Hill City Capital group discloses 8.4% ownership position - Stock Titan",
+    "Goldman Sachs Sticks to Its Buy Rating for Array Technologies (ARRY) - The Globe and Mail",
+    "Scandium doping, coating improve cycling stability of sodium-ion battery cathodes"
+  ]
+}

@@ -1,5 +1,333 @@
 [
   {
+    "id": "longi-2026-08-13-001",
+    "date": "2026-08-13",
+    "companies": [
+      "longi"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "China's Solar Anti-Involution Push Stalls: Why Is LONGi Green Energy's Market Value Management Failing? - finance.biggo.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTFBEaXUyYm1RamNHemlsRTBLWmNXTFVVODBQcUlfWWZEOHpNdzBlY21TVE5QbEx3WXhpNUJzMm5DRTdJNXV6RzRmVWF5cmxUSTNiUzRwVy1sR25scXFYYU1CNFNFX19OREoxUm50czlMQl",
+    "sources": [
+      {
+        "name": "longi",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBEaXUyYm1RamNHemlsRTBLWmNXTFVVODBQcUlfWWZEOHpNdzBlY21TVE5QbEx3WXhpNUJzMm5DRTdJNXV6RzRmVWF5cmxUSTNiUzRwVy1sR25scXFYYU1CNFNFX19OREoxUm50czlMQlFKdjRSQ1E?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "jinko-2026-08-13-002",
+    "date": "2026-08-13",
+    "companies": [
+      "jinko"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "JinkoSolar Secures 300 MW Utility-Scale Solar Project in Tajikistan Featuring Tiger Neo 3.0 - SolarQuarter",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxNTkRVdGdwUHZJdUNGeW1rLVVQWHRfdkljODVmSTF3TERfZjFNNUJfc3JOckhoUHgxeE5CNTZjMUxBdThuMFFPYXM4bF9uaVo5bVRFWlJhWGNNclhYSkdoeXdZTkR6M3pXNTlBM1ZuUm",
+    "sources": [
+      {
+        "name": "jinko",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNTkRVdGdwUHZJdUNGeW1rLVVQWHRfdkljODVmSTF3TERfZjFNNUJfc3JOckhoUHgxeE5CNTZjMUxBdThuMFFPYXM4bF9uaVo5bVRFWlJhWGNNclhYSkdoeXdZTkR6M3pXNTlBM1ZuUm05bzBVcVFuZVN4d0ttN0lZRTlQclB4OTU5U19SZE9IankwVDY2aDFLQ284M2NyX1RsaldWQ0tOY01XVC1mNWNrMmY0WEtXWTgxSUZLNE9jMDJ1NVp5NGpn?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-13-003",
+    "date": "2026-08-13",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "PVcase adds key export option to its solar design software",
+    "summary": "<p>PVcase has added PVC 2.0 export to its Ground Mount software, enabling solar engineers to transfer 3D project geometry directly to compatible tools such as PVsyst.<br />\nThe open standard aims to r",
+    "sources": [
+      {
+        "name": "pv_magazine",
+        "url": "https://www.pv-magazine.com/2026/08/13/pvcase-adds-key-export-option-to-its-solar-design-software/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-13-004",
+    "date": "2026-08-13",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Brazil’s curtailment compensation offer attracts 1,539 solar and wind plant operators",
+    "summary": "<p>A total of 1,539 solar and wind power plants representing around 53 GW have applied to Brazil’s compensation mechanism for eligible curtailment events. The final compensation amounts will be determ",
+    "sources": [
+      {
+        "name": "pv_magazine",
+        "url": "https://www.pv-magazine.com/2026/08/13/brazils-curtailment-compensation-offer-attracts-1539-solar-and-wind-plant-operators/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-13-005",
+    "date": "2026-08-13",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Mass-scale reuse pilot project finds 15% of second-life solar modules fail to meet safety requirements",
+    "summary": "<p>Researchers in Australia identified two scalable routes for electrical safety qualification of second-life PV modules: silicone backsheet repair and faster parallel wet-leakage testing. A Queenslan",
+    "sources": [
+      {
+        "name": "pv_magazine",
+        "url": "https://www.pv-magazine.com/2026/08/13/mass-scale-reuse-pilot-project-finds-15-of-second-life-solar-modules-fail-to-meet-safety-requirements/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-13-006",
+    "date": "2026-08-13",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Global South Utilities completes 50 MW solar, 15 MWh BESS project in Central African Republic",
+    "summary": "<p>The solar-plus-storage project has been billed as the largest infrastructure project in the Central African Republic’s history. The government says it is undergoing a phased implementation beginnin",
+    "sources": [
+      {
+        "name": "pv_magazine",
+        "url": "https://www.pv-magazine.com/2026/08/13/global-south-utilities-completes-50-mw-solar-15-mwh-bess-project-in-central-african-republic/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-13-007",
+    "date": "2026-08-13",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Guatemala updates regulations for distributed solar up to 5 MW",
+    "summary": "<p>Guatemala has updated its regulatory framework for renewable distributed-generation projects of up to 5 MW, introducing new connection procedures, grid-capacity mapping and technical requirements. ",
+    "sources": [
+      {
+        "name": "pv_magazine",
+        "url": "https://www.pv-magazine.com/2026/08/13/guatemala-updates-regulations-for-distributed-solar-up-to-5-mw/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-13-008",
+    "date": "2026-08-13",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "MRCool launches do-it-yourself monoblock heat pump without outdoor unit",
+    "summary": "<p>The U.S. manufacturer has launched a 115 V do-it-yourself monoblock heat pump with 10,000 Btu/h cooling and 9,000 Btu/h heating capacity, using R-32 refrigerant and inverter-driven technology.</p>\n",
+    "sources": [
+      {
+        "name": "pv_magazine",
+        "url": "https://www.pv-magazine.com/2026/08/13/mrcool-launches-do-it-yourself-monoblock-heat-pump-without-outdoor-unit/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-13-009",
+    "date": "2026-08-13",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "World’s largest LFP grid-forming goes online in China",
+    "summary": "<p>The four-hour LFP project is designed to strengthen grid stability and renewable integration in northern China. </p>\n<p>The post <a href=\"https://www.pv-magazine.com/2026/08/13/worlds-largest-lfp-g",
+    "sources": [
+      {
+        "name": "pv_magazine",
+        "url": "https://www.pv-magazine.com/2026/08/13/worlds-largest-lfp-grid-forming-goes-online-in-china/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-13-010",
+    "date": "2026-08-13",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "U.S. battery storage capacity grows 70% annually over the past three years",
+    "summary": "<p>National operational storage reached 52 GW in June 2026, with developers planning another 54 GW of capacity through 2028, according to the latest EIA data. </p>\n<p>The post <a href=\"https://www.pv-",
+    "sources": [
+      {
+        "name": "pv_magazine",
+        "url": "https://www.pv-magazine.com/2026/08/13/u-s-battery-storage-capacity-grows-70-annually-over-the-past-three-years/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-13-011",
+    "date": "2026-08-13",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Solar’s infrastructure obstacle",
+    "summary": "<p>During the development of a recent utility-scale project in Texas’ ERCOT grid interconnection zone, Levona Renewables CEO Fernando Queiroz found his team spending more time evaluating transmission ",
+    "sources": [
+      {
+        "name": "pv_magazine",
+        "url": "https://www.pv-magazine.com/2026/08/13/solars-infrastructure-obstacle/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-13-012",
+    "date": "2026-08-13",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Solar power’s looming waste crisis: growing PV waste could turn into a $100 billion industry | Newswise - Newswise",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxNQjV4VlB3c1NnWHVNTWd0b2RUYU91S0pqM2x6bi12cVB5RXJGeVdCblpGR29HQWJfOVdlcUozdDR3TFZ4TFAzVjlqaXVGbTJGY3VUOUJXVDJKVlFVd190RHJwOWF6cWNnaHN2dU9LNl",
+    "sources": [
+      {
+        "name": "google_news_solar",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNQjV4VlB3c1NnWHVNTWd0b2RUYU91S0pqM2x6bi12cVB5RXJGeVdCblpGR29HQWJfOVdlcUozdDR3TFZ4TFAzVjlqaXVGbTJGY3VUOUJXVDJKVlFVd190RHJwOWF6cWNnaHN2dU9LNlY0T0Nqam1uUDY1eVQwSFBodjNDSEdTVHhSZmxzSm9xNUtzWDlQTWtiNGFETGpSU0dTVFhVZDB5azV6UzZLZVJEN003bVU2RWpranBBWXFoSTJWd9IBwgFBVV95cUxNQjV4VlB3c1NnWHVNTWd0b2RUYU91S0pqM2x6bi12cVB5RXJGeVdCblpGR29HQWJfOVdlcUozdDR3TFZ4TFAzVjlqaXVGbTJGY3VUOUJXVDJKVlFVd190RHJwOWF6cWNnaHN2dU9LNlY0T0Nqam1uUDY1eVQwSFBodjNDSEdTVHhSZmxzSm9xNUtzWDlQTWtiNGFETGpSU0dTVFhVZDB5azV6UzZLZVJEN003bVU2RWpranBBWXFoSTJWdw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-13-013",
+    "date": "2026-08-13",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Is Covering California’s Aqueducts and Canals with Solar Panels Economical? - California Policy Center",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxOZjZxZkZneHJueU5kcWJOaW0yLXlBUGxDY1ZraWt6enBSMnFpZ1U3T3BISXhPR1dBRTUxZEJuZ3JWUkFHaVZDZnNrdnItNTNxeWdEYW1YV1k5ZDhZS3Y4cGZBR3JGaVVFQmpRMlNndH",
+    "sources": [
+      {
+        "name": "google_news_solar",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZjZxZkZneHJueU5kcWJOaW0yLXlBUGxDY1ZraWt6enBSMnFpZ1U3T3BISXhPR1dBRTUxZEJuZ3JWUkFHaVZDZnNrdnItNTNxeWdEYW1YV1k5ZDhZS3Y4cGZBR3JGaVVFQmpRMlNndHpGVU82MkdhcGlFZTRpRzlXeEdSLU1NMkhYaEJhdGxhSU1tbVZTRnFiUGM2VWlIRGw1c3JDVS1ybHlJT2hIQWc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-13-014",
+    "date": "2026-08-13",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Solar Panel Waste Projected to Exceed 25 Million Tonnes by 2050 | Irena - News and Statistics - IndexBox",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxOMWhFMUs0UXRvU0NmVURmcmFWT0hfMmRteS05djdfOXdNOHJmN2Z4QVpIcFBGUWxnWU5xM3RrdWxIQVlzbkZ1VkNJYWN3UlE3Q3V0ajA0Z2k5N1N1M2UyVjBPdGVBMFRUc0NJYTJmUU",
+    "sources": [
+      {
+        "name": "google_news_solar",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOMWhFMUs0UXRvU0NmVURmcmFWT0hfMmRteS05djdfOXdNOHJmN2Z4QVpIcFBGUWxnWU5xM3RrdWxIQVlzbkZ1VkNJYWN3UlE3Q3V0ajA0Z2k5N1N1M2UyVjBPdGVBMFRUc0NJYTJmUUpwUE45RzBKWUF2ZGVuNUdTOGFaSGlCanBzQW8tVG9YR3lGc0k?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-13-015",
+    "date": "2026-08-13",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Arevon Energy’s 1,200MWh California BESS begins operations",
+    "summary": "Renewable energy developer-operator Arevon Energy has put its 300MW/1,200MWh Nighthawk Energy Storage Project in Poway, California, US into operation.",
+    "sources": [
+      {
+        "name": "energy_storage_news",
+        "url": "https://www.energy-storage.news/arevon-energys-1200mwh-california-bess-begins-operations/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-13-016",
+    "date": "2026-08-13",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Copenhagen Infrastructure Partners reaches commercial operations on 500MW BESS in Scotland",
+    "summary": "Denmark-headquartered investor Copenhagen Infrastructure Partners (CIP) has brought its 500MW, 2-hour duration Coalburn 1 battery energy storage system (BESS) into commercial operation.",
+    "sources": [
+      {
+        "name": "energy_storage_news",
+        "url": "https://www.energy-storage.news/copenhagen-infrastructure-partners-commercial-operations-500mw-bess-scotland/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-13-017",
+    "date": "2026-08-13",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Factcheck: How Nuclear, Gas, Wind, & Solar Power Are Affected During Heatwaves",
+    "summary": "<p>Heatwaves are becoming more likely and more intense due to climate change, impacting sources of power generation around the world as they work to meet increased demand. When temperatures soared pas",
+    "sources": [
+      {
+        "name": "cleantechnica",
+        "url": "https://cleantechnica.com/2026/08/12/factcheck-how-nuclear-gas-wind-solar-power-are-affected-during-heatwaves/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-13-018",
+    "date": "2026-08-13",
+    "companies": [],
+    "topics": [
+      "trade_tariff"
+    ],
+    "impact": "neutral",
+    "title": "Waymo Imports 3,200 Zeekr Robotaxis Despite Super High Tariffs",
+    "summary": "<p>Chinese electric vehicles are basically all but banned in the United States. Nonetheless, Waymo has brought in a few thousand Zeekr-based Ojai electric robotaxis. There are 102.5% tariffs on Chines",
+    "sources": [
+      {
+        "name": "cleantechnica",
+        "url": "https://cleantechnica.com/2026/08/12/waymo-imports-3200-zeekr-robotaxis-despite-super-high-tariffs/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "trina-2026-08-12-001",
     "date": "2026-08-12",
     "companies": [
@@ -326,6 +654,320 @@
       {
         "name": "cleantechnica",
         "url": "https://cleantechnica.com/2026/08/12/germany-6-gw-hydrogen-reservations-demand/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-12-019",
+    "date": "2026-08-12",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Recurrent Energy Powers Up Carwarp Energy Park in Australia Under Long-Term Microsoft PPA",
+    "summary": "The 150 MWac solar facility near Mildura will generate enough renewable energy to power approximately 65,000 Australian households annually and includes a dedicated fund to support community-led susta",
+    "sources": [
+      {
+        "name": "canadian_solar",
+        "url": "https://investors.canadiansolar.com/news-releases/news-release-details/recurrent-energy-powers-carwarp-energy-park-australia-under-long",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "jinko-2026-08-12-020",
+    "date": "2026-08-12",
+    "companies": [
+      "jinko"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "JinkoSolar Named a Tier 1 PV Module Supplier by S&P Global for 2026 - SolarQuarter",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxOX2c0TGZzSk56QndXSGVMdEZETXM1dnVHTVFydUVNMjZzbjRJY3BQeXJocm1BTWpzdUhwc1lVREY1YVlYb29BZGd0MXljNzEzSVpiRmRmYW1kTWdlTHBjYnV5R3Z1d0xKd2hUSFBGcm",
+    "sources": [
+      {
+        "name": "jinko",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOX2c0TGZzSk56QndXSGVMdEZETXM1dnVHTVFydUVNMjZzbjRJY3BQeXJocm1BTWpzdUhwc1lVREY1YVlYb29BZGd0MXljNzEzSVpiRmRmYW1kTWdlTHBjYnV5R3Z1d0xKd2hUSFBGcmxxTlJjRUozeDdzczRDLXVJUjZBZ2JHYVRuWUJQc0xSMkJhVmJmTDg1WEc1d0FpU0RzaWtObDF3?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "array-2026-08-12-021",
+    "date": "2026-08-12",
+    "companies": [
+      "array"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Array Technologies (ARRY) Q2 2026 Earnings Call Transcript - The Globe and Mail",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxOZ2txcGF0T1BOc25NNllFZHlvUkFYcHF3bVZfRFFOdklmSjF6VFppN3FFWUJ2cGItNVNXNzNKNi1menZZV3UtVlc4dHhXWEliUU85MVJUOG1mSlhIaE94UnJwbW1pSFQ4bUVCa2psan",
+    "sources": [
+      {
+        "name": "array",
+        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOZ2txcGF0T1BOc25NNllFZHlvUkFYcHF3bVZfRFFOdklmSjF6VFppN3FFWUJ2cGItNVNXNzNKNi1menZZV3UtVlc4dHhXWEliUU85MVJUOG1mSlhIaE94UnJwbW1pSFQ4bUVCa2psand3MXF0U1lJcXBSOFlVejNyN2NXV0ZuMVREeXpheV84eXRWMThRMzA2TUZaNll5V0xJNHRRTlVWS3htODJla3QyclB2eEg3WlJsY01uRVhpVUZyLUFyZEVva0NTRUVnNzcxS1FkRlJFOVRZQQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "array-2026-08-12-022",
+    "date": "2026-08-12",
+    "companies": [
+      "array"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Array Technologies Earnings Call Signals Renewed Momentum - The Globe and Mail",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxOT1lKX1ZydzdjYmxjVi1UQ3lXTUZaUTZ6cmZWWDlNd1F2bGc1a2ttdlhkWE5wTnA0OFZzRDA4anBNNjBmSlZOT29tdnFvd0J1WmlDU3QwZU9jRFBmUWZOTWdDVTJBc0dqWVJobVE5UV",
+    "sources": [
+      {
+        "name": "array",
+        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOT1lKX1ZydzdjYmxjVi1UQ3lXTUZaUTZ6cmZWWDlNd1F2bGc1a2ttdlhkWE5wTnA0OFZzRDA4anBNNjBmSlZOT29tdnFvd0J1WmlDU3QwZU9jRFBmUWZOTWdDVTJBc0dqWVJobVE5UVB0Yy1ObnZpeGdLZ3JtVm9kNTRSclBZbE1oMHoxOVV5YzdFQUYtTGExd1IxNXU1bUM0U0QyeTVWc3Mwd0hrR3pLM3BPV0VzUUV3eXJHdVlrcTEzdkRWSlFOdXBKSzE2RjdDcUppNWhsQmtlY2h6?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-12-023",
+    "date": "2026-08-12",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Unlimited long duration, long-lived pumped hydro storage",
+    "summary": "Solar- and wind-dominated grids need abundant long-duration storage, and off-river pumped hydro offers enormous potential, with 800,000 sites worldwide and storage capacity vastly exceeding global req",
+    "sources": [
+      {
+        "name": "pv_magazine_usa",
+        "url": "https://pv-magazine-usa.com/2026/08/12/unlimited-long-duration-long-lived-pumped-hydro-storage/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-12-024",
+    "date": "2026-08-12",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "[Watch] Comstock Metals starts up Nevada solar panel recycling plant - Recycling Today",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxPTDhTZlRaUzUwbmM4S0JlbWN5QjZCcXF2X0RnaXAtVy1JWEl6T0FDNWZEcUk5ZmF4UnJ1LXhmcmdhaC1PTDFiYTBBRElveHVKcHVtYTNnd3IwVnV6ZFpPM1owWE85WVAxU2QtWkUzRk",
+    "sources": [
+      {
+        "name": "google_news_solar",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPTDhTZlRaUzUwbmM4S0JlbWN5QjZCcXF2X0RnaXAtVy1JWEl6T0FDNWZEcUk5ZmF4UnJ1LXhmcmdhaC1PTDFiYTBBRElveHVKcHVtYTNnd3IwVnV6ZFpPM1owWE85WVAxU2QtWkUzRkxlMWowUTY3ODdJNGVZSjdtWlM5TVljSU1FTF9fM3FZWjR6bzhfNGRKN1BoeXoyZw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-12-025",
+    "date": "2026-08-12",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Biosolar roof boosts energy output, reduces urban heat: Study - Interesting Engineering",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxOd1BiYlNMN18tR2JsbUwyeTlkTXB0RTRkUDhrME9xdXNiVWRtSDlnTUJUd1p0cFBPS0Z2MnFrWGVmMmVaTDhxR1JaWWdjX0V0cUlQby1WUkFzbEl1TFhadDh2T3dVQjQydHNLU19mNl",
+    "sources": [
+      {
+        "name": "google_news_solar",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOd1BiYlNMN18tR2JsbUwyeTlkTXB0RTRkUDhrME9xdXNiVWRtSDlnTUJUd1p0cFBPS0Z2MnFrWGVmMmVaTDhxR1JaWWdjX0V0cUlQby1WUkFzbEl1TFhadDh2T3dVQjQydHNLU19mNlI5RGFTcEE1S1lLUHEzQXNuWA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-12-026",
+    "date": "2026-08-12",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "The Solar Dilemma: Build Local Or Buy Cheap From Overseas? - Forbes",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxQRmhDcFZ2Q2RzM1JqUXFKUlJsQTZ6aDFtZnMzQjV5am1fUUdneVR0QzFwZk9rajhmUmoxZEtkYldKZVRfY0ZOZkdhbVV1VGpYNTYyZHhXYVJaTTlBVUhoQ0lfcmItSEJCNWo1TXJ0eU",
+    "sources": [
+      {
+        "name": "google_news_solar",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQRmhDcFZ2Q2RzM1JqUXFKUlJsQTZ6aDFtZnMzQjV5am1fUUdneVR0QzFwZk9rajhmUmoxZEtkYldKZVRfY0ZOZkdhbVV1VGpYNTYyZHhXYVJaTTlBVUhoQ0lfcmItSEJCNWo1TXJ0eUdmbl9qeDRDeE5RUkNKSElDd25QRTctdUZtdGlTSThGV3VWS1VnNk9MUXhGajBjSjR4MmdfNWttb3dBeWF1LXBHOWpR?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-12-027",
+    "date": "2026-08-12",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "‘One step forward, one step back’ – clean energy jobs growth stifled by canceled projects",
+    "summary": "Thousands of clean energy jobs were created, but project cancellations offset gains, according to advocacy group E2 and Atlas Public Policy.",
+    "sources": [
+      {
+        "name": "renewableenergyw",
+        "url": "https://www.renewableenergyworld.com/energy-business/one-step-forward-one-step-back-clean-energy-jobs-growth-stifled-by-canceled-projects/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-12-028",
+    "date": "2026-08-12",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Case study: Preparing to power data-driven demand with solar and storage at the Appledale Energy Center",
+    "summary": "Global engineering consulting firm RINA was engaged by Hawthorne Renewable Energy to support the development of a planned 300 MW solar project combined with a 4-hour, 300 MW battery energy storage sys",
+    "sources": [
+      {
+        "name": "renewableenergyw",
+        "url": "https://www.renewableenergyworld.com/solar/case-study-preparing-to-power-data-driven-demand-with-solar-and-storage-at-the-appledale-energy-center/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-12-029",
+    "date": "2026-08-12",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Northwest Ohio community saves land space by siting solar project on reservoir",
+    "summary": "<p>It&#8217;s only Wednesday, and it&#8217;s already been a week of wild weather that won&#8217;t soon be forgotten in Ohio. Intense thunderstorms have reached every corner of the state, and strong wi",
+    "sources": [
+      {
+        "name": "solar_power_world",
+        "url": "https://www.solarpowerworldonline.com/2026/08/northwest-ohio-community-saves-land-space-by-siting-solar-project-on-reservoir/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-12-030",
+    "date": "2026-08-12",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Field lessons from a multi-platform solar portfolio",
+    "summary": "<p>In commercial and industrial solar PV work, the mounting surface is rarely the engineer&#8217;s choice. Factors of geometry, land availability, shading and budget affect that determination, and the",
+    "sources": [
+      {
+        "name": "solar_power_world",
+        "url": "https://www.solarpowerworldonline.com/2026/08/field-lessons-from-a-multi-platform-solar-portfolio/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-12-031",
+    "date": "2026-08-12",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "1,200-MWh energy storage project comes online for PG&E",
+    "summary": "<p>Arevon Energy has brought online the 300-MW/1,200-MWh Nighthawk Energy Storage Project in Poway, California. Nighthawk is the largest standalone battery storage project in the company’s portfolio. ",
+    "sources": [
+      {
+        "name": "solar_power_world",
+        "url": "https://www.solarpowerworldonline.com/2026/08/1200-mwh-energy-storage-project-comes-online-for-pge/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-12-032",
+    "date": "2026-08-12",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "PVFARM launches utility-scale BESS project layout platform",
+    "summary": "<p>PVFARM is now in the energy storage design game after launching the commercial version of its platform for utility-scale battery energy storage (BESS) layout exploration, RE STACK. Together with th",
+    "sources": [
+      {
+        "name": "solar_power_world",
+        "url": "https://www.solarpowerworldonline.com/2026/08/pvfarm-launches-utility-scale-bess-project-layout-platform/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-12-033",
+    "date": "2026-08-12",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Sonoma State University powers on solar carports and battery storage",
+    "summary": "<p>TotalEnergies has completed a 4.1-MW solar and 1.55-MWh battery storage project at Sonoma State University (SSU), one of the largest solar plus battery systems in Sonoma County, California. Driven ",
+    "sources": [
+      {
+        "name": "solar_power_world",
+        "url": "https://www.solarpowerworldonline.com/2026/08/sonoma-state-university-powers-on-solar-carports-and-battery-storage/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "sungrow-2026-08-12-034",
+    "date": "2026-08-12",
+    "companies": [
+      "sungrow"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Sungrow provides BESS to Verano Energy’s 606MWh Chilean hybrid project",
+    "summary": "Independent power producer (IPP) Verano Energy has awarded the battery energy storage system (BESS) supply for its 152MW/606MWh Observatorio project to Sungrow.",
+    "sources": [
+      {
+        "name": "energy_storage_news",
+        "url": "https://www.energy-storage.news/sungrow-provides-bess-to-verano-energys-606mwh-chilean-hybrid-project/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-12-035",
+    "date": "2026-08-12",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Acciona Energía to add 33MW/66MWh BESS in Spain",
+    "summary": "Spanish renewables developer Acciona Energía has unveiled plans to install two battery energy storage systems (BESS).",
+    "sources": [
+      {
+        "name": "energy_storage_news",
+        "url": "https://www.energy-storage.news/acciona-energia-to-add-33mw-66mwh-bess-in-spain/",
         "type": "rss"
       }
     ]
@@ -1149,6 +1791,63 @@
     ]
   },
   {
+    "id": "trina-2026-08-11-045",
+    "date": "2026-08-11",
+    "companies": [
+      "trina"
+    ],
+    "topics": [
+      "installation_demand",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Trinasolar and Spear Commercial Complete Unique 1.3 MW Rooftop and Carport Solar Installation for Drake Plastics - GlobeNewswire",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgJBVV95cUxOMUN0YXpjb3J0QkNaa1ppZ3k4Z2hraHJ4M3EycnFGTGdtT3FZbmluM0xCcThjQmM4eXg3N1dsWjFWSTFuUnplRGU0akZPelBBXzRaYTlzQzBQVU5teTNmUEVPM3ZvRVVvNktFdFc0RE",
+    "sources": [
+      {
+        "name": "trina",
+        "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxOMUN0YXpjb3J0QkNaa1ppZ3k4Z2hraHJ4M3EycnFGTGdtT3FZbmluM0xCcThjQmM4eXg3N1dsWjFWSTFuUnplRGU0akZPelBBXzRaYTlzQzBQVU5teTNmUEVPM3ZvRVVvNktFdFc0REIyeGZtOVVITm1fdGE5XzNxdEc1NjI0NGlpcHEwODVhQ3U5WlhHU3R5TFE0WjFmdkptZFhtNjZoU1NsRVg1LXlOQ2pQMWJ2T0RwM1lCaG5QQUxySEQwVXVaZi1CZlp5LUZ4VEk5UTFQUWVaZlp6WE5aOHkwbWNxNXg0d3loQTBEQlhHY1RfOXJ1OVRLMFY0Vnp5cDRNQURiUE1lV2NHZ3FXc3hR?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-11-046",
+    "date": "2026-08-11",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Europe's power grids braced for eclipse with extensive backup plans - Reuters",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxOemV5Slg1OWlWNHJjQjhuYUdLVmFjakNKeU5TZjNHb0t4QUtpY2JnXzBsVjFlTFhkcDdncFdEanRMbS1TQnktMWhpcDBvSXFCX1RDWnNNSkcyUGlUSGs0RFp5STg5U01fYzQ1YU9MeG",
+    "sources": [
+      {
+        "name": "google_news_solar",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOemV5Slg1OWlWNHJjQjhuYUdLVmFjakNKeU5TZjNHb0t4QUtpY2JnXzBsVjFlTFhkcDdncFdEanRMbS1TQnktMWhpcDBvSXFCX1RDWnNNSkcyUGlUSGs0RFp5STg5U01fYzQ1YU9MeGh5M29tQm1IVG96SkM0MXhGY3ozWUJwTklPcXVpeVVIZ3lYbUJSQ3RCZUtYR1daQlVqbnBfYUZhMV9OWlZpbXZlM1hvRXo?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-11-047",
+    "date": "2026-08-11",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Solar industry grapples with cutting its growing waste stream - Reuters",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxOOWdfNXZOd05FOEthTVh5a0RnVmhJTWdJRzNwbzlDOHJMTW1mVjJOVGhiSE9QaXhuc2JyMW1lSEd3ZW5XVkd5Mk5CdmZLeUJkVFB2WWFLTFdMVVlKNzNZOWVfajRSVl96Yk5qNEpxQX",
+    "sources": [
+      {
+        "name": "google_news_solar",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOOWdfNXZOd05FOEthTVh5a0RnVmhJTWdJRzNwbzlDOHJMTW1mVjJOVGhiSE9QaXhuc2JyMW1lSEd3ZW5XVkd5Mk5CdmZLeUJkVFB2WWFLTFdMVVlKNzNZOWVfajRSVl96Yk5qNEpxQXRFOFRoX01kTDloYUZpQlFrNDc1YmlBZ21nem5Na0plS2ttRGdZWmxxT1hmUWZfbjFXWGlHcHNfcEh5ZnV2NERHYVhDYmI2TDhTcXEw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "trina-2026-08-10-001",
     "date": "2026-08-10",
     "companies": [
@@ -1872,6 +2571,26 @@
       {
         "name": "renewableenergyw",
         "url": "https://www.renewableenergyworld.com/solar/case-study-solar-on-the-reservoir-engineering-tank-mounted-pv-for-municipal-water-systems/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "trina-2026-08-10-040",
+    "date": "2026-08-10",
+    "companies": [
+      "trina"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "A group of undisclosed buyers agreed to acquire 1.70% stake in Trina Solar Co., Ltd. for approximately CNY 460 million. - marketscreener.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxNWUJpV2JZQ2FCM0JTNGJIU0ZPVDlSYzJnYmt6dGp0RTF6bnVoQzdybFNZR0xPUzQ4aXlQbmFiR2tCUFhCYnlxM0Y5Y0RGRDVaVV9tQ3p3YUlYQUl4eFltNnBEX3ItaF9fYllIQmJORV",
+    "sources": [
+      {
+        "name": "trina",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNWUJpV2JZQ2FCM0JTNGJIU0ZPVDlSYzJnYmt6dGp0RTF6bnVoQzdybFNZR0xPUzQ4aXlQbmFiR2tCUFhCYnlxM0Y5Y0RGRDVaVV9tQ3p3YUlYQUl4eFltNnBEX3ItaF9fYllIQmJORVh5NnBsaEFlZUVLR1lQOFVQOVVvc1MxYWlyQVVSYWtzMk1RZWV1RUJWNUduR2QxNjBMblc0REl4NW5ObExBdXk0Vmd0QnN6QUltMW9JV1RndzIxWTA?oc=5",
         "type": "rss"
       }
     ]
@@ -3204,6 +3923,25 @@
       {
         "name": "array",
         "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPbWw2XzRRdUhxSzM2bGZ0bzlXZl9qUzhicTF1Z0J6NXE2bmlEWUJCRjVMeWJQbHNTbFFWaENiamdUaWVsWmIwMHc2Rlp5VU5BS2VsV2l0UVRLREZEVVlEYm9NUGF1SEt0NGRuT2tHVWxLQklUdGNURzNqUzI4OGV1Rjc0cUphbENNWVhpNVFQZzM1ZkhteWE5dlg3bHpmRFEyZ2ZUeWFvZ1BKRXNmbUs1dGVOU0kxLWEzZkUtN3hn?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-07-051",
+    "date": "2026-08-07",
+    "companies": [],
+    "topics": [
+      "trade_tariff",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Trump launched big new solar tariffs. Here’s what it means. - canarymedia.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE5ScW42VWQwdF9ncXZsdDJxdEU1TWU2RjExTjVyS3U2aUVlYndueFc4ZFBENlgzU1lQQm1LMVVkc3YwS3padGx2N0N6N0JNTHlRRzNWdEgya1RYTGN5a2k0d21mWEVBazhVbFh6a0NqbE",
+    "sources": [
+      {
+        "name": "google_news_solar_trade",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5ScW42VWQwdF9ncXZsdDJxdEU1TWU2RjExTjVyS3U2aUVlYndueFc4ZFBENlgzU1lQQm1LMVVkc3YwS3padGx2N0N6N0JNTHlRRzNWdEgya1RYTGN5a2k0d21mWEVBazhVbFh6a0NqbEhwSmdy?oc=5",
         "type": "rss"
       }
     ]
@@ -4789,6 +5527,25 @@
       {
         "name": "google_news_solar_trade",
         "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQVHo3TzdXT2NRVmFWeEd0Y1JjaFJPbjBZWnZ2b2hKcGxDNHZjb3ZoWS1ZZElGMGplSVhIUEZ3WEQ0cTd6R1haV2NseVVLWGpfMF9ZbDIySkg3Vm1KUlBKejRibkFYZWFzMzYyRVZiWHZuVHdSZndpVHVYbEVJNEtTdEZwZkNsZzBxWi1JTlVkQ2Z3ME5Td1EwUUZaQlM3M2VqS2xkV1Q4RjR4aXppTTVReUl3UnI?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-06-085",
+    "date": "2026-08-06",
+    "companies": [],
+    "topics": [
+      "trade_tariff",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Trump to Impose 15% Tariff, Set Minimum Prices on Solar Panels and Components - WSJ",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxPS1pzc3VGczBLMk1abjZhQXdKWUNMbXoxUlhkWmFyc2ZCUjg2SFVtNnltdzIwcEtDMDg0SDg4bWRzU2RNN25SMGN6TzNTdVVtdmVzdjVtcnRIZi00dFFUQ20xZHdUdDhCdkQxRGh2ZE",
+    "sources": [
+      {
+        "name": "google_news_solar_trade",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPS1pzc3VGczBLMk1abjZhQXdKWUNMbXoxUlhkWmFyc2ZCUjg2SFVtNnltdzIwcEtDMDg0SDg4bWRzU2RNN25SMGN6TzNTdVVtdmVzdjVtcnRIZi00dFFUQ20xZHdUdDhCdkQxRGh2ZE1XTk1LSmdCazBCYWZ4SGNGRjdrdU85NDhlUWRRVDg4QU1YZXNEVXQyaHFqdk1EMnN4V3h6TXMxRUJRQWo0a3RwQ0x0R1k0RjlZOUE?oc=5",
         "type": "rss"
       }
     ]
