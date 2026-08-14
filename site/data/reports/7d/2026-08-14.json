@@ -1,0 +1,136 @@
+{
+  "date": "2026-08-14",
+  "date_range": {
+    "start": "2026-08-08",
+    "end": "2026-08-14"
+  },
+  "generated_at": "2026-08-14T08:57:34.150842Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "jinko-2026-08-12-008",
+      "date": "2026-08-12",
+      "title": "European Patent Office revokes Hanwha’s long-disputed passivation patent",
+      "importance_score": 0.7
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "industry_general": {
+      "this_week": 81,
+      "last_week": 81,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.07
+    },
+    "grid_parity": {
+      "this_week": 1,
+      "last_week": 1,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    },
+    "installation_demand": {
+      "this_week": 4,
+      "last_week": 2,
+      "week_over_week_change": "+100%",
+      "sentiment_this_week": 0.44
+    },
+    "trade_tariff": {
+      "this_week": 3,
+      "last_week": 2,
+      "week_over_week_change": "+50%",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "trina": {
+      "event_count": 2,
+      "sentiment_avg": -0.25,
+      "rank": 3
+    },
+    "jinko": {
+      "event_count": 7,
+      "sentiment_avg": 0.14,
+      "rank": 1
+    },
+    "xinyi_solar": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 4
+    },
+    "longi": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 2
+    },
+    "sungrow": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 5
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 209,
+        "last": 329,
+        "change_pct": -36.5
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-08-08",
+      "event_count": 13,
+      "sentiment_avg": 0.04
+    },
+    {
+      "date": "2026-08-09",
+      "event_count": 8,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-08-10",
+      "event_count": 40,
+      "sentiment_avg": -0.01
+    },
+    {
+      "date": "2026-08-11",
+      "event_count": 47,
+      "sentiment_avg": 0.11
+    },
+    {
+      "date": "2026-08-12",
+      "event_count": 35,
+      "sentiment_avg": 0.03
+    },
+    {
+      "date": "2026-08-13",
+      "event_count": 51,
+      "sentiment_avg": 0.05
+    },
+    {
+      "date": "2026-08-14",
+      "event_count": 15,
+      "sentiment_avg": 0.18
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-08-08 ~ 2026-08-14）共 209 則事件，重點為「European Patent Office revokes Hanwha’s long-di...」。事件量較上週減少，市場進入觀望階段。",
+    "watchlist": [
+      {
+        "company": "天合光能",
+        "reason": "本週情緒偏負面（-0.2），共 2 則相關事件，需關注後續發展。"
+      },
+      {
+        "company": "晶科能源",
+        "reason": "本週出現 7 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "隆基綠能",
+        "reason": "本週出現 3 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

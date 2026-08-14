@@ -1,0 +1,16 @@
+{
+  "total_raw": 465,
+  "dup_title": 200,
+  "no_date": 0,
+  "too_old": 162,
+  "gate1_fail": 49,
+  "gate2_fail": 6,
+  "passed": 48,
+  "gate2_samples": [
+    "Daqo New Energy Schedules August 20 Release of Q2 2026 Results - The Globe and Mail",
+    "DAQO New Energy Corp. (NYSE:DQ) Receives Average Recommendation of \"Hold\" from Brokerages - MarketBe",
+    "Why LONGi Green Energy's \"Anti-Involution\" Market Value Management Strategy Failed: Key Reasons & Le",
+    "Array Technologies (ARRY): Hill City Capital group discloses 8.4% ownership position - Stock Titan",
+    "Goldman Sachs Sticks to Its Buy Rating for Array Technologies (ARRY) - The Globe and Mail"
+  ]
+}
