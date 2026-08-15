@@ -1,5 +1,41 @@
 [
   {
+    "id": "unknown-2026-08-15-001",
+    "date": "2026-08-15",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Making the data center business case",
+    "summary": "<p>A data center can be built in 18 to 24 months, but connecting it to the grid is another matter, writes Laura Hoffmann-Ostenhof, Europe industry lead at modeling software supplier Gridcog. Across Eu",
+    "sources": [
+      {
+        "name": "pv_magazine",
+        "url": "https://www.pv-magazine.com/2026/08/15/making-the-data-center-business-case/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-15-002",
+    "date": "2026-08-15",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "More Renewables Lead To Lower Demand For Methane In Europe",
+    "summary": "<p>There&#8217;s a line in a Bruce Springsteen song that goes like this: &#8220;Foreman says these jobs are going, and they ain&#8217;t comin&#8217; back.&#8221; Something similar is happening to dema",
+    "sources": [
+      {
+        "name": "cleantechnica",
+        "url": "https://cleantechnica.com/2026/08/14/more-renewables-lead-to-lower-demand-for-methane-in-europe/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "jinko-2026-08-14-001",
     "date": "2026-08-14",
     "companies": [
@@ -271,6 +307,566 @@
       {
         "name": "cleantechnica",
         "url": "https://cleantechnica.com/2026/08/13/transparency-accountability-needed-in-open-ai-contract-with-georgia-power/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "xinyi_solar-2026-08-14-016",
+    "date": "2026-08-14",
+    "companies": [
+      "xinyi_solar"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Xinyi Solar Says Chu Charn Fai To Retire As Executive Director - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxPTTgzLVREM1VfN3doZkQ3ZWhOalYyMGRlcVliTTJsY3hyT0s4SEp5QlVvOUtZVnRyeks4YWc4cU0tQ0JfZ2ctRTQ5aDJnUjVNUTdLd0Z6dEtzSzhOZHpxT29kZWdFcHYyNmw2WWhyek",
+    "sources": [
+      {
+        "name": "xinyi_solar",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPTTgzLVREM1VfN3doZkQ3ZWhOalYyMGRlcVliTTJsY3hyT0s4SEp5QlVvOUtZVnRyeks4YWc4cU0tQ0JfZ2ctRTQ5aDJnUjVNUTdLd0Z6dEtzSzhOZHpxT29kZWdFcHYyNmw2WWhyekRMa2R1aF9meEk3Z3p6cDNUX1M5RXZ4TmlibWFNVnAzRlVWZjFYZnVsWEN4bHdGUGtrakVBZElrRzFaVFpuUkVlMEhqM2dSb0ZXMEoyb053dFlGRzh6eXBvazE4UFk?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "meyer_burger-2026-08-14-017",
+    "date": "2026-08-14",
+    "companies": [
+      "meyer_burger"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Meyer Burger Technology (MYBUF) Q4 2023 Earnings Report - Results, Call & Slides - TipRanks",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxQUW94Q2lxUTFtdVZweUpzLXlTaWluVjlBMXB6QzhLYktvZ3VFVFUwLU53UzNDOVI0RjV5TnIwbFgzZzlCSXV1QjZFSnhIWU9pQ1Y1RENOM3hBRTc0RTZpc29oNTV0YkpGTzNGbUhNdX",
+    "sources": [
+      {
+        "name": "meyer_burger",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQUW94Q2lxUTFtdVZweUpzLXlTaWluVjlBMXB6QzhLYktvZ3VFVFUwLU53UzNDOVI0RjV5TnIwbFgzZzlCSXV1QjZFSnhIWU9pQ1Y1RENOM3hBRTc0RTZpc29oNTV0YkpGTzNGbUhNdXFqVEQ2QVBwZ1dPZ0hQS09GaHVn?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "meyer_burger-2026-08-14-018",
+    "date": "2026-08-14",
+    "companies": [
+      "meyer_burger"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Meyer Burger Technology (MYBUF) Q2 2024 Earnings Report - Results, Call & Slides - TipRanks",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTFBsVXJtR0g3Nl9VMjFNODkyN3dfYjlPNWw3NkN2Ym9CTlV3Q25GZXdvQUdRZWFZelpaM1Fqa0ZCSm51WWsxc3lYWXlIc1pGdnd2azNYaWpkbHoxWVpSbzAyTU0tWWhJUTdQUm1IYUxn?o",
+    "sources": [
+      {
+        "name": "meyer_burger",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBsVXJtR0g3Nl9VMjFNODkyN3dfYjlPNWw3NkN2Ym9CTlV3Q25GZXdvQUdRZWFZelpaM1Fqa0ZCSm51WWsxc3lYWXlIc1pGdnd2azNYaWpkbHoxWVpSbzAyTU0tWWhJUTdQUm1IYUxn?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "trina-2026-08-14-019",
+    "date": "2026-08-14",
+    "companies": [
+      "trina"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Trina Solar Launches Typhoon-Resistant PV Modules - mvapulse.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxQZTNqWlFwWFE1eHVfd0JZcVdkakpTZkExYTR4ZnB0YXpjTGdUTUgyMWczZ0pvMkdxZ0xnQU5LZTJYcTNYajFWczlMMExuUkh6dkpPT0V1OHU1d0kyVV8yUXV0SmRsLVNQRlBSQ3R3N1",
+    "sources": [
+      {
+        "name": "trina",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQZTNqWlFwWFE1eHVfd0JZcVdkakpTZkExYTR4ZnB0YXpjTGdUTUgyMWczZ0pvMkdxZ0xnQU5LZTJYcTNYajFWczlMMExuUkh6dkpPT0V1OHU1d0kyVV8yUXV0SmRsLVNQRlBSQ3R3N1c0eng0QXY1dTdjTUdqVWtWWA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "jinko-2026-08-14-020",
+    "date": "2026-08-14",
+    "companies": [
+      "jinko"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "JinkoSolar to Report Second Quarter 2026 Results on August 26, 2026 - Yahoo Finance Singapore",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxPVmp4Uk9qLUUzYnRuMW5jaHBPTjVuQWRsbGh0aUppYnFuME5ycU1MNHJheVkyenRxSk14YW5DX0k0aC1UbnNmNzh2dUxfQWc1MnZvUVItNUZQNVRWLUNqUlMzdHNBb0x6S0ZPUnVSa3",
+    "sources": [
+      {
+        "name": "jinko",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPVmp4Uk9qLUUzYnRuMW5jaHBPTjVuQWRsbGh0aUppYnFuME5ycU1MNHJheVkyenRxSk14YW5DX0k0aC1UbnNmNzh2dUxfQWc1MnZvUVItNUZQNVRWLUNqUlMzdHNBb0x6S0ZPUnVSa3Vya2pkS3h6YVZINFpoNkQwNWpha3poX0xaQ0FPRmwxdw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "jinko-2026-08-14-021",
+    "date": "2026-08-14",
+    "companies": [
+      "jinko"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "JinkoSolar (NYSE: JKS) schedules Q2 2026 earnings release and call for Aug. 26 - Stock Titan",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxQWkpKZ1lUdDMzRi0wcHhydlhPWF9RWFc3bUVZLVF0S0hLZ1E2YXhmTV95MzhfQVhWMjRNSjNIZm5EaTV4VG5Sc2czcmtRVjU3Q2lpSjBOSFNPY0hVYTRLNDVFcVpPa0F1R3V0cmZTWm",
+    "sources": [
+      {
+        "name": "jinko",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQWkpKZ1lUdDMzRi0wcHhydlhPWF9RWFc3bUVZLVF0S0hLZ1E2YXhmTV95MzhfQVhWMjRNSjNIZm5EaTV4VG5Sc2czcmtRVjU3Q2lpSjBOSFNPY0hVYTRLNDVFcVpPa0F1R3V0cmZTWm5CTVg0SVdSYmVTQWlYa2I2OTlUdTJtMUdIUlExOWloRjJLRXBiOG96UlVPWUM0QlZsTmlFbFplZlhtQVcwNk82RFVXU3hqX1pDc1hid2xR?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "jinko-2026-08-14-022",
+    "date": "2026-08-14",
+    "companies": [
+      "jinko"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "JinkoSolar schedules Aug. 26 earnings call at 8:30 a.m. - Stock Titan",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxPZWpxQVpGaFFfY09sUUlCN3RobWZHbk92MTdyQU5BMUxoWldkMFUwOXFFb3M5Wm1iNGd4YmwwR0ozdlFhQnhhbGl5Y1ZTY3NkMTUxYzduWjk5T1dCejhNek5lMVRtMDNKWVlGMnV6Zl",
+    "sources": [
+      {
+        "name": "jinko",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPZWpxQVpGaFFfY09sUUlCN3RobWZHbk92MTdyQU5BMUxoWldkMFUwOXFFb3M5Wm1iNGd4YmwwR0ozdlFhQnhhbGl5Y1ZTY3NkMTUxYzduWjk5T1dCejhNek5lMVRtMDNKWVlGMnV6Zl8xMlJyZ25obHl5MHJXV0VBZ0xqSGRsNEdaN0RmRkxQbGtmbV80bmdhTmRabFZyZ2pFUU83dzZqaDF5OFVsUGdkWm1Md0tkWXM?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "jinko-2026-08-14-023",
+    "date": "2026-08-14",
+    "companies": [
+      "jinko"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "JinkoSolar to release Q2 2026 earnings on Augus... - Pluang",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE5XeUY3Ui02cmJQcGQtdXZXTGlGTDJWRjNfQlFhNmMxSTVJQkNqMU9sdk9qaWZMcXpOSUliRU1vN1Z2RVBpMTk0cHlkSzR4MUlZS19zRW13YWRpeXlKVGtBYTNXTWw5MjlhWGU4Z043aF",
+    "sources": [
+      {
+        "name": "jinko",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5XeUY3Ui02cmJQcGQtdXZXTGlGTDJWRjNfQlFhNmMxSTVJQkNqMU9sdk9qaWZMcXpOSUliRU1vN1Z2RVBpMTk0cHlkSzR4MUlZS19zRW13YWRpeXlKVGtBYTNXTWw5MjlhWGU4Z043aFFGbV9fU2lPRUNjczM?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "array-2026-08-14-024",
+    "date": "2026-08-14",
+    "companies": [
+      "array"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "T. Rowe Price Associates (ARRY) discloses 5.6% ownership in Array Technologies common stock - Stock Titan",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxPMTNfQktxeFNLVzBMbUpBd3FMbXo2bTh2LUN1b1VQcTFLcGhtQ2hOTzVlZmwydGZxVHY0VFc2QjUyTlFsVkxkX0pFd2RHa0djdzBLV01yNFJvV2RPUTBSQ3Nva1Y0TExuV3N3eFRuSG",
+    "sources": [
+      {
+        "name": "array",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPMTNfQktxeFNLVzBMbUpBd3FMbXo2bTh2LUN1b1VQcTFLcGhtQ2hOTzVlZmwydGZxVHY0VFc2QjUyTlFsVkxkX0pFd2RHa0djdzBLV01yNFJvV2RPUTBSQ3Nva1Y0TExuV3N3eFRuSGlwMGtNNmdvVzRpRERUWmVNc1BHV1VIa01vRVFzTTRwWkxmcXl3d3hFaE1LOUF1dXlPWUpucVFoaDZMODFFRkV2Z3ViU2pwaC1takxNTlFwZGd0TzgtZVNNMw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-14-025",
+    "date": "2026-08-14",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "The Hydrogen Stream: Commissioning begins for 2.2 GW Neom H2 project in Saudi Arabia",
+    "summary": "<p>In other news, the Schleswig-Holstein Ministry of Energy Transition reportedly confirmed the cancellation of the 2.1 GW HyScale 100 electrolyzer project at a German refinery, with a lack of plannin",
+    "sources": [
+      {
+        "name": "pv_magazine",
+        "url": "https://www.pv-magazine.com/2026/08/14/the-hydrogen-stream-commissioning-begins-for-2-2-gw-neom-h2-project-in-saudi-arabia/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-14-026",
+    "date": "2026-08-14",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "When heat becomes a stress test: What extreme temperatures mean for photovoltaic systems and battery storage",
+    "summary": "<p>Photovoltaics rely on sunlight. Battery storage systems rely on absorbing and releasing energy precisely when the power grid needs it. Both sound like an ideal combination for hot summer days: plen",
+    "sources": [
+      {
+        "name": "pv_magazine",
+        "url": "https://www.pv-magazine.com/2026/08/14/when-heat-becomes-a-stress-test-what-extreme-temperatures-mean-for-photovoltaic-systems-and-battery-storage/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-14-027",
+    "date": "2026-08-14",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "KIT develops hybrid solar system with radiative cooling",
+    "summary": "<p>KIT researchers have developed a hybrid system that combines photovoltaics and passive radiative cooling to simultaneously generate electricity, heat, and cooling from a single surface. A prototype",
+    "sources": [
+      {
+        "name": "pv_magazine",
+        "url": "https://www.pv-magazine.com/2026/08/14/kit-develops-hybrid-solar-system-with-radiative-cooling/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tongwei-2026-08-14-028",
+    "date": "2026-08-14",
+    "companies": [
+      "tongwei",
+      "trina",
+      "longi"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Chinese PV Industry Brief: Longi plans 100 MW perovskite-silicon tandem solar cell pilot line",
+    "summary": "<p>In other news, Tongwei advanced its planned acquisition of polysilicon maker Lihao Clean Energy to the final negotiation stage, while Trina Solar outlined plans for THBC mass production in H2 2026 ",
+    "sources": [
+      {
+        "name": "pv_magazine",
+        "url": "https://www.pv-magazine.com/2026/08/14/chinese-pv-industry-brief-longi-plans-100-mw-perovskite-silicon-tandem-solar-cell-pilot-line/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-14-029",
+    "date": "2026-08-14",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "What makes women join, stay and progress in Solar+?",
+    "summary": "<p>This week, Women in Solar+ Europe (WiSEu) announces its first contribution to SolarPower Europe’s Solar Jobs Report 2026. The article will explore women’s representation across the Solar+ industrie",
+    "sources": [
+      {
+        "name": "pv_magazine",
+        "url": "https://www.pv-magazine.com/2026/08/14/what-makes-women-join-stay-and-progress-in-solar/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-14-030",
+    "date": "2026-08-14",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "DEWA study assesses PV cleaning robot performance and safety",
+    "summary": "<p>A research from Dubai Electricity and Water Authority have evaluated five autonomous PV cleaning robots under desert conditions. The researchers found cleaning efficiencies of 69% to 99%, while als",
+    "sources": [
+      {
+        "name": "pv_magazine",
+        "url": "https://www.pv-magazine.com/2026/08/14/dewa-study-assesses-pv-cleaning-robot-performance-and-safety/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-14-031",
+    "date": "2026-08-14",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "PVFarm rolls out RE STACK software for utility-scale BESS planning",
+    "summary": "<p>The new tool works across geographies, manufacturer, and sites, and is design to make site planning both faster and comprehensive. </p>\n<p>The post <a href=\"https://www.pv-magazine.com/2026/08/14/p",
+    "sources": [
+      {
+        "name": "pv_magazine",
+        "url": "https://www.pv-magazine.com/2026/08/14/pvfarm-rolls-out-re-stack-software-for-utility-scale-bess-planning/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-14-032",
+    "date": "2026-08-14",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "Partial U.S. eclipse produced similar daily solar energy losses to higher-obscuration European locations",
+    "summary": "<p>In a new weekly update for <b>pv magazine</b>, Solcast, a DNV company, reports that the Aug. 12 solar eclipse caused highly variable irradiance losses across Europe and North America, shaped by obs",
+    "sources": [
+      {
+        "name": "pv_magazine",
+        "url": "https://www.pv-magazine.com/2026/08/14/partial-u-s-eclipse-produced-similar-daily-solar-energy-losses-to-higher-obscurationeuropean-locations/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-14-033",
+    "date": "2026-08-14",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Vikram Solar inaugurates 6 GW solar PV module factory in India",
+    "summary": "<p>Vikram Solar has inaugurated a 6 GW solar PV module manufacturing plant at Gangaikondan in Tirunelveli district, Tamil Nadu. Following the commissioning of the new production line, the company's to",
+    "sources": [
+      {
+        "name": "pv_magazine",
+        "url": "https://www.pv-magazine.com/2026/08/14/vikram-solar-inaugurates-6-gw-solar-pv-module-plant-at-gangaikondan/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-14-034",
+    "date": "2026-08-14",
+    "companies": [],
+    "topics": [
+      "trade_tariff",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Section 232 minimum import prices force foreign solar to match U.S. production costs",
+    "summary": "The Trump Administration has unveiled a comprehensive Section 232 trade framework on polysilicon and downstream solar components, establishing stage-by-stage import price floors and a 15% tariff to fo",
+    "sources": [
+      {
+        "name": "pv_magazine_usa",
+        "url": "https://pv-magazine-usa.com/2026/08/14/section-232-minimum-import-prices-force-foreign-solar-to-match-u-s-production-costs/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-14-035",
+    "date": "2026-08-14",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Noon Energy, Sabanci Renewables ink JV for 1 GW long-duration storage for AI data centers",
+    "summary": "‘Ultra‑LDES’ venture targets 1 GW of multi‑day storage to power AI computing demand.",
+    "sources": [
+      {
+        "name": "pv_magazine_usa",
+        "url": "https://pv-magazine-usa.com/2026/08/14/noon-energy-sabanci-renewables-ink-jv-for-1-gw-long-duration-storage-for-ai-data-centers/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-14-036",
+    "date": "2026-08-14",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Velotric Nomad 2 e-bike new 1,749 low, Greenworks 60V 54-inch MaximusZ mower bundle low, Anker SOLIX, Segway, more",
+    "summary": "<div class=\"feat-image\"><img src=\"https://electrek.co/wp-content/uploads/sites/3/2026/08/Velotric-Greenworks-Anker-SOLIX-Segway-GDs-FI.jpg?quality=82&#038;strip=all&#038;w=1600\" /></div><p class=\"wp-b",
+    "sources": [
+      {
+        "name": "electrek_solar",
+        "url": "https://electrek.co/2026/08/14/velotric-nomad-2-e-bike-greenworks-60v-54-inch-maximusz-mower-anker-solix-segway-more/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-14-037",
+    "date": "2026-08-14",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "The draconian New Jersey e-bike laws had exactly the effect everyone feared",
+    "summary": "<div class=\"feat-image\"><img src=\"https://electrek.co/wp-content/uploads/sites/3/2026/08/segway-xyber-air-cute-girl-e-bike-header-1.jpg?quality=82&#038;strip=all&#038;w=1600\" /></div><p class=\"wp-bloc",
+    "sources": [
+      {
+        "name": "electrek_solar",
+        "url": "https://electrek.co/2026/08/14/the-draconian-new-jersey-e-bike-laws-had-exactly-the-effect-everyone-feared/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-14-038",
+    "date": "2026-08-14",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "New Hampshire to allow balcony solar starting January 2027 - Valley News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE9Cb3ZNT1I0NE1oZEdvTFlfb2xVWlJHdWN6M0t1SkdRZ2hQMUh4S3hiZlhVcXJVNEJDaF80YkpFX3pxZy1hS0pFZm9UdmNvQk9Oc0dwRS1xZU55U0dnYTFEY3BRNlFndw?oc=5\" targe",
+    "sources": [
+      {
+        "name": "google_news_solar",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9Cb3ZNT1I0NE1oZEdvTFlfb2xVWlJHdWN6M0t1SkdRZ2hQMUh4S3hiZlhVcXJVNEJDaF80YkpFX3pxZy1hS0pFZm9UdmNvQk9Oc0dwRS1xZU55U0dnYTFEY3BRNlFndw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-14-039",
+    "date": "2026-08-14",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Tulare County solar project awards $7,500 in local grants - thebusinessjournal.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxPQ1ZGSXVRdUJhbmhjdm1fQmpnUm1oMmlFNUFFdGhhMTVCZmhfeEs3aGJkTEQ0dnB5ZnlVaDhJS3haYXhTV0pJN0hST2t5MDV3b2RXZV81SkQ2VGUxcDByUS1DczBucnk5eWlmZU11bn",
+    "sources": [
+      {
+        "name": "google_news_solar",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPQ1ZGSXVRdUJhbmhjdm1fQmpnUm1oMmlFNUFFdGhhMTVCZmhfeEs3aGJkTEQ0dnB5ZnlVaDhJS3haYXhTV0pJN0hST2t5MDV3b2RXZV81SkQ2VGUxcDByUS1DczBucnk5eWlmZU11bnFOeXMxQ1dWclV5Rl9fMkIxeUFyUnQxSEZZSTVXd0VaT18zSlU4?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-14-040",
+    "date": "2026-08-14",
+    "companies": [],
+    "topics": [
+      "trade_tariff",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Can Trump’s new solar tariffs help the domestic supply problem? — This Week in Cleantech",
+    "summary": "On this episode of the This Week in Cleantech podcast, Mark Chediak from Bloomberg breaks down Trump's new 15% tariffs and price floors on imported polysilicon and its derivatives, including wafers, c",
+    "sources": [
+      {
+        "name": "renewableenergyw",
+        "url": "https://www.renewableenergyworld.com/solar/can-trumps-new-solar-tariffs-help-the-domestic-supply-problem-this-week-in-cleantech/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-14-041",
+    "date": "2026-08-14",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "California legislators considering bills to bolster virtual power plants",
+    "summary": "<p>The California State Assembly&#8217;s Appropriations Committee approved two bills yesterday that could build out the state&#8217;s virtual power plants (VPPs) program. Senate Bills 905 and 913 addr",
+    "sources": [
+      {
+        "name": "solar_power_world",
+        "url": "https://www.solarpowerworldonline.com/2026/08/california-legislators-considering-bills-to-bolster-virtual-power-plants/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-14-042",
+    "date": "2026-08-14",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Got Electric solar panel donation supports adult care organization in Virginia",
+    "summary": "<p>Maryland solar contractor Got Electric has donated 57 surplus Heliene 380-W solar panels to Shenandoah County SEARCH, a nonprofit organization that provides residential care for adults with intelle",
+    "sources": [
+      {
+        "name": "solar_power_world",
+        "url": "https://www.solarpowerworldonline.com/2026/08/got-electric-solar-panel-donation-supports-adult-care-organization-in-virginia/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-14-043",
+    "date": "2026-08-14",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Limes reaches RTB stage for 200MW/1GWh Huañil BESS project in Chile",
+    "summary": "Italian clean energy developer Limes Renewable Energy has reached the ready-to-build stage at its 200MW/1GWh Huañil project.",
+    "sources": [
+      {
+        "name": "energy_storage_news",
+        "url": "https://www.energy-storage.news/limes-reaches-rtb-stage-200mw-1gwh-huanil-bess-project-chile/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-14-044",
+    "date": "2026-08-14",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "‘Multi-day’ energy storage startup Noon Energy makes 1GW US AI infrastructure deployment agreement",
+    "summary": "US 'multi-day' energy storage startup Noon Energy has made an agreement with renewables platform Sabanci Renewables, to deploy 1GW of Noon’s technology for AI infrastructure in the US.",
+    "sources": [
+      {
+        "name": "energy_storage_news",
+        "url": "https://www.energy-storage.news/multi-day-energy-storage-startup-noon-energy-makes-1gw-us-ai-infrastructure-deployment-agreement/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-14-045",
+    "date": "2026-08-14",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Ontario’s First Electricity Shortfall Isn’t A Capacity Shortfall",
+    "summary": "<p>Ontario needs a lot more electricity. Demand hit 145.6 TWh in 2025, up 4.4% in a year, and IESO’s reference case gets to 250 TWh by 2050. But its own range runs from 207 to 297 TWh. That’s not a ro",
+    "sources": [
+      {
+        "name": "cleantechnica",
+        "url": "https://cleantechnica.com/2026/08/14/ontario-electricity-demand-nuclear-renewables-storage/",
         "type": "rss"
       }
     ]
@@ -1217,6 +1813,24 @@
     ]
   },
   {
+    "id": "motech-2026-08-13-052",
+    "date": "2026-08-13",
+    "companies": [
+      "motech"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "【Motech Industries FY2026 Q2 Earnings Call】Q2 revenue NT$911 million, up 36.3% YoY; EPS NT$0.34; gross margin 22.1%; second-half revenue expected no worse than first half - finance.biggo.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTFBHNU5Dd2dWT1B2MTlWVHNBbk9od3BtRkExSGdMZm5zLXQ3cTBKMUl5ejM3bkFEcEhiaWk4cnZZUjhuNmlIWk9pTW1TbHYwLXN1OGYxTkNqZVcyc2hQMmNydnN3?oc=5\" target=\"_bl",
+    "sources": [
+      {
+        "name": "motech",
+        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBHNU5Dd2dWT1B2MTlWVHNBbk9od3BtRkExSGdMZm5zLXQ3cTBKMUl5ejM3bkFEcEhiaWk4cnZZUjhuNmlIWk9pTW1TbHYwLXN1OGYxTkNqZVcyc2hQMmNydnN3?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "trina-2026-08-12-001",
     "date": "2026-08-12",
     "companies": [
@@ -1857,6 +2471,42 @@
       {
         "name": "energy_storage_news",
         "url": "https://www.energy-storage.news/acciona-energia-to-add-33mw-66mwh-bess-in-spain/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "motech-2026-08-12-036",
+    "date": "2026-08-12",
+    "companies": [
+      "motech"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Motech Industries Inc. Reports Earnings Results for the Second Quarter and Six Months Ended June 30, 2026 - marketscreener.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5gFBVV95cUxQRGFyRkZGZ3VFOXJVa0FINTRqUnR1dC1wUjY1SGFXQzdDTWV2UFp1b0hHRlk5UzRzRFdkM2t4Z3d4WUZtYTh3LWdaZ0RNN3dCTVFsR1BmNXlkVmVRelV4c2NmXzU4bTJRUnB5MmtYRF",
+    "sources": [
+      {
+        "name": "motech",
+        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQRGFyRkZGZ3VFOXJVa0FINTRqUnR1dC1wUjY1SGFXQzdDTWV2UFp1b0hHRlk5UzRzRFdkM2t4Z3d4WUZtYTh3LWdaZ0RNN3dCTVFsR1BmNXlkVmVRelV4c2NmXzU4bTJRUnB5MmtYRFFPajhFaEprYUJ0TjZUUnFTSEhQZkIzLUdWTThaWkdHUTNNOUNXV2FfbTJaVUF3M2JHd1dOSXdBVWtDY0tTTlRJLTVzZHViaXBUQzdWZXBXdzZ0WFpraEo5N2tyM3dzVVNOXzd6S1hhY0pGUmZxU0N2SlI1a2lRQQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-12-037",
+    "date": "2026-08-12",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "U.S. solar trade barriers could boost Hanwha Solutions - upi.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxNdkJ5d3ZGUXBSampZRlVDT0g3a2dtQ2RyeGJBOEcyVUF0VTZuU3dIanhxTFIxbzBSRm52ODZtTXpXZlFpTjJYUi00RUhOTUQyQlZ0RXpqLWxFWlcwRkZmS24wdU5lQ3Q1d3Y0N2xGWG",
+    "sources": [
+      {
+        "name": "google_news_solar_trade",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNdkJ5d3ZGUXBSampZRlVDT0g3a2dtQ2RyeGJBOEcyVUF0VTZuU3dIanhxTFIxbzBSRm52ODZtTXpXZlFpTjJYUi00RUhOTUQyQlZ0RXpqLWxFWlcwRkZmS24wdU5lQ3Q1d3Y0N2xGWGtYRVpSbDRYM3ZFNFdaU2tCd1J4TnRDMjNocXM4NFlR0gGTAUFVX3lxTE52ZnFEbHI0UXVpYkcxUk5ES3VVZU4xTDhHZnc3NTVWMzNmYzFZNHFkeGw5UVhsZTRBclhMdTViVU9rYmpTTHRyblNPdFNKRDFvQTVVaklXb0s0YjNlNmxQRXh6NVhLRnlWMGpZTG5EODV5S1ZVSkhRYWtTUUpVekM3N0NvdVdOYV9PNVRFd3M4dFp1aw?oc=5",
         "type": "rss"
       }
     ]
@@ -2737,6 +3387,46 @@
     ]
   },
   {
+    "id": "jinko-2026-08-11-048",
+    "date": "2026-08-11",
+    "companies": [
+      "jinko"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "JinkoSolar Tiger Neo 3.0 shortlisted for Shenzhen Energy annual PV procurement - PV Tech",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxObUFZbGpwaFNidVAyZjQ3OFgxcmVnMmtTOWlNSnNJQXdfbkROLUhOTHVzQ2d6dTJ6bVZVU3A4dWJObXlpVUt0RVVuRHV0c2tMaXMzQXVfUzB4RlNuSjB0Vk5CUkJKTVJmQTRZc3lwYn",
+    "sources": [
+      {
+        "name": "jinko",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxObUFZbGpwaFNidVAyZjQ3OFgxcmVnMmtTOWlNSnNJQXdfbkROLUhOTHVzQ2d6dTJ6bVZVU3A4dWJObXlpVUt0RVVuRHV0c2tMaXMzQXVfUzB4RlNuSjB0Vk5CUkJKTVJmQTRZc3lwYnk1eFpMcnhkNHZ6Y2xKOFRWSi1UMTFrTVpiWmhGTGFRMy1ETEJIOEROdXNzTnRyTjREWm9OY0l3VW5PcU5HTE9zQlJ6Mk8wTTVrSFZySQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "array-2026-08-11-049",
+    "date": "2026-08-11",
+    "companies": [
+      "array"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Array Technologies (ARRY) Short Interest & Short Float | Updated Aug 2026 $ARRY - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTFAzb0wzVk42c2tlN2xIaDNrMzcza2cyZkxVeHR3c1FSY08wdmM2OGJUMTdJTlR6UFBBajZMaWdfLTItaXRXNTZhN2FRakxGMF9hVzNCQVh3MGZSY21QQjNhal9QbkpnOWpvNTBLcl9R?o",
+    "sources": [
+      {
+        "name": "array",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFAzb0wzVk42c2tlN2xIaDNrMzcza2cyZkxVeHR3c1FSY08wdmM2OGJUMTdJTlR6UFBBajZMaWdfLTItaXRXNTZhN2FRakxGMF9hVzNCQVh3MGZSY21QQjNhal9QbkpnOWpvNTBLcl9R?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "trina-2026-08-10-001",
     "date": "2026-08-10",
     "companies": [
@@ -3480,6 +4170,46 @@
       {
         "name": "trina",
         "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNWUJpV2JZQ2FCM0JTNGJIU0ZPVDlSYzJnYmt6dGp0RTF6bnVoQzdybFNZR0xPUzQ4aXlQbmFiR2tCUFhCYnlxM0Y5Y0RGRDVaVV9tQ3p3YUlYQUl4eFltNnBEX3ItaF9fYllIQmJORVh5NnBsaEFlZUVLR1lQOFVQOVVvc1MxYWlyQVVSYWtzMk1RZWV1RUJWNUduR2QxNjBMblc0REl4NW5ObExBdXk0Vmd0QnN6QUltMW9JV1RndzIxWTA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "trina-2026-08-10-041",
+    "date": "2026-08-10",
+    "companies": [
+      "trina"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Trina Solar (688599.SH): Proposes to transfer 1.55% of shares via book-building offering - news.futunn.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxPODBQN3hoVC1TSDNacHFYaERZV19sbmRnRGZZRWl5bXd0UmVocEt0NGI2ZWJCcnV3YlNjWkNHdTI3d1E0eS0zU0JPNl9Kc0g3Q05qSjE4S0V4bzhZZlFQT21rMF8yMVpTVEc0UnVzZD",
+    "sources": [
+      {
+        "name": "trina",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPODBQN3hoVC1TSDNacHFYaERZV19sbmRnRGZZRWl5bXd0UmVocEt0NGI2ZWJCcnV3YlNjWkNHdTI3d1E0eS0zU0JPNl9Kc0g3Q05qSjE4S0V4bzhZZlFQT21rMF8yMVpTVEc0UnVzZDlkYVJvM2JFTC16MTJWZFRQTS1XX1NqX0Z1S1lPV3YxTDRsTl9tVFE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "trina-2026-08-10-042",
+    "date": "2026-08-10",
+    "companies": [
+      "trina"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Shenzhen Xunce Signs MOU With Trina Solar Unit for AI, Green Computing - marketscreener.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxQT2VpY0EyM2NCcmNhdEdnNUpEUGVJazRGZUdLU0pSOEJLMWZHbFBTVXBvaDVzZ3g3eTZ3REN2NkhXaW5yQW9hWk84UEx1WEdFRWFnanRlV0VScndHSFFOSU9DdWY2OFRxYWRlVnFiOD",
+    "sources": [
+      {
+        "name": "trina",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQT2VpY0EyM2NCcmNhdEdnNUpEUGVJazRGZUdLU0pSOEJLMWZHbFBTVXBvaDVzZ3g3eTZ3REN2NkhXaW5yQW9hWk84UEx1WEdFRWFnanRlV0VScndHSFFOSU9DdWY2OFRxYWRlVnFiODRtS0JBMXNsUlExakRSRTZkbEJvNjUweWR1R0FSNF8wdGt4TU01bWhmd1JzQzhuODhoYUNDdHFqZ0RzSnM4aHZWdkRlTWhTSGRDVXYwNE5sbw?oc=5",
         "type": "rss"
       }
     ]
