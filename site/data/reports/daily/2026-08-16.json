@@ -1,0 +1,111 @@
+{
+  "date": "2026-08-16",
+  "generated_at": "2026-08-16T08:17:00.582503Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "daqo-2026-08-16-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "DAQO New Energy (DQ) Expected to Announce Earnings on Thursday - MarketBeat",
+      "companies": [
+        "daqo"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQR1UzNHJzV3hNTVJUX0FDekNLOVpKRHdPTV9VWkRHdk4zVjVtYmlkYTJyVG84WVRBWk14RmZUMEpabDd4Wm5QTWxVbmhUVDRndU4wTFc2WVpaWXFzdmJOeWNXejhXQ0dFZ2lxbFBHQURfU0dzSmZodzhkU05ZV3ZxcUh5Ykc3VEVPZUZkQ2JVMVdnV1dERlQwV1lQY0VDNjlMZXVuVDFvOGFDQldkSDNocDhkREc?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-08-16-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "‘Win-win’: How income-boosting solar shades saved my hop harvest - Euronews.com",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOV1JRN0lUb3JGS0xZTmVib1NlNEx0eEVvLXVwb2lrYVpaUDhmZGhWWVdPaWFYZGRMMEhuNG9xQW0zQVhXOWxRYWwxTTlYb3hqckRfemx0Tjg5MmlHQ0thWXVLZWx0Rl8xOERRR0RVWEMwMF9YdTJLZmNKZ1diS0FXVkV0djBKN3R3U0UwZHJwLXZvYW5VMUJZY2ktSFYxRzluQUpjN0s5bXVlcWVZRHJ3?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 2,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 2,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "daqo",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 466,
+    "dup_title": 245,
+    "too_old": 155,
+    "gate1_blocked": 50,
+    "gate2_blocked": 4,
+    "passed": 12,
+    "pass_rate": "5.4%",
+    "gate2_block_rate": "1.8%",
+    "gate2_samples": [
+      "DAQO New Energy Corp. (NYSE:DQ) Receives Average Recommendation of \"Hold\" from Brokerages - MarketBe",
+      "Array Technologies (ARRY): Hill City Capital group discloses 8.4% ownership position - Stock Titan",
+      "Goldman Sachs Sticks to Its Buy Rating for Array Technologies (ARRY) - theglobeandmail.com",
+      "Verano Energy trusts Sungrow for the storage system of its Observatorio project in Chile - BNamerica"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 2 則事件，焦點為大全新能源相關動態：「DAQO New Energy (DQ) Expected to Announce Earnings on Thu...」。主要關注主題為太陽能產業通用，市場情緒中性。",
+    "signals": [
+      {
+        "text": "DAQO New Energy (DQ) Expected to Announce Earnings on Thursday - MarketBeat",
+        "level": "green"
+      },
+      {
+        "text": "‘Win-win’: How income-boosting solar shades saved my hop harvest - Euronews.com（太陽能產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

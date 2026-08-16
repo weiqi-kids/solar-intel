@@ -1,5 +1,41 @@
 [
   {
+    "id": "daqo-2026-08-16-001",
+    "date": "2026-08-16",
+    "companies": [
+      "daqo"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "DAQO New Energy (DQ) Expected to Announce Earnings on Thursday - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxQR1UzNHJzV3hNTVJUX0FDekNLOVpKRHdPTV9VWkRHdk4zVjVtYmlkYTJyVG84WVRBWk14RmZUMEpabDd4Wm5QTWxVbmhUVDRndU4wTFc2WVpaWXFzdmJOeWNXejhXQ0dFZ2lxbFBHQU",
+    "sources": [
+      {
+        "name": "daqo",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQR1UzNHJzV3hNTVJUX0FDekNLOVpKRHdPTV9VWkRHdk4zVjVtYmlkYTJyVG84WVRBWk14RmZUMEpabDd4Wm5QTWxVbmhUVDRndU4wTFc2WVpaWXFzdmJOeWNXejhXQ0dFZ2lxbFBHQURfU0dzSmZodzhkU05ZV3ZxcUh5Ykc3VEVPZUZkQ2JVMVdnV1dERlQwV1lQY0VDNjlMZXVuVDFvOGFDQldkSDNocDhkREc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-16-002",
+    "date": "2026-08-16",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "‘Win-win’: How income-boosting solar shades saved my hop harvest - Euronews.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxOV1JRN0lUb3JGS0xZTmVib1NlNEx0eEVvLXVwb2lrYVpaUDhmZGhWWVdPaWFYZGRMMEhuNG9xQW0zQVhXOWxRYWwxTTlYb3hqckRfemx0Tjg5MmlHQ0thWXVLZWx0Rl8xOERRR0RVWE",
+    "sources": [
+      {
+        "name": "google_news_solar",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOV1JRN0lUb3JGS0xZTmVib1NlNEx0eEVvLXVwb2lrYVpaUDhmZGhWWVdPaWFYZGRMMEhuNG9xQW0zQVhXOWxRYWwxTTlYb3hqckRfemx0Tjg5MmlHQ0thWXVLZWx0Rl8xOERRR0RVWEMwMF9YdTJLZmNKZ1diS0FXVkV0djBKN3R3U0UwZHJwLXZvYW5VMUJZY2ktSFYxRzluQUpjN0s5bXVlcWVZRHJ3?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "unknown-2026-08-15-001",
     "date": "2026-08-15",
     "companies": [],
@@ -31,6 +67,96 @@
       {
         "name": "cleantechnica",
         "url": "https://cleantechnica.com/2026/08/14/more-renewables-lead-to-lower-demand-for-methane-in-europe/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-15-003",
+    "date": "2026-08-15",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Speeders just got lucky: the new Dodge police Charger is NOT electric",
+    "summary": "<div class=\"feat-image\"><img src=\"https://electrek.co/wp-content/uploads/sites/3/2026/08/2027-Dodge-Charger-PPV_Team-One-Network.-9-copy.jpg?quality=82&#038;strip=all&#038;w=1600\" /></div><p class=\"wp",
+    "sources": [
+      {
+        "name": "electrek_solar",
+        "url": "https://electrek.co/2026/08/15/speeders-just-got-lucky-the-new-dodge-police-charger-is-not-electric/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-15-004",
+    "date": "2026-08-15",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Solar demand prompts calls for local manufacturing - Semafor",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxOUE93LTRnRjVFTGpoOENnZEl1WmlHd2lodlNacUN2WVNjYWJRY1RlLWpSMFVfZWZuZ2FUR3hJbGlGVEFmdHlZU2h1TUNjblZWenVPbmNJUS1UN3dIejdWWjl5NDBpWWhsYmthamR6Y2",
+    "sources": [
+      {
+        "name": "google_news_solar",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOUE93LTRnRjVFTGpoOENnZEl1WmlHd2lodlNacUN2WVNjYWJRY1RlLWpSMFVfZWZuZ2FUR3hJbGlGVEFmdHlZU2h1TUNjblZWenVPbmNJUS1UN3dIejdWWjl5NDBpWWhsYmthamR6Y25DT1VfZlJYZHlfczRVRXRWRDdNX1hzNElQeDdwVTJWZzBWSlJ2b2p3MF9SQVBXWVR1OHBJ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-15-005",
+    "date": "2026-08-15",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Students Build Energy-Positive Solar EV With 1,700 Photovoltaic Cells - WBAP",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxQUHVTeVVSalA2eTBsM1NLWjNmYTUxaldhbjQ4VjJ0WW5YeU9Md3pCWkFPVGt0OU9LdTNIeUxpcXdkVTZWV21rV1lQN3ppZ084R1NDZi14YUVSV2pGaTFhMzZVRGl6cmhVV2lreVJTZn",
+    "sources": [
+      {
+        "name": "google_news_solar",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQUHVTeVVSalA2eTBsM1NLWjNmYTUxaldhbjQ4VjJ0WW5YeU9Md3pCWkFPVGt0OU9LdTNIeUxpcXdkVTZWV21rV1lQN3ppZ084R1NDZi14YUVSV2pGaTFhMzZVRGl6cmhVV2lreVJTZnBqRXZnTlpGalMzWEFqTXNrZFV2MGhvUVNvQUhQaEtDTzNGNmRLVVl1UkhSYTZnNVNoUjFR?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-15-006",
+    "date": "2026-08-15",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "A Swiss tomato grower hung 1,736 solar modules inside his greenhouse directly over the rows, and they take only the infrared the plants never use, so the crop came out 1 percent up and the pickers started working under them because it was cooler - Autonocion.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE9XWFNNeU52SVdtSFpsQk9VdXh3bVFzeFprUmFwZkxqWm42eURNTXBDcTJPR1dsMmR3cmpUNUFrb3o1UGJNdC1fQjJoTnBKTWNZR25fRWtXb2lUN3Z0cUlucENZakl2RVFlYThBNS1zTE",
+    "sources": [
+      {
+        "name": "google_news_solar",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9XWFNNeU52SVdtSFpsQk9VdXh3bVFzeFprUmFwZkxqWm42eURNTXBDcTJPR1dsMmR3cmpUNUFrb3o1UGJNdC1fQjJoTnBKTWNZR25fRWtXb2lUN3Z0cUlucENZakl2RVFlYThBNS1zTEFkeEF2X3pJOVdR?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-15-007",
+    "date": "2026-08-15",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "The Blades Aren’t Spinning for Wind Projects in Luzon",
+    "summary": "<p>The ambitious push by the Department of Energy (DOE) in the Philippines to accelerate clean energy transitions is encountering major friction on the ground. As developers race to build onshore wind",
+    "sources": [
+      {
+        "name": "cleantechnica",
+        "url": "https://cleantechnica.com/2026/08/15/the-blades-arent-spinning-for-wind-projects-in-luzon/",
         "type": "rss"
       }
     ]
@@ -867,6 +993,26 @@
       {
         "name": "cleantechnica",
         "url": "https://cleantechnica.com/2026/08/14/ontario-electricity-demand-nuclear-renewables-storage/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "jinko-2026-08-14-046",
+    "date": "2026-08-14",
+    "companies": [
+      "jinko"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "JinkoSolar to Report Second Quarter 2026 Results on August 26, 2026 - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxQY244RHlCLUUtRnZ1ekpGcl9jNEJTUXVaajRSUHhRTU9WblVxbWxGZUYxN1RVMDBDTk5LcVJ3c09mVm8tZUM5cXRVa3hiekJYVTgzcy1hTlRMTHZNRDVMYUhMSTlnSHV5Mll0MlVUaz",
+    "sources": [
+      {
+        "name": "jinko",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQY244RHlCLUUtRnZ1ekpGcl9jNEJTUXVaajRSUHhRTU9WblVxbWxGZUYxN1RVMDBDTk5LcVJ3c09mVm8tZUM5cXRVa3hiekJYVTgzcy1hTlRMTHZNRDVMYUhMSTlnSHV5Mll0MlVUazRlZEY5YVRILWpNQkxKVGNOcDlQUDY4X2hpY0tlQkZHN0dTalV6S1E0RnJjanhnN3Q5RW92RjVETUFWOC1vZ29zV1E2OWFuaXFpQVpGai1DYXBIMzV2NUE?oc=5",
         "type": "rss"
       }
     ]
@@ -1831,6 +1977,24 @@
     ]
   },
   {
+    "id": "unknown-2026-08-13-053",
+    "date": "2026-08-13",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "The world’s most efficient solar panel goes on sale later this year - pv-magazine-usa.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxONldpX1I5eU5ZdXpsX0JicS1PNnRoa1ZIdmdOMGZaTE56N19YS3JYclBXOExZY1VLUXpCU1BlREV4bmZabHNfUXMyMnRrQ3NSTVhDUDZGY2luMnkwRERQaHByWFBWcXF4WGtyYnUwZW",
+    "sources": [
+      {
+        "name": "google_news_solar",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxONldpX1I5eU5ZdXpsX0JicS1PNnRoa1ZIdmdOMGZaTE56N19YS3JYclBXOExZY1VLUXpCU1BlREV4bmZabHNfUXMyMnRrQ3NSTVhDUDZGY2luMnkwRERQaHByWFBWcXF4WGtyYnUwZWJva3lWV2NobEZRaVAwZUV3a0lMUVIzaS1NUk9CVmhqNEdSLTNQMHdQMG15Z1FWV2ZnTi1vZzM0SS0tZw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "trina-2026-08-12-001",
     "date": "2026-08-12",
     "companies": [
@@ -2507,6 +2671,46 @@
       {
         "name": "google_news_solar_trade",
         "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNdkJ5d3ZGUXBSampZRlVDT0g3a2dtQ2RyeGJBOEcyVUF0VTZuU3dIanhxTFIxbzBSRm52ODZtTXpXZlFpTjJYUi00RUhOTUQyQlZ0RXpqLWxFWlcwRkZmS24wdU5lQ3Q1d3Y0N2xGWGtYRVpSbDRYM3ZFNFdaU2tCd1J4TnRDMjNocXM4NFlR0gGTAUFVX3lxTE52ZnFEbHI0UXVpYkcxUk5ES3VVZU4xTDhHZnc3NTVWMzNmYzFZNHFkeGw5UVhsZTRBclhMdTViVU9rYmpTTHRyblNPdFNKRDFvQTVVaklXb0s0YjNlNmxQRXh6NVhLRnlWMGpZTG5EODV5S1ZVSkhRYWtTUUpVekM3N0NvdVdOYV9PNVRFd3M4dFp1aw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "array-2026-08-12-038",
+    "date": "2026-08-12",
+    "companies": [
+      "array"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Array Technologies Earnings Call Signals Renewed Momentum - theglobeandmail.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxOT1lKX1ZydzdjYmxjVi1UQ3lXTUZaUTZ6cmZWWDlNd1F2bGc1a2ttdlhkWE5wTnA0OFZzRDA4anBNNjBmSlZOT29tdnFvd0J1WmlDU3QwZU9jRFBmUWZOTWdDVTJBc0dqWVJobVE5UV",
+    "sources": [
+      {
+        "name": "array",
+        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOT1lKX1ZydzdjYmxjVi1UQ3lXTUZaUTZ6cmZWWDlNd1F2bGc1a2ttdlhkWE5wTnA0OFZzRDA4anBNNjBmSlZOT29tdnFvd0J1WmlDU3QwZU9jRFBmUWZOTWdDVTJBc0dqWVJobVE5UVB0Yy1ObnZpeGdLZ3JtVm9kNTRSclBZbE1oMHoxOVV5YzdFQUYtTGExd1IxNXU1bUM0U0QyeTVWc3Mwd0hrR3pLM3BPV0VzUUV3eXJHdVlrcTEzdkRWSlFOdXBKSzE2RjdDcUppNWhsQmtlY2h6?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "array-2026-08-12-039",
+    "date": "2026-08-12",
+    "companies": [
+      "array"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Array Technologies (ARRY) Q2 2026 Earnings Call Transcript - theglobeandmail.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxOZ2txcGF0T1BOc25NNllFZHlvUkFYcHF3bVZfRFFOdklmSjF6VFppN3FFWUJ2cGItNVNXNzNKNi1menZZV3UtVlc4dHhXWEliUU85MVJUOG1mSlhIaE94UnJwbW1pSFQ4bUVCa2psan",
+    "sources": [
+      {
+        "name": "array",
+        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOZ2txcGF0T1BOc25NNllFZHlvUkFYcHF3bVZfRFFOdklmSjF6VFppN3FFWUJ2cGItNVNXNzNKNi1menZZV3UtVlc4dHhXWEliUU85MVJUOG1mSlhIaE94UnJwbW1pSFQ4bUVCa2psand3MXF0U1lJcXBSOFlVejNyN2NXV0ZuMVREeXpheV84eXRWMThRMzA2TUZaNll5V0xJNHRRTlVWS3htODJla3QyclB2eEg3WlJsY01uRVhpVUZyLUFyZEVva0NTRUVnNzcxS1FkRlJFOVRZQQ?oc=5",
         "type": "rss"
       }
     ]
@@ -3422,6 +3626,24 @@
       {
         "name": "array",
         "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFAzb0wzVk42c2tlN2xIaDNrMzcza2cyZkxVeHR3c1FSY08wdmM2OGJUMTdJTlR6UFBBajZMaWdfLTItaXRXNTZhN2FRakxGMF9hVzNCQVh3MGZSY21QQjNhal9QbkpnOWpvNTBLcl9R?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-11-050",
+    "date": "2026-08-11",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "The activists battling solar panel cowboy installers - ft.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTFBfa3o1ZG81bkVYcUVMajlhbG15YzZTcm4ycW1hcmoxenlaRXhsNXZyLXRwRDJyLW1IR09kbFdrUFpRcU1wRzUtYUFZVXNDdnRyRklqODZXSlA4RkxjUjd5bE11YktNTmFjMG9ZcF9pY0",
+    "sources": [
+      {
+        "name": "google_news_solar",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBfa3o1ZG81bkVYcUVMajlhbG15YzZTcm4ycW1hcmoxenlaRXhsNXZyLXRwRDJyLW1IR09kbFdrUFpRcU1wRzUtYUFZVXNDdnRyRklqODZXSlA4RkxjUjd5bE11YktNTmFjMG9ZcF9pY0w?oc=5",
         "type": "rss"
       }
     ]
