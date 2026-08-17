@@ -1,5 +1,207 @@
 [
   {
+    "id": "unknown-2026-08-17-001",
+    "date": "2026-08-17",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "EDF offers UK customers free seven-year service, warranty on air-source heat pumps",
+    "summary": "<p>The company says the offer, available until the end of August, is to encourage UK homeowners to install a heat pump before demand for low-carbon heating grows ahead of winter.</p>\n<p>The post <a hr",
+    "sources": [
+      {
+        "name": "pv_magazine",
+        "url": "https://www.pv-magazine.com/2026/08/17/edf-offers-uk-customers-free-seven-year-service-warranty-on-air-source-heat-pumps/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-17-002",
+    "date": "2026-08-17",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "During heatwave, solar power supports France’s grid as nuclear output slows",
+    "summary": "<p>Heatwaves and drought have forced several French nuclear reactors offline, while strong solar generation has helped stabilize the grid.<br />\nAs solar output falls after sunset, battery storage cou",
+    "sources": [
+      {
+        "name": "pv_magazine",
+        "url": "https://www.pv-magazine.com/2026/08/17/during-heatwave-solar-power-supports-frances-grid-as-nuclear-output-slows/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-17-003",
+    "date": "2026-08-17",
+    "companies": [],
+    "topics": [
+      "installation_demand",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "El Salvador launches regulatory framework for solar self-consumption",
+    "summary": "<p>El Salvador has begun implementing its new renewable self-consumption framework, opening procedures for providers and solar PV installations. The regime introduces tax incentives, grid compensation",
+    "sources": [
+      {
+        "name": "pv_magazine",
+        "url": "https://www.pv-magazine.com/2026/08/17/el-salvador-launches-regulatory-framework-for-solar-self-consumption/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-17-004",
+    "date": "2026-08-17",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Saatvik Solar to add 3.6 GW of cell manufacturing capacity in India",
+    "summary": "<p>Saatvik Solar Industries is planning to add 3.6 GW of solar cell manufacturing capacity at Gopalpur, Odisha, as its existing 2.4 GW cell and 4 GW module manufacturing facility at the site nears com",
+    "sources": [
+      {
+        "name": "pv_magazine",
+        "url": "https://www.pv-magazine.com/2026/08/17/saatvik-solar-to-add-3-6-gw-of-cell-manufacturing-capacity-in-odisha/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "solaredge-2026-08-17-005",
+    "date": "2026-08-17",
+    "companies": [
+      "solaredge"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Pursuing efficiency",
+    "summary": "<p>SolarEdge CEO Shuki Nir sits down with pv magazine to discuss recent changes to the company’s offer, developments in the commercial and industrial (C&#38;I) segment, plans to capitalize on an expec",
+    "sources": [
+      {
+        "name": "pv_magazine",
+        "url": "https://www.pv-magazine.com/2026/08/17/pursuing-efficiency/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-17-006",
+    "date": "2026-08-17",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Megarevo differentiates with customer-focused microgrid solutions as it scales European operations",
+    "summary": "Brian Yaw, founder of Megarevo, discussed the company’s approach to commercial and industrial energy storage, their competitive strategy, and plans for the European market with Energy-Storage.news at ",
+    "sources": [
+      {
+        "name": "energy_storage_news",
+        "url": "https://www.energy-storage.news/megarevo-customer-focused-microgrid-solutions-scales-european-operations/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-17-007",
+    "date": "2026-08-17",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Relectrify installs first AC1 inverterless battery storage system in South Australia",
+    "summary": "Melbourne-based battery technology company Relectrify has installed its first AC1 battery energy storage system (BESS) in Renmark, South Australia, in partnership with YES Energy.",
+    "sources": [
+      {
+        "name": "energy_storage_news",
+        "url": "https://www.energy-storage.news/relectrify-installs-first-ac1-inverterless-battery-storage-system-in-south-australia/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-17-008",
+    "date": "2026-08-17",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Australian Renewable Energy Agency backs UNSW research into grid-forming battery storage and system strength",
+    "summary": "UNSW receives AU$6.52 million to study how solar, wind and battery storage interact with grid protection systems as Australia transitions to renewables.",
+    "sources": [
+      {
+        "name": "energy_storage_news",
+        "url": "https://www.energy-storage.news/australian-renewable-energy-agency-backs-unsw-research-into-grid-forming-battery-storage-and-system-strength/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-17-009",
+    "date": "2026-08-17",
+    "companies": [],
+    "topics": [
+      "installation_demand"
+    ],
+    "impact": "neutral",
+    "title": "Australia’s Cheaper Home Batteries Program officially passes 500,000 installations",
+    "summary": "More than 507,000 households, small businesses and community organisations have installed a home battery storage system under Australia's Cheaper Home Batteries Program, according to figures announced",
+    "sources": [
+      {
+        "name": "energy_storage_news",
+        "url": "https://www.energy-storage.news/australias-cheaper-home-batteries-program-officially-passes-500000-installations/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-17-010",
+    "date": "2026-08-17",
+    "companies": [],
+    "topics": [
+      "installation_demand",
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "China’s Solar Industry Slows Down Due to Industry Pressures",
+    "summary": "<p>China’s solar industry is entering a more challenging phase following years of record expansion. The sector is currently grappling with slower installation rates, shifts to market-based electricity",
+    "sources": [
+      {
+        "name": "cleantechnica",
+        "url": "https://cleantechnica.com/2026/08/17/chinas-solar-industry-slows-down-due-to-industry-pressures/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-17-011",
+    "date": "2026-08-17",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "ForeFront Power Completes Its First Erthos Solar Energy System for the City of Fresno",
+    "summary": "<p>Erthos solar modules are mounted directly on the earth without structural steel, streamlining development and enabling the solar energy system to generate electricity at a lower cost ForeFront Powe",
+    "sources": [
+      {
+        "name": "cleantechnica",
+        "url": "https://cleantechnica.com/2026/08/16/forefront-power-completes-its-first-erthos-solar-energy-system-for-the-city-of-fresno/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "daqo-2026-08-16-001",
     "date": "2026-08-16",
     "companies": [
