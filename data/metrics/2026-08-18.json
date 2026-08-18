@@ -1,0 +1,33 @@
+{
+  "date": "2026-08-18",
+  "total_events": 16,
+  "by_company": {
+    "trina": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "risen": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "industry_general": {
+      "count": 16,
+      "sentiment_avg": -0.12
+    },
+    "module_price": {
+      "count": 3,
+      "sentiment_avg": -0.33
+    },
+    "grid_parity": {
+      "count": 1,
+      "sentiment_avg": -1.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}
