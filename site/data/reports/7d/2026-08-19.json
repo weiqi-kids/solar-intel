@@ -1,0 +1,155 @@
+{
+  "date": "2026-08-19",
+  "date_range": {
+    "start": "2026-08-13",
+    "end": "2026-08-19"
+  },
+  "generated_at": "2026-08-19T08:24:17.659997Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "tongwei-2026-08-14-028",
+      "date": "2026-08-14",
+      "title": "Chinese PV Industry Brief: Longi plans 100 MW perovskite-silicon tandem solar cell pilot line",
+      "importance_score": 0.7
+    },
+    {
+      "type": "emerging_relation",
+      "company_a": "canadian_solar",
+      "company_b": "maxeon",
+      "co_mention_count": 4,
+      "rank": 2
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "industry_general": {
+      "this_week": 75,
+      "last_week": 78,
+      "week_over_week_change": "-4%",
+      "sentiment_this_week": 0.04
+    },
+    "trade_tariff": {
+      "this_week": 2,
+      "last_week": 2,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    },
+    "installation_demand": {
+      "this_week": 4,
+      "last_week": 3,
+      "week_over_week_change": "+33%",
+      "sentiment_this_week": -0.01
+    },
+    "module_price": {
+      "this_week": 3,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": -0.33
+    },
+    "grid_parity": {
+      "this_week": 1,
+      "last_week": 2,
+      "week_over_week_change": "-50%",
+      "sentiment_this_week": -1.0
+    }
+  },
+  "company_7d_summary": {
+    "longi": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 4
+    },
+    "jinko": {
+      "event_count": 5,
+      "sentiment_avg": 0.2,
+      "rank": 1
+    },
+    "daqo": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 5
+    },
+    "solaredge": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 6
+    },
+    "trina": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 2
+    },
+    "risen": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 3
+    },
+    "ja_solar": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 7
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 220,
+        "last": 288,
+        "change_pct": -23.6
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-08-13",
+      "event_count": 53,
+      "sentiment_avg": 0.05
+    },
+    {
+      "date": "2026-08-14",
+      "event_count": 51,
+      "sentiment_avg": 0.06
+    },
+    {
+      "date": "2026-08-15",
+      "event_count": 7,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-08-16",
+      "event_count": 4,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-08-17",
+      "event_count": 36,
+      "sentiment_avg": 0.08
+    },
+    {
+      "date": "2026-08-18",
+      "event_count": 55,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-08-19",
+      "event_count": 14,
+      "sentiment_avg": 0.12
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-08-13 ~ 2026-08-19）共 220 則事件，重點為「Chinese PV Industry Brief: Longi plans 100 MW p...」。太陽能產業通用、裝機需求、元件價格為本週焦點話題。",
+    "watchlist": [
+      {
+        "company": "晶科能源",
+        "reason": "本週出現 5 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "隆基綠能",
+        "reason": "受元件價格議題影響，供應鏈壓力可能上升。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
