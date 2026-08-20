@@ -1,5 +1,336 @@
 [
   {
+    "id": "ja_solar-2026-08-20-001",
+    "date": "2026-08-20",
+    "companies": [
+      "ja_solar",
+      "tongwei"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Chint, JA Solar Technology, Yingli, Tongwei, and Two Other Enterprises Shortlisted for CNNC’s 4.3 GW PV Module Centralised Procurement Orders - news.metal.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi_AFBVV95cUxNOWZDNjRaUkp4MTRYY1czMEdlTXVlZzNZSHJUZ2xQOEpSM0FibEdZUFpsRHFtQm1JUi00TnByT2dGR3FUUnZOeEFKcFdESExGQmtBbEFheThZOS1WYVRlMjY2VEQ5cHMtNnZKUDBKSU",
+    "sources": [
+      {
+        "name": "ja_solar",
+        "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNOWZDNjRaUkp4MTRYY1czMEdlTXVlZzNZSHJUZ2xQOEpSM0FibEdZUFpsRHFtQm1JUi00TnByT2dGR3FUUnZOeEFKcFdESExGQmtBbEFheThZOS1WYVRlMjY2VEQ5cHMtNnZKUDBKSUVZeHRnWGdCMjZ6Vy1rZVVSamhYQWRsQkx3TzNUekZXRHpobV95QmJudVpHRUUxRkxqQ0RscjdHUTQydDBYNWFWR0ZUdnpNQ0JmNlRJVklsMHotMk1WS0RUOGwzMG5YLTZPLTdsbUNQaU9uM2ZvZUthaEVWVS1IU1BsbVZoRnZiSDZ3NGlpbHVlUmxsYmk?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-20-002",
+    "date": "2026-08-20",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "JA Powers Fisher & Paykel Healthcare's Green Transition with New Zealand's Largest Rooftop PV System - PA Media",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4gFBVV95cUxOQ0w0eDhsOTBJbEdEMlFWcTVmekRCOVdUNFBKcDRDcEQxX1d5cnZPMW5XaWUwT3VoUlZfZDlCUDBONlN2R0FyYkg0NkxtQTF3MTNlU0dodVRaai1JTUJOTi1peG5TWDNWUkdzLUFiOT",
+    "sources": [
+      {
+        "name": "ja_solar",
+        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOQ0w0eDhsOTBJbEdEMlFWcTVmekRCOVdUNFBKcDRDcEQxX1d5cnZPMW5XaWUwT3VoUlZfZDlCUDBONlN2R0FyYkg0NkxtQTF3MTNlU0dodVRaai1JTUJOTi1peG5TWDNWUkdzLUFiOTRIVVF3SkNqZUtqSDg1X2drdkl6Y2lTSkJQbUlJd2NfcWlrbWl3Y2dIcklnZ1BYclBwQXRySnpuWF9aVjlvQnE5Smx1R0oxenVpTTVpTHBsS1JnNXpyM2dpY0NHRFNnX0EyZmFUSGVrZUw0M0FYOF9yWFpB?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "trina-2026-08-20-003",
+    "date": "2026-08-20",
+    "companies": [
+      "trina"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Trinasolar powers 10 MWh solar and storage project in Phu Quoc - Vietnam Investment Review - VIR",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxOaGpMOVBuUWV6NktsejlpbUd5ekZ2aXFXc2t6RmNOaHJuSzVUU3U0TWFOelFWNGtiWXYxSDBuOFlMUjR1LWwxUUpjSTZwUWl2aVZfUjJZRm5yZ0FyMVdWMzJUMmVzRVJJeXpXX2IteF",
+    "sources": [
+      {
+        "name": "trina",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOaGpMOVBuUWV6NktsejlpbUd5ekZ2aXFXc2t6RmNOaHJuSzVUU3U0TWFOelFWNGtiWXYxSDBuOFlMUjR1LWwxUUpjSTZwUWl2aVZfUjJZRm5yZ0FyMVdWMzJUMmVzRVJJeXpXX2IteFV2djdKV3JBSV85YTRORjdvUDhDSUZ6cXNEN0t6a0VGRFZ6Sk1ROTgwRQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-20-004",
+    "date": "2026-08-20",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Mexican solar installers report risks of kidnapping and extortion",
+    "summary": "<p>Mexican solar installers and business owners are reporting kidnappings, extortion, equipment theft, and other security incidents in several states, according to the CPEF, an association representin",
+    "sources": [
+      {
+        "name": "pv_magazine",
+        "url": "https://www.pv-magazine.com/2026/08/20/mexican-solar-installers-report-risks-of-kidnapping-and-extortion/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-20-005",
+    "date": "2026-08-20",
+    "companies": [],
+    "topics": [
+      "installation_demand",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "PV life cycle assessment gets its most comprehensive data overhaul in more than a decade",
+    "summary": "<p>IEA PVPS Task 12 has released a major update to the life cycle inventory data underpinning photovoltaic life cycle assessments, covering modern TOPCon and PERC silicon supply chains, CdTe modules, ",
+    "sources": [
+      {
+        "name": "pv_magazine",
+        "url": "https://www.pv-magazine.com/2026/08/20/pv-life-cycle-assessment-gets-its-most-comprehensive-data-overhaul-in-more-than-a-decade/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-20-006",
+    "date": "2026-08-20",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "Where and how to cut back-contact TOPCon solar cells to minimize recombination losses",
+    "summary": "<p>UNSW and DAS Solar used Quokka3 simulations to identify cut-induced losses in back-contact TOPCon cells, finding that gap-region cutting reduces efficiency losses by around 50% compared with emitte",
+    "sources": [
+      {
+        "name": "pv_magazine",
+        "url": "https://www.pv-magazine.com/2026/08/20/where-and-how-to-cut-back-contact-topcon-solar-cells-to-minimize-recombination-losses/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-20-007",
+    "date": "2026-08-20",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Researchers build 9%-efficient semitransparent organic PV modules with 210 cm² aperture area",
+    "summary": "<p>Fraunhofer ISE-led researchers fabricated 210.25 cm² semitransparent organic photovoltaic modules by slot-die coating. The best module achieved 9.3% power conversion efficiency, 43.2% average visib",
+    "sources": [
+      {
+        "name": "pv_magazine",
+        "url": "https://www.pv-magazine.com/2026/08/20/researchers-build-9-efficient-semitransparent-organic-pv-modules-with-210-cm%c2%b2-aperture-area/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-20-008",
+    "date": "2026-08-20",
+    "companies": [],
+    "topics": [
+      "installation_demand",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "BYD starts sales of 4.8 kW solar kits in Brazil",
+    "summary": "<p>BYD has started selling 4.8 kWp solar kits through its 233 dealerships in Brazil, with packages covering equipment, installation, utility approval, and one year of insurance.<br />\nThe kits use eig",
+    "sources": [
+      {
+        "name": "pv_magazine",
+        "url": "https://www.pv-magazine.com/2026/08/20/byd-comienza-a-vender-kits-solares-de-48-kwp-en-233-concesionarios-en-brasil/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-20-009",
+    "date": "2026-08-20",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Essential system testing every solar project needs for long-term performance",
+    "summary": "<p>Comprehensive proactive testing across all operational stages, from commissioning to routine maintenance, is essential to identify hidden electrical, structural, and communication faults before the",
+    "sources": [
+      {
+        "name": "pv_magazine",
+        "url": "https://www.pv-magazine.com/2026/08/20/essential-system-testing-every-solar-project-needs-for-long-term-performance/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-20-010",
+    "date": "2026-08-20",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Blocked BESS in Britain: Clearstone’s appeal fails for 150 MW site at Axminster",
+    "summary": "<p>Clearstone Energy’s proposed 150 MW Axminster Energy Hub BESS appeal was dismissed by planning inspector Helen Heward on August 13, 2026, despite the developer’s compliance with relevant fire-safet",
+    "sources": [
+      {
+        "name": "pv_magazine",
+        "url": "https://www.pv-magazine.com/2026/08/20/blocked-bess-in-britain-clearstones-appeal-fails-for-150-mw-site-at-axminster/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-20-011",
+    "date": "2026-08-20",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "New materials in the frame",
+    "summary": "<p>Solar cells, encapsulants, glass, backsheets, and virtually every PV module component have seen rapid changes and improvements over the past 10 years. During that time, module frames have seen rela",
+    "sources": [
+      {
+        "name": "pv_magazine",
+        "url": "https://www.pv-magazine.com/2026/08/20/new-materials-in-the-frame/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-20-012",
+    "date": "2026-08-20",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "The clean energy transition needs land. Can it help restore it too? - UN News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTFBpSmo3ZHBRWDJLbmdmYU5BLTc3VkFyN2NHMWNnQktjVGVZbmxlZGMydnFNc2ZNOXdNZlo3VkRXZlp4ZzBkN051TmxkR3dvZFZUTUwxNWpxYw?oc=5\" target=\"_blank\">The clean",
+    "sources": [
+      {
+        "name": "google_news_solar",
+        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBpSmo3ZHBRWDJLbmdmYU5BLTc3VkFyN2NHMWNnQktjVGVZbmxlZGMydnFNc2ZNOXdNZlo3VkRXZlp4ZzBkN051TmxkR3dvZFZUTUwxNWpxYw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-20-013",
+    "date": "2026-08-20",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Windlab, Squadron Energy submit 500MW battery storage system for federal assessment in Queensland, Australia",
+    "summary": "Windlab and Squadron Energy have referred a 500MW BESS at the Bungaban solar-plus-storage project in Queensland for approval.",
+    "sources": [
+      {
+        "name": "energy_storage_news",
+        "url": "https://www.energy-storage.news/windlab-squadron-energy-submit-500mw-battery-storage-system-for-federal-assessment-in-queensland-australia/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-20-014",
+    "date": "2026-08-20",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "‘One market into many’: AER says battery storage systems are reshaping Australia’s NEM",
+    "summary": "The AER has found that growth in renewable energy and battery storage eased pressure across Australia's wholesale electricity market in 2025.",
+    "sources": [
+      {
+        "name": "energy_storage_news",
+        "url": "https://www.energy-storage.news/one-market-into-many-aer-says-battery-storage-systems-are-reshaping-australias-nem/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-20-015",
+    "date": "2026-08-20",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "APA to build 104MWh battery storage system for Evolution Mining’s Ernest Henry operations in Australia",
+    "summary": "APA Group has taken a final investment decision to construct, own and operate the 104MWh Sybella Creek solar-plus-storage site in Australia.",
+    "sources": [
+      {
+        "name": "energy_storage_news",
+        "url": "https://www.energy-storage.news/apa-to-build-104mwh-battery-storage-system-for-evolution-minings-ernest-henry-operations-in-australia/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-20-016",
+    "date": "2026-08-20",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "2 GW HVDC Is Becoming Standard. The Rest Of The Grid Isn’t.",
+    "summary": "<p>High-voltage direct current transmission used to look like a specialist technology reserved for unusually long lines, subsea links or awkward grid problems. That is changing. In a recent Redefining",
+    "sources": [
+      {
+        "name": "cleantechnica",
+        "url": "https://cleantechnica.com/2026/08/20/2-gw-hvdc-standard-grid-controls/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-20-017",
+    "date": "2026-08-20",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "NLR & North American Electric Reliability Corporation Launch Partnership To Advance North American Grid Reliability",
+    "summary": "<p>Collaboration Will Advance Research and Technical Insights Needed To Support Reliable, Resilient Energy Future for More Than 400 Million North Americans By Madeline Geocaris, NLR The National Labor",
+    "sources": [
+      {
+        "name": "cleantechnica",
+        "url": "https://cleantechnica.com/2026/08/19/nlr-north-american-electric-reliability-corporation-launch-partnership-to-advance-north-american-grid-reliability/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-20-018",
+    "date": "2026-08-20",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Translucent Solar Starts Producing Solar Panels in South Carolina",
+    "summary": "<p>There&#8217;s been a push for the past several years to get more cleantech products produced in the United States. One of the key target products is solar panels, as well as the various components ",
+    "sources": [
+      {
+        "name": "cleantechnica",
+        "url": "https://cleantechnica.com/2026/08/19/translucent-solar-starts-producing-solar-panels-in-south-carolina/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "unknown-2026-08-19-001",
     "date": "2026-08-19",
     "companies": [],
@@ -255,6 +586,332 @@
       {
         "name": "cleantechnica",
         "url": "https://cleantechnica.com/2026/08/18/solar-power-passes-3-terawatt-marker/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "sungrow-2026-08-19-015",
+    "date": "2026-08-19",
+    "companies": [
+      "sungrow"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Sungrow to invest $50 million in an energy storage plant in Egypt - Capmad",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxNdVFxTVU2dE1yY1YtUzRPTWxqV3N3NTcwXzBmRnlZb3ZRS2JnTWk5VVRCNVFMTi1LSmwyV3l6N0VzekdiWUE3bTBrRVdUbnUyWVlMY0E2VmwxNGJKdThXYVZpUEpMakcteE8yNnlyVG",
+    "sources": [
+      {
+        "name": "sungrow",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNdVFxTVU2dE1yY1YtUzRPTWxqV3N3NTcwXzBmRnlZb3ZRS2JnTWk5VVRCNVFMTi1LSmwyV3l6N0VzekdiWUE3bTBrRVdUbnUyWVlMY0E2VmwxNGJKdThXYVZpUEpMakcteE8yNnlyVGxfVERIMnJuYzV0dHE2NGVnZUtzbzJfa1d3NWNwQjdvalJQWW5fSzVB?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-19-016",
+    "date": "2026-08-19",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Megasol equips its solar panels with anti-glare surface",
+    "summary": "<p>The Swiss manufacturer has made its ZRM+ anti-glare surface a standard feature across all Level Up solar roof modules. The microstructured glass reduces glare while maintaining a matte finish and t",
+    "sources": [
+      {
+        "name": "pv_magazine",
+        "url": "https://www.pv-magazine.com/2026/08/19/megasol-equips-its-solar-panels-with-an-anti-glare-surface/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-19-017",
+    "date": "2026-08-19",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "EDF power solutions secures PPAs with NV Energy for 400 MW solar-plus-storage project",
+    "summary": "The deal involves power from the Winston Energy Project, which will include 400 MWac of solar generation paired with a 400 MW/1,600 MWh battery energy storage system, with operations slated for 2029.",
+    "sources": [
+      {
+        "name": "pv_magazine_usa",
+        "url": "https://pv-magazine-usa.com/2026/08/19/edf-power-solutions-secures-ppas-with-nv-energy-for-400-mw-solar-plus-storage-project/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-19-018",
+    "date": "2026-08-19",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "TOYO revenue surges 88% in H1 2026 as U.S. solar market drives growth",
+    "summary": "Sales to U.S. customers reached $210.5 million, accounting for over 80% of total revenue as the company advances its 2 GW module and 1.5 GW cell manufacturing hub in Texas.",
+    "sources": [
+      {
+        "name": "pv_magazine_usa",
+        "url": "https://pv-magazine-usa.com/2026/08/19/toyo-revenue-surges-88-in-h1-2026-as-u-s-solar-market-drives-growth/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-19-019",
+    "date": "2026-08-19",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "LG Energy Solution starts battery production at new Lansing facility",
+    "summary": "The $2 billion plant will manufacture LFP cells for utility-scale energy storage systems alongside high-density NMC cells for electric vehicles.",
+    "sources": [
+      {
+        "name": "pv_magazine_usa",
+        "url": "https://pv-magazine-usa.com/2026/08/19/lg-energy-solution-starts-battery-production-at-new-lansing-facility/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-19-020",
+    "date": "2026-08-19",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Ensuring safety of plug-in solar",
+    "summary": "Plug-in solar legislation being adopted across the country has many commonalities including the requirement of a UL mark of safety.",
+    "sources": [
+      {
+        "name": "pv_magazine_usa",
+        "url": "https://pv-magazine-usa.com/2026/08/19/ensuring-safety-of-plug-in-solar/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-19-021",
+    "date": "2026-08-19",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "As US tries to starve Cuba, solar electric garbage trikes offer a lifeline",
+    "summary": "<div class=\"feat-image\"><img src=\"https://electrek.co/wp-content/uploads/sites/3/2026/08/cuba-el-rampeno-electric-trike-garbage-truck.jpg?quality=82&#038;strip=all&#038;w=1600\" /></div><p class=\"wp-bl",
+    "sources": [
+      {
+        "name": "electrek_solar",
+        "url": "https://electrek.co/2026/08/19/as-us-tries-to-starve-cuba-solar-electric-garbage-trikes-offer-a-lifeline/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-19-022",
+    "date": "2026-08-19",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Solar Panels Can Cool Crops—and Workers - eos.org",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxQeDNWSlZkZk8tRXAybE82bV80NGxxaEFNWksyMlpWYmpHc1hvOG9zRTZlZWNMVW9mTVRlSFJ6YzVGSUdvZ3A3emRtM1loV05IMVVDcWgteE5lN0ZqMnJvd0d0RkV4ZnFvZ0YtcGw1bz",
+    "sources": [
+      {
+        "name": "google_news_solar",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQeDNWSlZkZk8tRXAybE82bV80NGxxaEFNWksyMlpWYmpHc1hvOG9zRTZlZWNMVW9mTVRlSFJ6YzVGSUdvZ3A3emRtM1loV05IMVVDcWgteE5lN0ZqMnJvd0d0RkV4ZnFvZ0YtcGw1bzJkN2dGYURBbEFHVy15Y1lESg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-19-023",
+    "date": "2026-08-19",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Solar panels can cool crops—and workers - Phys.org",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE53RzhBV2hkNUx2TVNPbDBYeVExTlAwdUNtTlcwNklnVk45NHk5QUpOUFBMV05VRzF5dmJNZ3dralFjYWxSX01PeTU4MUVZQV9RSUM2OWYzcThaOGtEYk00TzJReHlHanVQckNCUEFVd2",
+    "sources": [
+      {
+        "name": "google_news_solar",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE53RzhBV2hkNUx2TVNPbDBYeVExTlAwdUNtTlcwNklnVk45NHk5QUpOUFBMV05VRzF5dmJNZ3dralFjYWxSX01PeTU4MUVZQV9RSUM2OWYzcThaOGtEYk00TzJReHlHanVQckNCUEFVd2M4bGRm?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-19-024",
+    "date": "2026-08-19",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "European clean energy developers show a renewed appetite for risk",
+    "summary": "Europe experienced more than 9,000 hours of negative power prices in 2025, attracting a fresh cohort of investors with a greater appetite for risk.",
+    "sources": [
+      {
+        "name": "renewableenergyw",
+        "url": "https://www.renewableenergyworld.com/energy-business/new-project-development/european-clean-energy-developers-show-a-renewed-appetite-for-risk/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-19-025",
+    "date": "2026-08-19",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Public utilities board proposes expanding New Jersey’s energy storage program",
+    "summary": "<p>The New Jersey Board of Public Utilities (NJBPU) has released a proposal for the next phase of its Garden State Energy Storage Program (GSESP), which would open 150 MW of energy storage statewide, ",
+    "sources": [
+      {
+        "name": "solar_power_world",
+        "url": "https://www.solarpowerworldonline.com/2026/08/public-utilities-board-proposes-expanding-new-jerseys-energy-storage-program/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-19-026",
+    "date": "2026-08-19",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "EVO Power and Ranial start nationwide battery and energy management service",
+    "summary": "<p>Energy storage company EVO Power USA and Ranial Systems, an energy management systems provider, are combining their services to serve commercial and industrial customers nationwide. The partnership",
+    "sources": [
+      {
+        "name": "solar_power_world",
+        "url": "https://www.solarpowerworldonline.com/2026/08/evo-power-and-ranial-start-nationwide-battery-and-energy-management-service/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-19-027",
+    "date": "2026-08-19",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "US utilities Appalachian Power and 3CE launch RFPS seeking BESS capacity in Virginia, California",
+    "summary": "Utility Appalachian Power (APCo) is seeking up to 800MW total of energy storage resources via two new requests for proposals (RFPs) in Virginia, US.",
+    "sources": [
+      {
+        "name": "energy_storage_news",
+        "url": "https://www.energy-storage.news/us-utilities-appalachian-power-and-3ce-launch-rfps-seeking-bess-capacity-in-virginia-california/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "sungrow-2026-08-19-028",
+    "date": "2026-08-19",
+    "companies": [
+      "sungrow"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Egyptian government minister lays foundation stone as Sungrow begins constructing MEA’s first specialised BESS factory",
+    "summary": "Egypt’s Minister of Industry laid the foundation stone at Sungrow’s BESS factory site in the Suez Canal Economic Zone earlier this week.",
+    "sources": [
+      {
+        "name": "energy_storage_news",
+        "url": "https://www.energy-storage.news/egyptian-government-minister-lays-foundation-stone-sungrow-begins-constructing-mea-first-specialised-bess-factory/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-19-029",
+    "date": "2026-08-19",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Enel starts building 100MW grid-forming BESS at Chile solar PV plant",
+    "summary": "Enel Green Power, part of the Italy-based power group Enel, has launched construction on another large-scale BESS in Chile. ",
+    "sources": [
+      {
+        "name": "energy_storage_news",
+        "url": "https://www.energy-storage.news/enel-starts-building-100mw-grid-forming-bess-at-chile-solar-pv-plant/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-19-030",
+    "date": "2026-08-19",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Germany BESS market in strong position but policy questions on grid fees, connections and FCAs cloud certainty",
+    "summary": "The grid-scale energy storage market in Germany is in a strong position but key questions around grid fees, grid connections, FCAs and the upcoming capacity market remain, speakers at the upcoming Ene",
+    "sources": [
+      {
+        "name": "energy_storage_news",
+        "url": "https://www.energy-storage.news/germany-bess-market-in-strong-position-but-policy-questions-on-grid-fees-connections-and-fcas-cloud-certainty/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-19-031",
+    "date": "2026-08-19",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Bouge RV’s Battery-Powered Portable Fridges Make Going Off Grid Easy (CleanTechnica Tested)",
+    "summary": "<p>Bouge RV has been a staple brand in the affordable solar and portable refrigeration space for years. Over the last few years, they have really ramped up their efforts to flesh out the product line,",
+    "sources": [
+      {
+        "name": "cleantechnica",
+        "url": "https://cleantechnica.com/2026/08/19/bouge-rvs-battery-powered-portable-fridges-make-going-off-grid-easy-cleantechnica-tested/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-19-032",
+    "date": "2026-08-19",
+    "companies": [],
+    "topics": [
+      "trade_tariff"
+    ],
+    "impact": "positive",
+    "title": "Can Legacy Automakers Survive Without Exports?",
+    "summary": "<p>It appears that Chinese carmakers are working around the US tariff wall, by targeting other export markets. Southeast Asia and Latin America are importing record numbers of Chinese EVs. Some Chines",
+    "sources": [
+      {
+        "name": "cleantechnica",
+        "url": "https://cleantechnica.com/2026/08/19/can-legacy-automakers-survive-without-exports/",
         "type": "rss"
       }
     ]
@@ -1300,6 +1957,84 @@
     ]
   },
   {
+    "id": "xinyi_solar-2026-08-18-056",
+    "date": "2026-08-18",
+    "companies": [
+      "xinyi_solar"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Xinyi Solar Holdings Stock Climbs 2.6% in Hong Kong - Moomoo",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxOMUxoSkRRbXVZRWRQemNUSlFQenFUWkVjTnYtTF9iaUFLeTlGbFFsaHg0cTk5T2g0R1FEdjdWdWlNQlVfT1dVMkFvWFZ0X3FPeFlwOHlmY0pIUHB1ZjJIMW1xR3RwNEFraGE4TlRZb3",
+    "sources": [
+      {
+        "name": "xinyi_solar",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOMUxoSkRRbXVZRWRQemNUSlFQenFUWkVjTnYtTF9iaUFLeTlGbFFsaHg0cTk5T2g0R1FEdjdWdWlNQlVfT1dVMkFvWFZ0X3FPeFlwOHlmY0pIUHB1ZjJIMW1xR3RwNEFraGE4TlRZb3R5ODZ0NURVYl9yVVY4dmpsRnV4VjZuVl9rTmZLMER2ejZrakk5VnZ3?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-18-057",
+    "date": "2026-08-18",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Top 10 Solar Module Suppliers See 31% Shipment Drop In H1 2026 - taiyangnews.info",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxQZS0yVVZxZjViZDJKajJOb0VPdElmOWxNeW1td3hPaWZoa19OaHpmR0ZCX25JbWRKa3J6d0lsc085aTBnTEh5d0pzR3REWlR6aXpfaGZkM2xDNHktN2JELW9kM1laNnFxSlQ3TjAydX",
+    "sources": [
+      {
+        "name": "longi",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQZS0yVVZxZjViZDJKajJOb0VPdElmOWxNeW1td3hPaWZoa19OaHpmR0ZCX25JbWRKa3J6d0lsc085aTBnTEh5d0pzR3REWlR6aXpfaGZkM2xDNHktN2JELW9kM1laNnFxSlQ3TjAydXNRSDRGNVlGUzB6WjUxVzNUdHdUZ2pKR0t1aGQ3dVdnSjR0R1B2d1E?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "risen-2026-08-18-058",
+    "date": "2026-08-18",
+    "companies": [
+      "risen"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Risen Energy and Ascania Energy Partner on Up to 100 MW Solar and 200 MWh Energy Storage in Ukraine - PR Newswire",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6wFBVV95cUxNbGJpU21fLUZDQ1FpNkJGTUhoc0pYV05mamlSaG5MM0FIWUFBM3NmblZTMklTQUhaVk9oNTNhZ3NSckpBblY0SWd5YnhXUThIT0I5ZHJCRE1VZDYwTEkyTWF5NWIwLU9hMmpYUkJydF",
+    "sources": [
+      {
+        "name": "risen",
+        "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNbGJpU21fLUZDQ1FpNkJGTUhoc0pYV05mamlSaG5MM0FIWUFBM3NmblZTMklTQUhaVk9oNTNhZ3NSckpBblY0SWd5YnhXUThIT0I5ZHJCRE1VZDYwTEkyTWF5NWIwLU9hMmpYUkJydFVCLTg1V3hnaWZrekFCTnhaWWRIalZOZUxYMXRJdjdjMVkxYzdqajJzaldOdDRRQ0dCQ2dXaVNVc1hPWmZveF94REEzbWhnS0tPck1zOUJ1V2dBWnFwU1pVZnAycmZSd19vNEE2TkxLNnFUNmdiRDZ0MTVZb0tGN19rMnVv?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "risen-2026-08-18-059",
+    "date": "2026-08-18",
+    "companies": [
+      "risen"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Risen, Ascania sign MoUs for solar and battery storage in Ukraine - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxOMERDcjF4WFlpdmw3QkF0RGR2RWo4bTB2WVBBOXY0WW9KTzdDbS1XUVVSXzNRTERuLXpxenNxcGlPb3NPV3V4Mkx3X2t5YjZEU01CQnNtZG9kSjBsNVR5cGhvN0N1VDV6cjctZkpOUn",
+    "sources": [
+      {
+        "name": "risen",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOMERDcjF4WFlpdmw3QkF0RGR2RWo4bTB2WVBBOXY0WW9KTzdDbS1XUVVSXzNRTERuLXpxenNxcGlPb3NPV3V4Mkx3X2t5YjZEU01CQnNtZG9kSjBsNVR5cGhvN0N1VDV6cjctZkpOUnNEdENaeXV1SndBWlFpS3dRWlhwYnVIbW1DSVpsYks0dw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "unknown-2026-08-17-001",
     "date": "2026-08-17",
     "companies": [],
@@ -1954,6 +2689,24 @@
       {
         "name": "energy_storage_news",
         "url": "https://www.energy-storage.news/econergy-signs-financing-agreements-for-150mw-solar-plus-storage-project-in-romania/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "meyer_burger-2026-08-17-037",
+    "date": "2026-08-17",
+    "companies": [
+      "meyer_burger"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Meyer Burger Technology AG (OTC: MYBUF) Stock Price, News & Analysis - Kalkine",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTFA1c1NiV1IybDVJeDZDZFQ3VmlPUExyN01kTjZCVzFYYVZPMENsaWFJbFgySWl6TWp5NFdzNWhVYjN0OXhaUWkzYUgxdlR3NTBOYnY0?oc=5\" target=\"_blank\">Meyer Burger Te",
+    "sources": [
+      {
+        "name": "meyer_burger",
+        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFA1c1NiV1IybDVJeDZDZFQ3VmlPUExyN01kTjZCVzFYYVZPMENsaWFJbFgySWl6TWp5NFdzNWhVYjN0OXhaUWkzYUgxdlR3NTBOYnY0?oc=5",
         "type": "rss"
       }
     ]
@@ -3102,6 +3855,24 @@
       {
         "name": "meyer_burger",
         "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBsVXJtR0g3Nl9VMjFNODkyN3dfYjlPNWw3NkN2Ym9CTlV3Q25GZXdvQUdRZWFZelpaM1Fqa0ZCSm51WWsxc3lYWXlIc1pGdnd2azNYaWpkbHoxWVpSbzAyTU0tWWhJUTdQUm1IYUxn?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-14-052",
+    "date": "2026-08-14",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Solar Energy Technologies Office Updated 2030 Goals for Utility-Scale Photovoltaics - Department of Energy (.gov)",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxNaWhoZWJBNU4tSkZoTDZfOWVISllIMDBodi1mcnR5aXJnb2Z5c0R0UXVmQXpsbjBmRElVb0NlRllsZFBlNTlsNzVGSTg5Y1l2UWdUYjluM29zbXdNZGx3VUhtbGFrNHBDc2xTZnFlc1",
+    "sources": [
+      {
+        "name": "google_news_solar",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNaWhoZWJBNU4tSkZoTDZfOWVISllIMDBodi1mcnR5aXJnb2Z5c0R0UXVmQXpsbjBmRElVb0NlRllsZFBlNTlsNzVGSTg5Y1l2UWdUYjluM29zbXdNZGx3VUhtbGFrNHBDc2xTZnFlc19zcDFVLThBR3NqTDFoVWtVQnBMWkp3bWF3am0zeTg2OFlHemVpVnI4THRLSUZsS0lWcDFnSDRoNW5lZE9vcXpseDkwenNOUQ?oc=5",
         "type": "rss"
       }
     ]

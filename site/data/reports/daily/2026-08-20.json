@@ -1,0 +1,209 @@
+{
+  "date": "2026-08-20",
+  "generated_at": "2026-08-20T08:24:32.995969Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "ja_solar-2026-08-20-001",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "Chint, JA Solar Technology, Yingli, Tongwei, and Two Other Enterprises Shortlisted for CNNC’s 4.3 GW PV Module Centralised Procurement Orders - news.metal.com",
+      "companies": [
+        "ja_solar",
+        "tongwei"
+      ],
+      "related": {
+        "customers": [
+          "ja_solar"
+        ],
+        "suppliers": [
+          "tongwei"
+        ]
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNOWZDNjRaUkp4MTRYY1czMEdlTXVlZzNZSHJUZ2xQOEpSM0FibEdZUFpsRHFtQm1JUi00TnByT2dGR3FUUnZOeEFKcFdESExGQmtBbEFheThZOS1WYVRlMjY2VEQ5cHMtNnZKUDBKSUVZeHRnWGdCMjZ6Vy1rZVVSamhYQWRsQkx3TzNUekZXRHpobV95QmJudVpHRUUxRkxqQ0RscjdHUTQydDBYNWFWR0ZUdnpNQ0JmNlRJVklsMHotMk1WS0RUOGwzMG5YLTZPLTdsbUNQaU9uM2ZvZUthaEVWVS1IU1BsbVZoRnZiSDZ3NGlpbHVlUmxsYmk?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-08-20-006",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Where and how to cut back-contact TOPCon solar cells to minimize recombination losses",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://www.pv-magazine.com/2026/08/20/where-and-how-to-cut-back-contact-topcon-solar-cells-to-minimize-recombination-losses/"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-08-20-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "JA Powers Fisher & Paykel Healthcare's Green Transition with New Zealand's Largest Rooftop PV System - PA Media",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOQ0w0eDhsOTBJbEdEMlFWcTVmekRCOVdUNFBKcDRDcEQxX1d5cnZPMW5XaWUwT3VoUlZfZDlCUDBONlN2R0FyYkg0NkxtQTF3MTNlU0dodVRaai1JTUJOTi1peG5TWDNWUkdzLUFiOTRIVVF3SkNqZUtqSDg1X2drdkl6Y2lTSkJQbUlJd2NfcWlrbWl3Y2dIcklnZ1BYclBwQXRySnpuWF9aVjlvQnE5Smx1R0oxenVpTTVpTHBsS1JnNXpyM2dpY0NHRFNnX0EyZmFUSGVrZUw0M0FYOF9yWFpB?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "trina-2026-08-20-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Trinasolar powers 10 MWh solar and storage project in Phu Quoc - Vietnam Investment Review - VIR",
+      "companies": [
+        "trina"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOaGpMOVBuUWV6NktsejlpbUd5ekZ2aXFXc2t6RmNOaHJuSzVUU3U0TWFOelFWNGtiWXYxSDBuOFlMUjR1LWwxUUpjSTZwUWl2aVZfUjJZRm5yZ0FyMVdWMzJUMmVzRVJJeXpXX2IteFV2djdKV3JBSV85YTRORjdvUDhDSUZ6cXNEN0t6a0VGRFZ6Sk1ROTgwRQ?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-08-20-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Mexican solar installers report risks of kidnapping and extortion",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.pv-magazine.com/2026/08/20/mexican-solar-installers-report-risks-of-kidnapping-and-extortion/"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 18,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.03,
+      "sentiment_7d_avg": null
+    },
+    "installation_demand": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 18,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 16,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "ja_solar",
+        "count": 1
+      },
+      {
+        "id": "tongwei",
+        "count": 1
+      },
+      {
+        "id": "trina",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 18
+      },
+      {
+        "id": "installation_demand",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 465,
+    "dup_title": 230,
+    "too_old": 147,
+    "gate1_blocked": 43,
+    "gate2_blocked": 3,
+    "passed": 42,
+    "pass_rate": "17.9%",
+    "gate2_block_rate": "1.3%",
+    "gate2_samples": [
+      "Array Technologies: Q2 2026 Review, Bullish For 2027 (NASDAQ:ARRY) - Seeking Alpha",
+      "Study finds arable crops adapt surprisingly well to agrivoltaic shading",
+      "16 Agrivoltaic Projects on Local Farms Move Forward in New Jersey"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 18 則事件，焦點為晶澳科技、通威、天合光能相關動態：「Chint, JA Solar Technology, Yingli, Tongwei, and Two Othe...」。主要關注主題為太陽能產業通用、裝機需求，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Chint, JA Solar Technology, Yingli, Tongwei, and Two Other Enterprises Shortl...（太陽能產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Where and how to cut back-contact TOPCon solar cells to minimize recombinatio...（太陽能產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "裝機需求持續受關注，產業趨勢帶動需求成長。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

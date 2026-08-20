@@ -1,0 +1,14 @@
+{
+  "total_raw": 465,
+  "dup_title": 230,
+  "no_date": 0,
+  "too_old": 147,
+  "gate1_fail": 43,
+  "gate2_fail": 3,
+  "passed": 42,
+  "gate2_samples": [
+    "Array Technologies: Q2 2026 Review, Bullish For 2027 (NASDAQ:ARRY) - Seeking Alpha",
+    "Study finds arable crops adapt surprisingly well to agrivoltaic shading",
+    "16 Agrivoltaic Projects on Local Farms Move Forward in New Jersey"
+  ]
+}
