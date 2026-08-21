@@ -1,0 +1,14 @@
+{
+  "total_raw": 466,
+  "dup_title": 217,
+  "no_date": 0,
+  "too_old": 131,
+  "gate1_fail": 38,
+  "gate2_fail": 3,
+  "passed": 77,
+  "gate2_samples": [
+    "Why is Daqo New Energy stock rallying today? - Investing.com",
+    "Array Technologies: Q2 2026 Review, Bullish For 2027 (NASDAQ:ARRY) - Seeking Alpha",
+    "Geely prepares revolutionary 500 Wh/kg solid-state EV battery that could beat diesel"
+  ]
+}
