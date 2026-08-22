@@ -1,0 +1,16 @@
+{
+  "total_raw": 467,
+  "dup_title": 243,
+  "no_date": 0,
+  "too_old": 133,
+  "gate1_fail": 39,
+  "gate2_fail": 6,
+  "passed": 46,
+  "gate2_samples": [
+    "Daqo New Energy Corp (DQ) Shares Fall 9.3% -- What GF Score of 6 - GuruFocus",
+    "Why is Daqo New Energy stock rallying today? - Investing.com",
+    "Array Technologies: Q2 2026 Review, Bullish For 2027 (NASDAQ:ARRY) - Seeking Alpha",
+    "Array Technologies’ New Products Are Starting To Do The Heavy Lifting - Finimize",
+    "AC-Coupled vs. DC-Coupled"
+  ]
+}
