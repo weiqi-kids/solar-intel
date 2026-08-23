@@ -1,0 +1,50 @@
+{
+  "date": "2026-08-23",
+  "generated_at": "2026-08-23T08:17:53.945526Z",
+  "top_events": [],
+  "anomalies": [],
+  "topic_trends": {},
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 0,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 0,
+      "negative": 0
+    },
+    "top_companies": [],
+    "top_topics": []
+  },
+  "filter_audit": {
+    "total_raw": 464,
+    "dup_title": 279,
+    "too_old": 131,
+    "gate1_blocked": 38,
+    "gate2_blocked": 8,
+    "passed": 8,
+    "pass_rate": "4.3%",
+    "gate2_block_rate": "4.3%",
+    "gate2_samples": [
+      "Why is Daqo New Energy stock rallying today? - Investing.com",
+      "Daqo New Energy Corp (DQ) Shares Fall 9.3% -- What GF Score of 6 - GuruFocus",
+      "Array Technologies: Q2 2026 Review, Bullish For 2027 (NASDAQ:ARRY) - Seeking Alpha",
+      "Array Technologies' New Products Gain Traction, RBC Says - Moomoo",
+      "Array Technologies’ New Products Are Starting To Do The Heavy Lifting - Finimize"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "2026-08-23 無太陽能產業相關事件。市場處於平靜狀態，無重大訊號。",
+    "signals": [
+      {
+        "text": "今日無重大異常訊號，產業動態平穩。",
+        "level": "green"
+      },
+      {
+        "text": "建議持續監控後續發展動態。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
