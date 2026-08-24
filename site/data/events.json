@@ -1,5 +1,224 @@
 [
   {
+    "id": "daqo-2026-08-24-001",
+    "date": "2026-08-24",
+    "companies": [
+      "daqo"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "Daqo New Energy 2025 Semi-Annual Report: 7.87% Asset-Liability Ratio, ¥1.6B Net Loss, ¥6B AIDC Investment – The Most Conservative PV Leader’s Bold Strategic Bet - 36Kr",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE1kcnM4akM4LUc1TlhFQ2ZmZnkyYm0tOXRhMWtyOXFsdFE4ZTJ4NmhDaV9TM2w5dUl2WUUzODV5Mk9CRmdUamF2dXdKbFVYdjAzSFFF?oc=5\" target=\"_blank\">Daqo New Energy",
+    "sources": [
+      {
+        "name": "daqo",
+        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1kcnM4akM4LUc1TlhFQ2ZmZnkyYm0tOXRhMWtyOXFsdFE4ZTJ4NmhDaV9TM2w5dUl2WUUzODV5Mk9CRmdUamF2dXdKbFVYdjAzSFFF?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-24-002",
+    "date": "2026-08-24",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Italy’s CNR presents bifacial PV tile based on spectral splitting",
+    "summary": "<p>Researchers at Italy’s CNR developed a four-terminal PV tile that uses spectral splitting to direct visible and infrared light to GaAs and bifacial silicon cells, respectively. Outdoor testing conf",
+    "sources": [
+      {
+        "name": "pv_magazine",
+        "url": "https://www.pv-magazine.com/2026/08/24/italys-cnr-presents-bifacial-pv-tile-based-on-spectral-splitting/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-24-003",
+    "date": "2026-08-24",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "European PPA prices rise 2.3% in July",
+    "summary": "<p>European PPA prices rose 2.3% in July, with gains in Great Britain and Italy offset by declines in the Nordics, Spain and Portugal. Contracting remained active, with 24 PPAs totaling 1.1 GW and nin",
+    "sources": [
+      {
+        "name": "pv_magazine",
+        "url": "https://www.pv-magazine.com/2026/08/24/european-ppa-prices-rise-2-3-in-july/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-24-004",
+    "date": "2026-08-24",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Korean scientists unveil 10 kW chemical adsorption heat pump prototype",
+    "summary": "<p>Korean researchers have developed a 10 kW chemical adsorption heat pump that uses waste heat at around 40 C to provide cooling for buildings, factories and data centers. The prototype features a hi",
+    "sources": [
+      {
+        "name": "pv_magazine",
+        "url": "https://www.pv-magazine.com/2026/08/24/korean-scientists-unveil-10-kw-chemical-adsorption-heat-pump-prototype/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-24-005",
+    "date": "2026-08-24",
+    "companies": [],
+    "topics": [
+      "trade_tariff",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "India hits $0.068/kWh tariff in 4-hour peak renewable power tender",
+    "summary": "<p>SECI has discovered a lowest tariff of INR 5.99 ($0.068)/kWh in its 1.5 GW tender for four-hour assured peak renewable power. Waaree Energies secured 700 MW, while NTPC REL and ACME Solar won 500 M",
+    "sources": [
+      {
+        "name": "pv_magazine",
+        "url": "https://www.pv-magazine.com/2026/08/24/seci-discovers-inr-5-99-kwh-tariff-for-4-hour-peak-renewable-power/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-24-006",
+    "date": "2026-08-24",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Quinbrook advances plans for polysilicon factory in Australia",
+    "summary": "<p>Quinbrook Infrastructure Partners’ plans to build a polysilicon plant in Queensland to supply solar panel manufacturers have taken another step forward following the recent signing of an agreement ",
+    "sources": [
+      {
+        "name": "pv_magazine",
+        "url": "https://www.pv-magazine.com/2026/08/24/quinbrook-advances-plans-for-polysilicon-production-plant/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-24-007",
+    "date": "2026-08-24",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "US updates foreign inverter ban to include wired devices",
+    "summary": "<p>The FCC expanded its national security Covered List rules to explicitly target Ethernet-connected inverters while creating a compliance pathway for 45X-eligible domestic manufacturing.</p>\n<p>The p",
+    "sources": [
+      {
+        "name": "pv_magazine",
+        "url": "https://www.pv-magazine.com/2026/08/24/fcc-updates-foreign-inverter-ban-to-include-wired-devices-adds-45x-safe-harbor/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-24-008",
+    "date": "2026-08-24",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Off-Grid Power Simplified: A Comprehensive Guide from a Reliable Off Grid Solar Trailer Factory, RiteVolt - EIN News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxNdGFkUGp6eFNZMW1JX1Z0WGpkeGZOVF90UnNjdEwzeklMR0dfc09IQU8yYjFOR19ZRVZxVTdWUU1fWFM4TXZpOVRqTEdEZVNYZldrN3VEeTZXNGs0SHNfajUyZmlsVmFDVTRlZUsyVj",
+    "sources": [
+      {
+        "name": "google_news_solar",
+        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNdGFkUGp6eFNZMW1JX1Z0WGpkeGZOVF90UnNjdEwzeklMR0dfc09IQU8yYjFOR19ZRVZxVTdWUU1fWFM4TXZpOVRqTEdEZVNYZldrN3VEeTZXNGs0SHNfajUyZmlsVmFDVTRlZUsyVjAxdk41aTVUTVB0SmxrYWluVllaTXRXWC03SG9Zd20zNXVsUU9kNWR3VmhKdG1TMDJVbWFCRkU5ei1FQ0E4a0ItblludmdqbGIzYmJMNnZhamdHZjFBQ1hGZTNUcEV2Xzh4M0pUT21tWlRUWEotdkE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-24-009",
+    "date": "2026-08-24",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Invinity confirms EPC contract award for 2.1GWh ‘landmark’ flow battery in Switzerland",
+    "summary": "Invinity Energy Systems has hired an EPC partner for its gigawatt-hour-scale vanadium redox flow battery (VRFB) energy storage project in Laufenberg, Switzerland.",
+    "sources": [
+      {
+        "name": "energy_storage_news",
+        "url": "https://www.energy-storage.news/invinity-confirms-epc-contract-award-for-2-1gwh-landmark-flow-battery-in-switzerland/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-24-010",
+    "date": "2026-08-24",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Quinbrook taps GE Vernova and CATL for the third stage of Australia’s largest battery storage system",
+    "summary": "GE Vernova and CATL selected for 1,216MWh Supernode Stage 3 in Queensland, which will expand Australia's largest battery storage system.",
+    "sources": [
+      {
+        "name": "energy_storage_news",
+        "url": "https://www.energy-storage.news/quinbrook-taps-ge-vernova-and-catl-for-the-third-stage-of-australias-largest-battery-storage-system/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-23-001",
+    "date": "2026-08-23",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Qcells Georgia strengthens its solar panel production - Inspenet",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxNOF9NaENEdy1ydU9fMElMWEN2VTQ5TFROaXNUbkpvQlFsXzRQSm9Hcm4yYVEyTjNaUHJ5UGlTeV9PcU9oYlVka2VRMEh2RFdkT3B4eHJadzJxcEpQeFRCZ2lNUHVqU3BQVkFCcThrQ1",
+    "sources": [
+      {
+        "name": "google_news_solar",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNOF9NaENEdy1ydU9fMElMWEN2VTQ5TFROaXNUbkpvQlFsXzRQSm9Hcm4yYVEyTjNaUHJ5UGlTeV9PcU9oYlVka2VRMEh2RFdkT3B4eHJadzJxcEpQeFRCZ2lNUHVqU3BQVkFCcThrQ1lvWlhVWkQxVlRzeV9kM0hlUg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-23-002",
+    "date": "2026-08-23",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Scientists virtually covered 11 U.S. reservoirs with floating solar, and the fish below got no simple answer because cold-water habitat improved most only after panels covered more than half the surface - Energies Media",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTFBoeFo1NU5qRnJuaHozVTZkaU9fNjM2SFFPZHU1STBTazJ5bHZkT3JHaXdwUzVaRHhtR0cweFNkakh0My1DYkFjNFJ0Z2prME55SmRhWGF2Mk96dllBejJqSjNpMlhlTEdRNHEtaGhfWF",
+    "sources": [
+      {
+        "name": "google_news_solar",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBoeFo1NU5qRnJuaHozVTZkaU9fNjM2SFFPZHU1STBTazJ5bHZkT3JHaXdwUzVaRHhtR0cweFNkakh0My1DYkFjNFJ0Z2prME55SmRhWGF2Mk96dllBejJqSjNpMlhlTEdRNHEtaGhfWF9OaWZINlNlOTM2LWNTY3c?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "unknown-2026-08-22-001",
     "date": "2026-08-22",
     "companies": [],
@@ -179,6 +398,24 @@
       {
         "name": "cleantechnica",
         "url": "https://cleantechnica.com/2026/08/22/cleantechnica-evangelist-report-card/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-22-011",
+    "date": "2026-08-22",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Let there be sunlight: Vatican plans solar and agriculture plant to cover its electricity needs - Reuters",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxQWGw0X0lOUmZESVVqMWhVeV84V3ptaFJTWDhqSzdPUm9CUEF5QmppQUExYWVwN09OZjhqYnpOcUxaRDZHdngzTHNaWWtPZy1namVHODNULWtCNkpSV0hvSmRfMkRFeXQ2bkNIR05qQU",
+    "sources": [
+      {
+        "name": "google_news_solar",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQWGw0X0lOUmZESVVqMWhVeV84V3ptaFJTWDhqSzdPUm9CUEF5QmppQUExYWVwN09OZjhqYnpOcUxaRDZHdngzTHNaWWtPZy1namVHODNULWtCNkpSV0hvSmRfMkRFeXQ2bkNIR05qQUFSdzc4bWV4ZFZud0ppWWVGQVVnbTR0ZXhSMUVWQ3Y5ZXluc1VrUXh6NUhmNEJ2RDAzdElkMjZKS3lqMXNHdHR1ZlJB?oc=5",
         "type": "rss"
       }
     ]
@@ -1160,6 +1397,24 @@
       {
         "name": "cleantechnica",
         "url": "https://cleantechnica.com/2026/08/21/the-yewt-minivan-roadshow/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-21-054",
+    "date": "2026-08-21",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "JA Powers Fisher & Paykel Healthcare’s Green Transition with New Zealand’s Largest Rooftop PV System - TaiyangNews",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxOc1dUanpKRkh5N0ZQYXdIbnBqTkFkRlJZbWFQWU5qaHl5Q2NhWGszOGZuY2VGbkFLMldBOGdfRFY5SVZXTk9MYVJTeXJIZzhyNjBOZnM4dlpKY0pWMGZBMjVPYXEweHhCcE9ycVcwZT",
+    "sources": [
+      {
+        "name": "ja_solar",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOc1dUanpKRkh5N0ZQYXdIbnBqTkFkRlJZbWFQWU5qaHl5Q2NhWGszOGZuY2VGbkFLMldBOGdfRFY5SVZXTk9MYVJTeXJIZzhyNjBOZnM4dlpKY0pWMGZBMjVPYXEweHhCcE9ycVcwZTljeURqLVdDMTZXcjVpNHZfMk5ubmU5TDhER0RHSGpfQ3c1THJmVUdEczNWeUo3WW42cGZFOVBzVkJiSGxuV1o5bnlaZ1FUV3h3Q0ZURzJUV21zMlJzU2F6YzdFX3NETUVr?oc=5",
         "type": "rss"
       }
     ]
@@ -2668,6 +2923,25 @@
       {
         "name": "array",
         "url": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxNdU8zTFdoRTdxa1M5blBjcjRjMzR2a2JwVUc5a2E4TGNJb0FET094cDQzdUVwS2FYeS1EUHpvRXJGSjJMSjlVVXk4TmFETU1Jb054S0dodnhPdFJYRU5fTWlzNHEwLTF5MlFhWUFZd2g1THluYW91MTUxalZpbEg4dG1yLVV2dkRTY0Q2Xy1IRFAzZXFUN19UVHZVT3RmbUFhLUQ1elZsNzZHRzhfMmNMcUJyZzFCeENhN0hPN2FuVzZOYkZhOHZtS2FWTXhKcmN6ZWcwT01yVjJCdkdIaGFNd1QwQmw2UkNxSmV2SjJpSEVVRzZGWWdjRXk5cUJVakxzeWFPUWNxakF6MXNUcFprbGZNajROUnJRWmtEOWtXRDNXZzFpa1hsSTZ1U3NyQzNnUm9mbFNKdm1ZM2c?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-20-081",
+    "date": "2026-08-20",
+    "companies": [],
+    "topics": [
+      "module_price",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "How Solar Panel Prices Fell 90 Percent In 15 Years - Crude Oil Prices Today | OilPrice.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxOeFpDazF4Um9zbmIwYkRxSldIUGstblh6bE52WnIxQy1IM0VuSHBxY3lrSk1CTzRuemNVY29BUE9seVVhZGNncDNEMWNPYkplYXhvTXJ4SDVLb2NTR3ZSQ2RxSXNpUVNiN3dOUFdMUH",
+    "sources": [
+      {
+        "name": "google_news_solar",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOeFpDazF4Um9zbmIwYkRxSldIUGstblh6bE52WnIxQy1IM0VuSHBxY3lrSk1CTzRuemNVY29BUE9seVVhZGNncDNEMWNPYkplYXhvTXJ4SDVLb2NTR3ZSQ2RxSXNpUVNiN3dOUFdMUHdhWVRPMjZwZzV2LXdTVFhKenhxU0ExT3hTRzFTWjBhTEMxbDFvWk02YmFsT1dBLVdjVjF0SGxyQUY0dTQ10gGyAUFVX3lxTE9ZVmhCR3RwdXRJVnBEYkdyOUpybmJZVFBHRDRTa1ROSy1Qd01xUlU3aEIyNGlzSUZnNmRhaXVTei1zd1FWRHVJU3lqR3VZX3JDVEVsenlfRzZXRmhiRm54cnlnVmdubVhVT20tNDR2ektKdkZOcTdnTkFnTERESGlYd2djdTR3Y1pkQk5ZTnpGbE1NYThiT0VsSGpoLVRmLU0ydEVvcndTMTJLYmNQX1BTUUE?oc=5",
         "type": "rss"
       }
     ]
@@ -5166,6 +5440,25 @@
       {
         "name": "gcl",
         "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQT2xDZ2N0M25EY18xakhxZ2F4enFwdzdERnA0TmRfU20xWWFacWRIWGdQVTNpc1FSTHloYmlvaHRZVTJ4MU16eHJLdVA2bmNhel8zd2Y2bzA3cmdnWW5jd2x3ZFlkdUozT3VBbzlhY2o4aHFRMnFqenNSeHRiUW81Sjhqa3BnMFA5ZXJpbFdrWUpveXdZRHVGWFJpaG9mYkN3Y1puMlZDTXZSNUU?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-17-040",
+    "date": "2026-08-17",
+    "companies": [],
+    "topics": [
+      "trade_tariff",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Fifteen Years of Solar Tariff Fever and the Only Prescription Is More Solar Tariffs - Cato Institute",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxOeUExMG1Tc3gwYVBvWk9Vb1VxTVBKam05VDhCRmhRUkJEcTRLcWdRZnM3bUZfMFlrLXpUTG9yNGV5T29LSTJDMlVoaGNKN1ZxMVVRc2FwX2dLZmJyQlBjbmNYQU9CRU9hakdRNWpQSE",
+    "sources": [
+      {
+        "name": "google_news_solar_trade",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOeUExMG1Tc3gwYVBvWk9Vb1VxTVBKam05VDhCRmhRUkJEcTRLcWdRZnM3bUZfMFlrLXpUTG9yNGV5T29LSTJDMlVoaGNKN1ZxMVVRc2FwX2dLZmJyQlBjbmNYQU9CRU9hakdRNWpQSEtTSHFBTjVfY1pGSkVIanV2NEl4U0hHSXVNWTQ0ZW44ZzlGTjhRMXF6bl93VQ?oc=5",
         "type": "rss"
       }
     ]

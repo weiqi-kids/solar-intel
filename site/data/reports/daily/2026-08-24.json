@@ -1,0 +1,193 @@
+{
+  "date": "2026-08-24",
+  "generated_at": "2026-08-24T08:36:01.685353Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "daqo-2026-08-24-001",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Daqo New Energy 2025 Semi-Annual Report: 7.87% Asset-Liability Ratio, ¥1.6B Net Loss, ¥6B AIDC Investment – The Most Conservative PV Leader’s Bold Strategic Bet - 36Kr",
+      "companies": [
+        "daqo"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1kcnM4akM4LUc1TlhFQ2ZmZnkyYm0tOXRhMWtyOXFsdFE4ZTJ4NmhDaV9TM2w5dUl2WUUzODV5Mk9CRmdUamF2dXdKbFVYdjAzSFFF?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-08-24-003",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "European PPA prices rise 2.3% in July",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://www.pv-magazine.com/2026/08/24/european-ppa-prices-rise-2-3-in-july/"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-08-24-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Italy’s CNR presents bifacial PV tile based on spectral splitting",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://www.pv-magazine.com/2026/08/24/italys-cnr-presents-bifacial-pv-tile-based-on-spectral-splitting/"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-08-24-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Korean scientists unveil 10 kW chemical adsorption heat pump prototype",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.pv-magazine.com/2026/08/24/korean-scientists-unveil-10-kw-chemical-adsorption-heat-pump-prototype/"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-08-24-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "India hits $0.068/kWh tariff in 4-hour peak renewable power tender",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "trade_tariff",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.pv-magazine.com/2026/08/24/seci-discovers-inr-5-99-kwh-tariff-for-4-hour-peak-renewable-power/"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 10,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.15,
+      "sentiment_7d_avg": null
+    },
+    "trade_tariff": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 10,
+    "sentiment_distribution": {
+      "positive": 4,
+      "neutral": 5,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "daqo",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 10
+      },
+      {
+        "id": "trade_tariff",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 467,
+    "dup_title": 265,
+    "too_old": 140,
+    "gate1_blocked": 38,
+    "gate2_blocked": 8,
+    "passed": 16,
+    "pass_rate": "7.9%",
+    "gate2_block_rate": "4.0%",
+    "gate2_samples": [
+      "Daqo New Energy Corp (DQ) Shares Fall 9.3% -- What GF Score of 6 - GuruFocus",
+      "Why is Daqo New Energy stock rallying today? - Investing.com",
+      "Array Technologies: Q2 2026 Review, Bullish For 2027 (NASDAQ:ARRY) - Seeking Alpha",
+      "Array Technologies' New Products Gain Traction, RBC Says - Moomoo",
+      "Array Technologies’ New Products Are Starting To Do The Heavy Lifting - Finimize"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 10 則事件，焦點為大全新能源相關動態：「Daqo New Energy 2025 Semi-Annual Report: 7.87% Asset-Liab...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Daqo New Energy 2025 Semi-Annual Report: 7.87% Asset-Liability Ratio, ¥1.6B N...（太陽能產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "European PPA prices rise 2.3% in July（太陽能產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
