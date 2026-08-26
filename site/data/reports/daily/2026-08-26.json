@@ -1,0 +1,200 @@
+{
+  "date": "2026-08-26",
+  "generated_at": "2026-08-26T08:30:05.911619Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-08-26-002",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Ireland’s sixth renewables auction puts solar to the test under new NZIA rules",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://www.pv-magazine.com/2026/08/26/irelands-sixth-renewables-auction-puts-solar-to-the-test-under-new-nzia-rules/"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-08-26-013",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Energy Storage Is Strengthening Reliability. These 5 States Are Leading the Charge.",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://cleantechnica.com/2026/08/25/energy-storage-is-strengthening-reliability-these-5-states-are-leading-the-charge/"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-08-26-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Rethinking utility-scale PV economics: Why high-density east-west systems deserve a reassessment",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.pv-magazine.com/2026/08/26/rethinking-utility-scale-pv-economics-why-high-density-east-west-systems-deserve-a-reassessment/"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-08-26-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "New subcell current metrology for perovskite-silicon tandem solar cells",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://www.pv-magazine.com/2026/08/26/new-subcell-current-metrology-for-perovskite-silicon-tandem-solar-cells/"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-08-26-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "High gas prices, lower solar output drive up European electricity costs",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "grid_parity",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.pv-magazine.com/2026/08/26/high-gas-prices-lower-solar-output-drive-up-european-electricity-costs/"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 14,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.18,
+      "sentiment_7d_avg": null
+    },
+    "grid_parity": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "trade_tariff": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 14,
+    "sentiment_distribution": {
+      "positive": 3,
+      "neutral": 11,
+      "negative": 0
+    },
+    "top_companies": [],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 14
+      },
+      {
+        "id": "grid_parity",
+        "count": 1
+      },
+      {
+        "id": "trade_tariff",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 468,
+    "dup_title": 223,
+    "too_old": 137,
+    "gate1_blocked": 50,
+    "gate2_blocked": 6,
+    "passed": 52,
+    "pass_rate": "21.2%",
+    "gate2_block_rate": "2.4%",
+    "gate2_samples": [
+      "DAQO New Energy (NYSE:DQ) Shares Gap Down - Time to Sell? - MarketBeat",
+      "Why Did Daqo New Energy (DQ) Stock Climb After Its Latest Update? - simplywall.st",
+      "Daqo New Energy (NYSE:DQ) Is In A Strong Position To Grow Its Business - Moomoo",
+      "Conferencia de resultados del T2 de 2026 de Daqo New Energy (DQ): pérdidas, previsiones sobre el pol",
+      "Array Technologies: Q2 2026 Review, Bullish For 2027 (NASDAQ:ARRY) - Seeking Alpha"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 14 則事件，焦點為太陽能產業通用、平價上網、貿易關稅相關動態：「Ireland’s sixth renewables auction puts solar to the test...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Ireland’s sixth renewables auction puts solar to the test under new NZIA rules（太陽能產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "Energy Storage Is Strengthening Reliability. These 5 States Are Leading the C...（太陽能產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

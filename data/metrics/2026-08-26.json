@@ -1,0 +1,24 @@
+{
+  "date": "2026-08-26",
+  "total_events": 14,
+  "by_company": {},
+  "by_topic": {
+    "industry_general": {
+      "count": 14,
+      "sentiment_avg": 0.18
+    },
+    "grid_parity": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "trade_tariff": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

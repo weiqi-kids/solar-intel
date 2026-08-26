@@ -1,0 +1,16 @@
+{
+  "total_raw": 468,
+  "dup_title": 223,
+  "no_date": 0,
+  "too_old": 137,
+  "gate1_fail": 50,
+  "gate2_fail": 6,
+  "passed": 52,
+  "gate2_samples": [
+    "DAQO New Energy (NYSE:DQ) Shares Gap Down - Time to Sell? - MarketBeat",
+    "Why Did Daqo New Energy (DQ) Stock Climb After Its Latest Update? - simplywall.st",
+    "Daqo New Energy (NYSE:DQ) Is In A Strong Position To Grow Its Business - Moomoo",
+    "Conferencia de resultados del T2 de 2026 de Daqo New Energy (DQ): pérdidas, previsiones sobre el pol",
+    "Array Technologies: Q2 2026 Review, Bullish For 2027 (NASDAQ:ARRY) - Seeking Alpha"
+  ]
+}
