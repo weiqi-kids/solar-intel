@@ -1,5 +1,479 @@
 [
   {
+    "id": "canadian_solar-2026-08-27-001",
+    "date": "2026-08-27",
+    "companies": [
+      "canadian_solar"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Canadian Solar Reports Second Quarter 2026 Results",
+    "summary": "KITCHENER, ON, Aug. 27, 2026 /PRNewswire/ -- Canadian Solar Inc. (\" Canadian Solar \" or the \"Company\") (NASDAQ: CSIQ) today announced financial results for the second quarter ended June 30, 2026. Seco",
+    "sources": [
+      {
+        "name": "canadian_solar",
+        "url": "https://investors.canadiansolar.com/news-releases/news-release-details/canadian-solar-reports-second-quarter-2026-results",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-27-002",
+    "date": "2026-08-27",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "SolarWindow launches 0.85 mm-thick, self-adhesive solar film",
+    "summary": "<p>SolarWindow has launched ElectroFlex, an ultra-thin, flexible, self-adhesive solar product for flat and curved surfaces. The new product features 24.4% cell efficiency and targets transportation, a",
+    "sources": [
+      {
+        "name": "pv_magazine",
+        "url": "https://www.pv-magazine.com/2026/08/27/https-www-pv-magazine-com-2026-08-27-solarwindow-launches-flexible-self-adhesive-solar-film/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-27-003",
+    "date": "2026-08-27",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Battery boom brings round-the-clock solar closer, Ember says",
+    "summary": "<p>Solar PV supplied more than 10% of global electricity in the first half of 2026, but generation remains heavily concentrated around midday. Ember says rapidly expanding, cheaper battery storage cou",
+    "sources": [
+      {
+        "name": "pv_magazine",
+        "url": "https://www.pv-magazine.com/2026/08/27/battery-boom-brings-round-the-clock-solar-closer-ember-says/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-27-004",
+    "date": "2026-08-27",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Japan’s 29th solar auction allocates 38.2 MW of PV capacity",
+    "summary": "<p>Japan selected eight PV projects ranging between 400 kW and 29.9 MW in its latest procurement exercise.</p>\n<p>The post <a href=\"https://www.pv-magazine.com/2026/08/27/japans-29th-solar-auction-all",
+    "sources": [
+      {
+        "name": "pv_magazine",
+        "url": "https://www.pv-magazine.com/2026/08/27/japans-29th-solar-auction-allocates-38-2-mw-of-pv-capacity/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-27-005",
+    "date": "2026-08-27",
+    "companies": [],
+    "topics": [
+      "installation_demand",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Executive order bans foreign-produced transformers, inverters, and circuit breakers for U.S. power grid",
+    "summary": "<p>President Donald Trump issued an emergency executive order banning the acquisition, importation, transfer, or installation of foreign-produced electrical grid equipment from designated foreign coun",
+    "sources": [
+      {
+        "name": "pv_magazine",
+        "url": "https://www.pv-magazine.com/2026/08/27/executive-order-bans-foreign-produced-transformers-inverters-and-circuit-breakers-for-u-s-power-grid/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-27-006",
+    "date": "2026-08-27",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Ireland’s PV capacity reaches 3 GW",
+    "summary": "<p>“With continued investment in solar – across homes, farms, businesses and large grid-scale projects – Ireland is building a growing source of homegrown, clean electricity, and strengthening our ene",
+    "sources": [
+      {
+        "name": "pv_magazine",
+        "url": "https://www.pv-magazine.com/2026/08/27/irelands-pv-capacity-reaches-3-gw/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-27-007",
+    "date": "2026-08-27",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "UPDATE: Plug-in solar panels now legal in the UK",
+    "summary": "<p>Regulations come into force allowing 800 W plug-in solar kits to be installed in England, Wales and Scotland. Plug-in batteries currently excluded, but under investigation. </p>\n<p>The post <a href",
+    "sources": [
+      {
+        "name": "pv_magazine",
+        "url": "https://www.pv-magazine.com/2026/08/27/plug-in-solar-panels-now-legal-in-the-uk/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-27-008",
+    "date": "2026-08-27",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Atmoce announces 8 kWh AC-coupled residential battery",
+    "summary": "<p>Atmoce has launched an 8 kWh LFP residential battery featuring 5 kW output, extra-low-voltage architecture and 90% AC round-trip efficiency. The IP66-rated system offers up to 15,000 cycles, wall o",
+    "sources": [
+      {
+        "name": "pv_magazine",
+        "url": "https://www.pv-magazine.com/2026/08/27/atmoce-announces-8-kwh-ac-coupled-residential-battery/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "sungrow-2026-08-27-009",
+    "date": "2026-08-27",
+    "companies": [
+      "sungrow"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Sungrow breaks ground on 10 GWh battery storage factory in Egypt",
+    "summary": "<p>Sungrow has begun construction of a $50 million BESS factory in Egypt’s Suez Canal Economic Zone, targeting 10 GWh of annual production and an April 2027 start. The facility will supply Egypt’s gro",
+    "sources": [
+      {
+        "name": "pv_magazine",
+        "url": "https://www.pv-magazine.com/2026/08/27/sungrow-breaks-ground-on-10-gwh-battery-storage-factory-in-egypt/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-27-010",
+    "date": "2026-08-27",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Albania’s solar market shifts toward storage, market integration",
+    "summary": "<p>Albania’s solar market is continuing to develop with a growing project pipeline alongside new regulations that are reshaping its electricity market, setting the groundwork for storage deployments a",
+    "sources": [
+      {
+        "name": "pv_magazine",
+        "url": "https://www.pv-magazine.com/2026/08/27/albanias-solar-market-shifts-toward-storage-market-integration/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-27-011",
+    "date": "2026-08-27",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "CIMC Raffles developing bamboo-based offshore floating photovoltaics",
+    "summary": "<p>CIMC Raffles has completed a 100 kW bamboo-based offshore floating PV platform in Yantai, China, using engineered bamboo composites as structural materials. The company plans to scale the technolog",
+    "sources": [
+      {
+        "name": "pv_magazine",
+        "url": "https://www.pv-magazine.com/2026/08/27/cimc-raffles-developing-bamboo-based-offshore-floating-photovoltaics/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-27-012",
+    "date": "2026-08-27",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Data center power bottlenecks prompt SMA to launch dedicated solar, storage architectures",
+    "summary": "SMA America is expanding its utility-scale portfolio into the data center infrastructure market. The company launched a suite of power conversion, grid-forming, and energy storage architectures aimed ",
+    "sources": [
+      {
+        "name": "pv_magazine_usa",
+        "url": "https://pv-magazine-usa.com/2026/08/27/data-center-power-bottlenecks-prompt-sma-to-launch-dedicated-solar-storage-architectures/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-27-013",
+    "date": "2026-08-27",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Segway Navimow X430 robot mower $2,249 in Labor Day Sale, EcoFlow Monthly Madness power station flash sale, Worx, EVs, more",
+    "summary": "<div class=\"feat-image\"><img src=\"https://electrek.co/wp-content/uploads/sites/3/2026/08/Segway-Navimow-EcoFlow-Worx-GDs-FI.jpg?quality=82&#038;strip=all&#038;w=1600\" /></div><p class=\"wp-block-paragr",
+    "sources": [
+      {
+        "name": "electrek_solar",
+        "url": "https://electrek.co/2026/08/27/segway-navimow-x430-robot-mower-labor-day-sale-ecoflow-power-station-worx-more/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-27-014",
+    "date": "2026-08-27",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Aptera solar EV makes up to 4.75 kWh a day, independent test shows",
+    "summary": "<div class=\"feat-image\"><img src=\"https://electrek.co/wp-content/uploads/sites/3/2026/08/Aptera-solar-capacity-e1787850277296.jpg?quality=82&#038;strip=all&#038;w=1280\" /></div><p class=\"wp-block-para",
+    "sources": [
+      {
+        "name": "electrek_solar",
+        "url": "https://electrek.co/2026/08/27/aptera-solar-ev-tuv-rheinland-independent-test-4-kwh/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-27-015",
+    "date": "2026-08-27",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "BMW’s new iX3 EV is racking up orders, even in China, despite selling only an image",
+    "summary": "<div class=\"feat-image\"><img src=\"https://electrek.co/wp-content/uploads/sites/3/2026/08/BMW-iX3-orders-China.jpeg?quality=82&#038;strip=all&#038;w=1200\" /></div><p class=\"wp-block-paragraph\">With glo",
+    "sources": [
+      {
+        "name": "electrek_solar",
+        "url": "https://electrek.co/2026/08/27/bmws-new-ix3-ev-racking-up-orders-even-in-china/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-27-016",
+    "date": "2026-08-27",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Supporting the grid with managed EV charging and V2G technology | Factor This Policycast",
+    "summary": "On this episode of the Factor This Policycast, presented in partnership with Advanced Energy United, Elizabeth Stears and Leah Brams outline the policy reforms needed to unlock V2X's potential and ide",
+    "sources": [
+      {
+        "name": "renewableenergyw",
+        "url": "https://www.renewableenergyworld.com/electric-vehicle/ev-charging/supporting-the-grid-with-managed-ev-charging-and-v2g-technology-factor-this-policycast/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-27-017",
+    "date": "2026-08-27",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "SMA releases suite of power solutions for data center market",
+    "summary": "<p>SMA Solar Technology AG is introducing a portfolio of data center power infrastructure solutions for AI and hyperscale applications. Built on SMA&#8217;s utility-scale technology platform and decad",
+    "sources": [
+      {
+        "name": "solar_power_world",
+        "url": "https://www.solarpowerworldonline.com/2026/08/sma-release-suite-of-power-solutions-for-data-center-market/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-27-018",
+    "date": "2026-08-27",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Otovo acquires Hawaiian solar repair brand",
+    "summary": "<p>Small-scale solar system services company Otovo will now have a presence in Hawaii after an acquisition of PV Hawaii LLC is completed. PV Hawaii, founded in 2016 and based in Oahu, provides solar r",
+    "sources": [
+      {
+        "name": "solar_power_world",
+        "url": "https://www.solarpowerworldonline.com/2026/08/otovo-acquires-hawaiian-solar-repair-brand/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-27-019",
+    "date": "2026-08-27",
+    "companies": [],
+    "topics": [
+      "grid_parity",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "More than 10,800 K-12 schools have gone solar across the United States",
+    "summary": "<p>More than 10,800 K-12 schools representing more than 7 million students across the United States now use solar energy, helping schools lower electricity costs, invest more resources in students and",
+    "sources": [
+      {
+        "name": "solar_power_world",
+        "url": "https://www.solarpowerworldonline.com/2026/08/more-than-10800-k-12-schools-have-gone-solar-across-the-united-states/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-27-020",
+    "date": "2026-08-27",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "18GWh of BESS comes online in July, year-to-date total up 27%",
+    "summary": "A total of 18GWh of large-scale BESS capacity came online in July 2026, of which China accounted for 70%. ",
+    "sources": [
+      {
+        "name": "energy_storage_news",
+        "url": "https://www.energy-storage.news/18gwh-of-bess-comes-online-in-july-year-to-date-total-up-27/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-27-021",
+    "date": "2026-08-27",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Africa’s first 24/7 ‘solar baseload’ power plant, enabled by batteries, goes online at DRC copper mine",
+    "summary": "Solar-plus-storage project, claimed as the first of its kind in Africa to deliver 24/7 renewable electricity, has come online at a copper mine in the Democratic Republic of the Congo (DRC).",
+    "sources": [
+      {
+        "name": "energy_storage_news",
+        "url": "https://www.energy-storage.news/africas-first-24-7-solar-baseload-power-plant-enabled-by-batteries-goes-online-at-drc-copper-mine/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-27-022",
+    "date": "2026-08-27",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "HMC Capital’s KKR partnership funds 90% of first new-build battery storage site equity in Australia",
+    "summary": "HMC said it has committed equity to develop its first new-build battery storage project in Australia, a 300MW/1,200MWh facility in Victoria.",
+    "sources": [
+      {
+        "name": "energy_storage_news",
+        "url": "https://www.energy-storage.news/hmc-capitals-kkr-partnership-funds-90-of-first-new-build-battery-storage-site-equity-in-australia/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-27-023",
+    "date": "2026-08-27",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Renewable Energy Is Winning, Trump Is Losing (Shocker!)",
+    "summary": "<p>Renewable energy is still crushing US President Donald Trump's fossil fuel fantasy, with solar energy and energy storage making an especially strong showing.</p>\n<p>The post <a href=\"https://cleant",
+    "sources": [
+      {
+        "name": "cleantechnica",
+        "url": "https://cleantechnica.com/2026/08/26/renewable-energy-solar-wind-storage-us-energy-policy-trump-fail/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-27-024",
+    "date": "2026-08-27",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Collaboration Could Be a Win-Win for Cascading Hydropower",
+    "summary": "<p>NLR Modeling Shows Coordinated Operation of Mid-Columbia Hydropower Plants Could Boost Efficiency Systemwide By Karen Petersen, NLR Collaboration is essential to any successful river expedition. Tu",
+    "sources": [
+      {
+        "name": "cleantechnica",
+        "url": "https://cleantechnica.com/2026/08/26/collaboration-could-be-a-win-win-for-cascading-hydropower/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-27-025",
+    "date": "2026-08-27",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "California Legislature Approves Bill Easing Access to Clean, Affordable “Balcony Solar”",
+    "summary": "<p>SB 868 would end red tape blocking millions from utility bill savings SACRAMENTO — The Environmental Working Group today applauds the California Legislature for passing a bill that will help Califo",
+    "sources": [
+      {
+        "name": "cleantechnica",
+        "url": "https://cleantechnica.com/2026/08/26/california-legislature-approves-bill-easing-access-to-clean-affordable-balcony-solar/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-27-026",
+    "date": "2026-08-27",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "California’s Extreme Heat, Soaring Utility Bills Make Cooling Unaffordable For Millions",
+    "summary": "<p>Balcony and rooftop solar could cover home cooling costs, if policy makers prioritize access SACRAMENTO — California is experiencing more frequent and dangerous heat days, but sky-high utility bill",
+    "sources": [
+      {
+        "name": "cleantechnica",
+        "url": "https://cleantechnica.com/2026/08/26/californias-extreme-heat-soaring-utility-bills-make-cooling-unaffordable-for-millions/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "unknown-2026-08-26-001",
     "date": "2026-08-26",
     "companies": [],
@@ -249,6 +723,294 @@
       {
         "name": "cleantechnica",
         "url": "https://cleantechnica.com/2026/08/25/photovoltaic-windows-have-been-heating-water-in-a-bucharest-apartment-for-two-years/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-26-015",
+    "date": "2026-08-26",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "California plug-in solar bill SB 868 earns approval of both legislative houses, nears governor’s desk",
+    "summary": "The California state Assembly has passed SB 868, known as the Plug and Play Solar Act. Pending Senate concurrence in amendments made to the bill by the Assembly, California is one step away from passi",
+    "sources": [
+      {
+        "name": "pv_magazine_usa",
+        "url": "https://pv-magazine-usa.com/2026/08/26/california-plug-in-solar-bill-sb-868-earns-approval-of-both-legislative-houses-nears-governors-desk/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-26-016",
+    "date": "2026-08-26",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Policy targets, grid stress drive state storage deployment, SEIA reports",
+    "summary": "State procurement mandates and surging data center demand are transforming regional energy storage markets across the U.S., according to new analysis by the Solar Energy Industries Association.",
+    "sources": [
+      {
+        "name": "pv_magazine_usa",
+        "url": "https://pv-magazine-usa.com/2026/08/26/policy-targets-grid-stress-drive-state-storage-deployment-seia-reports/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-26-017",
+    "date": "2026-08-26",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "PSE&G launches VPP pilot with $5,000 home battery incentive",
+    "summary": "Public Service Electric &#38; Gas Company (PSE&#38;G) has launched the GridSmart Battery Program, a residential Virtual Power Plant (VPP) pilot that offers $5,000 incentives and zero-interest financin",
+    "sources": [
+      {
+        "name": "pv_magazine_usa",
+        "url": "https://pv-magazine-usa.com/2026/08/26/pseg-launches-vpp-pilot-with-5000-home-battery-incentive/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-26-018",
+    "date": "2026-08-26",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "How Tesla’s solar business works in 2026 after killing Solar Roof",
+    "summary": "<div class=\"feat-image\"><img src=\"https://electrek.co/wp-content/uploads/sites/3/2026/05/Tesla-solar-panels.jpeg?quality=82&#038;strip=all&#038;w=1600\" /></div><p class=\"wp-block-paragraph\">Tesla’s re",
+    "sources": [
+      {
+        "name": "electrek_solar",
+        "url": "https://electrek.co/2026/08/26/tesla-solar-business-2026-how-it-works/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-26-019",
+    "date": "2026-08-26",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "NC jury awards Shoals $96 million in damages over Voltage patent infringement",
+    "summary": "<p>A U.S. District Court has found that component manufacturer Voltage did infringe on patents owned by Shoals Technologies Group when selling large-scale solar cabling devices in the United States an",
+    "sources": [
+      {
+        "name": "solar_power_world",
+        "url": "https://www.solarpowerworldonline.com/2026/08/nc-jury-awards-shoals-96-million-in-damages-over-voltage-patent-infringement/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-26-020",
+    "date": "2026-08-26",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Minnesota college to add zinc battery to extensive green energy portfolio",
+    "summary": "<p>The University of Minnesota Morris will install a 1-MW/6-MWh zinc energy storage system on its campus. The project, funded by a grant from the Legislative-Citizen Commission on Natural Resources (L",
+    "sources": [
+      {
+        "name": "solar_power_world",
+        "url": "https://www.solarpowerworldonline.com/2026/08/minnesota-college-to-add-zinc/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-26-021",
+    "date": "2026-08-26",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Solar carport + battery to save California county $21 million in energy costs",
+    "summary": "<p>ForeFront Power is wrapping up a solar and storage project for the County of Ventura, California. A 5.8-MW solar canopy is being paired with a 1.9-MW battery at the County Government Center. The me",
+    "sources": [
+      {
+        "name": "solar_power_world",
+        "url": "https://www.solarpowerworldonline.com/2026/08/solar-carport-battery-to-save-california-county-21-million-in-energy-costs/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-26-022",
+    "date": "2026-08-26",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Northern Sun Energy building 23-MW New York community solar portfolio",
+    "summary": "<p>Northern Sun Energy, a solar and storage EPC firm, has begun construction on two solar projects for developer Seaboard Solar in Waterford and Boonville, New York. The 23-MWDC project portfolio is s",
+    "sources": [
+      {
+        "name": "solar_power_world",
+        "url": "https://www.solarpowerworldonline.com/2026/08/northern-sun-energy-building-new-york-community-solar-portfolio/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-26-023",
+    "date": "2026-08-26",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "California sends balcony solar bill to governor for signature",
+    "summary": "<p>The California legislature has passed a bill that would allow residents to install balcony solar systems. It now waits for the governor&#8217;s signature. Senate Bill 868, known as the Plug and Pla",
+    "sources": [
+      {
+        "name": "solar_power_world",
+        "url": "https://www.solarpowerworldonline.com/2026/08/california-sends-balcony-solar-bill-to-governor-for-signature/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-26-024",
+    "date": "2026-08-26",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "Sodium-ion batteries are ready for world domination",
+    "summary": "<p>For much of the last decade, perovskites have been promised to be the future of solar panels, but commercialization has been slow, and only a few manufacturers are willing to test pilot lines. A ne",
+    "sources": [
+      {
+        "name": "solar_power_world",
+        "url": "https://www.solarpowerworldonline.com/2026/08/sodium-ion-batteries-are-ready-for-world-domination/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-26-025",
+    "date": "2026-08-26",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "US IPPs Swift Current, Avantus raise US$1 billion+ for clean energy projects",
+    "summary": "US independent power producers (IPPs) Swift Current Energy and Avantus have secured financing for their pipelines and projects, respectively.",
+    "sources": [
+      {
+        "name": "energy_storage_news",
+        "url": "https://www.energy-storage.news/us-ipps-swift-current-avantus-raise-us1-billion-for-clean-energy-projects/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-26-026",
+    "date": "2026-08-26",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Ford Energy’s grid-scale BESS product: an analysis",
+    "summary": "In May, US automotive group Ford made the surprise announcement that it was launching a BESS product via new division Ford Energy. In this deep dive article, we look at its product's specifications an",
+    "sources": [
+      {
+        "name": "energy_storage_news",
+        "url": "https://www.energy-storage.news/ford-energys-grid-scale-bess-product-an-analysis/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-26-027",
+    "date": "2026-08-26",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Germany BESS ROUNDUP: Alpiq buys from Eco Stor, CATL-backed CNTE supplies units, Terralayr’s Vattenfall toll online",
+    "summary": "A trio of BESS updates in Germany from power firm Alpiq, CATL-backed system integrator CNTE and virtual tolling platform Terralayr, totalling around 260MW of operational capacity. ",
+    "sources": [
+      {
+        "name": "energy_storage_news",
+        "url": "https://www.energy-storage.news/germany-bess-roundup-alpiq-buys-from-eco-stor-catl-backed-cnte-supplies-units-terralayrs-vattenfall-toll-online/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-26-028",
+    "date": "2026-08-26",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Saudi Power Procurement Company awards 2GW/8GWh of battery storage contracts",
+    "summary": "Saudi Arabia’s Principal Buyer of electricity has awarded four service contracts for large-scale battery storage projects to consortia featuring ACWA Power and Engie.",
+    "sources": [
+      {
+        "name": "energy_storage_news",
+        "url": "https://www.energy-storage.news/saudi-power-procurement-company-awards-2gw-8gwh-battery-storage-contracts/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-26-029",
+    "date": "2026-08-26",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Delaware Governor Signs First-of-its-Kind Bill to Power Data Centers with Clean Energy",
+    "summary": "<p>WILMINGTON, Delaware — Today, Sierra Club celebrated Delaware Governor Matt Meyer signing into law a suite of legislation that will protect families in the state from having to pay for Big Tech’s p",
+    "sources": [
+      {
+        "name": "cleantechnica",
+        "url": "https://cleantechnica.com/2026/08/26/delaware-governor-signs-first-of-its-kind-bill-to-power-data-centers-with-clean-energy/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-26-030",
+    "date": "2026-08-26",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Sodium-Ion Batteries For The Win!",
+    "summary": "<p>Energy storage is the key to the clean energy transition. It is true that the sun does not always shine and the winds don&#8217;t always blow, but when they do, they make far more electricity than ",
+    "sources": [
+      {
+        "name": "cleantechnica",
+        "url": "https://cleantechnica.com/2026/08/26/sodium-ion-batteries-for-the-win/",
         "type": "rss"
       }
     ]
@@ -1227,6 +1989,24 @@
       {
         "name": "cleantechnica",
         "url": "https://cleantechnica.com/2026/08/25/hydrogen-demand-tonnes-not-twh/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-25-053",
+    "date": "2026-08-25",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Thornova Solar to make silicon cells in Oklahoma through partner Nextnova",
+    "summary": "<p>Nextnova has released some details on the silicon solar cell manufacturing facility it is building outside Oklahoma City. The new brand is a partner of Thornova Solar, which first started supplying",
+    "sources": [
+      {
+        "name": "solar_power_world",
+        "url": "https://www.solarpowerworldonline.com/2026/08/thornova-solar-to-make-silicon-cells-in-oklahoma-under-nextnova-name/",
         "type": "rss"
       }
     ]

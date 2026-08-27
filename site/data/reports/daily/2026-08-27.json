@@ -1,0 +1,209 @@
+{
+  "date": "2026-08-27",
+  "generated_at": "2026-08-27T18:32:14.668872Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-08-27-013",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Segway Navimow X430 robot mower $2,249 in Labor Day Sale, EcoFlow Monthly Madness power station flash sale, Worx, EVs, more",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://electrek.co/2026/08/27/segway-navimow-x430-robot-mower-labor-day-sale-ecoflow-power-station-worx-more/"
+    },
+    {
+      "rank": 2,
+      "event_id": "canadian_solar-2026-08-27-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Canadian Solar Reports Second Quarter 2026 Results",
+      "companies": [
+        "canadian_solar"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://investors.canadiansolar.com/news-releases/news-release-details/canadian-solar-reports-second-quarter-2026-results"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-08-27-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "SolarWindow launches 0.85 mm-thick, self-adhesive solar film",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.pv-magazine.com/2026/08/27/https-www-pv-magazine-com-2026-08-27-solarwindow-launches-flexible-self-adhesive-solar-film/"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-08-27-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Battery boom brings round-the-clock solar closer, Ember says",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://www.pv-magazine.com/2026/08/27/battery-boom-brings-round-the-clock-solar-closer-ember-says/"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-08-27-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Japan’s 29th solar auction allocates 38.2 MW of PV capacity",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.pv-magazine.com/2026/08/27/japans-29th-solar-auction-allocates-38-2-mw-of-pv-capacity/"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 26,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.06,
+      "sentiment_7d_avg": null
+    },
+    "installation_demand": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "grid_parity": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 26,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 24,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "canadian_solar",
+        "count": 1
+      },
+      {
+        "id": "sungrow",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 26
+      },
+      {
+        "id": "installation_demand",
+        "count": 1
+      },
+      {
+        "id": "grid_parity",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 135,
+    "dup_title": 41,
+    "too_old": 5,
+    "gate1_blocked": 44,
+    "gate2_blocked": 2,
+    "passed": 43,
+    "pass_rate": "45.7%",
+    "gate2_block_rate": "2.1%",
+    "gate2_samples": [
+      "Trump declares national emergency on imported energy distribution technologies",
+      "Who controls what in a BESS? Understanding the BMS, PCS and EMS"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 26 則事件，焦點為Canadian Solar、陽光電源相關動態：「Segway Navimow X430 robot mower $2,249 in Labor Day Sale,...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Segway Navimow X430 robot mower $2,249 in Labor Day Sale, EcoFlow Monthly Mad...（太陽能產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "Canadian Solar Reports Second Quarter 2026 Results（太陽能產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "裝機需求持續受關注，產業趨勢帶動需求成長。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

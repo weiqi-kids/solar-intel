@@ -1,0 +1,13 @@
+{
+  "total_raw": 135,
+  "dup_title": 41,
+  "no_date": 0,
+  "too_old": 5,
+  "gate1_fail": 44,
+  "gate2_fail": 2,
+  "passed": 43,
+  "gate2_samples": [
+    "Trump declares national emergency on imported energy distribution technologies",
+    "Who controls what in a BESS? Understanding the BMS, PCS and EMS"
+  ]
+}
