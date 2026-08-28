@@ -1,0 +1,16 @@
+{
+  "total_raw": 465,
+  "dup_title": 193,
+  "no_date": 0,
+  "too_old": 140,
+  "gate1_fail": 51,
+  "gate2_fail": 8,
+  "passed": 73,
+  "gate2_samples": [
+    "DAQO New Energy (NYSE:DQ) Shares Gap Down - Time to Sell? - MarketBeat",
+    "Why Did Daqo New Energy (DQ) Stock Climb After Its Latest Update? - simplywall.st",
+    "Daqo New Energy Corp (DQ) Shares Fall 4.9% -- GF Value Says Stil - GuruFocus",
+    "Goldman Sachs Downgrades Daqo New Energy to Sell, Price Target is $10 - marketscreener.com",
+    "Daqo New Energy (NYSE:DQ) Is In A Strong Position To Grow Its Business - Moomoo"
+  ]
+}
