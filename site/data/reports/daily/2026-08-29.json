@@ -1,0 +1,180 @@
+{
+  "date": "2026-08-29",
+  "generated_at": "2026-08-29T13:28:32.318676Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-08-29-004",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Chile’s hybrid heroics",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://www.pv-magazine.com/2026/08/29/chiles-hybrid-heroics/"
+    },
+    {
+      "rank": 2,
+      "event_id": "jinko-2026-08-29-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "JinkoSolar (NYSE:JKS) Rating Lowered to Hold at Freedom Broker - MarketBeat",
+      "companies": [
+        "jinko"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOOGZRNGh0bnAtTmVfbVRlRmJTZ1FoSzRXVkZsZlRkYUh0dHRfMHo1aThxMTIwcWtxNU5tSks5dTBEOS1hcFRzYlU2SV9jY3B6aUQwNmZLV19aSXlxcjVqMm1XcC1USUpBbEstamZNdWJHRXVTYnFQLXM0LW9CRFRoWHY2Z01BaEJsSEtpSXpZS1l6QWotM3VEcy1qaGRfV0htNzdhd3F0dmI3ZjlMNXJaYl9DUjF3aW8xd0cxYTh3dw?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "jinko-2026-08-29-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Powering Healthcare with High-Performance Solar: Onesmus Muli on JinkoSolar’s Tiger Neo 3.0 Rollout in Kenya - SolarQuarter",
+      "companies": [
+        "jinko"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOQlBhUFVpRE5mZExCWm5JNlh0SWlUY0FLX1J6SGR1dUdSZ2t3cXJIS29MSDd6a3VDT3NRQzBadFlqN2hfc2hDbXhVV0JfRFpNWEREMkxHTmpHWEk2RGVzVXdRaDF6emlTY2ZwTHNtWmxnaFNwYUJZQkc0LTBfME5QQkpiMlVITFhSZ0E1RG0yX21XMS1VZUFlajVRTUtQQWx2TS1VZDcwdmZXZTJhdnByS0VhUEZKZnRCbkZjY3hEWHBsVUM1a3dUcV9KSUdLVkJFUU1fQ292WjB0MWM?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "jinko-2026-08-29-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "JinkoSolar (NYSE:JKS) Rating Lowered to Sell at Wall Street Zen - MarketBeat",
+      "companies": [
+        "jinko"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPaWQ5aFY1V2JxT203clNuZWdjV2FQa3otRURqTGt5QlpWNUdoWXFDTHFpcURIcmVnanRrS0dmRldlSHE3UkduUDM4OTNJMC1nQ1JGR2Q5Tk41VkpkNXZqT3kwQ25GU2paUTN4ZnJlTFhER0h1NUpYRGE3bUowX2s2dkZsbUlNQWx3UGhFU0FaeVFsdEJlSy02WDdCNWFYenVLcnBlYk5NNk82YmRzQ3dYbkdLVERHbFFnUFgtSEdjMEc?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-08-29-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Türkiye's solar power generation hits all-time monthly high in July - Türkiye Today",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPalR6TjJZb25iUDEwNXFMVzVwVWo3dndHNVFDMmtQb1J3MmZ6TTU2T2Fvb3Z6MFdGQVppNXMtQVJrMnVtbnNyQXFrRVdtX3BXbnEwcVVjSkN0NTE2bFM0cGxidThZa3NMMG9ROUhFWG9fR3NOUTZUWkFrWXFEU2NydHliR2FrQU1MU2RCR1JndVhOQkVpdXRmQ2FRcGo4YTNrdE9kcUVpNnJmeFA2dmtxRm9B?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 9,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.11,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 9,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 8,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "jinko",
+        "count": 3
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 9
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 464,
+    "dup_title": 240,
+    "too_old": 142,
+    "gate1_blocked": 51,
+    "gate2_blocked": 7,
+    "passed": 24,
+    "pass_rate": "10.7%",
+    "gate2_block_rate": "3.1%",
+    "gate2_samples": [
+      "Why Did Daqo New Energy (DQ) Stock Climb After Its Latest Update? - simplywall.st",
+      "DAQO New Energy (NYSE:DQ) Shares Gap Down - Time to Sell? - MarketBeat",
+      "Goldman Sachs Downgrades Daqo New Energy to Sell, Price Target is $10 - marketscreener.com",
+      "Daqo New Energy (NYSE:DQ) Is In A Strong Position To Grow Its Business - Moomoo",
+      "Trump declares national emergency on imported energy distribution technologies"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 9 則事件，焦點為晶科能源相關動態：「Chile’s hybrid heroics」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Chile’s hybrid heroics（太陽能產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "JinkoSolar (NYSE:JKS) Rating Lowered to Hold at Freedom Broker - MarketBeat（太陽能產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
