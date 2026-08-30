@@ -1,0 +1,25 @@
+{
+  "date": "2026-08-30",
+  "total_events": 9,
+  "by_company": {
+    "longi": {
+      "count": 5,
+      "sentiment_avg": -0.6
+    },
+    "sungrow": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "industry_general": {
+      "count": 8,
+      "sentiment_avg": -0.25
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

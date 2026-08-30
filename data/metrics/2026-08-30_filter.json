@@ -1,0 +1,16 @@
+{
+  "total_raw": 465,
+  "dup_title": 251,
+  "no_date": 0,
+  "too_old": 135,
+  "gate1_fail": 50,
+  "gate2_fail": 7,
+  "passed": 22,
+  "gate2_samples": [
+    "Why Did Daqo New Energy (DQ) Stock Climb After Its Latest Update? - simplywall.st",
+    "DAQO New Energy (NYSE:DQ) Shares Gap Down - Time to Sell? - MarketBeat",
+    "Daqo New Energy Corp (DQ) Shares Fall 4.9% -- GF Value Says Stil - GuruFocus",
+    "Goldman Sachs Downgrades Daqo New Energy to Sell, Price Target is $10 - marketscreener.com",
+    "Trump declares national emergency on imported energy distribution technologies"
+  ]
+}
