@@ -1,0 +1,256 @@
+{
+  "date": "2026-08-31",
+  "generated_at": "2026-08-31T15:38:30.197561Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "longi-2026-08-31-014",
+      "importance_score": 0.85,
+      "importance_reasons": [
+        "多公司提及",
+        "情緒極端"
+      ],
+      "title": "Chinese PV Industry Brief: Another 5 major solar manufacturers announce H1 losses",
+      "companies": [
+        "longi",
+        "gcl",
+        "daqo"
+      ],
+      "related": {
+        "customers": [
+          "longi"
+        ],
+        "suppliers": [
+          "gcl",
+          "daqo"
+        ]
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://www.pv-magazine.com/2026/08/31/chinese-pv-industry-brief-another-5-major-solar-manufacturers-announce-h1-losses/"
+    },
+    {
+      "rank": 2,
+      "event_id": "longi-2026-08-31-002",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "LONGi Green Energy Technology Deepens H1 Loss; Shares Down 4% - marketscreener.com",
+      "companies": [
+        "longi"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQZnM4Y2tIb1RjcG90anlpQWRHSjlNWG1SQnFzSlM1RWdJeEZ0bS1WVzNDdkFpU0NQVHJaS2M1dGhJbVdOYnNtZXFWWjZ2OTd0d2YzanptbE50Tm95emVtbUZpUWRvb2RnT0FBQVJjcHVwcGdVWTdJaU9aMXROSUU0WUdLYUpPTTdrWENCZE1nUlhFY2t6bVdDc0lLVXBvd0hfdDhONUExQWlPSFhWQTNYMWNn?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-08-31-024",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "FAW Achieves New Breakthrough in Solar Charging Technology: Unveiling Core Challenges for Automobiles to Harness Free Solar Energy - 36 Kr",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBBSkdCWlJuaVUzdEVlb3ZObHZrSXA3c2ZMOEZUNjFsTFdKNloyNDY0cHZkVG9URDFHcHJsdlVQdWRZbkJ1SVJrSEZZNmc0MWJ0RmhN?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-08-31-039",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Hydrogen Gets Far More Attention Than Its Deployment Justifies",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://cleantechnica.com/2026/08/31/hydrogen-gets-far-more-attention-than-its-deployment-justifies/"
+    },
+    {
+      "rank": 5,
+      "event_id": "xinyi_solar-2026-08-31-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "HSI Index Earning Revision (Aug): XINYI SOLAR, Kuaishou, CK HUTCHISON, PING AN, CHINA LIFE, XIAOMI - Smartkarma",
+      "companies": [
+        "xinyi_solar"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOdTZhTHBFbWtZZGV5MGdUWFFhNG95TlExMXp6MGswa3BUMlE4RTNJYjNjaVpySE1VRlMtUHlOVmFvU0pxZVdUUW5WMXRzeEVFN3dwdHNOY1NRbDVwdDVVSVd0SXBGTVpsWEcwSEFTQ1BLTEdvUGl0WVpoTjE0b2dYTHJUOWJrZ1lCMWpsVnlKQXdIQ25FQTRjcFUtVnlaZEhYTmJaa0pUcXRkVVYyOGdpY1NUSGF1UTBFcjViU0V3Y0JtU2w0?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 38,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.11,
+      "sentiment_7d_avg": null
+    },
+    "installation_demand": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "module_price": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "grid_parity": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 39,
+    "sentiment_distribution": {
+      "positive": 7,
+      "neutral": 31,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "longi",
+        "count": 2
+      },
+      {
+        "id": "jinko",
+        "count": 2
+      },
+      {
+        "id": "xinyi_solar",
+        "count": 1
+      },
+      {
+        "id": "ja_solar",
+        "count": 1
+      },
+      {
+        "id": "sungrow",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 38
+      },
+      {
+        "id": "installation_demand",
+        "count": 1
+      },
+      {
+        "id": "module_price",
+        "count": 1
+      },
+      {
+        "id": "grid_parity",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 437,
+    "dup_title": 211,
+    "too_old": 126,
+    "gate1_blocked": 48,
+    "gate2_blocked": 7,
+    "passed": 45,
+    "pass_rate": "19.9%",
+    "gate2_block_rate": "3.1%",
+    "gate2_samples": [
+      "DAQO New Energy (NYSE:DQ) Shares Gap Down - Time to Sell? - MarketBeat",
+      "Why Did Daqo New Energy (DQ) Stock Climb After Its Latest Update? - simplywall.st",
+      "Daqo New Energy Corp (DQ) Shares Fall 4.9% -- GF Value Says Stil - GuruFocus",
+      "ARRAY Technologies to Participate in Upcoming Investor Conferences - Barchart.com",
+      "Trump declares national emergency on imported energy distribution technologies"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 39 則事件，焦點為隆基綠能、晶科能源、信義光能相關動態：「Chinese PV Industry Brief: Another 5 major solar manufact...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Chinese PV Industry Brief: Another 5 major solar manufacturers announce H1 lo...（太陽能產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "LONGi Green Energy Technology Deepens H1 Loss; Shares Down 4% - marketscreene...（太陽能產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "裝機需求持續受關注，產業趨勢帶動需求成長。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

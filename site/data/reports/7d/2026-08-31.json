@@ -1,0 +1,167 @@
+{
+  "date": "2026-08-31",
+  "date_range": {
+    "start": "2026-08-25",
+    "end": "2026-08-31"
+  },
+  "generated_at": "2026-08-31T15:38:30.336051Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "tongwei-2026-08-29-013",
+      "date": "2026-08-29",
+      "title": "Chinese Solar Giants Jinko, JA Solar, Tongwei Post H1 Losses as Demand Slumps - News and Statistics - IndexBox",
+      "importance_score": 0.85
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "industry_general": {
+      "this_week": 143,
+      "last_week": 79,
+      "week_over_week_change": "+81%",
+      "sentiment_this_week": 0.05
+    },
+    "grid_parity": {
+      "this_week": 4,
+      "last_week": 1,
+      "week_over_week_change": "+300%",
+      "sentiment_this_week": 0.0
+    },
+    "trade_tariff": {
+      "this_week": 3,
+      "last_week": 1,
+      "week_over_week_change": "+200%",
+      "sentiment_this_week": -0.17
+    },
+    "installation_demand": {
+      "this_week": 2,
+      "last_week": 2,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    },
+    "module_price": {
+      "this_week": 3,
+      "last_week": 3,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": -0.17
+    }
+  },
+  "company_7d_summary": {
+    "daqo": {
+      "event_count": 2,
+      "sentiment_avg": 0.5,
+      "rank": 5
+    },
+    "jinko": {
+      "event_count": 10,
+      "sentiment_avg": 0.0,
+      "rank": 1
+    },
+    "enphase": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 6
+    },
+    "canadian_solar": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 7
+    },
+    "sungrow": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 4
+    },
+    "gcl": {
+      "event_count": 4,
+      "sentiment_avg": 0.5,
+      "rank": 3
+    },
+    "array": {
+      "event_count": 1,
+      "sentiment_avg": 0.5,
+      "rank": 8
+    },
+    "longi": {
+      "event_count": 7,
+      "sentiment_avg": -0.14,
+      "rank": 2
+    },
+    "xinyi_solar": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 9
+    },
+    "ja_solar": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 10
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 273,
+        "last": 285,
+        "change_pct": -4.2
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-08-25",
+      "event_count": 55,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-08-26",
+      "event_count": 52,
+      "sentiment_avg": 0.04
+    },
+    {
+      "date": "2026-08-27",
+      "event_count": 53,
+      "sentiment_avg": -0.08
+    },
+    {
+      "date": "2026-08-28",
+      "event_count": 44,
+      "sentiment_avg": -0.03
+    },
+    {
+      "date": "2026-08-29",
+      "event_count": 17,
+      "sentiment_avg": -0.03
+    },
+    {
+      "date": "2026-08-30",
+      "event_count": 13,
+      "sentiment_avg": -0.17
+    },
+    {
+      "date": "2026-08-31",
+      "event_count": 39,
+      "sentiment_avg": 0.1
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-08-25 ~ 2026-08-31）共 273 則事件，重點為「Chinese Solar Giants Jinko, JA Solar, Tongwei P...」。協鑫科技、大全新能源表現正面，整體氣氛穩健。",
+    "watchlist": [
+      {
+        "company": "晶科能源",
+        "reason": "本週出現 10 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "陽光電源",
+        "reason": "本週出現 3 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "協鑫科技",
+        "reason": "本週出現 4 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
