@@ -1,0 +1,41 @@
+{
+  "date": "2026-09-02",
+  "total_events": 32,
+  "by_company": {
+    "xinyi_solar": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "longi": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "ja_solar": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "array": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "canadian_solar": {
+      "count": 1,
+      "sentiment_avg": 0.5
+    }
+  },
+  "by_topic": {
+    "industry_general": {
+      "count": 32,
+      "sentiment_avg": 0.08
+    },
+    "installation_demand": {
+      "count": 3,
+      "sentiment_avg": 0.5
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

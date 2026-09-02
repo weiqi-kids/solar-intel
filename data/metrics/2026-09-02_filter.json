@@ -1,0 +1,15 @@
+{
+  "total_raw": 428,
+  "dup_title": 186,
+  "no_date": 0,
+  "too_old": 138,
+  "gate1_fail": 36,
+  "gate2_fail": 4,
+  "passed": 64,
+  "gate2_samples": [
+    "DAQO New Energy (NYSE:DQ) Trading Down 6.2% - Time to Sell? - MarketBeat",
+    "ARRAY Technologies to Participate in Upcoming Investor Conferences - Barchart.com",
+    "Trump declares national emergency on imported energy distribution technologies",
+    "Who controls what in a BESS? Understanding the BMS, PCS and EMS"
+  ]
+}
