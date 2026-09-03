@@ -1,0 +1,37 @@
+{
+  "date": "2026-09-03",
+  "total_events": 26,
+  "by_company": {
+    "longi": {
+      "count": 3,
+      "sentiment_avg": 0.17
+    },
+    "jinko": {
+      "count": 1,
+      "sentiment_avg": 0.5
+    },
+    "array": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "industry_general": {
+      "count": 26,
+      "sentiment_avg": 0.07
+    },
+    "trade_tariff": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "installation_demand": {
+      "count": 4,
+      "sentiment_avg": -0.12
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}
