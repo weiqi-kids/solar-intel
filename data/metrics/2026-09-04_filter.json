@@ -1,0 +1,16 @@
+{
+  "total_raw": 423,
+  "dup_title": 187,
+  "no_date": 0,
+  "too_old": 138,
+  "gate1_fail": 34,
+  "gate2_fail": 5,
+  "passed": 59,
+  "gate2_samples": [
+    "DAQO New Energy Corp. (NYSE:DQ) Given Average Recommendation of \"Reduce\" by Brokerages - MarketBeat",
+    "DAQO New Energy (NYSE:DQ) Trading Down 6.2% - Time to Sell? - MarketBeat",
+    "Equinor just brought its biggest US battery online in Texas",
+    "These EVs retain their battery best, largest-ever study finds",
+    "BYD BEV Sales Up 28.4% in August"
+  ]
+}
