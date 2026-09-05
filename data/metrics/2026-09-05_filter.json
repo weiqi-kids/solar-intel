@@ -1,0 +1,13 @@
+{
+  "total_raw": 425,
+  "dup_title": 197,
+  "no_date": 0,
+  "too_old": 152,
+  "gate1_fail": 39,
+  "gate2_fail": 2,
+  "passed": 35,
+  "gate2_samples": [
+    "DAQO New Energy Corp. (NYSE:DQ) Given Average Recommendation of \"Reduce\" by Brokerages - MarketBeat",
+    "DAQO New Energy (NYSE:DQ) Trading Down 6.2% - Time to Sell? - MarketBeat"
+  ]
+}
