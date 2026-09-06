@@ -1,0 +1,181 @@
+{
+  "date": "2026-09-06",
+  "date_range": {
+    "start": "2026-08-31",
+    "end": "2026-09-06"
+  },
+  "generated_at": "2026-09-06T11:50:28.626299Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "longi-2026-08-31-014",
+      "date": "2026-08-31",
+      "title": "Chinese PV Industry Brief: Another 5 major solar manufacturers announce H1 losses",
+      "importance_score": 0.85
+    },
+    {
+      "type": "sentiment_reversal",
+      "subject": "longi",
+      "subject_type": "company",
+      "this_week_sentiment": 0.25,
+      "last_week_sentiment": -0.6,
+      "delta": 0.85,
+      "rank": 2
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "industry_general": {
+      "this_week": 164,
+      "last_week": 115,
+      "week_over_week_change": "+43%",
+      "sentiment_this_week": 0.07
+    },
+    "installation_demand": {
+      "this_week": 11,
+      "last_week": 1,
+      "week_over_week_change": "+1000%",
+      "sentiment_this_week": 0.23
+    },
+    "module_price": {
+      "this_week": 1,
+      "last_week": 2,
+      "week_over_week_change": "-50%",
+      "sentiment_this_week": 0.0
+    },
+    "grid_parity": {
+      "this_week": 1,
+      "last_week": 3,
+      "week_over_week_change": "-67%",
+      "sentiment_this_week": 0.0
+    },
+    "trade_tariff": {
+      "this_week": 2,
+      "last_week": 4,
+      "week_over_week_change": "-50%",
+      "sentiment_this_week": 0.25
+    }
+  },
+  "company_7d_summary": {
+    "xinyi_solar": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 5
+    },
+    "longi": {
+      "event_count": 7,
+      "sentiment_avg": 0.25,
+      "rank": 2
+    },
+    "ja_solar": {
+      "event_count": 4,
+      "sentiment_avg": -0.19,
+      "rank": 4
+    },
+    "jinko": {
+      "event_count": 8,
+      "sentiment_avg": 0.06,
+      "rank": 1
+    },
+    "sungrow": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 7
+    },
+    "gcl": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 6
+    },
+    "daqo": {
+      "event_count": 1,
+      "sentiment_avg": 1.0,
+      "rank": 8
+    },
+    "array": {
+      "event_count": 5,
+      "sentiment_avg": 0.0,
+      "rank": 3
+    },
+    "canadian_solar": {
+      "event_count": 1,
+      "sentiment_avg": 0.5,
+      "rank": 9
+    },
+    "risen": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 10
+    },
+    "nextracker": {
+      "event_count": 1,
+      "sentiment_avg": 0.5,
+      "rank": 11
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 301,
+        "last": 280,
+        "change_pct": 7.5
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-08-31",
+      "event_count": 62,
+      "sentiment_avg": 0.1
+    },
+    {
+      "date": "2026-09-01",
+      "event_count": 72,
+      "sentiment_avg": 0.06
+    },
+    {
+      "date": "2026-09-02",
+      "event_count": 51,
+      "sentiment_avg": 0.04
+    },
+    {
+      "date": "2026-09-03",
+      "event_count": 54,
+      "sentiment_avg": 0.07
+    },
+    {
+      "date": "2026-09-04",
+      "event_count": 51,
+      "sentiment_avg": -0.03
+    },
+    {
+      "date": "2026-09-05",
+      "event_count": 10,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-09-06",
+      "event_count": 1,
+      "sentiment_avg": 0.5
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-08-31 ~ 2026-09-06）共 301 則事件，重點為「Chinese PV Industry Brief: Another 5 major sola...」。隆基綠能、大全新能源表現正面，整體氣氛穩健。",
+    "watchlist": [
+      {
+        "company": "隆基綠能",
+        "reason": "本週出現 7 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "晶澳科技",
+        "reason": "本週出現 4 則相關事件且情緒偏負面，需特別關注。"
+      },
+      {
+        "company": "晶科能源",
+        "reason": "本週出現 8 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

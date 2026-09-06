@@ -1,5 +1,25 @@
 [
   {
+    "id": "nextracker-2026-09-06-001",
+    "date": "2026-09-06",
+    "companies": [
+      "nextracker"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "NextPower (formerly Nextracker) - Growth Outlook - Crunchbase",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTFBWQXZqcDktTGVZdGNEdEk5STMxY0ZObnV0UllUOFRoMmkwQTdGUElqMExEZzBJVk9lejlfWnJWQ0RNLVJQeF9FakhMbHZtdlRzS1Z6WlAyWVgxR0swMWJfS1gwMkFxdEdsT3VBTnA3SX",
+    "sources": [
+      {
+        "name": "nextracker",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBWQXZqcDktTGVZdGNEdEk5STMxY0ZObnV0UllUOFRoMmkwQTdGUElqMExEZzBJVk9lejlfWnJWQ0RNLVJQeF9FakhMbHZtdlRzS1Z6WlAyWVgxR0swMWJfS1gwMkFxdEdsT3VBTnA3SXNqZw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "unknown-2026-09-05-001",
     "date": "2026-09-05",
     "companies": [],
@@ -31,6 +51,154 @@
       {
         "name": "cleantechnica",
         "url": "https://cleantechnica.com/2026/09/04/hyundai-motor-group-partners-with-oman-to-drive-green-mobility-transition-under-oman-vision-2040/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "gcl-2026-09-05-003",
+    "date": "2026-09-05",
+    "companies": [
+      "gcl"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "GCL Technology Holdings (SEHK:3800) Shares Just Moved, So What Is Going On? - simplywall.st",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5wFBVV95cUxPTldsMkM1N1pLS0NZY2dEcGotWkExM1FqLUhoYkVTcjdqRXpObV9QTjJZM05QNG5FRTAwaTBzaWFqdDJCNDlSUmhZYmFuRkxnTHFBUWJXYXVWTGNCWURyRUJZWTFLSnN4azl5Z0hxNX",
+    "sources": [
+      {
+        "name": "gcl",
+        "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPTldsMkM1N1pLS0NZY2dEcGotWkExM1FqLUhoYkVTcjdqRXpObV9QTjJZM05QNG5FRTAwaTBzaWFqdDJCNDlSUmhZYmFuRkxnTHFBUWJXYXVWTGNCWURyRUJZWTFLSnN4azl5Z0hxNXZIdjJqQ0lCSVVLNlRreUJpNTBhQUpJTFJraXlzOEN4blFXMjVHZTQxZXJTWXNjaGNXaU5iMVhxN1EtZDZ4VWlwYlZLZXlLUnJRVzRXUVJ1cm1xQlJDWnJjNHlLdXFYNUJvWVVoZTBaQm1jUV9DU0RmTU5OOGxUZzTSAewBQVVfeXFMT2w3TFVKTlZtX2l1VWhqY25OY2ZnaTRYcHBaVE5KZ0QyS2ZuOGdBMENObWk1ZXJCdGFqYzVzVWFIVFBNYnotak9Kc2tybnNTbXVOM05fVHFYTjBxd09RcXpCNk1vRHlhZ1Qwb1NLcVdiLXI0SmltaDh3OHhWM3R4WmtLU0VOaXk3VDZhdVNVVF9VNElTUUVrYWlFd25XS2pnZ2JYY3U5c2Nyb19CSVFtSXNYUThwVFJ6Y0tJZ1NLbDh4YWRSQmhHWWVmLXZybjQ1NVF1VEF3bzhnbGVRcDNZS0VtazNtbTNVMFdBVWI?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "jinko-2026-09-05-004",
+    "date": "2026-09-05",
+    "companies": [
+      "jinko"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "JinkoSolar (NYSE:JKS) Downgraded by Zacks Research to \"Strong Sell\" - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxNWmRVS3pSY1dDX1ZWMkZ0cTVDUkN1TFZLbWlYd3lmMF9yZFYzQTU0c1o5X252YXFuWXA5eGRZSElxbkZ4eXZNSVpZTjJsbEx2Vy16QzNZbGFVNmc3SHVzdkJIYVRoZ3otZHZaMVJzZU",
+    "sources": [
+      {
+        "name": "jinko",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNWmRVS3pSY1dDX1ZWMkZ0cTVDUkN1TFZLbWlYd3lmMF9yZFYzQTU0c1o5X252YXFuWXA5eGRZSElxbkZ4eXZNSVpZTjJsbEx2Vy16QzNZbGFVNmc3SHVzdkJIYVRoZ3otZHZaMVJzZU5PQ2l1eW43b0VjbUVBY2QyZmxaTndUM3QyazRFRWVEYXV1ak1GUFk0bWJmQks5S2NUR2FERUt1NkpKaFBiUWdiYWF5MEJ6aHVadjI2TTB2Rl9UN2s?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-05-005",
+    "date": "2026-09-05",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Plunging 50%, has the leading solar-plus-storage company been unfairly sold off again? - 富途牛牛",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxObFNSMm51eVdRWXZhNWlESXpWVVV5RHBSWU5NbmE5LVdTcEJIVG9PS0J5a09nejh3R3g4UU4zMTI2SV80a1ZEaWgzMXJ2VnpjbWVYOGR3WV82Qk80c0Z3OEt2QTRqWHFsNmI1LUc0Q3",
+    "sources": [
+      {
+        "name": "sungrow",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxObFNSMm51eVdRWXZhNWlESXpWVVV5RHBSWU5NbmE5LVdTcEJIVG9PS0J5a09nejh3R3g4UU4zMTI2SV80a1ZEaWgzMXJ2VnpjbWVYOGR3WV82Qk80c0Z3OEt2QTRqWHFsNmI1LUc0Q3hiVUZHM2dyaDRTVjNydkhBaTQwR2hWS25PdXByZWlyc1dkazJkYnlReThOTWxPYVRncmc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-05-006",
+    "date": "2026-09-05",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "Answering random Redditor’s questions with professional backup: home solar edition",
+    "summary": "<div class=\"feat-image\"><img src=\"https://electrek.co/wp-content/uploads/sites/3/2026/04/solar_battery.jpg?quality=82&#038;strip=all&#038;w=1600\" /></div><p class=\"wp-block-paragraph\">Earlier this wee",
+    "sources": [
+      {
+        "name": "electrek_solar",
+        "url": "https://electrek.co/2026/09/05/answering-random-redditors-questions-with-professional-backup-home-solar-edition/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-05-007",
+    "date": "2026-09-05",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Solar Boost For Haggis, Neeps And Tatties With Agrivoltaic Turnips - Forbes",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxNS2tTRnlLbFl5N18zUGJfaTJWb1Fyb3lhTk8tQVdkRDBDVkkzeUptVDdaR0VoWDFiWGRERWNyaFpVT0hvVTk0S0JDZnhnUlYyalBWUng2cTJpMDduODBUX3VOaWRNRndBc3JIZ2Z1N2",
+    "sources": [
+      {
+        "name": "google_news_solar",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNS2tTRnlLbFl5N18zUGJfaTJWb1Fyb3lhTk8tQVdkRDBDVkkzeUptVDdaR0VoWDFiWGRERWNyaFpVT0hvVTk0S0JDZnhnUlYyalBWUng2cTJpMDduODBUX3VOaWRNRndBc3JIZ2Z1N2FkTUZTRGtkN3dxYmgxZWxyY3F4M09SZ3VoSEw3MXZ3Yi12bVNVOVZvLUtrQ3J1Tm4zYXQ1OTU5Zy1YNWpjZmJtSUx2Vkg4ekJD?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-05-008",
+    "date": "2026-09-05",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Scientists stocked a virtual North Sea solar farm with mussels, then kept making the farm bigger until the math revealed a problem: every extra panel left less food on the table for each shellfish - Energies Media",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE5ZZGp6UEFPRHJFcWRrcmpsSVVSeWRXejJBT0k4UHVES2h5ajBGdkVKRGpfLU1XMFY2SjZ2c25CVkNKTjFULVh6NjJLSExnT1Z2bnIxeG1COEljMnZab0NSNkd3RTRYMVBUWmh0Vkp6bD",
+    "sources": [
+      {
+        "name": "google_news_solar",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5ZZGp6UEFPRHJFcWRrcmpsSVVSeWRXejJBT0k4UHVES2h5ajBGdkVKRGpfLU1XMFY2SjZ2c25CVkNKTjFULVh6NjJLSExnT1Z2bnIxeG1COEljMnZab0NSNkd3RTRYMVBUWmh0Vkp6bDZ4SlVYT2xjSXNoc2dzdw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "array-2026-09-05-009",
+    "date": "2026-09-05",
+    "companies": [
+      "array"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Roof Flashing for Solar Arrays Market Outlook to 2035 - IndexBox",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxNbmRRVUJ0MkJPcmNtYXJLb2JrVU5sbkt0N1FvOXZ0S1hhbWpNOGlKczM4QjNPRV9GcmNGOTByVlR0dFk2UnBHZEFRTlJUVkJMQXdUT0JkUm5qY1ltcHp2YnM0cmFzNHBzN2JIZHZ5Uj",
+    "sources": [
+      {
+        "name": "google_news_solar",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNbmRRVUJ0MkJPcmNtYXJLb2JrVU5sbkt0N1FvOXZ0S1hhbWpNOGlKczM4QjNPRV9GcmNGOTByVlR0dFk2UnBHZEFRTlJUVkJMQXdUT0JkUm5qY1ltcHp2YnM0cmFzNHBzN2JIZHZ5UjB1R1VBc3NEX2c0N3FIMFQwODlNb1JKNERpUUZV?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-05-010",
+    "date": "2026-09-05",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Renewable Energy And Storage Solve Massive Grid Problem In US",
+    "summary": "<p>Renewable energy and storage are credited with resolving longstanding grid reliability issues in Texas, even during extreme hot weather.</p>\n<p>The post <a href=\"https://cleantechnica.com/2026/09/0",
+    "sources": [
+      {
+        "name": "cleantechnica",
+        "url": "https://cleantechnica.com/2026/09/05/renewable-energy-virtual-power-plants-us-texas-octopus/",
         "type": "rss"
       }
     ]
@@ -928,6 +1096,44 @@
       {
         "name": "energy_storage_news",
         "url": "https://www.energy-storage.news/equinors-east-point-energy-begins-operations-at-200mwh-texas-bess/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "array-2026-09-04-050",
+    "date": "2026-09-04",
+    "companies": [
+      "array"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Mintz Advises Affordable Wire Management in Acquisition by ARRAY Technologies - Mintz",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxOYUZKdU9hM3ltWERseXYyc3Jiei1zS2FBbW83YzRnZmt0RlNyUHRaVnM3YTVnX3RheWVrSnpnNnlqS240QXFYblBWVXZRZlBEUUM0YzcxeEw3S0MwWGgxcEQ5VkNNNy1XXzRBb3NjRD",
+    "sources": [
+      {
+        "name": "array",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOYUZKdU9hM3ltWERseXYyc3Jiei1zS2FBbW83YzRnZmt0RlNyUHRaVnM3YTVnX3RheWVrSnpnNnlqS240QXFYblBWVXZRZlBEUUM0YzcxeEw3S0MwWGgxcEQ5VkNNNy1XXzRBb3NjRDdfbXNkNFJyUXNHelg1Z0RyMV8tRnFFNlZ6ZEJ3RjRDUmV1V0FLOVBmT3dHei1DcXBiZU01elhScVAtR3F2WnRicXp1MmJSalVNZTlZVA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "array-2026-09-04-051",
+    "date": "2026-09-04",
+    "companies": [
+      "array"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Array (ARRY) Says its AWM Acquisition Will Be High-Single-Digit Accretive. How Much Depends on Cross-Selling? - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxNcEItaTFGS0QtTWFFVUZ5b0V2dTYzNTVaQTFhTFAzMVJvSlMtYzlBLWFIZGlNaXNFMDJKT1UtTUhKN05HWFVUUXFQQUVHWUFhanlnUVI0UTJKdW0zN1kydkZnZDAweGppRVhvMm51YT",
+    "sources": [
+      {
+        "name": "array",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNcEItaTFGS0QtTWFFVUZ5b0V2dTYzNTVaQTFhTFAzMVJvSlMtYzlBLWFIZGlNaXNFMDJKT1UtTUhKN05HWFVUUXFQQUVHWUFhanlnUVI0UTJKdW0zN1kydkZnZDAweGppRVhvMm51YTd5ejYxc3JFX0FrOWUtSXdyTDQtb0FiZVpMSnBlZzdqbkd1WUR3QzZrUW92VTk?oc=5",
         "type": "rss"
       }
     ]
@@ -2856,6 +3062,24 @@
       {
         "name": "google_news_solar",
         "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOcklMaFExNVdUTkFlOGpob0lmd2NOYVlpOVpXb0FFVGZuTXBjdnJvTndIY2FZYWNDRzR1ZVFydHlFVXMwV2tzTFZTQ290QkZGUFNnZFRnZVU1SUt2NFhoRGozQ0xCN2g2NThnbTRJSGo1YTRTcGJqZGE2UFFLajBKZUJoeWtiZw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-02-051",
+    "date": "2026-09-02",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Top 5 Leading Photovoltaic Enterprises Total 14.8 Billion Yuan Huge Loss in H1: Clear Bottom Reversal Signal Emerges - 36Kr",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE9TZWljSGlUN3JWck5RXzNCajZ3QzFBYThpaEpNSV9OZHdMWFNYVjdmMXJrV2lxUk5CeXZwNWxMcWJxRzdkRmNQR25SV0VKMEJ2VTN3?oc=5\" target=\"_blank\">Top 5 Leading P",
+    "sources": [
+      {
+        "name": "ja_solar",
+        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9TZWljSGlUN3JWck5RXzNCajZ3QzFBYThpaEpNSV9OZHdMWFNYVjdmMXJrV2lxUk5CeXZwNWxMcWJxRzdkRmNQR25SV0VKMEJ2VTN3?oc=5",
         "type": "rss"
       }
     ]
@@ -5330,6 +5554,24 @@
       {
         "name": "sungrow",
         "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPLVppTGxlTnBiZE5tUWZpUXhvSkZMT09tLUl5M0RERHh1eXUyd3VJRVJja2Z4Z0dRcTVFSmNhSVllS2x3c3hMM0o2bWVLeDlJVmZIY1hXZlRYX3EwazAzdXowMFlFMklKWGJ2SFV5R1JHVkdJOUdSNS1nVV9sc3ExNVlOM2lqXzNCdTJsQ2tORzBzQnBWbFNkejk1NWRjR0w3dUhyTG8yamVuMEZobWprNE45ZVk2a3JOaUZUcmlMNVNYVjhxQWpXNEc3T3NyMXFkSGx3NEhtemZudDhyQXQwSQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "array-2026-08-31-062",
+    "date": "2026-08-31",
+    "companies": [
+      "array"
+    ],
+    "topics": [],
+    "impact": "positive",
+    "title": "ARRAY Technologies Completes Acquisition of Affordable Wire Management, Expanding Balance-of-System Strategy - Barchart.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5gFBVV95cUxON1k4THlLTUhTdEY1bGpDdFBhSU9DMi1CNElsdlFMTWhJbTZNYlI4T3ZTUEt6QXhRUzFUNXBrZXVCYzFrUTl0cUpFcTg5VldqNGpTVGFFQURqOHZuQlRFbXM5TjlyUnFJbVVncVA0ak",
+    "sources": [
+      {
+        "name": "array",
+        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxON1k4THlLTUhTdEY1bGpDdFBhSU9DMi1CNElsdlFMTWhJbTZNYlI4T3ZTUEt6QXhRUzFUNXBrZXVCYzFrUTl0cUpFcTg5VldqNGpTVGFFQURqOHZuQlRFbXM5TjlyUnFJbVVncVA0akJtYVpXUU5LQ3EwN0JJdEJLZXdxWkV0bmhXX0s1RTBNUjhHZlY1U0lUZTljeTBFM1dhbC0zWlB5WGZFNmhpa0VJLWp6c2F5T3BpM1lsQWtXdFJWVDlDUnVEWl9La1NMZ1FFS0FkSWVNV3RZYkVUeTdBeWYzSmhGQQ?oc=5",
         "type": "rss"
       }
     ]
