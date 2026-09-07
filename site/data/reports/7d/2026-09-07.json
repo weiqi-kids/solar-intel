@@ -1,0 +1,150 @@
+{
+  "date": "2026-09-07",
+  "date_range": {
+    "start": "2026-09-01",
+    "end": "2026-09-07"
+  },
+  "generated_at": "2026-09-07T13:47:33.592685Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "longi-2026-09-02-004",
+      "date": "2026-09-02",
+      "title": "What's The Best Solar Panel In 2026? 6 Key Metrics - Aiko / Longi / JA Solar / Eurener… Oklo Stock (NYXkyv5ly9) - Mshale",
+      "importance_score": 0.7
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "industry_general": {
+      "this_week": 146,
+      "last_week": 143,
+      "week_over_week_change": "+2%",
+      "sentiment_this_week": 0.06
+    },
+    "installation_demand": {
+      "this_week": 11,
+      "last_week": 2,
+      "week_over_week_change": "+450%",
+      "sentiment_this_week": 0.23
+    },
+    "trade_tariff": {
+      "this_week": 3,
+      "last_week": 3,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.17
+    }
+  },
+  "company_7d_summary": {
+    "longi": {
+      "event_count": 5,
+      "sentiment_avg": -0.05,
+      "rank": 2
+    },
+    "ja_solar": {
+      "event_count": 3,
+      "sentiment_avg": -0.25,
+      "rank": 4
+    },
+    "jinko": {
+      "event_count": 6,
+      "sentiment_avg": 0.08,
+      "rank": 1
+    },
+    "array": {
+      "event_count": 5,
+      "sentiment_avg": 0.0,
+      "rank": 3
+    },
+    "xinyi_solar": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 5
+    },
+    "canadian_solar": {
+      "event_count": 1,
+      "sentiment_avg": 0.5,
+      "rank": 6
+    },
+    "gcl": {
+      "event_count": 1,
+      "sentiment_avg": -1.0,
+      "rank": 7
+    },
+    "risen": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 8
+    },
+    "nextracker": {
+      "event_count": 1,
+      "sentiment_avg": 0.5,
+      "rank": 9
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 264,
+        "last": 303,
+        "change_pct": -12.9
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-09-01",
+      "event_count": 72,
+      "sentiment_avg": 0.06
+    },
+    {
+      "date": "2026-09-02",
+      "event_count": 52,
+      "sentiment_avg": 0.04
+    },
+    {
+      "date": "2026-09-03",
+      "event_count": 54,
+      "sentiment_avg": 0.07
+    },
+    {
+      "date": "2026-09-04",
+      "event_count": 52,
+      "sentiment_avg": -0.03
+    },
+    {
+      "date": "2026-09-05",
+      "event_count": 11,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-09-06",
+      "event_count": 3,
+      "sentiment_avg": 0.33
+    },
+    {
+      "date": "2026-09-07",
+      "event_count": 20,
+      "sentiment_avg": 0.03
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-09-01 ~ 2026-09-07）共 264 則事件，重點為「What's The Best Solar Panel In 2026? 6 Key Metr...」。晶澳科技、協鑫科技情緒偏負面，建議留意相關風險。",
+    "watchlist": [
+      {
+        "company": "晶澳科技",
+        "reason": "本週情緒偏負面（-0.2），共 3 則相關事件，需關注後續發展。"
+      },
+      {
+        "company": "協鑫科技",
+        "reason": "本週情緒偏負面（-1.0），共 1 則相關事件，需關注後續發展。"
+      },
+      {
+        "company": "隆基綠能",
+        "reason": "本週出現 5 則相關事件且情緒偏負面，需特別關注。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
