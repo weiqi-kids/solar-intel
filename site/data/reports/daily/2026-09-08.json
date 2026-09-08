@@ -1,0 +1,221 @@
+{
+  "date": "2026-09-08",
+  "generated_at": "2026-09-08T12:22:52.824372Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "ja_solar-2026-09-08-002",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "JA Solar Road Show 2026 held - brecorder.com",
+      "companies": [
+        "ja_solar"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9qNTNxVkZGWnA0dzRWYVJNRnNWZko1Y0NObi13MGJ4dE9iY0Y4UFFneHFwdmV6bV9QVWxuZ0Z2V0RtMDJkV3JJNHV6ZHlDWHYz0gFWQVVfeXFMUFlYYVRUbnhiVVhtSjJlU2hxOXBwb0tqREswUWFWSFhTTFo1ZzVzZGUwNzZvdjhDSTh1ODNvYVR3Mk0wNzRpTV9GTEhiZ2l0emtkd0I0MUE?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-09-08-007",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "HiNa Battery scales Korean sodium-ion partnership from 15 MWh to 10 GWh",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.75
+      },
+      "source_url": "https://www.pv-magazine.com/2026/09/08/hina-battery-scales-korean-sodium-ion-partnership-from-15-mwh-to-10-gwh/"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-09-08-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "‘It looks like there could be an undersupply of the highest efficiency’ - pv magazine Global",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQUnU5c0ZJOHZpOThVOXNYZ2xUc29lbDREOHlBYUh6N3JobVdrdVNpdTliT2hBS0h2TjNwQlZIaEdGVmppME9sblVEY2Q4bGQ4U1kxNDBoRDlod2tJalhiVTlwWU9YQ0RGYkYxSHhGNWlkdXZDQVI1aFlYa3N4cHN4d3MyY1djMXdlVGR5LWdVYVg5Q3E1dHBLZi1nbUN6M0VSTEJrVEtESXNVc0J2X3c?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "trina-2026-09-08-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Trinasolar Vertex S+ Modules Installed at Iconic South Australia Tourism and Hospitality Landmark - PR Newswire",
+      "companies": [
+        "trina"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQZ1R4R09UU2N3eUY4VkRkRGhiNFJEUzJ2MTlpSXlmOUpVaVEtczN4Uy05UG1razQ0eG1SM2Q3N1l0Z0lWWkJQSF9lNWdDYk1rM2FWeDMyZUlvZ1kway1wTzV3NTdWZU95al9oSWNmdWo0N0tNbXZFbG1QX3dnSWhZS0Q2OEpIY3l3cUNLOEdOZmt3QlV1UnVoV0ladXpmT0w1Sl9XMWJUTU0wSFpXamlLNjVhQllXUFJmdjhJRUFmSk1wYVNhdC1fMUgzTzB5ZjNVdzRqQkd3SEZ1NFpwaDBqR3ZEU2R3eDRmemlaamJn?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "array-2026-09-08-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "United States - Mintz Advises Affordable Wire Management In Acquisition By ARRAY Technologies - Mondaq",
+      "companies": [
+        "array"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOay1MeGhZRlBiMjVuWFpNdkFYQU5iZnpnTGdtdjFnY2tpZ3M3SndVdjFuTzJhTTZLSVdsM2JQR25USUNHVjZjaUtxd0dJLVVDZU5ZdHZSeHhWcmlqX2FlcGFKM1ZuTGMyNUNVdEhGbWlvdVpfcWYwYi1iVzRDTFBSeDBvTHV6VWxxWUlNUzdHbjhhZ2JlZVJQTUM4bUJqUTJlTmhpbzVTT1hjYzNCQmdMRkhqbzZKa0c1NGx5Ng?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 27,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.09,
+      "sentiment_7d_avg": null
+    },
+    "installation_demand": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    },
+    "trade_tariff": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 28,
+    "sentiment_distribution": {
+      "positive": 6,
+      "neutral": 21,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "ja_solar",
+        "count": 1
+      },
+      {
+        "id": "trina",
+        "count": 1
+      },
+      {
+        "id": "array",
+        "count": 1
+      },
+      {
+        "id": "sungrow",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 27
+      },
+      {
+        "id": "installation_demand",
+        "count": 1
+      },
+      {
+        "id": "trade_tariff",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 427,
+    "dup_title": 217,
+    "too_old": 134,
+    "gate1_blocked": 39,
+    "gate2_blocked": 2,
+    "passed": 35,
+    "pass_rate": "16.7%",
+    "gate2_block_rate": "1.0%",
+    "gate2_samples": [
+      "DAQO New Energy Corp. (NYSE:DQ) Given Average Recommendation of \"Reduce\" by Brokerages - MarketBeat",
+      "These Legacy Automakers Lead the EV Transition in the United States — BEV Share of Auto Brand & Grou"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 28 則事件，焦點為晶澳科技、天合光能、Array Technologies相關動態：「JA Solar Road Show 2026 held - brecorder.com」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "JA Solar Road Show 2026 held - brecorder.com（太陽能產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "HiNa Battery scales Korean sodium-ion partnership from 15 MWh to 10 GWh（太陽能產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "裝機需求持續受關注，產業趨勢帶動需求成長。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

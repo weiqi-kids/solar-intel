@@ -1,0 +1,13 @@
+{
+  "total_raw": 427,
+  "dup_title": 217,
+  "no_date": 0,
+  "too_old": 134,
+  "gate1_fail": 39,
+  "gate2_fail": 2,
+  "passed": 35,
+  "gate2_samples": [
+    "DAQO New Energy Corp. (NYSE:DQ) Given Average Recommendation of \"Reduce\" by Brokerages - MarketBeat",
+    "These Legacy Automakers Lead the EV Transition in the United States — BEV Share of Auto Brand & Grou"
+  ]
+}

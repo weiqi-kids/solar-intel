@@ -1,8 +1,8 @@
 {
   "xinyi_solar": {
     "earliest": "2013-12-12",
-    "latest": "2026-09-07",
-    "count": 3135,
+    "latest": "2026-09-08",
+    "count": 3136,
     "history_complete": true
   },
   "daqo": {
@@ -13,32 +13,32 @@
   },
   "tongwei": {
     "earliest": "2004-03-02",
-    "latest": "2026-09-07",
-    "count": 5504,
+    "latest": "2026-09-08",
+    "count": 5505,
     "history_complete": true
   },
   "gcl": {
     "earliest": "2007-11-13",
-    "latest": "2026-09-07",
-    "count": 4638,
+    "latest": "2026-09-08",
+    "count": 4639,
     "history_complete": true
   },
   "longi": {
     "earliest": "2012-04-11",
-    "latest": "2026-09-07",
-    "count": 3501,
+    "latest": "2026-09-08",
+    "count": 3502,
     "history_complete": true
   },
   "ja_solar": {
     "earliest": "2010-08-10",
-    "latest": "2026-09-07",
-    "count": 3903,
+    "latest": "2026-09-08",
+    "count": 3904,
     "history_complete": true
   },
   "trina": {
     "earliest": "2020-06-10",
-    "latest": "2026-09-07",
-    "count": 1516,
+    "latest": "2026-09-08",
+    "count": 1517,
     "history_complete": true
   },
   "canadian_solar": {
@@ -61,8 +61,8 @@
   },
   "risen": {
     "earliest": "2010-09-02",
-    "latest": "2026-09-07",
-    "count": 3886,
+    "latest": "2026-09-08",
+    "count": 3887,
     "history_complete": true
   },
   "maxeon": {
@@ -73,8 +73,8 @@
   },
   "yuan_jing": {
     "earliest": "2014-09-19",
-    "latest": "2026-09-07",
-    "count": 2914,
+    "latest": "2026-09-08",
+    "count": 2915,
     "history_complete": true
   },
   "enphase": {
@@ -97,8 +97,8 @@
   },
   "sungrow": {
     "earliest": "2011-11-02",
-    "latest": "2026-09-07",
-    "count": 3606,
+    "latest": "2026-09-08",
+    "count": 3607,
     "history_complete": true
   },
   "nextracker": {
