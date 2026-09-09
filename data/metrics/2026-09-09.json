@@ -1,0 +1,41 @@
+{
+  "date": "2026-09-09",
+  "total_events": 42,
+  "by_company": {
+    "ja_solar": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "trina": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "jinko": {
+      "count": 8,
+      "sentiment_avg": 0.06
+    },
+    "sungrow": {
+      "count": 2,
+      "sentiment_avg": 0.25
+    },
+    "solaredge": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "industry_general": {
+      "count": 41,
+      "sentiment_avg": 0.07
+    },
+    "installation_demand": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

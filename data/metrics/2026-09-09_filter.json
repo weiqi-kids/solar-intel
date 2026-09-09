@@ -1,0 +1,14 @@
+{
+  "total_raw": 427,
+  "dup_title": 207,
+  "no_date": 0,
+  "too_old": 127,
+  "gate1_fail": 38,
+  "gate2_fail": 3,
+  "passed": 52,
+  "gate2_samples": [
+    "DAQO New Energy Corp. (NYSE:DQ) Given Average Recommendation of \"Reduce\" by Brokerages - MarketBeat",
+    "Hyundai Motor Wins Three Honors at 2026 What Car? Electric Car Awards",
+    "These Legacy Automakers Lead the EV Transition in the United States — BEV Share of Auto Brand & Grou"
+  ]
+}

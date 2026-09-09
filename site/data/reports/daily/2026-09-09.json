@@ -1,0 +1,214 @@
+{
+  "date": "2026-09-09",
+  "generated_at": "2026-09-09T12:34:15.755771Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-09-09-015",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Africa’s solar panel manufacturing capacity to reach 3.5 GW this year",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://www.pv-magazine.com/2026/09/09/africas-solar-panel-manufacturing-capacity-to-reach-3-5-gw-this-year/"
+    },
+    {
+      "rank": 2,
+      "event_id": "ja_solar-2026-09-09-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Noon Srl, JA Solar Equip Sicily’s Saracen Sands Hotel With 1 MW Solar and 2 MWh BESS - SolarQuarter",
+      "companies": [
+        "ja_solar"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNQVltRkdvNGYyX01zSnlTbmpwdlJONjNtMTVMQXZrdWNRdlBMbVMzRjV0bXd1MDFWQmZXVGJkQjFFMDBuZ2RRZ3ZvakxPdDFxNVc1NGVBMjQ0Q3FqQmFrYXF0MTIwVE1sZkxURDh0YlJldWhVUkNqLUp4Wll6UWdCMG1tMTV1MF9DTno0S29jMlhqSU1xd0Q4dl9qVFYyRHQ3b0E?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "trina-2026-09-09-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Trinasolar Vertex N Modules Selected for 562MWdc Dầu Tiếng 5 Floating Solar Project in Vietnam - PR Newswire",
+      "companies": [
+        "trina"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQbDhNQmFzdTdSRXlablBvVnprREM4cG9oMmt6d3AxNUxhMk9VUk9UVjdfdm5vZ1lfUThSMUFsZ2FkekhURkFoeEl6ZDVIX3BlTzdna3BoVWlnMFg4b0pZNUJwbnRqeHZhMmlPMWVrbHJvSnpQTVRKMEcxUUR6bHptTTc3ZlFwbjQ1YkFqbTQ3N2xEZVE4U2FzaHdUQ0llWFYya0x4a0NqTi1LV2lJQVZyREZCbFZtdDhBa1BmSm1ROWcwTkpheVlJRVRMTG94UW1JTjhQVXEzdDJHUUFldlgxRnhnanpyeGRm?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "trina-2026-09-09-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Trinasolar Powers Uzbekistan's 126 MW Sarimay Solar Project with 184,328 Vertex N Modules - PR Newswire",
+      "companies": [
+        "trina"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOT1RGdlA1WnotUkFSZ3lxQzl1eDhMZzg2bTNpeXJwSFFWVHlCSmg2UHZTbVVjVmVPMkY2WWJCdlU5azhfdS1BUzJOQ09vWFctUGkzdzRQRGJ3YXlXVUNzSl9mNWFRSjJPLXIxTmo5MWhDUWlnNWIyekhEdG9UVG5lWHhMOUtzVEJwSXE1enhYeEpxa0llMDNlUkk5cVlOR3dNVHowcnhIVi03alpLUGxlNWp0V3Q2YjltV2R4VkxzSmtWUjdfakQ4SGU1YVRwM3V6QWZuMmlJTEZRakYycVlxQjc1NA?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "jinko-2026-09-09-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "An AI company in JinkoSolar’s portfolio completed a roughly $2 billion financing. JinkoSolar proposes a new name. - Stock Titan",
+      "companies": [
+        "jinko"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOY0Nud1Fva3JzZ0NkdWx4MjJXRXZGQjBzeEpzcTZoZno3Vlk1SjUyalVULXdnei1NQk5TRjNtaEFtQUM5amxvOF83UFhBWlBDU09lNHBqTXNRX1ZnTEktT19Jc0tYQ3BsbXU4V3gzcHJGS0g3WkNqODhpcTB5dVY4NGQ4VjBkMGY0UmgzVVgwcmpPdVBIbFZyY0dMZEtRQS1jVjlBcDJfOTIwWjFMVHExRHJQV0RUZ1k?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 41,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.07,
+      "sentiment_7d_avg": null
+    },
+    "installation_demand": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 42,
+    "sentiment_distribution": {
+      "positive": 5,
+      "neutral": 37,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "jinko",
+        "count": 8
+      },
+      {
+        "id": "trina",
+        "count": 2
+      },
+      {
+        "id": "sungrow",
+        "count": 2
+      },
+      {
+        "id": "ja_solar",
+        "count": 1
+      },
+      {
+        "id": "solaredge",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 41
+      },
+      {
+        "id": "installation_demand",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 427,
+    "dup_title": 207,
+    "too_old": 127,
+    "gate1_blocked": 38,
+    "gate2_blocked": 3,
+    "passed": 52,
+    "pass_rate": "23.6%",
+    "gate2_block_rate": "1.4%",
+    "gate2_samples": [
+      "DAQO New Energy Corp. (NYSE:DQ) Given Average Recommendation of \"Reduce\" by Brokerages - MarketBeat",
+      "Hyundai Motor Wins Three Honors at 2026 What Car? Electric Car Awards",
+      "These Legacy Automakers Lead the EV Transition in the United States — BEV Share of Auto Brand & Grou"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 42 則事件，焦點為晶科能源、天合光能、陽光電源相關動態：「Africa’s solar panel manufacturing capacity to reach 3.5 ...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Africa’s solar panel manufacturing capacity to reach 3.5 GW this year（太陽能產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "Noon Srl, JA Solar Equip Sicily’s Saracen Sands Hotel With 1 MW Solar and 2 M...（太陽能產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "裝機需求持續受關注，產業趨勢帶動需求成長。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
