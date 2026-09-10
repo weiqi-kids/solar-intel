@@ -1,0 +1,14 @@
+{
+  "total_raw": 427,
+  "dup_title": 192,
+  "no_date": 0,
+  "too_old": 131,
+  "gate1_fail": 39,
+  "gate2_fail": 3,
+  "passed": 62,
+  "gate2_samples": [
+    "DAQO New Energy Corp. (NYSE:DQ) Given Average Recommendation of \"Reduce\" by Brokerages - MarketBeat",
+    "ARRAY Opens New Albuquerque Manufacturing Facility with Ribbon Cutting Ceremony - globenewswire.com",
+    "Hyundai Motor Wins Three Honors at 2026 What Car? Electric Car Awards"
+  ]
+}
