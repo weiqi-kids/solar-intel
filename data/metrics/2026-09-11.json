@@ -1,0 +1,41 @@
+{
+  "date": "2026-09-11",
+  "total_events": 23,
+  "by_company": {
+    "gcl": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "trina": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "jinko": {
+      "count": 2,
+      "sentiment_avg": 0.25
+    },
+    "array": {
+      "count": 4,
+      "sentiment_avg": 0.0
+    },
+    "tongwei": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "longi": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "industry_general": {
+      "count": 23,
+      "sentiment_avg": 0.1
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

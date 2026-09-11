@@ -1,0 +1,14 @@
+{
+  "total_raw": 427,
+  "dup_title": 208,
+  "no_date": 0,
+  "too_old": 135,
+  "gate1_fail": 36,
+  "gate2_fail": 3,
+  "passed": 45,
+  "gate2_samples": [
+    "DAQO New Energy Corp. (NYSE:DQ) Given Average Recommendation of \"Reduce\" by Brokerages - MarketBeat",
+    "Array Technologies, Inc. (ARRY) Advances While Market Declines: Some Information for Investors - Yah",
+    "ARRAY Opens New Albuquerque Manufacturing Facility with Ribbon Cutting Ceremony - GlobeNewswire"
+  ]
+}
