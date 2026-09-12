@@ -1,0 +1,214 @@
+{
+  "date": "2026-09-12",
+  "generated_at": "2026-09-12T11:47:48.081497Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "sungrow-2026-09-12-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Sungrow Power Supply Co., Ltd. Shs Thailand Depositary Receipts Repr 1 Sh Dividends – SET:SUNGROW80 - TradingView",
+      "companies": [
+        "sungrow"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1oZ05EY3gzWHFBVjNkT2xBR2Y3eGhHS0lncDRRay02TkxNamRsb3ZFVTg3bnY4TkltVDhYRUxHUnRZVS1FZHdhV0p1dGxYMnZub0pyRVRKR3ZkVGphXy1ZcXB3dXh6MWVQejAzd2ZpMHEyYTdLdE1tN2Ewbw?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-09-12-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "U.S. DOE seeks ‘mass, radiation tolerance, and durability’ in space solar cell manufacturing",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.pv-magazine.com/2026/09/12/doe-seeks-mass-radiation-tolerance-and-durability-in-space-solar-cell-manufacturing/"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-09-12-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Section 232 and US module prices",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "module_price",
+        "trade_tariff",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.pv-magazine.com/2026/09/12/section-232-and-us-module-prices/"
+    },
+    {
+      "rank": 4,
+      "event_id": "array-2026-09-12-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Derry to run on solar power: New array will serve municipal buildings at greatly reduced cost - Eagle-Tribune",
+      "companies": [
+        "array"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxOWGlhSFl3OWdXTUhiZWFoYXZEWGVGN2RmbW5LZVByUWJUX1FKanNPMjFFSmFMcUVvZ1lfNmNmdDh5dEx4Sk4zazd4bTV4SkwzZXpqYVJFZGtETERjWDk3dXJ4bC1aYUVsSHFjVndtdXRfSUF0XzBBOG40WGduRFZ0Skh5bFJ5Qk1kZVhmQVpVSlVwTWREbXQ4UXdoQ3IzSUxKRFlRalpjeFEwWElUYUJMSm85elB0bEJMQkluRFlFRjlRVTNEQkUwU0pHX1pEMDJxYm1fTHlGc2dxUWx5UWZGelFaSm80anlkTGJxeEZVVUg5YV9PTm5SMlVuWEhfYWpkUlN4YUpwV1UzVWlsUk1QTFJsSQ?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-09-12-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Who Owns Renogy Solar Panels And Where Are They Made? - SlashGear",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1ZQ1FMaGJhVnZFTzRiMlF5aDNpaEliaEtGa0xqQzlJVGFrNFNoUURfT2NaNlMyb2hrMFlQZ1A1S2FWMXR2QkxyTUQtbXprUkNXZjJfUFRneV9XU2Q5MjNleDNTMXpSZTBTMnowOEo3UF9HVkFDS2lObUhrZWd3VTA?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 7,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "module_price": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "trade_tariff": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 7,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 7,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "sungrow",
+        "count": 1
+      },
+      {
+        "id": "array",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 7
+      },
+      {
+        "id": "module_price",
+        "count": 1
+      },
+      {
+        "id": "trade_tariff",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 427,
+    "dup_title": 173,
+    "too_old": 168,
+    "gate1_blocked": 38,
+    "gate2_blocked": 6,
+    "passed": 42,
+    "pass_rate": "16.5%",
+    "gate2_block_rate": "2.4%",
+    "gate2_samples": [
+      "Array Technologies, Inc. (ARRY) Advances While Market Declines: Some Information for Investors - fin",
+      "ARRAY Opens New Albuquerque Manufacturing Facility with Ribbon Cutting Ceremony - GlobeNewswire",
+      "How competitive is BESS for data centers, really?",
+      "Upcoming electric Porsche Boxster spotted with no camo on Nurburgring",
+      "Wheel-E Podcast: ALSO e-bike delays, Nomadix e-moto, $900 for 45mph?, more"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 7 則事件，焦點為陽光電源、Array Technologies相關動態：「Sungrow Power Supply Co., Ltd. Shs Thailand Depositary Re...」。主要關注主題為太陽能產業通用、元件價格、貿易關稅，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Sungrow Power Supply Co., Ltd. Shs Thailand Depositary Receipts Repr 1 Sh Div...（太陽能產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "U.S. DOE seeks ‘mass, radiation tolerance, and durability’ in space solar cel...（太陽能產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "元件價格話題出現 1 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

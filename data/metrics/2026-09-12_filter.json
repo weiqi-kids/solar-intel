@@ -1,0 +1,16 @@
+{
+  "total_raw": 427,
+  "dup_title": 173,
+  "no_date": 0,
+  "too_old": 168,
+  "gate1_fail": 38,
+  "gate2_fail": 6,
+  "passed": 42,
+  "gate2_samples": [
+    "Array Technologies, Inc. (ARRY) Advances While Market Declines: Some Information for Investors - fin",
+    "ARRAY Opens New Albuquerque Manufacturing Facility with Ribbon Cutting Ceremony - GlobeNewswire",
+    "How competitive is BESS for data centers, really?",
+    "Upcoming electric Porsche Boxster spotted with no camo on Nurburgring",
+    "Wheel-E Podcast: ALSO e-bike delays, Nomadix e-moto, $900 for 45mph?, more"
+  ]
+}
