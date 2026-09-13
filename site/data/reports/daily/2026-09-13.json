@@ -1,0 +1,50 @@
+{
+  "date": "2026-09-13",
+  "generated_at": "2026-09-13T12:55:46.273344Z",
+  "top_events": [],
+  "anomalies": [],
+  "topic_trends": {},
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 0,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 0,
+      "negative": 0
+    },
+    "top_companies": [],
+    "top_topics": []
+  },
+  "filter_audit": {
+    "total_raw": 429,
+    "dup_title": 221,
+    "too_old": 150,
+    "gate1_blocked": 44,
+    "gate2_blocked": 7,
+    "passed": 7,
+    "pass_rate": "3.4%",
+    "gate2_block_rate": "3.4%",
+    "gate2_samples": [
+      "Array Technologies, Inc. (ARRY) Advances While Market Declines: Some Information for Investors - Yah",
+      "ARRAY Opens New Albuquerque Manufacturing Facility with Ribbon Cutting Ceremony - globenewswire.com",
+      "Gross margin % of Sungrow Power Supply Co., Ltd. Shs Thailand Depositary Receipts Repr 1 Sh – SET:SU",
+      "‘Misunderstandings’ arise: Chinese energy firms call for stable rules overseas - South China Morning",
+      "How competitive is BESS for data centers, really?"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "2026-09-13 無太陽能產業相關事件。市場處於平靜狀態，無重大訊號。",
+    "signals": [
+      {
+        "text": "今日無重大異常訊號，產業動態平穩。",
+        "level": "green"
+      },
+      {
+        "text": "建議持續監控後續發展動態。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

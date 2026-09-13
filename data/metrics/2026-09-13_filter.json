@@ -1,0 +1,16 @@
+{
+  "total_raw": 429,
+  "dup_title": 221,
+  "no_date": 0,
+  "too_old": 150,
+  "gate1_fail": 44,
+  "gate2_fail": 7,
+  "passed": 7,
+  "gate2_samples": [
+    "Array Technologies, Inc. (ARRY) Advances While Market Declines: Some Information for Investors - Yah",
+    "ARRAY Opens New Albuquerque Manufacturing Facility with Ribbon Cutting Ceremony - globenewswire.com",
+    "Gross margin % of Sungrow Power Supply Co., Ltd. Shs Thailand Depositary Receipts Repr 1 Sh – SET:SU",
+    "‘Misunderstandings’ arise: Chinese energy firms call for stable rules overseas - South China Morning",
+    "How competitive is BESS for data centers, really?"
+  ]
+}
