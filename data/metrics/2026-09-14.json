@@ -1,0 +1,37 @@
+{
+  "date": "2026-09-14",
+  "total_events": 28,
+  "by_company": {
+    "trina": {
+      "count": 3,
+      "sentiment_avg": 0.0
+    },
+    "jinko": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "sungrow": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "industry_general": {
+      "count": 28,
+      "sentiment_avg": 0.07
+    },
+    "installation_demand": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "trade_tariff": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

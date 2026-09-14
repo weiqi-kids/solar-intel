@@ -1,0 +1,16 @@
+{
+  "total_raw": 424,
+  "dup_title": 202,
+  "no_date": 0,
+  "too_old": 139,
+  "gate1_fail": 44,
+  "gate2_fail": 5,
+  "passed": 34,
+  "gate2_samples": [
+    "Array Technologies, Inc. (ARRY) Advances While Market Declines: Some Information for Investors - Yah",
+    "ARRAY Opens New Albuquerque Manufacturing Facility with Ribbon Cutting Ceremony - GlobeNewswire",
+    "Sungrow Hikes Product Prices After Raw Material Cost Increase - Bloomberg.com",
+    "Sungrow Power Supply Co., Ltd. Shs Thailand Depositary Receipts Repr 1 Sh - TradingView",
+    "Finance Beyond the COP: How India Is Rebuilding the Case for Global Climate Finance"
+  ]
+}
