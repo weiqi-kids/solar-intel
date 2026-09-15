@@ -1,0 +1,200 @@
+{
+  "date": "2026-09-15",
+  "generated_at": "2026-09-15T12:59:25.652233Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "array-2026-09-15-005",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "California cold-storage provider sues solar businesses over $1 billion rooftop fire",
+      "companies": [
+        "array"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://www.pv-magazine.com/2026/09/15/california-cold-storage-provider-sues-solar-businesses-over-1-billion-rooftop-fire/"
+    },
+    {
+      "rank": 2,
+      "event_id": "trina-2026-09-15-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Trina Storage to supply 562MWh BESS for Frontier Energy solar-plus-storage project in Western Australia - Energy-Storage.News",
+      "companies": [
+        "trina"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNRUsxTGFVRGNfcWdZLWNnenFpLVN4VHh2Z296Y1h1elFSZ1JBN2NWNDE4THQ2a1l0NFJPUFY1dGhZSE5RMWFGV29fWl9VZV9ZVWhXZnZoR0NUNFNiRzRSRWRuWVpPOHBIVTFROXZ4Mnllak91VFItOGpqWkxCdE4xRU5nYkxYUDdEM3VZXzF4YkJiaDUwQnZrdUVnZ0dIQWR0QkhLVkFLOHBMdDdjRkRzU2E4V1ZlOUhSVzdmTVV6WmJrOG5iNzYtajhWekNqeDNnTlE?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "array-2026-09-15-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "ARRAY Technologies Opens $50 Million New Mexico Factory - TaiyangNews",
+      "companies": [
+        "array"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPXzk1d2hQMHR3c3k2MDBlOExRSmtFajB6b3lreWZ6c25oT2g2WTI3LVZuZ08ya09kOE9xa3ctQzJReTJ0aU9kbS1CYjJDRHJ4YVZVcUtIYkh4R2lxOTc3Z1BmMGhUZkl5aHlJeFNJUEcxN3hKS1ZRODZYOEtjZ2hSRTRQWnVIdHFfcWNGd0duQQ?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-09-15-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "The Solar Tracker Wars Reach India - Saur Energy",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQRjA5RHhhRC1WUUNVcFhNTktmbGRQMHVsNkJTVE10akFMR25uQzlmcWNJUEYwTjRReTZLMEdJSVQ4eU9HU0VEZFdYY2JRTGtfLVJ1bnktRUs1blFhQ3F4c1NmYlVDXzAzenFJUUZYRkZRQUxPcHY2Y3lkLUhtNEJFTVc0dXlnc0tWLU5jWXFxUlR6UQ?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-09-15-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "The value of solar PV in Northern regions is widely underestimated",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.pv-magazine.com/2026/09/15/the-value-of-solar-pv-in-northern-regions-is-widely-underestimated/"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 23,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.07,
+      "sentiment_7d_avg": null
+    },
+    "installation_demand": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 24,
+    "sentiment_distribution": {
+      "positive": 3,
+      "neutral": 20,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "trina",
+        "count": 2
+      },
+      {
+        "id": "array",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 23
+      },
+      {
+        "id": "installation_demand",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 427,
+    "dup_title": 192,
+    "too_old": 151,
+    "gate1_blocked": 43,
+    "gate2_blocked": 5,
+    "passed": 36,
+    "pass_rate": "15.3%",
+    "gate2_block_rate": "2.1%",
+    "gate2_samples": [
+      "DAQO New Energy (NYSE:DQ) Hits New 52-Week Low - What's Next? - MarketBeat",
+      "Array Technologies, Inc. (ARRY) Advances While Market Declines: Some Information for Investors - Yah",
+      "ARRAY Opens New Albuquerque Manufacturing Facility with Ribbon Cutting Ceremony - GlobeNewswire",
+      "Sungrow Hikes Product Prices After Raw Material Cost Increase - bloomberg.com",
+      "Sungrow Power Supply Co., Ltd. Shs Thailand Depositary Receipts Repr 1 Sh - TradingView"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 24 則事件，焦點為天合光能、Array Technologies相關動態：「California cold-storage provider sues solar businesses ov...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "California cold-storage provider sues solar businesses over $1 billion roofto...（太陽能產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "Trina Storage to supply 562MWh BESS for Frontier Energy solar-plus-storage pr...（太陽能產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "裝機需求持續受關注，產業趨勢帶動需求成長。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

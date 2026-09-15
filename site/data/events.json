@@ -1,5 +1,444 @@
 [
   {
+    "id": "trina-2026-09-15-001",
+    "date": "2026-09-15",
+    "companies": [
+      "trina"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Trina Storage to supply 562MWh BESS for Frontier Energy solar-plus-storage project in Western Australia - Energy-Storage.News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxNRUsxTGFVRGNfcWdZLWNnenFpLVN4VHh2Z296Y1h1elFSZ1JBN2NWNDE4THQ2a1l0NFJPUFY1dGhZSE5RMWFGV29fWl9VZV9ZVWhXZnZoR0NUNFNiRzRSRWRuWVpPOHBIVTFROXZ4Mn",
+    "sources": [
+      {
+        "name": "trina",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNRUsxTGFVRGNfcWdZLWNnenFpLVN4VHh2Z296Y1h1elFSZ1JBN2NWNDE4THQ2a1l0NFJPUFY1dGhZSE5RMWFGV29fWl9VZV9ZVWhXZnZoR0NUNFNiRzRSRWRuWVpPOHBIVTFROXZ4Mnllak91VFItOGpqWkxCdE4xRU5nYkxYUDdEM3VZXzF4YkJiaDUwQnZrdUVnZ0dIQWR0QkhLVkFLOHBMdDdjRkRzU2E4V1ZlOUhSVzdmTVV6WmJrOG5iNzYtajhWekNqeDNnTlE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "array-2026-09-15-002",
+    "date": "2026-09-15",
+    "companies": [
+      "array"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "ARRAY Technologies Opens $50 Million New Mexico Factory - TaiyangNews",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxPXzk1d2hQMHR3c3k2MDBlOExRSmtFajB6b3lreWZ6c25oT2g2WTI3LVZuZ08ya09kOE9xa3ctQzJReTJ0aU9kbS1CYjJDRHJ4YVZVcUtIYkh4R2lxOTc3Z1BmMGhUZkl5aHlJeFNJUE",
+    "sources": [
+      {
+        "name": "array",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPXzk1d2hQMHR3c3k2MDBlOExRSmtFajB6b3lreWZ6c25oT2g2WTI3LVZuZ08ya09kOE9xa3ctQzJReTJ0aU9kbS1CYjJDRHJ4YVZVcUtIYkh4R2lxOTc3Z1BmMGhUZkl5aHlJeFNJUEcxN3hKS1ZRODZYOEtjZ2hSRTRQWnVIdHFfcWNGd0duQQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-15-003",
+    "date": "2026-09-15",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "The Solar Tracker Wars Reach India - Saur Energy",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxQRjA5RHhhRC1WUUNVcFhNTktmbGRQMHVsNkJTVE10akFMR25uQzlmcWNJUEYwTjRReTZLMEdJSVQ4eU9HU0VEZFdYY2JRTGtfLVJ1bnktRUs1blFhQ3F4c1NmYlVDXzAzenFJUUZYRk",
+    "sources": [
+      {
+        "name": "nextracker",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQRjA5RHhhRC1WUUNVcFhNTktmbGRQMHVsNkJTVE10akFMR25uQzlmcWNJUEYwTjRReTZLMEdJSVQ4eU9HU0VEZFdYY2JRTGtfLVJ1bnktRUs1blFhQ3F4c1NmYlVDXzAzenFJUUZYRkZRQUxPcHY2Y3lkLUhtNEJFTVc0dXlnc0tWLU5jWXFxUlR6UQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-15-004",
+    "date": "2026-09-15",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "The value of solar PV in Northern regions is widely underestimated",
+    "summary": "<p>Contrary to conventional perceptions, solar PV can be an important component of a viable Arctic energy system, thanks to the region’s long summer days. Its low cost makes it competitive even in are",
+    "sources": [
+      {
+        "name": "pv_magazine",
+        "url": "https://www.pv-magazine.com/2026/09/15/the-value-of-solar-pv-in-northern-regions-is-widely-underestimated/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "array-2026-09-15-005",
+    "date": "2026-09-15",
+    "companies": [
+      "array"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "California cold-storage provider sues solar businesses over $1 billion rooftop fire",
+    "summary": "<p>Cold-storage giant Lineage claims a $1 billion fire at its 46,451.52 m² facility was ignited by an improperly maintained rooftop solar array following ignored safety warnings.</p>\n<p>The post <a hr",
+    "sources": [
+      {
+        "name": "pv_magazine",
+        "url": "https://www.pv-magazine.com/2026/09/15/california-cold-storage-provider-sues-solar-businesses-over-1-billion-rooftop-fire/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-15-006",
+    "date": "2026-09-15",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Biwatt releases sodium-ion storage system for C&I applications",
+    "summary": "<p>Biwatt launched the modular PowerLake I3 sodium-ion storage system for C&#38;I applications, offering 43.6 kWh–2.09 MWh configurations using NFPP cells. Available as indoor racks or IP55 outdoor ca",
+    "sources": [
+      {
+        "name": "pv_magazine",
+        "url": "https://www.pv-magazine.com/2026/09/15/biwatt-releases-sodium-ion-storage-system-for-ci-applications/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-15-007",
+    "date": "2026-09-15",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "PPA prices rise 2.2% in Europe in August",
+    "summary": "<p>European PPA prices rose 2.2% in August, led by a 4.9% increase in the United Kingdom, while announced PPA capacity fell sharply to 335 MW. Corporate buyers dominated PPA activity, as storage-relat",
+    "sources": [
+      {
+        "name": "pv_magazine",
+        "url": "https://www.pv-magazine.com/2026/09/15/ppa-prices-rise-2-2-in-europe-in-august/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-15-008",
+    "date": "2026-09-15",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Researchers find strong vendor-to-vendor variation in UVID performance of TOPCon solar cells",
+    "summary": "<p>US researchers found significant manufacturer-dependent differences in UV-induced degradation and light-assisted recovery among commercial TOPCon solar cells. The results highlight the need for con",
+    "sources": [
+      {
+        "name": "pv_magazine",
+        "url": "https://www.pv-magazine.com/2026/09/15/researchers-find-strong-vendor-to-vendor-variation-in-uvid-performance-of-topcon-solar-cells/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-15-009",
+    "date": "2026-09-15",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Flanders to cut subsidies for large solar parks",
+    "summary": "<p>The Flemish government is reducing the subsidy available to solar park owners during periods of negative price hours. The move is expected to save around €189 million ($206.5 million).</p>\n<p>The p",
+    "sources": [
+      {
+        "name": "pv_magazine",
+        "url": "https://www.pv-magazine.com/2026/09/15/flanders-to-cut-subsidies-for-large-solar-parks/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-15-010",
+    "date": "2026-09-15",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Uganda switches on 24 MW solar project",
+    "summary": "<p>Amea Power’s 24 MW PV plant is expected to supply energy to over 192,000 households in Uganda's northwestern Nile region.</p>\n<p>The post <a href=\"https://www.pv-magazine.com/2026/09/15/uganda-swit",
+    "sources": [
+      {
+        "name": "pv_magazine",
+        "url": "https://www.pv-magazine.com/2026/09/15/uganda-switches-on-24-mw-solar-project/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-15-011",
+    "date": "2026-09-15",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Rheem launches air-to-water heat pumps for multifamily houses",
+    "summary": "<p>Rheem’s Torin commercial air-to-water heat pumps achieve a COP of up to 4.5. The units can also deliver outlet-water temperatures of up to 65.6 C.</p>\n<p>The post <a href=\"https://www.pv-magazine.c",
+    "sources": [
+      {
+        "name": "pv_magazine",
+        "url": "https://www.pv-magazine.com/2026/09/15/rheem-launches-air-to-water-heat-pumps-for-multifamily-houses/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-15-012",
+    "date": "2026-09-15",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Lithuania moves to support residential PV",
+    "summary": "<p>Lithuania’s Ministry of Energy says it plans to remove obstacles to installing solar on apartment balconies and will coordinate support for solar plants and storage systems as part of a wider packa",
+    "sources": [
+      {
+        "name": "pv_magazine",
+        "url": "https://www.pv-magazine.com/2026/09/15/lithuania-moves-to-support-residential-pv/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-15-013",
+    "date": "2026-09-15",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "GameChange sues Nextpower in expanding solar tracker patent war",
+    "summary": "<p>Solar tracking rivals are now locked in dueling federal lawsuits over proprietary hardware and control software.</p>\n<p>The post <a href=\"https://www.pv-magazine.com/2026/09/15/gamechange-countersu",
+    "sources": [
+      {
+        "name": "pv_magazine",
+        "url": "https://www.pv-magazine.com/2026/09/15/gamechange-countersues-nextpower-in-expanding-solar-tracker-patent-war/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-15-014",
+    "date": "2026-09-15",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Are you managing renewable portfolio risk or just monitoring it?",
+    "summary": "Analyzing historical obligation task patterns enables renewable energy asset managers to identify hidden operational risks, optimize compliance processes, and demonstrate long-term value to investors.",
+    "sources": [
+      {
+        "name": "pv_magazine_usa",
+        "url": "https://pv-magazine-usa.com/2026/09/15/are-you-managing-renewable-portfolio-risk-or-just-monitoring-it/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-15-015",
+    "date": "2026-09-15",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Public buildings get solar panels in £350k project - BBC",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTFBnR0pOOUhqSTVObUFzVy1hUVZLNTA3djdiblVyTmkwb2pRRUxCakhleVdlbGN5dFJGTVdtU1ZtWklmQV9PMGhqWmxyeE1COWRsczh0ZWo2OUMyN2c?oc=5\" target=\"_blank\">Publ",
+    "sources": [
+      {
+        "name": "google_news_solar",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBnR0pOOUhqSTVObUFzVy1hUVZLNTA3djdiblVyTmkwb2pRRUxCakhleVdlbGN5dFJGTVdtU1ZtWklmQV9PMGhqWmxyeE1COWRsczh0ZWo2OUMyN2c?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-15-016",
+    "date": "2026-09-15",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Future Climate: Lettuce Will Need Solar Panel Shade - Forbes",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxPWENKaEk0VDd2eUJZQlBfWWJ1SFRjdEE4bHpGS0Foay1MTEdjVWdRa25OS2FfanY0SW5zVGJiVGI3aXZ1ZmhHNlgxNjFZcGd0ckQ0cTFxdEQxSHhPNXRxOTFtMFF1N0haa3VEamtpVF",
+    "sources": [
+      {
+        "name": "google_news_solar",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPWENKaEk0VDd2eUJZQlBfWWJ1SFRjdEE4bHpGS0Foay1MTEdjVWdRa25OS2FfanY0SW5zVGJiVGI3aXZ1ZmhHNlgxNjFZcGd0ckQ0cTFxdEQxSHhPNXRxOTFtMFF1N0haa3VEamtpVF8xb255TEtBM1hHaTRRWmZ6VWJ6RE5WbFRPR19jTnVyRGNHSXJLVVhuS2pYMkh4YUNXWlYzMQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-15-017",
+    "date": "2026-09-15",
+    "companies": [],
+    "topics": [
+      "installation_demand",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Grid Connected PV System Market Size Report, 2026-2033 - Grand View Research",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxOU09zcU50eHVzUUIwWjNCeEE0MkNuOG5sSmxVN2VXSk1jNlRYdWJoaWlGNkJiVjY0d0owcVJQLXlHRzk4eWxicXlJcjd4c2JELWc1SS02YzM2NlNNRURFWGRmejJqdElvSzZDNkVzS2",
+    "sources": [
+      {
+        "name": "google_news_solar",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOU09zcU50eHVzUUIwWjNCeEE0MkNuOG5sSmxVN2VXSk1jNlRYdWJoaWlGNkJiVjY0d0owcVJQLXlHRzk4eWxicXlJcjd4c2JELWc1SS02YzM2NlNNRURFWGRmejJqdElvSzZDNkVzS2hoS3VhUmdNSmN4MFVfVkQ3MUdpcVpxdUNFRjJxaDZhaDlXZWpK?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-15-018",
+    "date": "2026-09-15",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "Terrepower launches EV battery repurposing effort",
+    "summary": "<p>Ontility, the now EV battery-dedicated brand from Terrepower, is setting up EV battery lifecycle solutions in Europe and North America. This expanded focus will maximize the value of EV batteries t",
+    "sources": [
+      {
+        "name": "solar_power_world",
+        "url": "https://www.solarpowerworldonline.com/2026/09/terrepower-launches-ev-battery-repurposing-effort/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-15-019",
+    "date": "2026-09-15",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "CEE ROUNDUP: Engie buys 876MWh Poland project, Econergy connects co-located BESS in Romania, Inion Software launches Lithuania VPP",
+    "summary": "This edition of news in brief from around the world in energy storage features Engie, Econergy and Inion Software in Central and Eastern Europe.",
+    "sources": [
+      {
+        "name": "energy_storage_news",
+        "url": "https://www.energy-storage.news/cee-roundup-engie-buys-876mwh-poland-project-econergy-connects-co-located-bess-in-romania-inion-software-launches-lithuania-vpp/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-15-020",
+    "date": "2026-09-15",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Flexa on what Germany’s 23GWh of home batteries entering the market means",
+    "summary": "A regulatory change is opening Germany's energy markets to 23GWh of home batteries. The co-CEO of VPP platform Flexa discusses what it could mean for the market. ",
+    "sources": [
+      {
+        "name": "energy_storage_news",
+        "url": "https://www.energy-storage.news/flexa-on-what-germany-23gwh-home-residential-eeg-batteries-entering-market-means-grid-scale/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-15-021",
+    "date": "2026-09-15",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Actis subsidiary Nozomi Energy closes financing on Japanese capacity market-winning BESS",
+    "summary": "Sustainable infrastructure investor Actis’s renewable energy platform in Japan has closed financing on a 50MW/196MWh battery storage project.",
+    "sources": [
+      {
+        "name": "energy_storage_news",
+        "url": "https://www.energy-storage.news/actis-subsidiary-nozomi-energy-closes-financing-on-japanese-capacity-market-winning-bess/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "trina-2026-09-15-022",
+    "date": "2026-09-15",
+    "companies": [
+      "trina"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Trina Storage to supply 562MWh BESS for Frontier Energy solar-plus-storage project in Western Australia",
+    "summary": "Trina Storage has been selected to supply the BESS for Stage One of Frontier Energy's Waroona Renewable Energy Project.",
+    "sources": [
+      {
+        "name": "energy_storage_news",
+        "url": "https://www.energy-storage.news/trina-storage-to-supply-562mwh-bess-for-frontier-energy-solar-plus-storage-project-in-western-australia/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-15-023",
+    "date": "2026-09-15",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Scania Launches 720-KM Battery Electric Truck, Hydrogen Stakeholders Double Down",
+    "summary": "<p>A new heavy duty, long haul electric truck from Scania sports an extended front and extra battery packs, achieving a driving range of almost 720 kilometers (about 474 miles) on a single charge.</p>",
+    "sources": [
+      {
+        "name": "cleantechnica",
+        "url": "https://cleantechnica.com/2026/09/15/electric-trucks-battery-fuel-cell-hydrogen-tesla-scania-volvo-daimler-toyot/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-15-024",
+    "date": "2026-09-15",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "More Than 56% of California Electricity Demand Supplied by Wind, Water, & Solar in 2026",
+    "summary": "<p>California keeps installing more and more renewable energy power plants and rooftop solar systems. Therefore, it keeps using more and more renewable energy. Stanford professor Mark Z. Jacobson, Dir",
+    "sources": [
+      {
+        "name": "cleantechnica",
+        "url": "https://cleantechnica.com/2026/09/14/more-than-56-of-california-electricity-demand-supplied-by-wind-water-solar-in-2026/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "unknown-2026-09-14-001",
     "date": "2026-09-14",
     "companies": [],
@@ -514,6 +953,188 @@
       {
         "name": "energy_storage_news",
         "url": "https://www.energy-storage.news/lava-blue-commissions-australias-first-grid-nas-battery-as-zebre-sees-360mwh-bess-waved-through-epbc-act/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "sungrow-2026-09-14-029",
+    "date": "2026-09-14",
+    "companies": [
+      "sungrow"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Sungrow hikes prices of products - BusinessMirror",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE5NUzNzQXUweXpvUG5CbUd0VDBkbDJvZ2VBeFpfLWRzZ1pjbk56SkVFdHN4WmxLQ1VTZTYyNHlTUXVEbEdDcmxsNUxFalJ5b28zc3FEQjhCNVpKeThZdHJ0SjM0UGJRcnJlNXV2R1lONF",
+    "sources": [
+      {
+        "name": "sungrow",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5NUzNzQXUweXpvUG5CbUd0VDBkbDJvZ2VBeFpfLWRzZ1pjbk56SkVFdHN4WmxLQ1VTZTYyNHlTUXVEbEdDcmxsNUxFalJ5b28zc3FEQjhCNVpKeThZdHJ0SjM0UGJRcnJlNXV2R1lONFdTVlBLZ1NDWkZ1c0x0VjQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-14-030",
+    "date": "2026-09-14",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "UL Solutions launches AC bidirectional EV charger certification program",
+    "summary": "The certification program involves a new standard that governs vehicle-to-grid connections via AC wiring (V2G-AC), under which cars with certified onboard bidirectional inverters can be connected to t",
+    "sources": [
+      {
+        "name": "pv_magazine_usa",
+        "url": "https://pv-magazine-usa.com/2026/09/14/ul-solutions-launches-ac-bidirectional-ev-charger-certification-program/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-14-031",
+    "date": "2026-09-14",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Battery safety on multifamily housing",
+    "summary": "Safety protocols must be in place to ensure residents of multifamily housing reap the many benefits of solar and battery energy storage, according to Clean Energy Group.",
+    "sources": [
+      {
+        "name": "pv_magazine_usa",
+        "url": "https://pv-magazine-usa.com/2026/09/14/battery-safety-on-multifamily-housing/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-14-032",
+    "date": "2026-09-14",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Kia’s new EV van is over 17.5 ft long and can haul 9 people or lots of cargo [Images]",
+    "summary": "<div class=\"feat-image\"><img src=\"https://electrek.co/wp-content/uploads/sites/3/2026/09/Kia-PV7-EV-van-images.jpeg?quality=82&#038;strip=all&#038;w=1400\" /></div><p class=\"wp-block-paragraph\"><a href",
+    "sources": [
+      {
+        "name": "electrek_solar",
+        "url": "https://electrek.co/2026/09/14/kias-new-ev-van-17-5-ft-long-haul-9-people-images/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-14-033",
+    "date": "2026-09-14",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Anker solar HomeKit-ready Wall Light Cam S4 launch deal, Anker SOLIX extends power station sale, Monarc e-bike bundles, more",
+    "summary": "<div class=\"feat-image\"><img src=\"https://electrek.co/wp-content/uploads/sites/3/2026/09/Anker-eufy-Anker-SOLIX-Monarc-EcoFlow-GDs-FI.jpg?quality=82&#038;strip=all&#038;w=1600\" /></div><p class=\"wp-bl",
+    "sources": [
+      {
+        "name": "electrek_solar",
+        "url": "https://electrek.co/2026/09/14/anker-solar-homekit-wall-light-cam-s4-anker-solix-power-station-sale-monarc-e-bike-more/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-14-034",
+    "date": "2026-09-14",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "‘Offensively cheap’: solar power is looking up - Financial Times",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxNUjMxNENKQUhWc0hnNTV3d21GYjdBbnloSkk0NjExZmNXSVhZWmhnWEN1ZGdxZHhRLWhNYkQ5MVZXWDYxUEtMRXc5WjJGTmhFOUdtc0hVTV9xSU1kdUh6bnJibGJzXzVsYTFONWVrbX",
+    "sources": [
+      {
+        "name": "google_news_solar",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNUjMxNENKQUhWc0hnNTV3d21GYjdBbnloSkk0NjExZmNXSVhZWmhnWEN1ZGdxZHhRLWhNYkQ5MVZXWDYxUEtMRXc5WjJGTmhFOUdtc0hVTV9xSU1kdUh6bnJibGJzXzVsYTFONWVrbXdMQ2E5YzBlYWxVZTk5dXd2OGV6OWM?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-14-035",
+    "date": "2026-09-14",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "German Solar Farms Keep Being Switched Off - Here's Why - bgr.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTFBBdzRPNTdsNXVEQm5JdzdIUFF3WXdkVWpzZzMwLXZ4VmJmQVpFeWVrN2RPVTQ0c1lOTFlXSmJEUnVDYWc0NDRLZVc4aHNYX1Z0ME1CeEUxbWtZc1VTVjBmcVZLOFUteUJGTGppSG9heX",
+    "sources": [
+      {
+        "name": "google_news_solar",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBBdzRPNTdsNXVEQm5JdzdIUFF3WXdkVWpzZzMwLXZ4VmJmQVpFeWVrN2RPVTQ0c1lOTFlXSmJEUnVDYWc0NDRLZVc4aHNYX1Z0ME1CeEUxbWtZc1VTVjBmcVZLOFUteUJGTGppSG9heXhDT3h5R1VQeGRn?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-14-036",
+    "date": "2026-09-14",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Germany switched on a solar farm over 150 fallow deer on September 1, just as autumn prepares to turn the peaceful herd beneath the panels into a rutting-season battlefield - Energies Media",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE1DbkJFOHFraG5FdldFcHh0RVQxWklpX1V6eHRJT3UzeHYtbEJXQWVjM3RVZFQtUmZKcmdHQmppQXcwemh0bDBINVpnb3dHYnptWHotMHNYQnlqNXFVSURBZXJTX001Q2ZHN3YyT2cyd2",
+    "sources": [
+      {
+        "name": "google_news_solar",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1DbkJFOHFraG5FdldFcHh0RVQxWklpX1V6eHRJT3UzeHYtbEJXQWVjM3RVZFQtUmZKcmdHQmppQXcwemh0bDBINVpnb3dHYnptWHotMHNYQnlqNXFVSURBZXJTX001Q2ZHN3YyT2cyd2pwcl9qaFROQ0NBZjFDQQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-14-037",
+    "date": "2026-09-14",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "UL launches program for vehicle-to-grid certification",
+    "summary": "<p>UL Solutions announced its new certification program for vehicle-to-grid (V2G) technologies, helping advance the use of electric vehicles as a resource for the electric power grid. Utilities are lo",
+    "sources": [
+      {
+        "name": "solar_power_world",
+        "url": "https://www.solarpowerworldonline.com/2026/09/ul-launches-program-for-vehicle-to-grid-certification/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-14-038",
+    "date": "2026-09-14",
+    "companies": [],
+    "topics": [
+      "trade_tariff"
+    ],
+    "impact": "neutral",
+    "title": "Could Trump Throw US Automakers Under The Chinese Electric Car Bus?*",
+    "summary": "<p>We all know that one of Donald Trump&#8217;s favorite things to do is complain about China and put tariffs — or threaten to put tariffs — on Chinese produced goods. Indeed, we&#8217;re all paying a",
+    "sources": [
+      {
+        "name": "cleantechnica",
+        "url": "https://cleantechnica.com/2026/09/14/could-trump-throw-us-automakers-under-the-chinese-electric-car-bus/",
         "type": "rss"
       }
     ]
@@ -4275,6 +4896,46 @@
       {
         "name": "nextracker",
         "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQbno1dGwtb0d3eUxwQThWWmY5ZjYtRkIyR2c4WEx4dXhVQXR5bDNyOGVNR2c3ME5fRTZZX2lBWldLZUUyMk9RU01hM2hEQzg1SFhsb25NWURZcVhGSHRzTklub2c1dlNqN1ptRTJnU3hPSDEtQ1Njd2Nza3BvcmE3aGRSYllTZDZhYVVfZXBDN0RFeGF0RHhobFRDWVRaTG1GdWNqZE9NeXlGRnhfSXVVcDNraUxVQ255TG1oNS1RMExfTHZBRGtFVjdJZlZkSHFqM0xOb0ctcDJIc3Z1aWlZY1NWVmNQWkJPSXFxeGx3YzE3blRYUVRTYWVncGZiRERseGxRSkw2cGVvdw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "jinko-2026-09-09-079",
+    "date": "2026-09-09",
+    "companies": [
+      "jinko"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "JinkoSolar proposes name change as it expands strategic investment arm - renewablesnow.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxOWkdNQVhua0gyWFE5OEVSdk1KR3l2UUhRdkRLVnpPM1N1TGMwUUpSZGlNU2pjMDZnbDA1OTh1Sm5BUE03dkVNSFJGdHduckRNMjhEWEdjS3FoaFExdE4tSWdZdldsRVVUTHByTTIxdi",
+    "sources": [
+      {
+        "name": "jinko",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOWkdNQVhua0gyWFE5OEVSdk1KR3l2UUhRdkRLVnpPM1N1TGMwUUpSZGlNU2pjMDZnbDA1OTh1Sm5BUE03dkVNSFJGdHduckRNMjhEWEdjS3FoaFExdE4tSWdZdldsRVVUTHByTTIxdi1jb2h4M2xUUG03Zko5NjBRRzdrdEc1ak5pWHU5ZS04R3IyblJLY2VCX1p3enpiczZwU1RhUnU1S1BJeHZGeEJB?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "jinko-2026-09-09-080",
+    "date": "2026-09-09",
+    "companies": [
+      "jinko"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "JinkoSolar board approves name change to Jinko Holdings - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxQOVhwMVNsVGthekNRWU1hSGFYbXBwcFVZV3M0SmVtMW9ZOWRLZVBvWlk4RExBMDRJN1hyb09mZjZoRkxWc25WNlh5b041OTZpSlVqdFZidTRuQnp0aVE5WlFYdTAwRWdRYXJoVjBaek",
+    "sources": [
+      {
+        "name": "jinko",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQOVhwMVNsVGthekNRWU1hSGFYbXBwcFVZV3M0SmVtMW9ZOWRLZVBvWlk4RExBMDRJN1hyb09mZjZoRkxWc25WNlh5b041OTZpSlVqdFZidTRuQnp0aVE5WlFYdTAwRWdRYXJoVjBaekxPenppdjV2YWRXVlhZdDh2cmtQalhjSzhWNDFsSDRfVjFEZW1iU3ZoUUxTemtOUUxTYXJtdkQzWkYzQmxaNGhpUWR0Y3pDMXl3b0E?oc=5",
         "type": "rss"
       }
     ]

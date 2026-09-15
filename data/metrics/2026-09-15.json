@@ -1,0 +1,29 @@
+{
+  "date": "2026-09-15",
+  "total_events": 24,
+  "by_company": {
+    "trina": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "array": {
+      "count": 2,
+      "sentiment_avg": 0.5
+    }
+  },
+  "by_topic": {
+    "industry_general": {
+      "count": 23,
+      "sentiment_avg": 0.07
+    },
+    "installation_demand": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

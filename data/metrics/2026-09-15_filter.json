@@ -1,0 +1,16 @@
+{
+  "total_raw": 427,
+  "dup_title": 192,
+  "no_date": 0,
+  "too_old": 151,
+  "gate1_fail": 43,
+  "gate2_fail": 5,
+  "passed": 36,
+  "gate2_samples": [
+    "DAQO New Energy (NYSE:DQ) Hits New 52-Week Low - What's Next? - MarketBeat",
+    "Array Technologies, Inc. (ARRY) Advances While Market Declines: Some Information for Investors - Yah",
+    "ARRAY Opens New Albuquerque Manufacturing Facility with Ribbon Cutting Ceremony - GlobeNewswire",
+    "Sungrow Hikes Product Prices After Raw Material Cost Increase - bloomberg.com",
+    "Sungrow Power Supply Co., Ltd. Shs Thailand Depositary Receipts Repr 1 Sh - TradingView"
+  ]
+}
