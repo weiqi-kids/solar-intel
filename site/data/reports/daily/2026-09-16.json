@@ -1,0 +1,223 @@
+{
+  "date": "2026-09-16",
+  "generated_at": "2026-09-16T12:56:02.274820Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "longi-2026-09-16-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "LONGi named tech supplier for 50 MWh of Romanian BESS projects - Renewables Now",
+      "companies": [
+        "longi"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPaTVtZWJONXRfQi1qX284V0lEdlJqNjl4UkxGLV9iX042SG9XYzRCcW16TGVkR2N5UWRRZkxYeW9WZERCR2tubjAycFVlM0hLMkJmNkQ0X1JhVGpzUkNaUEV0OTE2OXJ6YzlLcV9sMERLUXlLZVlJdTVsdjNIN254cHo2MVFzUi1XSF9BQWFlY2tkRlhFQ2FkYzBvZlR6ejlLV3BUVQ?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "ja_solar-2026-09-16-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "AmonRa Energy to manage JA Solar's Bulgarian BESS maintenance - SeeNews",
+      "companies": [
+        "ja_solar"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQQk5ZOG9Zd2tQVGFxaGRSN1FGb3U1aENiaTFTd25sSWhsQWNoUFc0UjhRNE81dzhWQUxiUkhUUEk4U0Nrb1hQMVdVaGw5cEFuX2FOR2pEYXlwWm9sWDJYdXpCV3pQNDdoTVM1UmFZRFo4ZzZTYUNEQXdPNG5ZV19rZFdLRFB6THRJa05WelNjSkVfZHMwLTJZRQ?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-09-16-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "New energy faces reckoning as solar makers pivot to AI, Beijing halts battery storage construction - thebambooworks.com",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNY3J2WkNaWUNKS3ZtR3d5cXd1cmxSOFdaRE1UaEllRExHeE4zM1NhUjR3NWhSUnI1UE81TVVJc3pkVHljd0FRRHpiQVRiZldvd3pnQWFDbUNicUVNcWR2TURTTVlETmlLY1dNeml3SllLamxXVnloX3dmMzFLZEFaWXlNN1pWemRQVXZkdy1DOWJVSjloRFZpVkppLW9EckJEbDlqYmxPZWlYaXoxcG1kRWVXODlhRWotMmk3OGtsdk1tLVVheHJ3?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "sungrow-2026-09-16-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Sungrow Power Supply Declares Interim Dividend of 0.64 Yuan - marketscreener.com",
+      "companies": [
+        "sungrow"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPdEJmSGc1VkR6a1gtNl9WN2ZuYzM2dm8wTk52M2pDZHUtSGRHSDY3b2FCYmpZWEN6cUVaajdlZHJZQVpXUHlFWUVSUjN4WlFIZjloczYxNXdWSWQ1NWpEb0FiUGl1WkJ0dEh1d01XR3lZUTU2dUFyVVpSSnF1WmczWlJXTVlpb3pNZ2JYQXRvVG9HeDdfN0RhS09MSmdJcGptNVhCdGs3bTJyNEFNMzRxeXBB?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-09-16-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Norway hits 1 GW solar milestone",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.pv-magazine.com/2026/09/16/norway-passes-1-gw-solar-milestone/"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 30,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.06,
+      "sentiment_7d_avg": null
+    },
+    "trade_tariff": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "installation_demand": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 31,
+    "sentiment_distribution": {
+      "positive": 4,
+      "neutral": 26,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "longi",
+        "count": 1
+      },
+      {
+        "id": "ja_solar",
+        "count": 1
+      },
+      {
+        "id": "sungrow",
+        "count": 1
+      },
+      {
+        "id": "array",
+        "count": 1
+      },
+      {
+        "id": "first_solar",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 30
+      },
+      {
+        "id": "trade_tariff",
+        "count": 1
+      },
+      {
+        "id": "installation_demand",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 427,
+    "dup_title": 179,
+    "too_old": 152,
+    "gate1_blocked": 41,
+    "gate2_blocked": 4,
+    "passed": 51,
+    "pass_rate": "20.6%",
+    "gate2_block_rate": "1.6%",
+    "gate2_samples": [
+      "Array Technologies, Inc. (ARRY) Advances While Market Declines: Some Information for Investors - Yah",
+      "ARRAY Opens New Albuquerque Manufacturing Facility with Ribbon Cutting Ceremony - GlobeNewswire",
+      "Sungrow Hikes Product Prices After Raw Material Cost Increase - Bloomberg",
+      "Sungrow Power Supply Co., Ltd. Shs Thailand Depositary Receipts Repr 1 Sh - TradingView"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 31 則事件，焦點為隆基綠能、晶澳科技、陽光電源相關動態：「LONGi named tech supplier for 50 MWh of Romanian BESS pro...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "LONGi named tech supplier for 50 MWh of Romanian BESS projects - Renewables Now（太陽能產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "AmonRa Energy to manage JA Solar's Bulgarian BESS maintenance - SeeNews（太陽能產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "裝機需求持續受關注，產業趨勢帶動需求成長。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
