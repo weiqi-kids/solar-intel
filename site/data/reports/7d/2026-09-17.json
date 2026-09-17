@@ -1,0 +1,161 @@
+{
+  "date": "2026-09-17",
+  "date_range": {
+    "start": "2026-09-11",
+    "end": "2026-09-17"
+  },
+  "generated_at": "2026-09-17T12:52:37.631380Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "gcl-2026-09-11-014",
+      "date": "2026-09-11",
+      "title": "Chinese PV Industry Brief: Tongwei clears antitrust hurdle for acquisition of polysilicon competitor Qinghai Lihao",
+      "importance_score": 0.7
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "industry_general": {
+      "this_week": 135,
+      "last_week": 154,
+      "week_over_week_change": "-12%",
+      "sentiment_this_week": 0.06
+    },
+    "module_price": {
+      "this_week": 1,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    },
+    "trade_tariff": {
+      "this_week": 3,
+      "last_week": 2,
+      "week_over_week_change": "+50%",
+      "sentiment_this_week": 0.0
+    },
+    "installation_demand": {
+      "this_week": 4,
+      "last_week": 7,
+      "week_over_week_change": "-43%",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "gcl": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 5
+    },
+    "trina": {
+      "event_count": 8,
+      "sentiment_avg": 0.0,
+      "rank": 2
+    },
+    "jinko": {
+      "event_count": 5,
+      "sentiment_avg": 0.1,
+      "rank": 3
+    },
+    "array": {
+      "event_count": 9,
+      "sentiment_avg": 0.11,
+      "rank": 1
+    },
+    "tongwei": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 8
+    },
+    "longi": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 6
+    },
+    "sungrow": {
+      "event_count": 4,
+      "sentiment_avg": 0.0,
+      "rank": 4
+    },
+    "ja_solar": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 9
+    },
+    "first_solar": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 7
+    },
+    "risen": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 10
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 228,
+        "last": 268,
+        "change_pct": -14.9
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-09-11",
+      "event_count": 57,
+      "sentiment_avg": 0.07
+    },
+    {
+      "date": "2026-09-12",
+      "event_count": 11,
+      "sentiment_avg": 0.09
+    },
+    {
+      "date": "2026-09-13",
+      "event_count": 3,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-09-14",
+      "event_count": 41,
+      "sentiment_avg": 0.06
+    },
+    {
+      "date": "2026-09-15",
+      "event_count": 43,
+      "sentiment_avg": 0.06
+    },
+    {
+      "date": "2026-09-16",
+      "event_count": 49,
+      "sentiment_avg": 0.07
+    },
+    {
+      "date": "2026-09-17",
+      "event_count": 24,
+      "sentiment_avg": 0.02
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-09-11 ~ 2026-09-17）共 228 則事件，重點為「Chinese PV Industry Brief: Tongwei clears antit...」。太陽能產業通用、裝機需求、貿易關稅為本週焦點話題。",
+    "watchlist": [
+      {
+        "company": "天合光能",
+        "reason": "本週出現 8 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "晶科能源",
+        "reason": "本週出現 5 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "Array Technologies",
+        "reason": "本週出現 9 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

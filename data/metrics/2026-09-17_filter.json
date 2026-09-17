@@ -1,0 +1,16 @@
+{
+  "total_raw": 428,
+  "dup_title": 188,
+  "no_date": 0,
+  "too_old": 145,
+  "gate1_fail": 42,
+  "gate2_fail": 6,
+  "passed": 47,
+  "gate2_samples": [
+    "Why Array Technologies, Inc. (ARRY) Dipped More Than Broader Market Today - Yahoo Finance",
+    "Array Technologies, Inc. (ARRY) Advances While Market Declines: Some Information for Investors - Yah",
+    "Sungrow Hikes Product Prices After Raw Material Cost Increase - Bloomberg.com",
+    "Gross margin % of Sungrow Power Supply Co., Ltd. Shs Thailand Depositary Receipts Repr 1 Sh – SET:SU",
+    "South Korea’s new agrivoltaics law sets 30-year permit ceiling"
+  ]
+}
