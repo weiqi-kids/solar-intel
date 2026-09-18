@@ -1,0 +1,16 @@
+{
+  "total_raw": 429,
+  "dup_title": 195,
+  "no_date": 0,
+  "too_old": 149,
+  "gate1_fail": 38,
+  "gate2_fail": 7,
+  "passed": 40,
+  "gate2_samples": [
+    "DAQO New Energy (NYSE:DQ) Hits New 52-Week Low - What's Next? - MarketBeat",
+    "Why is Array Technologies stock sliding today? - Investing.com",
+    "UBS Downgrades Array Technologies to Neutral From Buy, Adjusts Price Target to $5 From $10 - markets",
+    "Why Array Technologies, Inc. (ARRY) Dipped More Than Broader Market Today - Yahoo Finance",
+    "Sungrow Power Supply Co., Ltd. Shs Thailand Depositary Receipts Repr 1 Sh - TradingView"
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "date": "2026-09-18",
+  "total_events": 27,
+  "by_company": {
+    "daqo": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "first_solar": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "jinko": {
+      "count": 4,
+      "sentiment_avg": 0.0
+    },
+    "risen": {
+      "count": 1,
+      "sentiment_avg": 0.5
+    },
+    "array": {
+      "count": 1,
+      "sentiment_avg": -0.5
+    },
+    "sungrow": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "trade_tariff": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "industry_general": {
+      "count": 26,
+      "sentiment_avg": 0.04
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}
