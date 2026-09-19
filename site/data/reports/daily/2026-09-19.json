@@ -1,0 +1,199 @@
+{
+  "date": "2026-09-19",
+  "generated_at": "2026-09-19T12:09:17.501284Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "jinko-2026-09-19-001",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "JinkoSolar Shareholders Weigh a Name Change as Losses Pile Up and the Stock Sits Near Its Low - AD HOC NEWS",
+      "companies": [
+        "jinko"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOY1diSFdBOTFIZ1JvZm1ITEoxNjJIYVZ2VjBBbzdOM3FUZS1hNzBzOFdnRWJtSHBBZVdQcVZhRDZOOFhCUDBJZXVMTXEyZEpJbkJxWm44YnZUdU9iaGx2MlEtM1FfcWZPNjB4M1NVWmhvbk1iTzBzQlJGTy1pU0YwWTZ6M2hJS0Y5LXdWLURkTjBHS1hPYkRDblQyMkRGTXJIcEpQNHRjQnhXeWc1WHFXZUdtM3dhT0dQWExqWnlVMmhPTTR2TzlQZ0lyY3F6Y2JCNzY0ZzQ4XzM?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-09-19-002",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "UK regulator plans BESS fees to cut grid connection queue",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://www.pv-magazine.com/2026/09/19/uk-regulator-plans-bess-fees-to-cut-grid-connection-queue/"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-09-19-004",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Solar module imports drop 48% in Brazil in H1",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "module_price",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://www.pv-magazine.com/2026/09/19/solar-module-imports-drop-48-in-brazil-in-h1/"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-09-19-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Tesla’s $10.1 billion Texas solar gigafactory clears key tax hurdle",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.pv-magazine.com/2026/09/19/teslas-10-1-billion-texas-solar-gigafactory-clears-key-tax-hurdle/"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-09-19-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "German grid operator dispute limits battery use at new solar-storage hybrid plant",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.pv-magazine.com/2026/09/19/german-grid-operator-dispute-limits-battery-use-at-new-solar-storage-hybrid-plant/"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 7,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.43,
+      "sentiment_7d_avg": null
+    },
+    "module_price": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -1.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 7,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 4,
+      "negative": 3
+    },
+    "top_companies": [
+      {
+        "id": "jinko",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 7
+      },
+      {
+        "id": "module_price",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 428,
+    "dup_title": 195,
+    "too_old": 150,
+    "gate1_blocked": 37,
+    "gate2_blocked": 11,
+    "passed": 35,
+    "pass_rate": "15.0%",
+    "gate2_block_rate": "4.7%",
+    "gate2_samples": [
+      "DAQO New Energy (NYSE:DQ) Hits New 52-Week Low - What's Next? - MarketBeat",
+      "Why Array Technologies, Inc. (ARRY) Dipped More Than Broader Market Today - Yahoo Finance",
+      "This Analyst Just Downgraded Array Technologies. Here's Why. - inkl",
+      "Why is Array Technologies stock sliding today? - Investing.com",
+      "Array Technologies Has Less Flexibility to Expand Offering, Defend Competitive Position, UBS Says - "
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 7 則事件，焦點為晶科能源相關動態：「JinkoSolar Shareholders Weigh a Name Change as Losses Pil...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "JinkoSolar Shareholders Weigh a Name Change as Losses Pile Up and the Stock S...（太陽能產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "UK regulator plans BESS fees to cut grid connection queue（太陽能產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "元件價格話題出現 1 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
