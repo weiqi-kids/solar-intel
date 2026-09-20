@@ -1,0 +1,16 @@
+{
+  "total_raw": 429,
+  "dup_title": 228,
+  "no_date": 0,
+  "too_old": 145,
+  "gate1_fail": 34,
+  "gate2_fail": 14,
+  "passed": 8,
+  "gate2_samples": [
+    "DAQO New Energy (NYSE:DQ) Hits New 52-Week Low - What's Next? - MarketBeat",
+    "Risen Energy Expands into Green Computing and Power Integration - financialcontent.com",
+    "Why Array Technologies, Inc. (ARRY) Dipped More Than Broader Market Today - Yahoo Finance",
+    "UBS Downgrades Array Technologies to Neutral From Buy, Adjusts Price Target to $5 From $10 - Bitget",
+    "Why is Array Technologies stock sliding today? - Investing.com"
+  ]
+}
