@@ -1,0 +1,156 @@
+{
+  "date": "2026-09-21",
+  "date_range": {
+    "start": "2026-09-15",
+    "end": "2026-09-21"
+  },
+  "generated_at": "2026-09-21T14:40:29.512933Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "array-2026-09-15-005",
+      "date": "2026-09-15",
+      "title": "California cold-storage provider sues solar businesses over $1 billion rooftop fire",
+      "importance_score": 0.65
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "industry_general": {
+      "this_week": 147,
+      "last_week": 160,
+      "week_over_week_change": "-8%",
+      "sentiment_this_week": 0.02
+    },
+    "installation_demand": {
+      "this_week": 3,
+      "last_week": 7,
+      "week_over_week_change": "-57%",
+      "sentiment_this_week": 0.0
+    },
+    "trade_tariff": {
+      "this_week": 3,
+      "last_week": 3,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    },
+    "module_price": {
+      "this_week": 1,
+      "last_week": 1,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": -1.0
+    }
+  },
+  "company_7d_summary": {
+    "trina": {
+      "event_count": 4,
+      "sentiment_avg": 0.0,
+      "rank": 3
+    },
+    "array": {
+      "event_count": 5,
+      "sentiment_avg": 0.1,
+      "rank": 2
+    },
+    "longi": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 7
+    },
+    "ja_solar": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 8
+    },
+    "sungrow": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 5
+    },
+    "first_solar": {
+      "event_count": 4,
+      "sentiment_avg": 0.0,
+      "rank": 4
+    },
+    "jinko": {
+      "event_count": 8,
+      "sentiment_avg": -0.12,
+      "rank": 1
+    },
+    "risen": {
+      "event_count": 2,
+      "sentiment_avg": 0.25,
+      "rank": 6
+    },
+    "daqo": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 9
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 239,
+        "last": 287,
+        "change_pct": -16.7
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-09-15",
+      "event_count": 46,
+      "sentiment_avg": 0.05
+    },
+    {
+      "date": "2026-09-16",
+      "event_count": 54,
+      "sentiment_avg": 0.07
+    },
+    {
+      "date": "2026-09-17",
+      "event_count": 35,
+      "sentiment_avg": 0.01
+    },
+    {
+      "date": "2026-09-18",
+      "event_count": 53,
+      "sentiment_avg": 0.06
+    },
+    {
+      "date": "2026-09-19",
+      "event_count": 10,
+      "sentiment_avg": -0.3
+    },
+    {
+      "date": "2026-09-20",
+      "event_count": 7,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-09-21",
+      "event_count": 34,
+      "sentiment_avg": 0.04
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-09-15 ~ 2026-09-21）共 239 則事件，重點為「California cold-storage provider sues solar bus...」。東方日升表現正面，整體氣氛穩健。",
+    "watchlist": [
+      {
+        "company": "天合光能",
+        "reason": "本週出現 4 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "Array Technologies",
+        "reason": "本週出現 5 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "陽光電源",
+        "reason": "本週出現 3 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

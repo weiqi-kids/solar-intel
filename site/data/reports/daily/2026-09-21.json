@@ -1,0 +1,206 @@
+{
+  "date": "2026-09-21",
+  "generated_at": "2026-09-21T14:40:29.404626Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-09-21-019",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Tesla and Sunrun’s virtual power plant dispatch record 580 MW to California grid",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://electrek.co/2026/09/21/sunrun-tesla-580-mw-california-grid-record/"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-09-21-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "JA launches prototype HJT PV modules into space - PV Tech",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE42dzFTX3F4MXBmRUVpR3BtV2pBV0R2Q1lqOWhuTzZpOHhkMjF1SEhnY2VMeTV2WmZnN2xhMGlxbG9hbFhjODRKUzhkRlFqOFhWSXZTM09PVlR5a0k5dWc4WmFPU3BBZkJ2?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-09-21-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "China Solar PV News Snippets: JA Sends p-HJT PV Modules Into Orbit & More - taiyangnews.info",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQcEZSY2M3TmRwdGlPanpyVmx2UUZEa2JyQXlqOU1Ubm9STmtyV1hZY3JLS1p3eTUwZURpeVNqR2MxcG9rUk0ycmpOdVRUUVZkVm5oUXRMd1NwRVZ0UWZwZVZnTEdwTDczam1HSVpmaDNKVHRxbXNFS3ZYSnBfQWdOVDV5UzNIUQ?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-09-21-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Low-Orbit Constellation Expansion: Crystalline Silicon Cells Re-enter the Competitive Arena - eu.36kr.com",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE80X1kyQ05DQzhfcDdrclVod0lHN0IxekhHRUo0bmdFRkhlVTZNczRCdnpFM19XQlQ2a2RSVUlaRVM3WDNkTWh6cTZBYlNtWUdTbFc4?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-09-21-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "P-Type HJT Modules Head To Orbit In First In-Space Test - Saur Energy",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOeVBlVDVkVnpLUlhETmZoTm55Mnk1eHh4STZ4dWhVbHctbF84TkJITzJ6VlJOYXh6ZFVLQ1FTMzhsWWdZUUUtczdWTjcxV2doT1NkS29oQVRjOV9wUVR1QnlIWmtRRUVEWFJ4b01XaXBXc0xNTHpncGZYWWIwOHdabzVfSGVDSWY3OXBReW5qT3VLbFJ0Rllxczl0MXZIVVZVODdVQVdNUGRhNDJINGc?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 34,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.04,
+      "sentiment_7d_avg": null
+    },
+    "trade_tariff": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "installation_demand": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 34,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 32,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "first_solar",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 34
+      },
+      {
+        "id": "trade_tariff",
+        "count": 1
+      },
+      {
+        "id": "installation_demand",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 426,
+    "dup_title": 192,
+    "too_old": 142,
+    "gate1_blocked": 39,
+    "gate2_blocked": 12,
+    "passed": 41,
+    "pass_rate": "17.5%",
+    "gate2_block_rate": "5.1%",
+    "gate2_samples": [
+      "Daqo New Energy Corp.(NYSE: DQ) dropped from FTSE All-World Index - marketscreener.com",
+      "September 2026's Leading Growth Companies With Insider Backing - simplywall.st",
+      "This Analyst Just Downgraded Array Technologies. Here's Why. - Yahoo Finance",
+      "UBS Downgrades Array Technologies to Neutral From Buy, Adjusts Price Target to $5 From $10 - Bitget",
+      "Why is Array Technologies stock sliding today? - Investing.com"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 34 則事件，焦點為First Solar相關動態：「Tesla and Sunrun’s virtual power plant dispatch record 58...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Tesla and Sunrun’s virtual power plant dispatch record 580 MW to California grid（太陽能產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "JA launches prototype HJT PV modules into space - PV Tech（太陽能產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "裝機需求持續受關注，產業趨勢帶動需求成長。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
