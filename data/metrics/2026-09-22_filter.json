@@ -1,0 +1,16 @@
+{
+  "total_raw": 426,
+  "dup_title": 188,
+  "no_date": 0,
+  "too_old": 142,
+  "gate1_fail": 35,
+  "gate2_fail": 11,
+  "passed": 50,
+  "gate2_samples": [
+    "Daqo New Energy Corp.(NYSE: DQ) dropped from FTSE All-World Index - marketscreener.com",
+    "This Analyst Just Downgraded Array Technologies. Here's Why. - Yahoo Finance",
+    "UBS Downgrades Array Technologies to Neutral From Buy, Adjusts Price Target to $5 From $10 - Bitget",
+    "Why is Array Technologies stock sliding today? - Investing.com",
+    "Array Technologies Has Less Flexibility to Expand Offering, Defend Competitive Position, UBS Says - "
+  ]
+}

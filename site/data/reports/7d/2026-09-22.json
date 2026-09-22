@@ -1,0 +1,156 @@
+{
+  "date": "2026-09-22",
+  "date_range": {
+    "start": "2026-09-16",
+    "end": "2026-09-22"
+  },
+  "generated_at": "2026-09-22T12:56:03.899161Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "unknown-2026-09-16-047",
+      "date": "2026-09-16",
+      "title": "The next perovskite challenge isn’t efficiency — it’s repeatable manufacturing",
+      "importance_score": 0.65
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "industry_general": {
+      "this_week": 160,
+      "last_week": 156,
+      "week_over_week_change": "+3%",
+      "sentiment_this_week": 0.04
+    },
+    "trade_tariff": {
+      "this_week": 4,
+      "last_week": 2,
+      "week_over_week_change": "+100%",
+      "sentiment_this_week": 0.12
+    },
+    "installation_demand": {
+      "this_week": 6,
+      "last_week": 7,
+      "week_over_week_change": "-14%",
+      "sentiment_this_week": 0.22
+    },
+    "module_price": {
+      "this_week": 1,
+      "last_week": 1,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": -1.0
+    }
+  },
+  "company_7d_summary": {
+    "longi": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 7
+    },
+    "ja_solar": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 8
+    },
+    "sungrow": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 4
+    },
+    "array": {
+      "event_count": 4,
+      "sentiment_avg": -0.12,
+      "rank": 2
+    },
+    "first_solar": {
+      "event_count": 4,
+      "sentiment_avg": 0.0,
+      "rank": 3
+    },
+    "trina": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 5
+    },
+    "jinko": {
+      "event_count": 9,
+      "sentiment_avg": -0.11,
+      "rank": 1
+    },
+    "risen": {
+      "event_count": 2,
+      "sentiment_avg": 0.25,
+      "rank": 6
+    },
+    "daqo": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 9
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 243,
+        "last": 294,
+        "change_pct": -17.3
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-09-16",
+      "event_count": 55,
+      "sentiment_avg": 0.07
+    },
+    {
+      "date": "2026-09-17",
+      "event_count": 36,
+      "sentiment_avg": 0.01
+    },
+    {
+      "date": "2026-09-18",
+      "event_count": 53,
+      "sentiment_avg": 0.06
+    },
+    {
+      "date": "2026-09-19",
+      "event_count": 11,
+      "sentiment_avg": -0.27
+    },
+    {
+      "date": "2026-09-20",
+      "event_count": 9,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-09-21",
+      "event_count": 43,
+      "sentiment_avg": 0.05
+    },
+    {
+      "date": "2026-09-22",
+      "event_count": 36,
+      "sentiment_avg": 0.13
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-09-16 ~ 2026-09-22）共 243 則事件，重點為「The next perovskite challenge isn’t efficiency ...」。東方日升表現正面，整體氣氛穩健。",
+    "watchlist": [
+      {
+        "company": "陽光電源",
+        "reason": "本週出現 3 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "Array Technologies",
+        "reason": "本週出現 4 則相關事件且情緒偏負面，需特別關注。"
+      },
+      {
+        "company": "First Solar",
+        "reason": "本週出現 4 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
