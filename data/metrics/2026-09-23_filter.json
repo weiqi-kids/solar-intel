@@ -1,0 +1,16 @@
+{
+  "total_raw": 427,
+  "dup_title": 196,
+  "no_date": 0,
+  "too_old": 135,
+  "gate1_fail": 33,
+  "gate2_fail": 12,
+  "passed": 51,
+  "gate2_samples": [
+    "Daqo New Energy Corp.(NYSE: DQ) dropped from FTSE All-World Index - marketscreener.com",
+    "Array Technologies, Inc. (ARRY) Stock Moves -2.70%: What You Should Know - Yahoo Finance",
+    "Why is Array Technologies stock sliding today? - Investing.com",
+    "Array Technologies Has Less Flexibility to Expand Offering, Defend Competitive Position, UBS Says - ",
+    "Array Technologies Cut to Neutral From Buy by UBS - Moomoo"
+  ]
+}

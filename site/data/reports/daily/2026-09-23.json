@@ -1,0 +1,198 @@
+{
+  "date": "2026-09-23",
+  "generated_at": "2026-09-23T13:07:34.879372Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "longi-2026-09-23-004",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Longi's 2-Year 42,000 Employee Cut, PV Industry Chain's ¥100B+ 2-Year Loss: The Most Brutal Market Clearing Has Just Begun - eu.36kr.com",
+      "companies": [
+        "longi"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1MdDV6SjJaT0FQQjZlbFdkQ0FDOXNPSTB5bkxVR0ltLU1wRUJST3lnaGhreThTZFhJOWdzOG9LSEFLZDYwY0JOVklRRVcwZ0V6NXlz?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "xinyi_solar-2026-09-23-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Xinyi Solar stock holds at HKD 1.975 as buyback begins - AD HOC NEWS",
+      "companies": [
+        "xinyi_solar"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOdFRtNnBhcHNBTDUyY2VSRllEeGtpUnd6TU9SUFVlQWN4Mlp0aW83TkhXbVJ5TVJsUVJNVjl6Q3M2REpoNm1mRmdydl85RGVYdi1qYWVoT0FOM0l2emM3WV9SQWZqNTVoWGgxcmpzX1E5R3dITDc3Y2g2YU1LekE2UFJ1cUQ4QzU3Z254TFhRZVIxR2Fpa0l1UlJGTUZLUDUyYTUyd3R4Q01ia05acFNsSUp1Zw?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "xinyi_solar-2026-09-23-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Xinyi Solar stock starts a buyback as shares trade at HKD 1.975 - AD HOC NEWS",
+      "companies": [
+        "xinyi_solar"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOUEVnLTFjTXZXR2RndlhYRk5hNXFlMmpjTzluekNGSlpwcFFpVVF5WWRtSGowWE9JTU5FbUxlNWVvTUlNT01tb1hkU1A5WjRNQ3BSZUU0SUhxb2U5ZDB0Z2NMb1FLdTI3SmFxX2E2ZnRQNTNIWTNBMk10WnZlMm5jU21Jdm1BOHQ1VUducldQZGxicTBHM3A2R1YtSmZxSFoyM1hMSzFBQm13OVZNTWFjc0dlMFo1aHVmVlhuVU5WWQ?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "daqo-2026-09-23-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Daqo New Energy stock trades near its 52-week low - AD HOC NEWS",
+      "companies": [
+        "daqo"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPd25JTFc5ZDlGYTJncmZMdU41czN0VXZaTXZ3ckstTW5sWVNnVUhZSkNadmt4TVpLYlJhQzd3dmhvUmRFT1NLdXNadWt1d0YwQl9DN3Q0WDJybnN4eHotanFIdDVPcnlFblhocEFYSUhpTS1DYW5RMVBYbmp5ZU5LTlNHX1RFaXlqdmZ1QVRTc2lJdlgyUEZtVHl6MDdYSTNBMk5tNHFXMlBfeVJx?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "ja_solar-2026-09-23-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "JA Solar sends p-HJT solar modules into orbit for space test - Renewables Now",
+      "companies": [
+        "ja_solar"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQTklHcnBKbTFOWlNqN256ejR5cDhaSHZmVkdqMEN2V254S3NKNVJtbGthcmE1bG9tYlNfMVlBZjZDalVSTnM4LUdUMUQ1VUZGZEtPZ1lia005NWdhdHR3REpyRzUyLXd4NDgxclZHdUFxckE3bGhEY1dLSnBSb09DUlVuOFk0bEk0WWZnRWJIakRJWFMzWEd0aVhXaUJvYTNXQlE?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 33,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.02,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 34,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 32,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "jinko",
+        "count": 3
+      },
+      {
+        "id": "xinyi_solar",
+        "count": 2
+      },
+      {
+        "id": "longi",
+        "count": 2
+      },
+      {
+        "id": "daqo",
+        "count": 1
+      },
+      {
+        "id": "ja_solar",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 33
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 427,
+    "dup_title": 196,
+    "too_old": 135,
+    "gate1_blocked": 33,
+    "gate2_blocked": 12,
+    "passed": 51,
+    "pass_rate": "22.1%",
+    "gate2_block_rate": "5.2%",
+    "gate2_samples": [
+      "Daqo New Energy Corp.(NYSE: DQ) dropped from FTSE All-World Index - marketscreener.com",
+      "Array Technologies, Inc. (ARRY) Stock Moves -2.70%: What You Should Know - Yahoo Finance",
+      "Why is Array Technologies stock sliding today? - Investing.com",
+      "Array Technologies Has Less Flexibility to Expand Offering, Defend Competitive Position, UBS Says - ",
+      "Array Technologies Cut to Neutral From Buy by UBS - Moomoo"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 34 則事件，焦點為晶科能源、信義光能、隆基綠能相關動態：「Longi's 2-Year 42,000 Employee Cut, PV Industry Chain's ¥...」。主要關注主題為太陽能產業通用，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Longi's 2-Year 42,000 Employee Cut, PV Industry Chain's ¥100B+ 2-Year Loss: T...（太陽能產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "Xinyi Solar stock holds at HKD 1.975 as buyback begins - AD HOC NEWS（太陽能產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
