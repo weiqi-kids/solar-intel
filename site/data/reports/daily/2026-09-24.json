@@ -1,0 +1,247 @@
+{
+  "date": "2026-09-24",
+  "generated_at": "2026-09-24T13:00:06.004725Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-09-24-008",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "U.S. solar system pricing rises for utility, C&I projects as residential costs decline",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "module_price",
+        "trade_tariff",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://www.pv-magazine.com/2026/09/24/u-s-solar-system-pricing-rises-for-utility-and-commercial-projects-as-residential-costs-decline/"
+    },
+    {
+      "rank": 2,
+      "event_id": "longi-2026-09-24-016",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Longi sets 28.29% world record for single-junction silicon solar cell efficiency",
+      "companies": [
+        "longi"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://www.pv-magazine.com/2026/09/24/longi-sets-28-29-world-record-for-single-junction-silicon-solar-cell-efficiency/"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-09-24-017",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "U.S. solar system pricing rises for utility and commercial projects as residential costs decline",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "module_price",
+        "trade_tariff",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://pv-magazine-usa.com/2026/09/24/u-s-solar-system-pricing-rises-for-utility-and-commercial-projects-as-residential-costs-decline/"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-09-24-020",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Nearly 37,000 clean energy jobs lost in 2025, E2 reports",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.75
+      },
+      "source_url": "https://pv-magazine-usa.com/2026/09/24/nearly-37000-clean-energy-jobs-lost-in-2025-e2-reports/"
+    },
+    {
+      "rank": 5,
+      "event_id": "trina-2026-09-24-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Trina Solar Co., Ltd. Launches PV Installation and Cleaning Robots - TradingView",
+      "companies": [
+        "trina"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "installation_demand",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNc19WY3ZvYkZnTVF6NC0zZmRaelExRm5hLWFlTG8yMk5YQlV0ZnhFbjBrZWlSYWE0QUxiZmFsQjZMRGl5OVNBUmRlSEdTZHVQb3E5STNmUEVldnpSeTNWRTJkemxNNE9majB2WVdvakNQOXMxTjhBdmZmRzdoYVJ2WEg2NmV1a0phN2Z0Umw2cmFkc3ZFempycDFLVlJIci1ISE1FX1hpZjAzblVfbWdZZ2lUcTVIbHNzNExrX3dPcGxtV0U?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "installation_demand": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 28,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.04,
+      "sentiment_7d_avg": null
+    },
+    "module_price": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -1.0,
+      "sentiment_7d_avg": null
+    },
+    "trade_tariff": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.67,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 28,
+    "sentiment_distribution": {
+      "positive": 5,
+      "neutral": 21,
+      "negative": 2
+    },
+    "top_companies": [
+      {
+        "id": "trina",
+        "count": 4
+      },
+      {
+        "id": "jinko",
+        "count": 1
+      },
+      {
+        "id": "risen",
+        "count": 1
+      },
+      {
+        "id": "longi",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 28
+      },
+      {
+        "id": "installation_demand",
+        "count": 3
+      },
+      {
+        "id": "trade_tariff",
+        "count": 3
+      },
+      {
+        "id": "module_price",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 425,
+    "dup_title": 184,
+    "too_old": 149,
+    "gate1_blocked": 39,
+    "gate2_blocked": 11,
+    "passed": 42,
+    "pass_rate": "17.4%",
+    "gate2_block_rate": "4.6%",
+    "gate2_samples": [
+      "Daqo New Energy Corp.(NYSE: DQ) dropped from FTSE All-World Index - marketscreener.com",
+      "Array Technologies (ARRY) Stock Sees Fair Value Cut As Analysts Turn More Neutral - Yahoo Finance",
+      "Why is Array Technologies stock sliding today? - Investing.com",
+      "Array Technologies Has Less Flexibility to Expand Offering, Defend Competitive Position, UBS Says - ",
+      "Array Technologies, Inc. (ARRY) Stock Moves -2.70%: What You Should Know - Yahoo Finance"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 28 則事件，焦點為天合光能、晶科能源、東方日升相關動態：「U.S. solar system pricing rises for utility, C&I projects...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "U.S. solar system pricing rises for utility, C&I projects as residential cost...（元件價格、貿易關稅、太陽能產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "Longi sets 28.29% world record for single-junction silicon solar cell efficiency（太陽能產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "裝機需求持續受關注，產業趨勢帶動需求成長。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
