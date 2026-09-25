@@ -1,0 +1,245 @@
+{
+  "date": "2026-09-25",
+  "generated_at": "2026-09-25T13:06:53.105234Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "longi-2026-09-25-002",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "China's Zhongji Innolight completes approximately $745 million buyback in 17 trading days; LONGi Green Energy sets third solar cell efficiency world record this year - finance.biggo.com",
+      "companies": [
+        "longi"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBndlNuYTcyUDZyNldJUzhFRk40ZEZGZGhyakJ6by1PNkM4Z1lkTFpLX2cxRDE2aGlNa2Y0Qy1xbVRFakw3bVAtX1IzYWJ1Si16WGxlNG92QTJGdFBXT3R3clZvaVVQdU16MnhxRUpQWHBfbnQyU1E?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-09-25-015",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "California VPPs hit record during heatwave as bill sits on Governor’s desk",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://pv-magazine-usa.com/2026/09/25/california-vpps-hit-record-during-heatwave-as-bill-sits-on-governors-desk/"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-09-25-032",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "AEMO connects record 9.1GW of renewables and storage to Australia’s NEM in FY26, warns reliability depends on timely investment",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://www.energy-storage.news/aemo-connects-record-9-1gw-of-renewables-and-storage-to-australias-nem-in-fy26-warns-reliability-depends-on-timely-investment/"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-09-25-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "3 Solar Stocks Facing Tariff Risks Investors Should Watch - simplywall.st",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "trade_tariff",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQQ29LTlprM3ozX3F2VExCRUt3RFBOZ2hZN205N1lNRHlTUHRVa21uaGhWNXRPb2lMdFA4dmhDMmNXRjA0UTR0b2VYeDFaUHlwbkd6bjJ3YnQtcjVXcDZwb3NEVDYxZXAwYjJramJxUHJNbC14VXdwOENneS01MTJBZVU3SllUaVA2amhFR090R0pJQ1VoS3BpQVU0dHhLMnFsZk5HMHRUVzNPWHE2d2JQejNCOFNrTk81dkZOWXNxa013b1VEVnVSOS1RX2xONUxWbUkw0gHTAUFVX3lxTFBDb0tOWmszejNfcXZUTEJFS3dEUE5naFk3bTk3WU1EeVNQdFVrbW5oaFY1dE9vaUx0UDh2aEMyY1dGMDRRNHRvZVh4MVpQeXBuR3puMndidC1yNVdwNnBvc0RUNjFlcDBiMmtqYnFQck1sLXhVd3A4Q2d5LTUxMkFlVTdKWVRpUDZqaEVHT3RHSklDVWhLcGlBVTR0eEsycWxmTkcwdFRXM09YcTZ3YlB6M0I4U2tOTzV2Rk5Zc3FrTXdvVURWdVI5LVFfbE41TFZtSTA?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "jinko-2026-09-25-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "JinkoSolar's Tiger Neo 3.0 Achieves 30 GW in Orders Fast - SolarQuarter",
+      "companies": [
+        "jinko"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPR2RxSWNwRHZvUTZEc2lhNXFQaExqVnotZW42TWpnaHZOaFltUF9oVXZMRUhGaWZ4cE1wM0RkWlExVC1CVEtRc1RQb1J4X0tKam95YzlBek05STNTZTk1Y0p6WXdyNjd2MXRkU0VhNEVMcEVhQUdxdkdyYXZQYm1tWVdwNHc5cXk4YXVCbDFESXNnbWNsQ1JTeGlRblhleFluVlFVWHBmTnlmSFJiMG11dA?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "trade_tariff": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 33,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.15,
+      "sentiment_7d_avg": null
+    },
+    "module_price": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "installation_demand": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 33,
+    "sentiment_distribution": {
+      "positive": 8,
+      "neutral": 24,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "array",
+        "count": 4
+      },
+      {
+        "id": "longi",
+        "count": 1
+      },
+      {
+        "id": "jinko",
+        "count": 1
+      },
+      {
+        "id": "sungrow",
+        "count": 1
+      },
+      {
+        "id": "risen",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 33
+      },
+      {
+        "id": "module_price",
+        "count": 3
+      },
+      {
+        "id": "trade_tariff",
+        "count": 1
+      },
+      {
+        "id": "installation_demand",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 426,
+    "dup_title": 180,
+    "too_old": 151,
+    "gate1_blocked": 40,
+    "gate2_blocked": 7,
+    "passed": 48,
+    "pass_rate": "19.5%",
+    "gate2_block_rate": "2.8%",
+    "gate2_samples": [
+      "Daqo New Energy Corp.(NYSE: DQ) dropped from FTSE All-World Index - marketscreener.com",
+      "Array Technologies (ARRY) Stock Sees Fair Value Cut As Analysts Turn More Neutral - Yahoo Finance",
+      "Array Technologies, Inc. (ARRY) Stock Moves -2.70%: What You Should Know - Yahoo Finance",
+      "Array Technologies Has Less Flexibility to Expand Offering, Defend Competitive Position, UBS Says - ",
+      "Wheel-E Podcast: South Park e-bikes, Honda eMTB, more"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 33 則事件，焦點為Array Technologies、隆基綠能、晶科能源相關動態：「China's Zhongji Innolight completes approximately $745 mi...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "China's Zhongji Innolight completes approximately $745 million buyback in 17 ...（太陽能產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "California VPPs hit record during heatwave as bill sits on Governor’s desk（太陽能產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "元件價格話題出現 3 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
