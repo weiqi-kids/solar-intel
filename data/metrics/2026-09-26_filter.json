@@ -1,0 +1,16 @@
+{
+  "total_raw": 426,
+  "dup_title": 193,
+  "no_date": 0,
+  "too_old": 161,
+  "gate1_fail": 43,
+  "gate2_fail": 6,
+  "passed": 23,
+  "gate2_samples": [
+    "Daqo New Energy Corp.(NYSE: DQ) dropped from FTSE All-World Index - marketscreener.com",
+    "Array Technologies (ARRY) Stock Sees Fair Value Cut As Analysts Turn More Neutral - Yahoo Finance",
+    "Array Technologies, Inc. (ARRY) Stock Moves -2.70%: What You Should Know - Yahoo Finance",
+    "Wheel-E Podcast: South Park e-bikes, Honda eMTB, more",
+    "COMMENTARY: The global energy transition shifts from generation to integration - Reuters"
+  ]
+}
