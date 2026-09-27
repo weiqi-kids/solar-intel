@@ -1,0 +1,87 @@
+{
+  "date": "2026-09-27",
+  "generated_at": "2026-09-27T13:24:26.457504Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-09-27-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Xinyi Energy's possible fund spin-off offering in Shenzhen Stock Exchange accepted by authorities - The Standard (HK)",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOc185WlZ5MUZxaUM0MGZtOUYzdWFGSnFoMllkUXVfX1FuU3R1Y3llbkpRcnptckZnUnV4c2xCU0VraUxKajg4MkphNnIyVHdfUG5QckNleGZoMi1Qa3R0amd5QlNHdTExc0J1M0hJVUc1YnFZUjVuVk1BaDJFZ0IwRVM4dmlyVUdxQ2h5WjZwcElScE5VUzJWX1p3aDI2RThGc0JmblpjVjFsRERoREJITGdmQ18xcWlPWDg1WlVXZHh6OW9lRi04MzNTQ2ZVZ3Y3ZjBGbEhGck5lQW5HM2gwaWxDN0c?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 1,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 1,
+      "negative": 0
+    },
+    "top_companies": [],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 426,
+    "dup_title": 200,
+    "too_old": 169,
+    "gate1_blocked": 45,
+    "gate2_blocked": 5,
+    "passed": 7,
+    "pass_rate": "3.1%",
+    "gate2_block_rate": "2.2%",
+    "gate2_samples": [
+      "Daqo New Energy Corp.(NYSE: DQ) dropped from FTSE All-World Index - marketscreener.com",
+      "Array Technologies (ARRY) Stock Sees Fair Value Cut As Analysts Turn More Neutral - Yahoo Finance",
+      "Array Technologies, Inc. (ARRY) Stock Moves -2.70%: What You Should Know - Yahoo Finance",
+      "Wheel-E Podcast: South Park e-bikes, Honda eMTB, more",
+      "Sierra Club’s Utility Report Card Shows NV Energy’s Sierra Pacific Power Company Receives Lowest Gra"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 1 則事件，焦點為太陽能產業通用相關動態：「Xinyi Energy's possible fund spin-off offering in Shenzhe...」。主要關注主題為太陽能產業通用，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Xinyi Energy's possible fund spin-off offering in Shenzhen Stock Exchange acc...（太陽能產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "建議持續監控後續發展動態。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
