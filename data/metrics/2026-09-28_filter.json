@@ -1,0 +1,16 @@
+{
+  "total_raw": 426,
+  "dup_title": 186,
+  "no_date": 0,
+  "too_old": 154,
+  "gate1_fail": 50,
+  "gate2_fail": 7,
+  "passed": 29,
+  "gate2_samples": [
+    "Daqo New Energy Corp.(NYSE: DQ) dropped from FTSE All-World Index - marketscreener.com",
+    "Array Technologies (ARRY) Stock Sees Fair Value Cut As Analysts Turn More Neutral - Yahoo Finance",
+    "Array Technologies (ARRY) HR chief receives shares as stock awards vest; 8,955 shares are withheld f",
+    "Array Technologies, Inc. (ARRY) Stock Moves -2.70%: What You Should Know - Yahoo Finance",
+    "Sungrow Power Supply Co., Ltd. (300274.SZ) Stock Price, News, Quote & History - Yahoo! Finance Canad"
+  ]
+}

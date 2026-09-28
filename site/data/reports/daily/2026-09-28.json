@@ -1,0 +1,206 @@
+{
+  "date": "2026-09-28",
+  "generated_at": "2026-09-28T16:12:59.840290Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "trina-2026-09-28-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Trinasolar Powers PetroGreens 25 MWp Bugallon Solar Project in the Philippines - ANTARA News",
+      "companies": [
+        "trina"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPMDE3dlBZQUR6cGJaYkJtX1g4QVR5WkhHNjNxTWhFOWZBaVNTVzBLWUhacC05M0RONEZMa1I4bExyTks0c1lob3BFM2RBdzJ4T1NISjJhLVdkNmJnbEV6cExZd2pKVVJiVVlwNUlGSVllNlZoSEs5NUFITEtIRk9jUHRFTG5ZU0pwLThFU1V5MUJEU0Z6dmdfYTJKV2EyVF9KMk9DNWFqb0RWcnQ3UEE5eDZSVURoN3VIR3k2dtIBvAFBVV95cUxPMDE3dlBZQUR6cGJaYkJtX1g4QVR5WkhHNjNxTWhFOWZBaVNTVzBLWUhacC05M0RONEZMa1I4bExyTks0c1lob3BFM2RBdzJ4T1NISjJhLVdkNmJnbEV6cExZd2pKVVJiVVlwNUlGSVllNlZoSEs5NUFITEtIRk9jUHRFTG5ZU0pwLThFU1V5MUJEU0Z6dmdfYTJKV2EyVF9KMk9DNWFqb0RWcnQ3UEE5eDZSVURoN3VIR3k2dg?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "array-2026-09-28-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Array Technologies (ARRY) withheld 89,170 shares for taxes on its CEO’s stock-unit award. - Stock Titan",
+      "companies": [
+        "array"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNQzVzMjZxNFpZbkoxT1JsdTdJeE5ZUjhCSm5GdUpNWDU4UzhmNkpjbkp3SktSVFBEbk5LdDBEU3RETWpaS2dxRU0zc3loQjkwYkgzZUNyd0VSRG5vSU9yQjNPTUFpQm9LdjNaa3d0cVNlaTlwRFY5ZENSRHNvajcxVnFxdUtvWXpGU3Y5clkwOWF6M2tZYWpCZEVQWnlOdS1WcnhnVTVxSWREWEJVNlF6ZTJRNURfVmc?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "array-2026-09-28-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Array Technologies (ARRY) withheld 10,466 of its president's shares to cover taxes on a stock award. - Stock Titan",
+      "companies": [
+        "array"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxONHJnb2VBbWJQRjVsMUVBYzFrTzdudVVSdGJjdWNiSE1XUmZ3N19SRTY0VWpJbTFTSlo3Z0t5MU5nMWdLaEQ4clRaR0JlUmVTWEhRUU9fTUZJd09wZ2t3aWpYSGVNVlFSMG5pYzhwWHpwNGJ5WEdldlRLVGU3NDA3SVRaZlNRMmlCUnpiV1NKdnhaQTRxNkdTNHpWRFlBazV2WWZwTVBzU0tUOWNuQkRwb2cxSTJpSE0?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "array-2026-09-28-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Array Technologies (ARRY) withholds 6,279 shares for taxes on its accounting chief’s stock award - Stock Titan",
+      "companies": [
+        "array"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQRTdGa2hBeWN1SUNBZkVSOTN5WXB5c3lsYUxMNlRHOHN0bnZrdjZLaDdRX2g2cFJReDNVUFd4WjJnSkhOUGR2ajBtZW5yMWdFQ2FIbEJoa2JpWC00SnB1TTlVQTJ3eVJDcmM1WWptTHl0MzFzcVpwSFFzekl6ek5aYlkxTVM3VlBfRmZXZTRHeXpJcUpRY1FkUFdaajM5TjQzci0tTzdsdVE1T005bmlGNmRlRGtwNjA?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "nextracker-2026-09-28-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Is Nextracker (NASDAQ:NXT) Facing a Real Market Test? - Kalkine Media",
+      "companies": [
+        "nextracker"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPY091SDk5NTlzMFF0QnFzLTJBRXBkWnU2TEdzakVES21ORmhUTUVqeVZrVzl3QU1nNTk2bHl1SWN6YVBGdHBndXVHQjV3M0otYjVNWjhkNG1WZVJLZFNNRjh6Ui1VaGFhaGttREtUS1B0SGtmeE5teGo2WnNhT2QzTTVianhGVHlwaTN4MGg1TWd1OUdaQUE?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 24,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.02,
+      "sentiment_7d_avg": null
+    },
+    "trade_tariff": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 25,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 24,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "array",
+        "count": 3
+      },
+      {
+        "id": "trina",
+        "count": 1
+      },
+      {
+        "id": "nextracker",
+        "count": 1
+      },
+      {
+        "id": "tongwei",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 24
+      },
+      {
+        "id": "trade_tariff",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 426,
+    "dup_title": 186,
+    "too_old": 154,
+    "gate1_blocked": 50,
+    "gate2_blocked": 7,
+    "passed": 29,
+    "pass_rate": "12.1%",
+    "gate2_block_rate": "2.9%",
+    "gate2_samples": [
+      "Daqo New Energy Corp.(NYSE: DQ) dropped from FTSE All-World Index - marketscreener.com",
+      "Array Technologies (ARRY) Stock Sees Fair Value Cut As Analysts Turn More Neutral - Yahoo Finance",
+      "Array Technologies (ARRY) HR chief receives shares as stock awards vest; 8,955 shares are withheld f",
+      "Array Technologies, Inc. (ARRY) Stock Moves -2.70%: What You Should Know - Yahoo Finance",
+      "Sungrow Power Supply Co., Ltd. (300274.SZ) Stock Price, News, Quote & History - Yahoo! Finance Canad"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 25 則事件，焦點為Array Technologies、天合光能、Nextracker相關動態：「Trinasolar Powers PetroGreens 25 MWp Bugallon Solar Proje...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Trinasolar Powers PetroGreens 25 MWp Bugallon Solar Project in the Philippine...（太陽能產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "Array Technologies (ARRY) withheld 89,170 shares for taxes on its CEO’s stock...",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

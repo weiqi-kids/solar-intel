@@ -1,0 +1,171 @@
+{
+  "date": "2026-09-28",
+  "date_range": {
+    "start": "2026-09-22",
+    "end": "2026-09-28"
+  },
+  "generated_at": "2026-09-28T16:12:59.988145Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "unknown-2026-09-22-010",
+      "date": "2026-09-22",
+      "title": "AI-assisted method maps PV module losses from a single luminescence image",
+      "importance_score": 0.65
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "industry_general": {
+      "this_week": 161,
+      "last_week": 147,
+      "week_over_week_change": "+10%",
+      "sentiment_this_week": 0.07
+    },
+    "installation_demand": {
+      "this_week": 9,
+      "last_week": 3,
+      "week_over_week_change": "+200%",
+      "sentiment_this_week": 0.2
+    },
+    "trade_tariff": {
+      "this_week": 7,
+      "last_week": 3,
+      "week_over_week_change": "+133%",
+      "sentiment_this_week": -0.22
+    },
+    "module_price": {
+      "this_week": 5,
+      "last_week": 1,
+      "week_over_week_change": "+400%",
+      "sentiment_this_week": -0.4
+    }
+  },
+  "company_7d_summary": {
+    "trina": {
+      "event_count": 6,
+      "sentiment_avg": 0.08,
+      "rank": 2
+    },
+    "jinko": {
+      "event_count": 6,
+      "sentiment_avg": 0.0,
+      "rank": 3
+    },
+    "array": {
+      "event_count": 9,
+      "sentiment_avg": 0.05,
+      "rank": 1
+    },
+    "xinyi_solar": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 5
+    },
+    "daqo": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 8
+    },
+    "longi": {
+      "event_count": 4,
+      "sentiment_avg": 0.25,
+      "rank": 4
+    },
+    "ja_solar": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 9
+    },
+    "gcl": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 10
+    },
+    "sungrow": {
+      "event_count": 2,
+      "sentiment_avg": 0.25,
+      "rank": 6
+    },
+    "risen": {
+      "event_count": 2,
+      "sentiment_avg": -0.12,
+      "rank": 7
+    },
+    "nextracker": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 11
+    },
+    "tongwei": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 12
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 231,
+        "last": 258,
+        "change_pct": -10.5
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-09-22",
+      "event_count": 54,
+      "sentiment_avg": 0.07
+    },
+    {
+      "date": "2026-09-23",
+      "event_count": 49,
+      "sentiment_avg": -0.06
+    },
+    {
+      "date": "2026-09-24",
+      "event_count": 44,
+      "sentiment_avg": 0.06
+    },
+    {
+      "date": "2026-09-25",
+      "event_count": 46,
+      "sentiment_avg": 0.15
+    },
+    {
+      "date": "2026-09-26",
+      "event_count": 9,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-09-27",
+      "event_count": 4,
+      "sentiment_avg": 0.25
+    },
+    {
+      "date": "2026-09-28",
+      "event_count": 25,
+      "sentiment_avg": 0.02
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-09-22 ~ 2026-09-28）共 231 則事件，重點為「AI-assisted method maps PV module losses from a...」。隆基綠能、陽光電源表現正面，整體氣氛穩健。",
+    "watchlist": [
+      {
+        "company": "天合光能",
+        "reason": "本週出現 6 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "晶科能源",
+        "reason": "本週出現 6 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "Array Technologies",
+        "reason": "本週出現 9 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
