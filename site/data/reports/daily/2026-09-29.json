@@ -1,0 +1,217 @@
+{
+  "date": "2026-09-29",
+  "generated_at": "2026-09-29T14:27:12.738222Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "longi-2026-09-29-003",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "LONGi stock gains 1.02 percent as H1 losses deepen - AD HOC NEWS",
+      "companies": [
+        "longi"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOUl81dm5hUWs4cjRnbEtPUWZXVDgwa0VjTHM2WDNUZ1RFdDhOMWw0WGpNQ0h3QUVyT3dna0plMUhFSmZjS09fb2Jjc2ZPeTFfcWRYM3RUQV9IRmR4dG5lV0xWemlpMTNxcTEwQ1I2WHBUR1A0aXlfTVlaaUxxblE0WWVDZG1LMDlubVdoUEtFUUF1dFpFLUNPeWFuLXZBb1JjRHZJa0otbTFLX2lVRFE?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-09-29-016",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Scientists propose solar cell taxonomy based on absorber integration",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://www.pv-magazine.com/2026/09/29/scientists-propose-solar-cell-taxonomy-based-on-absorber-integration/"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-09-29-020",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "U.S. team claims stability record for 16.19%-efficient 2D/3D tin perovskite solar cell",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://pv-magazine-usa.com/2026/09/29/us-team-claims-stability-record-for-16-19-efficient-2d-3d-tin-perovskite-solar-cell/"
+    },
+    {
+      "rank": 4,
+      "event_id": "daqo-2026-09-29-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "DAQO New Energy Corp. (NYSE:DQ) Stock Rated \"Reduce\" by Wall Street Analysts - MarketBeat",
+      "companies": [
+        "daqo"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPdjRlUE43dGx2WmtFVW9JMjhBMk9UVmFydjJ2RzllYk5NSzBIWEloek5kOUdYSFVPdFlCaWgzSTU1ZHRDMGRxckNUaFI4Zy12WlVoRjlMWGxCYlhvSmxvcGtjVEViSTZqMGs2N1p6SllOQk5EMGFBNTB0REpKcFhxS05JVk9UUTBnakRRZTRqdGhkVDUxcHJobU41MHNqYUJab1ZVamRIWjFoQm1NYU5LcGlXMmFuN1JKc1lEVXpIcUpnVlpkRkZJT2lNUGJSWnll?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "daqo-2026-09-29-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Daqo New Energy stock carries a Reduce rating - AD HOC NEWS",
+      "companies": [
+        "daqo"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQcVdmcGozdDNsOE9IcDRPVExtRnZwMkVwYkpmeFY4WU0wNTMtRnNtamJJS1JEUmtOcmhVU09VN2c5czdXSHpOaUFiblNJb0FwNnlZRWNkbl9WTjdrX2xBalNpYmV2QTNER081Um9KSzN2LXNDLXFYbUMyNVhIcTdjODh1bUNRV0NGclNHZ0xNZGppWUNheklnRmJISTlPOWNCMWFObXVLVQ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 30,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.11,
+      "sentiment_7d_avg": null
+    },
+    "installation_demand": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 31,
+    "sentiment_distribution": {
+      "positive": 8,
+      "neutral": 21,
+      "negative": 2
+    },
+    "top_companies": [
+      {
+        "id": "daqo",
+        "count": 2
+      },
+      {
+        "id": "longi",
+        "count": 2
+      },
+      {
+        "id": "jinko",
+        "count": 1
+      },
+      {
+        "id": "array",
+        "count": 1
+      },
+      {
+        "id": "sungrow",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 30
+      },
+      {
+        "id": "installation_demand",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 426,
+    "dup_title": 176,
+    "too_old": 156,
+    "gate1_blocked": 47,
+    "gate2_blocked": 4,
+    "passed": 43,
+    "pass_rate": "17.2%",
+    "gate2_block_rate": "1.6%",
+    "gate2_samples": [
+      "Array Technologies CAO James Zhu Reports RSU Vesting and Share Withholding for Taxes - Kalkine Media",
+      "Array Technologies (ARRY) Stock Sees Fair Value Cut As Analysts Turn More Neutral - Yahoo Finance",
+      "Array Technologies (ARRY) HR chief receives shares as stock awards vest; 8,955 shares are withheld f",
+      "Array Technologies, Inc. (ARRY) Stock Moves -2.70%: What You Should Know - Yahoo Finance"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 31 則事件，焦點為大全新能源、隆基綠能、晶科能源相關動態：「LONGi stock gains 1.02 percent as H1 losses deepen - AD H...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "LONGi stock gains 1.02 percent as H1 losses deepen - AD HOC NEWS（太陽能產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "Scientists propose solar cell taxonomy based on absorber integration（太陽能產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "裝機需求持續受關注，產業趨勢帶動需求成長。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

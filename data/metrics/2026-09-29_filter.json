@@ -1,0 +1,15 @@
+{
+  "total_raw": 426,
+  "dup_title": 176,
+  "no_date": 0,
+  "too_old": 156,
+  "gate1_fail": 47,
+  "gate2_fail": 4,
+  "passed": 43,
+  "gate2_samples": [
+    "Array Technologies CAO James Zhu Reports RSU Vesting and Share Withholding for Taxes - Kalkine Media",
+    "Array Technologies (ARRY) Stock Sees Fair Value Cut As Analysts Turn More Neutral - Yahoo Finance",
+    "Array Technologies (ARRY) HR chief receives shares as stock awards vest; 8,955 shares are withheld f",
+    "Array Technologies, Inc. (ARRY) Stock Moves -2.70%: What You Should Know - Yahoo Finance"
+  ]
+}
