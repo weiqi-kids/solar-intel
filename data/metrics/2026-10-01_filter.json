@@ -1,0 +1,16 @@
+{
+  "total_raw": 427,
+  "dup_title": 172,
+  "no_date": 0,
+  "too_old": 151,
+  "gate1_fail": 44,
+  "gate2_fail": 8,
+  "passed": 52,
+  "gate2_samples": [
+    "Array Technologies Is Maintained at Neutral by Piper Sandler - Moomoo",
+    "Jefferies Maintains Array Technologies(ARRY.US) With Buy Rating, Cuts Target Price to $7 - Moomoo",
+    "Array Technologies (ARRY) HR chief receives shares as stock awards vest; 8,955 shares are withheld f",
+    "Array Technologies (ARRY) Stock Sees Fair Value Cut As Analysts Turn More Neutral - Yahoo Finance",
+    "Array Technologies CAO James Zhu Reports RSU Vesting and Share Withholding for Taxes - Kalkine Media"
+  ]
+}
