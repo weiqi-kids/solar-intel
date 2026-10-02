@@ -1,0 +1,261 @@
+{
+  "date": "2026-10-02",
+  "generated_at": "2026-10-02T14:17:34.240377Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "first_solar-2026-10-02-001",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "First Solar files patent infringement lawsuit against China's JA Solar, Corning subsidiary (FSLR:NASDAQ) - Seeking Alpha",
+      "companies": [
+        "first_solar",
+        "ja_solar"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOdlJsWHBha0dlYmcxemxzTm1ZS0VDZ19FNWlEY3ZGNEF2MmJ4ODlTSlVvUTBPMlJUeW4yQi1VR0N4V1pfNFlTV2NUY0t1UGE2MG1DMXFqaVdfUHB2MVBhLW9pY0V0QlVfYWlIaC0wLU9MRjF1bUtKV1ZqanNYNEREZ1FudGoyTUQwWkhfc2hQaG1teVlkUGtyOGowbFVTQTFsaTdPbEpZRERiRUlxMmlSZEpXNGk1NTdvRVlkOGNRR0xDX2hk?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "first_solar-2026-10-02-002",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "First Solar sues JA Solar, American Panel Solutions over TOPCon patent - Renewables Now",
+      "companies": [
+        "first_solar",
+        "ja_solar"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNR3BjZTh6b1pQandhVkNFby1GRm9OWXR2Wm14cVJjNGJBd05URGRwX1lQWW8zRndRdk9DanEtWUZFNEJCbTgxaUhJRFBWNWlnQlhIMXdkOUNmZ2FwSFlVdkxXT2Z4WGVaeHB5Mmw2bVU5RTFpNm1iXzkzNE5CR0RxM2ptbmxwT2tfdy1OWkNKVWlUX1VCbElTaW9uUEpLUE1OcDFPaDZBQXJHeHNBZ2c?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "first_solar-2026-10-02-003",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "First Solar Sues JA Solar, American Panel Solutions Over TOPCon Patent - News and Statistics - IndexBox",
+      "companies": [
+        "first_solar",
+        "ja_solar"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPcFFiaHluVlpQSjQybFNWMXRPS3Mwb29NYUxyTlo2S2otMDdaSno2R1Z4RkxrR2pOLU5iTlE4Y1NTS05QMTFoTzhhYXQ1ZGYwS0hkSFJFZGc0SHBLQ2xoTDlhZ2xKOFF1eEZRUkJWU2N1UnF3a0hqUm9udE5WYXB1Z29mX1o0TTdQOGZyUUM4ajVvQ3VXRnZLMEdpNG1mcW9zeXhEdUQ5OWZweG9VOTBDblB2NGhSdw?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "first_solar-2026-10-02-005",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "US' First Solar sues China's JA Solar, Vietnam unit over solar cell patent - TNGlobal",
+      "companies": [
+        "first_solar",
+        "ja_solar"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQRkJpd0hOR3Y1RGs1a3M0Wkc2RUxET0tEb3lkcUZnUlR0UXk0RF9SSFlmVmlGU1JUZ2hCMHBHQVR3RHluSDdFY0ZPRFFYbDZnX0JzWWFkaFdCOHNORU1qbU90eHB4ZE9nUEFnT2xNcTBpZHFkZ0pzeHczOER1eXNXQUJFUlg2cmhZdmZncy15alJ0Vm1tNGdLLXkxdl9HTkpqOTQxbTNVVmNSMFE?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "first_solar-2026-10-02-007",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "First Solar files TOPCon patent lawsuit against JA Solar and AMPS - Solarbytes",
+      "companies": [
+        "first_solar",
+        "ja_solar"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPVkJJQ1AyMlpfZDFNMGNMdEQyY2VMSE5HWEo3Q1hYeHVEQUN1TlM0OW55b3lmZzdocjBjOWs5cmFCZ243ajJRZ2NLb1gtOGJueFlvVzIxTFN1TXNvQVZ2UFpQWUZ3UWNhTHVhOG53Sl95eWRyekRFWm9XN1dhZUJSVzNSRlZJbnkwQUl5MmxOTDhCTmpiNkZRMnNTa1B0bWt5RDFGbUN1MkVKSGxVQmc?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 38,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "installation_demand": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.5,
+      "sentiment_7d_avg": null
+    },
+    "polysilicon_price": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "trade_tariff": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [
+    {
+      "from": "first_solar",
+      "to": "ja_solar",
+      "relation": "co_mention",
+      "co_mention_count": 5,
+      "topics": [
+        "industry_general"
+      ]
+    }
+  ],
+  "stats": {
+    "total_events": 38,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 36,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "first_solar",
+        "count": 7
+      },
+      {
+        "id": "ja_solar",
+        "count": 5
+      },
+      {
+        "id": "jinko",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 38
+      },
+      {
+        "id": "installation_demand",
+        "count": 1
+      },
+      {
+        "id": "polysilicon_price",
+        "count": 1
+      },
+      {
+        "id": "trade_tariff",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 425,
+    "dup_title": 188,
+    "too_old": 138,
+    "gate1_blocked": 39,
+    "gate2_blocked": 5,
+    "passed": 55,
+    "pass_rate": "23.2%",
+    "gate2_block_rate": "2.1%",
+    "gate2_samples": [
+      "EBITDA margin % of Daqo New Energy Corp Sponsored ADR – HAN:5DQ2 - TradingView",
+      "Array Technologies Is Maintained at Neutral by Piper Sandler - Moomoo",
+      "Jefferies Maintains Array Technologies(ARRY.US) With Buy Rating, Cuts Target Price to $7 - Moomoo",
+      "Array Technologies (ARRY) HR chief receives shares as stock awards vest; 8,955 shares are withheld f",
+      "Germany approves rules for storage, bidirectional charging"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 38 則事件，焦點為First Solar、晶澳科技、晶科能源相關動態：「First Solar files patent infringement lawsuit against Chi...」。主要關注主題為太陽能產業通用、裝機需求、多晶矽價格，市場情緒中性。",
+    "signals": [
+      {
+        "text": "First Solar files patent infringement lawsuit against China's JA Solar, Corni...（太陽能產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "First Solar sues JA Solar, American Panel Solutions over TOPCon patent - Rene...（太陽能產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "裝機需求持續受關注，產業趨勢帶動需求成長。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

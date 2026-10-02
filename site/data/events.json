@@ -1,5 +1,713 @@
 [
   {
+    "id": "first_solar-2026-10-02-001",
+    "date": "2026-10-02",
+    "companies": [
+      "first_solar",
+      "ja_solar"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "First Solar files patent infringement lawsuit against China's JA Solar, Corning subsidiary (FSLR:NASDAQ) - Seeking Alpha",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxOdlJsWHBha0dlYmcxemxzTm1ZS0VDZ19FNWlEY3ZGNEF2MmJ4ODlTSlVvUTBPMlJUeW4yQi1VR0N4V1pfNFlTV2NUY0t1UGE2MG1DMXFqaVdfUHB2MVBhLW9pY0V0QlVfYWlIaC0wLU",
+    "sources": [
+      {
+        "name": "ja_solar",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOdlJsWHBha0dlYmcxemxzTm1ZS0VDZ19FNWlEY3ZGNEF2MmJ4ODlTSlVvUTBPMlJUeW4yQi1VR0N4V1pfNFlTV2NUY0t1UGE2MG1DMXFqaVdfUHB2MVBhLW9pY0V0QlVfYWlIaC0wLU9MRjF1bUtKV1ZqanNYNEREZ1FudGoyTUQwWkhfc2hQaG1teVlkUGtyOGowbFVTQTFsaTdPbEpZRERiRUlxMmlSZEpXNGk1NTdvRVlkOGNRR0xDX2hk?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "first_solar-2026-10-02-002",
+    "date": "2026-10-02",
+    "companies": [
+      "first_solar",
+      "ja_solar"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "First Solar sues JA Solar, American Panel Solutions over TOPCon patent - Renewables Now",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxNR3BjZTh6b1pQandhVkNFby1GRm9OWXR2Wm14cVJjNGJBd05URGRwX1lQWW8zRndRdk9DanEtWUZFNEJCbTgxaUhJRFBWNWlnQlhIMXdkOUNmZ2FwSFlVdkxXT2Z4WGVaeHB5Mmw2bV",
+    "sources": [
+      {
+        "name": "ja_solar",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNR3BjZTh6b1pQandhVkNFby1GRm9OWXR2Wm14cVJjNGJBd05URGRwX1lQWW8zRndRdk9DanEtWUZFNEJCbTgxaUhJRFBWNWlnQlhIMXdkOUNmZ2FwSFlVdkxXT2Z4WGVaeHB5Mmw2bVU5RTFpNm1iXzkzNE5CR0RxM2ptbmxwT2tfdy1OWkNKVWlUX1VCbElTaW9uUEpLUE1OcDFPaDZBQXJHeHNBZ2c?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "first_solar-2026-10-02-003",
+    "date": "2026-10-02",
+    "companies": [
+      "first_solar",
+      "ja_solar"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "First Solar Sues JA Solar, American Panel Solutions Over TOPCon Patent - News and Statistics - IndexBox",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxPcFFiaHluVlpQSjQybFNWMXRPS3Mwb29NYUxyTlo2S2otMDdaSno2R1Z4RkxrR2pOLU5iTlE4Y1NTS05QMTFoTzhhYXQ1ZGYwS0hkSFJFZGc0SHBLQ2xoTDlhZ2xKOFF1eEZRUkJWU2",
+    "sources": [
+      {
+        "name": "ja_solar",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPcFFiaHluVlpQSjQybFNWMXRPS3Mwb29NYUxyTlo2S2otMDdaSno2R1Z4RkxrR2pOLU5iTlE4Y1NTS05QMTFoTzhhYXQ1ZGYwS0hkSFJFZGc0SHBLQ2xoTDlhZ2xKOFF1eEZRUkJWU2N1UnF3a0hqUm9udE5WYXB1Z29mX1o0TTdQOGZyUUM4ajVvQ3VXRnZLMEdpNG1mcW9zeXhEdUQ5OWZweG9VOTBDblB2NGhSdw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "first_solar-2026-10-02-004",
+    "date": "2026-10-02",
+    "companies": [
+      "first_solar"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "First Solar files TOPCon patent infringement lawsuit against JA and Corning subsidiary - PV Tech",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxQSWVNLVhwWEdzNDMxT1k0M0hrZjdSaFFmSmtsdjRqdW9iMk1jclJqRFc0OWhYei1xR0daNmdxY09PeHVGUGdQSjRJQTg1bzdWbEZxMnd4VXhpb2Z5VWNvLVl4MHkzMVlJcDhJVncwOG",
+    "sources": [
+      {
+        "name": "ja_solar",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQSWVNLVhwWEdzNDMxT1k0M0hrZjdSaFFmSmtsdjRqdW9iMk1jclJqRFc0OWhYei1xR0daNmdxY09PeHVGUGdQSjRJQTg1bzdWbEZxMnd4VXhpb2Z5VWNvLVl4MHkzMVlJcDhJVncwOG5iUGpnOVRPZnRoWm5VQk1mUm4wSFNZZ0MyRkcteGpWY2pWdUttaDhtNm5rS2xHZ01aaGpMTnZrOXJidmpyQVpXNA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "first_solar-2026-10-02-005",
+    "date": "2026-10-02",
+    "companies": [
+      "first_solar",
+      "ja_solar"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "US' First Solar sues China's JA Solar, Vietnam unit over solar cell patent - TNGlobal",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxQRkJpd0hOR3Y1RGs1a3M0Wkc2RUxET0tEb3lkcUZnUlR0UXk0RF9SSFlmVmlGU1JUZ2hCMHBHQVR3RHluSDdFY0ZPRFFYbDZnX0JzWWFkaFdCOHNORU1qbU90eHB4ZE9nUEFnT2xNcT",
+    "sources": [
+      {
+        "name": "ja_solar",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQRkJpd0hOR3Y1RGs1a3M0Wkc2RUxET0tEb3lkcUZnUlR0UXk0RF9SSFlmVmlGU1JUZ2hCMHBHQVR3RHluSDdFY0ZPRFFYbDZnX0JzWWFkaFdCOHNORU1qbU90eHB4ZE9nUEFnT2xNcTBpZHFkZ0pzeHczOER1eXNXQUJFUlg2cmhZdmZncy15alJ0Vm1tNGdLLXkxdl9HTkpqOTQxbTNVVmNSMFE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "first_solar-2026-10-02-006",
+    "date": "2026-10-02",
+    "companies": [
+      "first_solar"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "First Solar (FSLR) Files Patent Infringement Suit Against JA Sol - GuruFocus",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxOa0ZIbk03NzR2NE51UkJaT0c3R3JzSjYxTGpiYUN2VkpBbFVDVU5NcVJZbDJYa1lsamJFVEQyVWlvbjI2NWRZQmVTLUFFZFREZmZlbzlvSjhOQ2hBMjM4cUhUa0pkbl96c1hOVVNWbS",
+    "sources": [
+      {
+        "name": "ja_solar",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOa0ZIbk03NzR2NE51UkJaT0c3R3JzSjYxTGpiYUN2VkpBbFVDVU5NcVJZbDJYa1lsamJFVEQyVWlvbjI2NWRZQmVTLUFFZFREZmZlbzlvSjhOQ2hBMjM4cUhUa0pkbl96c1hOVVNWbS0yYURPVk5mRV8zbnJtczIwcFVpcVBCMktOYkZmUThZcDBWRW0zVDJtRDNBdU53Rkk2azZfUkF2czVfUDZBZEx6VWJQbU1oWTNiTWk0cHgzT3RNaDEx?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "first_solar-2026-10-02-007",
+    "date": "2026-10-02",
+    "companies": [
+      "first_solar",
+      "ja_solar"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "First Solar files TOPCon patent lawsuit against JA Solar and AMPS - Solarbytes",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxPVkJJQ1AyMlpfZDFNMGNMdEQyY2VMSE5HWEo3Q1hYeHVEQUN1TlM0OW55b3lmZzdocjBjOWs5cmFCZ243ajJRZ2NLb1gtOGJueFlvVzIxTFN1TXNvQVZ2UFpQWUZ3UWNhTHVhOG53Sl",
+    "sources": [
+      {
+        "name": "ja_solar",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPVkJJQ1AyMlpfZDFNMGNMdEQyY2VMSE5HWEo3Q1hYeHVEQUN1TlM0OW55b3lmZzdocjBjOWs5cmFCZ243ajJRZ2NLb1gtOGJueFlvVzIxTFN1TXNvQVZ2UFpQWUZ3UWNhTHVhOG53Sl95eWRyekRFWm9XN1dhZUJSVzNSRlZJbnkwQUl5MmxOTDhCTmpiNkZRMnNTa1B0bWt5RDFGbUN1MkVKSGxVQmc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-02-008",
+    "date": "2026-10-02",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "North America Solar PV News Snippets: California 10th US State To Legalize Plug-In Solar & More - TaiyangNews",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxPYXczQVlzTWo5VUFvaGFzVmRfY3U0YnNrTWxqVHpUMC1Vdkk5MGhhRUlzTzQtVGwwRS1rNWV4MXQ3TVlQdjZLRUNEMXc0QmUyZjhETkhWV3l4OFR3dC1kV25xZU1nVTNfWk8zZVp4Ml",
+    "sources": [
+      {
+        "name": "ja_solar",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPYXczQVlzTWo5VUFvaGFzVmRfY3U0YnNrTWxqVHpUMC1Vdkk5MGhhRUlzTzQtVGwwRS1rNWV4MXQ3TVlQdjZLRUNEMXc0QmUyZjhETkhWV3l4OFR3dC1kV25xZU1nVTNfWk8zZVp4MlhnOTZLNXBXY0gxb3VRRktTZ1hyemFRQ1liWnVZRQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "jinko-2026-10-02-009",
+    "date": "2026-10-02",
+    "companies": [
+      "jinko"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "JinkoSolar launches regional LinkedIn platform for Middle East, Africa and Central Asia - Green Building Africa",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxNeGZHTlNuY0xuRnJzb0NTMDRaWmpDX0VocHUzN0Y3VXlUdGQ0dkRxb3pHQkRuZjdsRzdYdDJGMUhOdDJoaEFtNGxfUzhVeHh5QnZfaGdzeXJSVnJTUXFpMkFQYmg2N0Vmc3o1THF0UV",
+    "sources": [
+      {
+        "name": "jinko",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNeGZHTlNuY0xuRnJzb0NTMDRaWmpDX0VocHUzN0Y3VXlUdGQ0dkRxb3pHQkRuZjdsRzdYdDJGMUhOdDJoaEFtNGxfUzhVeHh5QnZfaGdzeXJSVnJTUXFpMkFQYmg2N0Vmc3o1THF0UVlYN0lkSHVyUWFoWmZBVm9YZE94WkFyRWNneXV6OGVNd3hVaHRnaUVXWHhlZFloYmVHelE5aVJzRzQ3ZllXa2xSYzJLd040QjBORENyc3Y1OFZQd1E?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-02-010",
+    "date": "2026-10-02",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "German startup wins grant for grid-charging sodium-ion home battery",
+    "summary": "<p>Revolta AG has secured European Regional Development Fund (ERDF) support to develop a plug-and-play sodium-ion battery that households without solar panels can charge from the grid when power price",
+    "sources": [
+      {
+        "name": "pv_magazine",
+        "url": "https://www.pv-magazine.com/2026/10/02/german-startup-wins-grant-for-grid-charging-sodium-ion-home-battery/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-02-011",
+    "date": "2026-10-02",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Spain’s first pre-commercial marine solar demonstrator enters testing",
+    "summary": "<p>BlueNewables has installed a 1 MW offshore floating solar demonstrator at the Port of Valencia, Spain, and has begun testing the system. The project comprises two 500 kW PV-bos platforms designed t",
+    "sources": [
+      {
+        "name": "pv_magazine",
+        "url": "https://www.pv-magazine.com/2026/10/02/spains-first-pre-commercial-marine-solar-demonstrator-enters-testing/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-02-012",
+    "date": "2026-10-02",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "The Hydrogen Stream: PV-driven H2 plant commissioned in southern Italy",
+    "summary": "<p>In other news, Oregon State University researchers demonstrated photocatalytic hydrogen production without a cocatalyst, while Spain and Germany advanced hydrogen infrastructure and funding program",
+    "sources": [
+      {
+        "name": "pv_magazine",
+        "url": "https://www.pv-magazine.com/2026/10/02/the-hydrogen-stream-pv-driven-h2-plant-commissioned-in-southern-italy/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-02-013",
+    "date": "2026-10-02",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Denmark approves new grid connection prioritization model",
+    "summary": "<p>Denmark is replacing its first-come, first-served principle for grid connections with a new model that gives grid companies opportunity to prioritise who gets access.</p>\n<p>The post <a href=\"https",
+    "sources": [
+      {
+        "name": "pv_magazine",
+        "url": "https://www.pv-magazine.com/2026/10/02/denmark-agrees-new-grid-connection-procedure/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-02-014",
+    "date": "2026-10-02",
+    "companies": [],
+    "topics": [
+      "installation_demand",
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "Italian startup unveils double-layer PV system prototype for space-constrained applications",
+    "summary": "<p>Italian startup AMPS has developed a double-layer PV system that dynamically manages two overlapping module surfaces to increase solar-energy capture without expanding the installation footprint. T",
+    "sources": [
+      {
+        "name": "pv_magazine",
+        "url": "https://www.pv-magazine.com/2026/10/02/italian-startup-unveils-double-layer-pv-system-prototype-for-space-constrained-applications/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-02-015",
+    "date": "2026-10-02",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Agrivoltaics improve grapevine growth, biodiversity in hot Mediterranean climates",
+    "summary": "<p>Researchers studying an agrivoltaic vineyard in southern Italy have found that shading from PV modules can promote grapevine growth, increase bunch weight and support spontaneous plant biodiversity",
+    "sources": [
+      {
+        "name": "pv_magazine",
+        "url": "https://www.pv-magazine.com/2026/10/02/agrivoltaics-improve-grapevine-growth-biodiversity-in-hot-mediterranean-climates/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-02-016",
+    "date": "2026-10-02",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Fraunhofer ISE releases electricity price simulator",
+    "summary": "<p>The freely-accessible electricity price simulator allows users to analyse how additional battery storage would impact prices on Germany's day-ahead market.</p>\n<p>The post <a href=\"https://www.pv-m",
+    "sources": [
+      {
+        "name": "pv_magazine",
+        "url": "https://www.pv-magazine.com/2026/10/02/fraunhofer-ise-releases-electricity-price-simulator/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-02-017",
+    "date": "2026-10-02",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Japan tightens grid access as battery queue reaches 172 GW",
+    "summary": "<p>Japan now requires generators, including battery developers, to prove rights to their sites to keep a grid connection, as regulators move to curb capacity hoarding in a battery queue that far outru",
+    "sources": [
+      {
+        "name": "pv_magazine",
+        "url": "https://www.pv-magazine.com/2026/10/02/japan-tightens-grid-access-as-battery-queue-reaches-172-gw/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-02-018",
+    "date": "2026-10-02",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Hybrid PV cooling system boosts electrical efficiency by 26%, provides building ventilation",
+    "summary": "<p>Researchers have developed a hybrid PV cooling system that combines rear-side evaporative cooling with intermittent front-side water spraying, increasing electrical efficiency by up to 26%. The sys",
+    "sources": [
+      {
+        "name": "pv_magazine",
+        "url": "https://www.pv-magazine.com/2026/10/02/hybrid-pv-cooling-system-boosts-electrical-efficiency-by-26-provides-precooled-ventilation-air/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-02-019",
+    "date": "2026-10-02",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Antora and Pratt Energy to build 5.8 GWh thermal battery in Kansas",
+    "summary": "Multi-day energy storage project secures equity finance from Copenhagen Infrastructure Partners and others. The project will provide energy storage capacity to a biorefinery producing ethanol for tran",
+    "sources": [
+      {
+        "name": "pv_magazine_usa",
+        "url": "https://pv-magazine-usa.com/2026/10/02/antora-and-pratt-energy-to-build-5-8-gwh-thermal-battery-in-kansas/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-02-020",
+    "date": "2026-10-02",
+    "companies": [],
+    "topics": [
+      "polysilicon_price",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Global polysilicon prices hold steady as China price gains meet buyer resistance",
+    "summary": "In a new weekly update for <b>pv magazine</b>, OPIS, a Dow Jones company, provides a quick look at the main price trends in the global PV industry.",
+    "sources": [
+      {
+        "name": "pv_magazine_usa",
+        "url": "https://pv-magazine-usa.com/2026/10/02/global-polysilicon-prices-hold-steady-as-china-price-gains-meet-buyer-resistance/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-02-021",
+    "date": "2026-10-02",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Securing power, controlling costs: How onsite solar and storage shield commercial users from grid volatility",
+    "summary": "In an era of rising utility rates, grid congestion, and shifting power markets, commercial and industrial companies are increasingly turning to distributed generation. Mary Beth Mandanas, chief execut",
+    "sources": [
+      {
+        "name": "pv_magazine_usa",
+        "url": "https://pv-magazine-usa.com/2026/10/02/securing-power-controlling-costs-how-onsite-solar-and-storage-shield-commercial-users-from-grid-volatility/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-02-022",
+    "date": "2026-10-02",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Reducing VPP risk for utilities, participants and other ratepayers",
+    "summary": "Growing virtual power plant programs depends on reducing risk through trusted communication among devices, customers, aggregators, utilities, markets, and regulators, according to Clean Energy States ",
+    "sources": [
+      {
+        "name": "pv_magazine_usa",
+        "url": "https://pv-magazine-usa.com/2026/10/02/reducing-vpp-risk-for-utilities-participants-and-other-ratepayers/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-02-023",
+    "date": "2026-10-02",
+    "companies": [],
+    "topics": [
+      "trade_tariff",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "U.S. solar and storage face cost headwinds under fragmented trade, McKinsey report finds",
+    "summary": "McKinsey’s latest Global Energy Perspective highlights that tariff-driven supply chain friction and land constraints could raise clean technology costs, while data center demand accelerates grid integ",
+    "sources": [
+      {
+        "name": "pv_magazine_usa",
+        "url": "https://pv-magazine-usa.com/2026/10/02/u-s-solar-and-storage-face-cost-headwinds-under-fragmented-trade-mckinsey-report-finds/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-02-024",
+    "date": "2026-10-02",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "VESS Modules opens 1 GW solar panel factory in Bulgaria - Balkan Green Energy News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxQTXRJRXFjMldTUEFHSFUyX3ZVNEE1em5xZDllTjRQcTZqRGNnWDhNZGlUcG5CX3RfUmN1NTBYWURJUEVRZXpkYVFFOGpmNldRVXFXazJ6RmM1amtUN2RPRVlXR3RTT3RnczVreW9GUn",
+    "sources": [
+      {
+        "name": "google_news_solar",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQTXRJRXFjMldTUEFHSFUyX3ZVNEE1em5xZDllTjRQcTZqRGNnWDhNZGlUcG5CX3RfUmN1NTBYWURJUEVRZXpkYVFFOGpmNldRVXFXazJ6RmM1amtUN2RPRVlXR3RTT3RnczVreW9GUnNvV2JZc0Q0SmxWWnJuXzlqSThjUmktV0d0ZXJmTXFTcHgxWENV?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-02-025",
+    "date": "2026-10-02",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "ContourGlobal, Platte River Finish 324MW Black Hollow Sun Solar Project in Colorado - News and Statistics - IndexBox",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxNdHJfRmxCb21WTVdWbDRzRDRfZ3BhdWZpTllmMFZkQzZ2UTN3Uy01djlmVlRCWWQySXVSSnRMRVg4ZE1FdFA2U1JWVjlrYTV4N2ktOWo3LUMzNktBdU85eXhsLW05cl9pYUFDaWRTMm",
+    "sources": [
+      {
+        "name": "google_news_solar",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNdHJfRmxCb21WTVdWbDRzRDRfZ3BhdWZpTllmMFZkQzZ2UTN3Uy01djlmVlRCWWQySXVSSnRMRVg4ZE1FdFA2U1JWVjlrYTV4N2ktOWo3LUMzNktBdU85eXhsLW05cl9pYUFDaWRTMmN4YzRzX2xmU0RrVnFicnRoRmlrXzlEYnJFdHZkUlJYMVFGY3c4blpCOG4zQ2hWUzQtZV94TXIxU2tBSWF4Y1R0NWhHN2NjMWhrbGc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-02-026",
+    "date": "2026-10-02",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Can there be solar for all, everywhere by the end of the decade? - DW.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxPaldGZ3JiakgyX3ZHTTNUQ2M4Sm1YczhrTG9kRF9jNlROZVFhS19La2JyXy0zV2x3a3hCdGRYN3BfR0JiOGNJcnJOcGdYMEV0U3J1aFNZRlpsUlAyZ2NKQ3BSTHRlaUVENWtvMHZpbE",
+    "sources": [
+      {
+        "name": "google_news_solar",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPaldGZ3JiakgyX3ZHTTNUQ2M4Sm1YczhrTG9kRF9jNlROZVFhS19La2JyXy0zV2x3a3hCdGRYN3BfR0JiOGNJcnJOcGdYMEV0U3J1aFNZRlpsUlAyZ2NKQ3BSTHRlaUVENWtvMHZpbEdJTE9wSlN4bDZkZFp6cXJoQUZUMGrSAYQBQVVfeXFMTTRsLWlQR25OLWhxSzZZREF1bUNaN1MxT0F3Yms5VU13UzhDQU9aOFp5UmNuV3EtTE53b0ZDZzhaMC0yNHVsdTZ0c3g5T1FobG5oaUxGTUh5U1E4OGxrMkZTNjFRblZmTHNmcG5nSDEwS0N5WXYxZHQ3ZWd0SWtVUUNQYkpN?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-02-027",
+    "date": "2026-10-02",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "U.S. solar and storage face cost headwinds under fragmented trade, McKinsey report finds - pv magazine USA",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxQZjlIbHVzcjVKYjZoUGNuSEV1M0RtWFNlNm5KUlk4WnlUZTduc1FSQUhwaWxFdmxaTDA4eGFCMEdCWGFSN2h4ZTQ0S09DOGtwTVZ3MFFoUW1uOWxwQlRNZTBaSlN5VkdodzY4dG1RMl",
+    "sources": [
+      {
+        "name": "google_news_solar_trade",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQZjlIbHVzcjVKYjZoUGNuSEV1M0RtWFNlNm5KUlk4WnlUZTduc1FSQUhwaWxFdmxaTDA4eGFCMEdCWGFSN2h4ZTQ0S09DOGtwTVZ3MFFoUW1uOWxwQlRNZTBaSlN5VkdodzY4dG1RMlo3dVFKVzU3VXNpMmR4NldnTzV1dU1NQmxRWTVxdGNON1RFcVpuaDhwYnZWQzJrOV8ycW9FVnBpVXZJbDRERXF3QUJOaXRTQXJFclc3a2o0Uk1IWHB3?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-02-028",
+    "date": "2026-10-02",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "100-MW Michigan solar project supports Ford automotive",
+    "summary": "<p>DTE Energy has completed construction on the 100-MW Cold Creek Solar Park near Coldwater, Michigan, which is supporting Ford Motor Company’s decarbonization goals. Ford agreed to purchase up to 650",
+    "sources": [
+      {
+        "name": "solar_power_world",
+        "url": "https://www.solarpowerworldonline.com/2026/10/100-mw-michigan-solar-project-supports-ford-automotive/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-02-029",
+    "date": "2026-10-02",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "India approves US$19.3 billion Green Energy Corridor Phase III with 50GWh BESS",
+    "summary": "India's Union Cabinet has approved US$ 19.3 billion Green Energy Corridor, including US$ 5.2 billion for 50GWh BESS through FY2032-33.",
+    "sources": [
+      {
+        "name": "energy_storage_news",
+        "url": "https://www.energy-storage.news/india-approves-us19-3-billion-green-energy-corridor-phase-iii-with-50gwh-bess/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-02-030",
+    "date": "2026-10-02",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "California Governor Newsom signs VPP and balcony solar bills, vetoes community solar legislation",
+    "summary": "Outgoing California Governor Gavin Newsom recenty addressed approximately 1,200 bills, including several energy storage and solar related bills that were either approved or vetoed.",
+    "sources": [
+      {
+        "name": "energy_storage_news",
+        "url": "https://www.energy-storage.news/california-governor-newsom-signs-vpp-and-balcony-solar-bills-vetoes-community-solar-legislation/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-02-031",
+    "date": "2026-10-02",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Renalfa IPP, Eurowind inaugurate solar-plus-storage hybrid renewable energy park in Bulgaria",
+    "summary": "Renalfa IPP and Eurowind have brought a large-scale hybrid renewables project, featuring 242MWp of solar PV and 773MWh of battery storage, into commercial operation in Bulgaria.",
+    "sources": [
+      {
+        "name": "energy_storage_news",
+        "url": "https://www.energy-storage.news/renalfa-ipp-eurowind-inaugurate-solar-plus-storage-hybrid-renewable-energy-park-in-bulgaria/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-02-032",
+    "date": "2026-10-02",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Canada’s Northland Power closes financing on 1.2GWh of CM-contracted BESS projects in Poland",
+    "summary": "Northland Power has closed financing on two large-scale battery energy storage system (BESS) projects in Poland.",
+    "sources": [
+      {
+        "name": "energy_storage_news",
+        "url": "https://www.energy-storage.news/canadas-northland-power-closes-financing-on-1-2gwh-of-cm-contracted-bess-projects-in-poland/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-02-033",
+    "date": "2026-10-02",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Fu-Gen, Nala Renewables close 100MW BESS deal in Finland",
+    "summary": "Fu-Gen has sold a 100MW ready-to-build battery storage project in Finland to Nala Renewables, extending their Nordic BESS pipeline to 275MW.",
+    "sources": [
+      {
+        "name": "energy_storage_news",
+        "url": "https://www.energy-storage.news/fu-gen-nala-renewables-close-100mw-bess-finland/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-02-034",
+    "date": "2026-10-02",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "New South Wales grants approval to BayWa r.e.’s Bullawah hybrid wind and battery project in Australia",
+    "summary": "NSW's IPC has approved BayWa r.e.'s Bullawah Wind Farm, pairing 804MW of wind with a 718MWh battery in the South West REZ.",
+    "sources": [
+      {
+        "name": "energy_storage_news",
+        "url": "https://www.energy-storage.news/bullawah-wind-farm-approved-718mwh-battery-nsw/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-02-035",
+    "date": "2026-10-02",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Africa’s Unseen Solar Energy Revolution",
+    "summary": "<p>The larger-than-life continent of Africa has emerged as a hotspot for solar energy developers, especially in the distributed resources sector.</p>\n<p>The post <a href=\"https://cleantechnica.com/202",
+    "sources": [
+      {
+        "name": "cleantechnica",
+        "url": "https://cleantechnica.com/2026/10/02/solar-energy-africa-wildlife-national-geographic-documentary/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-02-036",
+    "date": "2026-10-02",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Texas PUC Greenlights Coal Plant Closure & Renewables Construction, Saving Millions of Gallons of Water Every Year",
+    "summary": "<p>AUSTIN, Texas — The Texas Public Utility Commission (PUC) ruled today that Southwestern Public Service Company (SPS) can proceed with closing its Tolk coal plant near Lubbock and constructing renew",
+    "sources": [
+      {
+        "name": "cleantechnica",
+        "url": "https://cleantechnica.com/2026/10/01/texas-puc-greenlights-coal-plant-closure-renewables-construction-saving-millions-of-gallons-of-water-every-year/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-02-037",
+    "date": "2026-10-02",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Santee Cooper’s New Energy Plan is Bad News for South Carolina Customers",
+    "summary": "<p>COLUMBIA, S.C. — Santee Cooper’s long-range energy plan admits that increased demand from large load customers, like data centers, is creating an upward pressure on costs, according to the utility’",
+    "sources": [
+      {
+        "name": "cleantechnica",
+        "url": "https://cleantechnica.com/2026/10/01/santee-coopers-new-energy-plan-is-bad-news-for-south-carolina-customers/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-02-038",
+    "date": "2026-10-02",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Grid Connection at European Ports & Airports: Solutions to Accelerate Transport Electrification",
+    "summary": "<p>Imagine buying an electric van for your business, then discovering the cable connecting it to the grid won&#8217;t be installed for another ten years. That, roughly, is the position Europe&#8217;s ",
+    "sources": [
+      {
+        "name": "cleantechnica",
+        "url": "https://cleantechnica.com/2026/10/01/grid-connection-at-european-ports-airports-solutions-to-accelerate-transport-electrification/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "daqo-2026-10-01-001",
     "date": "2026-10-01",
     "companies": [
@@ -664,6 +1372,317 @@
       {
         "name": "cleantechnica",
         "url": "https://cleantechnica.com/2026/09/30/ready-to-scale-europe-will-have-enough-cells-to-meet-demand-and-grow-its-domestic-battery-value-chain-industry/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "gcl-2026-10-01-037",
+    "date": "2026-10-01",
+    "companies": [
+      "gcl"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "GCL Technology Holdings Ltd (3GY.HM) stock price, news, quote and history - Yahoo Finance Singapore",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTE95SGprSF9pQUlkTmsxR0NIREs5M1BUeExRa0p0aXdsbVlUTXdBX2hPUElvcGtTX0FvY2JNSUFWTzJydFVFT3A4aTVjSU1nLUtSX2ducg?oc=5\" target=\"_blank\">GCL Technolog",
+    "sources": [
+      {
+        "name": "gcl",
+        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE95SGprSF9pQUlkTmsxR0NIREs5M1BUeExRa0p0aXdsbVlUTXdBX2hPUElvcGtTX0FvY2JNSUFWTzJydFVFT3A4aTVjSU1nLUtSX2ducg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "first_solar-2026-10-01-038",
+    "date": "2026-10-01",
+    "companies": [
+      "first_solar",
+      "ja_solar"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "First Solar sues China's JA Solar for patent infringement - Reuters",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxQWlppamF2Z0xLMHJBMzFsQWtxQ281enVtUHVIdVc5N19BWXNrSGFuSWdya0JWM0R0UWFyaGlUazVlWkxfbUJjeGczV0JnSHJFSTNNUzk1VVpHeUFLb2NTY3pETm91NTZDRkRKXzJYam",
+    "sources": [
+      {
+        "name": "ja_solar",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQWlppamF2Z0xLMHJBMzFsQWtxQ281enVtUHVIdVc5N19BWXNrSGFuSWdya0JWM0R0UWFyaGlUazVlWkxfbUJjeGczV0JnSHJFSTNNUzk1VVpHeUFLb2NTY3pETm91NTZDRkRKXzJYamY1V2lXanVQd0w3NE9wYU9JcnBubmpxc2Y5UHg0b0sxMU9VS2JlUFNRTzJJTWM0S1U0NXZneVdDMmI?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "first_solar-2026-10-01-039",
+    "date": "2026-10-01",
+    "companies": [
+      "first_solar",
+      "ja_solar"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "First Solar Files Patent Infringement Lawsuit Against JA Solar & American Panel Solutions - Business Wire",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxPcC1SSTZvXzV0ZWktUmEyeXJFY1VwNFEzRUZGREJFZnRIeEFLZUU5cTRIZ0k2cXg5RlpwWnA0dGUwaThaREhXZWlQamhqZDJtRllqNUc3T3BweHd2ZkxDZWVERzQ5LVZlSF9WTEhNZE",
+    "sources": [
+      {
+        "name": "ja_solar",
+        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPcC1SSTZvXzV0ZWktUmEyeXJFY1VwNFEzRUZGREJFZnRIeEFLZUU5cTRIZ0k2cXg5RlpwWnA0dGUwaThaREhXZWlQamhqZDJtRllqNUc3T3BweHd2ZkxDZWVERzQ5LVZlSF9WTEhNZEtnN3FMcWZZbTV4ZXhuY2xvU3RPdnB5LU0zNFBTRncxZTZRY0h5R1JYeEF4b1Q4Z3MtTnZNSF9vSkFhclhCUmRURk9OZEZ6bWIzbEhJbmxaSWhGSmxXeU1JVVM1VnpURHJkd1JCU1RYMzZZNFg4?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "first_solar-2026-10-01-040",
+    "date": "2026-10-01",
+    "companies": [
+      "first_solar",
+      "ja_solar"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "First Solar files patent suit against JA Solar over TOPCon tech - Investing.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxNVXRNRnVHUlJrUHI3T3BjczBQRGVYY0dfWnZQeElDNlBxbW0tdG1YX0Q3VEp4V3R4RmhLR3ZHbDM5UHI0bUp6SXI1UTBEaVFybmE0Q19EY0RLSFA5VS1KUFlmSGNza0djb21xUWlwNG",
+    "sources": [
+      {
+        "name": "ja_solar",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNVXRNRnVHUlJrUHI3T3BjczBQRGVYY0dfWnZQeElDNlBxbW0tdG1YX0Q3VEp4V3R4RmhLR3ZHbDM5UHI0bUp6SXI1UTBEaVFybmE0Q19EY0RLSFA5VS1KUFlmSGNza0djb21xUWlwNGNBZ1BKeDVrVVVMV1hCNTlBanRJQUQ5XzliZkJEMDBXUXAwZ2V0eEFJYlJQR0k5SlRsekxrYS13V2JjNFd5WTdrcWg2TzF3eXBCalQ1VQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "first_solar-2026-10-01-041",
+    "date": "2026-10-01",
+    "companies": [
+      "first_solar",
+      "ja_solar"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "First Solar sues China's JA Solar for patent infringement - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxQTy1ITHZrbWtGLTVGWWo0bkl0MFN2QUlETnY1Vmd6dVFIdTNFVlluUVRUOWxZRnM2MHlPa2RsdW5YQmJUVDBfRmltV0hnLWgzazNjSi1YZ0dfRThsSTR3aXV6Q3M4SmxsZ2lmZHlWNn",
+    "sources": [
+      {
+        "name": "ja_solar",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQTy1ITHZrbWtGLTVGWWo0bkl0MFN2QUlETnY1Vmd6dVFIdTNFVlluUVRUOWxZRnM2MHlPa2RsdW5YQmJUVDBfRmltV0hnLWgzazNjSi1YZ0dfRThsSTR3aXV6Q3M4SmxsZ2lmZHlWNnQ3WUN4YUQ1Z0w0amJrN3pWNGhYVi1vdTc3MzRsWXd6LUU2S2c2Y3JqMExBcnN5UXdqSHdKbTd2UjZIcFZBYnNnYzUyYnZlVDQ2TXc3SGxLWXpVWDZ3MlE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ja_solar-2026-10-01-042",
+    "date": "2026-10-01",
+    "companies": [
+      "ja_solar"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "JA Solar launches new C&I battery systems - bestmag.co.uk",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE1peDJ4ZnNGNDhzTWh5T1Rnd1otbS14eGlJNm83OWxBVTRIbmhMWWlEdWdWMU5wZHdGTkxTYUVNRWRqNnhQVzNfZF9sdzhTQ1JOX3R6ZGZ1YzhkTlM3bENqbnd2OUxoRUFEekRwUUp5az",
+    "sources": [
+      {
+        "name": "ja_solar",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1peDJ4ZnNGNDhzTWh5T1Rnd1otbS14eGlJNm83OWxBVTRIbmhMWWlEdWdWMU5wZHdGTkxTYUVNRWRqNnhQVzNfZF9sdzhTQ1JOX3R6ZGZ1YzhkTlM3bENqbnd2OUxoRUFEekRwUUp5azJIa2JXMkE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "first_solar-2026-10-01-043",
+    "date": "2026-10-01",
+    "companies": [
+      "first_solar",
+      "ja_solar"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "First Solar verklagt das chinesische Unternehmen JA Solar wegen Patentverletzung - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE5QYXBha1J6elpGUE9uSm84cGJEbXlGN085aXplU2twSG5WSGJBQ1FHLU5ibExVcTJLeWFlV0Z3SnlqZkNZT3MzOG8xUEV1SnNlRjFRZ3M0cElCZERyNDFQcjlZSnJnNk0zM1lNb1NfUT",
+    "sources": [
+      {
+        "name": "ja_solar",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5QYXBha1J6elpGUE9uSm84cGJEbXlGN085aXplU2twSG5WSGJBQ1FHLU5ibExVcTJLeWFlV0Z3SnlqZkNZT3MzOG8xUEV1SnNlRjFRZ3M0cElCZERyNDFQcjlZSnJnNk0zM1lNb1NfUTBKTGxlNVRDaA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "trina-2026-10-01-044",
+    "date": "2026-10-01",
+    "companies": [
+      "trina"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Trina Solar, Microquanta testing perovskite, tandem modules at UNSW site - pv magazine Global",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxOUHRlWXFCWVlaS196YzNCZHZmdXlJRG5lcFViaDVybFMyWXdGdG1MWXVaTEk0M0dIa0RFUFcwR29lVldnSUw2N0VQUmJhb19Ba2hhS0xKVjNMUm9CRTZya2dJQ0Q5Skl3M3Z0MlNRWU",
+    "sources": [
+      {
+        "name": "trina",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOUHRlWXFCWVlaS196YzNCZHZmdXlJRG5lcFViaDVybFMyWXdGdG1MWXVaTEk0M0dIa0RFUFcwR29lVldnSUw2N0VQUmJhb19Ba2hhS0xKVjNMUm9CRTZya2dJQ0Q5Skl3M3Z0MlNRWUhwSVY3QnprRzBuVzhVUzZ1SUItbE94cm1NdHgzdGlLUGk0Y0RhRlE4a0ozTFY4bUh4VG5pNWVRV25lUGRyWkZqd3lHWFJHdw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "jinko-2026-10-01-045",
+    "date": "2026-10-01",
+    "companies": [
+      "jinko"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Form 13D/A JinkoSolar Holding Co. For: 1 October By Investing.com - Investing.com Nigeria",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxNaTk3MmtjRV9rZ0h0TS0tX1R3OVo4SU8wbExDWVk4cU91VTFXRVg1OHZEcjRKcVJ1NHhkYzh5UXFmMU80LVlvLW9uejg3a1RnNlF3R0VLQ1RTTFVYSW0wbjJYWEN1TU5RaWRRZkxWTl",
+    "sources": [
+      {
+        "name": "jinko",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNaTk3MmtjRV9rZ0h0TS0tX1R3OVo4SU8wbExDWVk4cU91VTFXRVg1OHZEcjRKcVJ1NHhkYzh5UXFmMU80LVlvLW9uejg3a1RnNlF3R0VLQ1RTTFVYSW0wbjJYWEN1TU5RaWRRZkxWTlFUVGxiejlGOEJvRlhRWnRNYUtURjgtS0lFek5iXzg0ZTR5X1BoN2JrbjFJVmpZRm95WFdZQWE2emg2Zw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "jinko-2026-10-01-046",
+    "date": "2026-10-01",
+    "companies": [
+      "jinko"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Form 13D/A JinkoSolar Holding Co. For: 1 October By Investing.com - Investing.com Canada",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxOMkdDUWxiZWZGdHVZcU1SbHJtNlRqcmVaRXdzVXhfZnRyenQ2ZER3YktnMGtHN0UtOC11blJRNlloemVzYWJyN3VjZ2M0V1dNUTR1SkYwQW9SNDVzandGdGVfaGlfRnE1RUJ3anRzeW",
+    "sources": [
+      {
+        "name": "jinko",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOMkdDUWxiZWZGdHVZcU1SbHJtNlRqcmVaRXdzVXhfZnRyenQ2ZER3YktnMGtHN0UtOC11blJRNlloemVzYWJyN3VjZ2M0V1dNUTR1SkYwQW9SNDVzandGdGVfaGlfRnE1RUJ3anRzeWpabVQtaE5VcEo5MHpIVHNuWUl0b3JIUzlRWHRmWF9GWGZhS2huQXVPcEM2UmZ2YWh1aFVLT0ZJOVVBQQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-01-047",
+    "date": "2026-10-01",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "California gives the green light to balcony solar",
+    "summary": "<div class=\"feat-image\"><img src=\"https://electrek.co/wp-content/uploads/sites/3/2026/10/balconysolar-EWG.jpg?quality=82&#038;strip=all&#038;w=1200\" /></div><p class=\"wp-block-paragraph\">Californians ",
+    "sources": [
+      {
+        "name": "electrek_solar",
+        "url": "https://electrek.co/2026/10/01/california-gives-the-green-light-to-balcony-solar/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-01-048",
+    "date": "2026-10-01",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Here are all the jobs and investment lost from republican attacks on manufacturing",
+    "summary": "<div class=\"feat-image\"><img src=\"https://electrek.co/wp-content/uploads/sites/3/2026/10/bluegreen-alliance-jobs-lost-republicans.jpg?quality=82&#038;strip=all&#038;w=1600\" /></div><p class=\"wp-block-",
+    "sources": [
+      {
+        "name": "electrek_solar",
+        "url": "https://electrek.co/2026/10/01/here-are-all-the-jobs-and-investment-lost-from-republican-attacks-on-manufacturing/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-01-049",
+    "date": "2026-10-01",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "BMW is launching a smaller, more affordable EV",
+    "summary": "<div class=\"feat-image\"><img src=\"https://electrek.co/wp-content/uploads/sites/3/2026/10/BMW-more-affordable-EV.jpeg?quality=82&#038;strip=all&#038;w=1400\" /></div><p class=\"wp-block-paragraph\"><a hre",
+    "sources": [
+      {
+        "name": "electrek_solar",
+        "url": "https://electrek.co/2026/10/01/bmw-launching-smaller-more-affordable-ev/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-01-050",
+    "date": "2026-10-01",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Black Hollow Sun solar project completed - BizWest",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE5kQnRwNXgwSWN3cjA3RG1KRm1lRUtadFVhTGZzQ1lWVEs5OER5TnZtY0pLdWNOdUszUzM2cHNQemdXX2c4T3B1YldMejFrdEFrNi1ScVhQSTd1aTVVVzhOMVRidTJvMFRnZ1o3Y1E3MD",
+    "sources": [
+      {
+        "name": "google_news_solar",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5kQnRwNXgwSWN3cjA3RG1KRm1lRUtadFVhTGZzQ1lWVEs5OER5TnZtY0pLdWNOdUszUzM2cHNQemdXX2c4T3B1YldMejFrdEFrNi1ScVhQSTd1aTVVVzhOMVRidTJvMFRnZ1o3Y1E3MDVkN1llOWxwOFVtTWs?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-01-051",
+    "date": "2026-10-01",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Northern Colorado’s largest solar project comes online",
+    "summary": "<p>The second phase of the Black Hollow Sun solar project near Severance, Colorado, is now complete. ContourGlobal developed the full 324-MW project for the Platte River Power Authority. “This project",
+    "sources": [
+      {
+        "name": "solar_power_world",
+        "url": "https://www.solarpowerworldonline.com/2026/10/northern-colorados-largest-solar-project-comes-online/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-01-052",
+    "date": "2026-10-01",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "California is 10th state to legalize balcony solar",
+    "summary": "<p>It was a busy day yesterday for California Gov. Gavin Newsom, as he signed into law a handful of bills that are positive for the solar industry. He also signed legislation that approves &#8220;balc",
+    "sources": [
+      {
+        "name": "solar_power_world",
+        "url": "https://www.solarpowerworldonline.com/2026/10/california-is-10th-state-to-legalize-balcony-solar/",
         "type": "rss"
       }
     ]
@@ -1513,6 +2532,26 @@
       {
         "name": "solar_power_world",
         "url": "https://www.solarpowerworldonline.com/2026/09/orsted-solar-project-to-also-help-restore-new-mexico-wetlands/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "xinyi_solar-2026-09-30-047",
+    "date": "2026-09-30",
+    "companies": [
+      "xinyi_solar"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Xinyi Solar Holdings Stock Advances 3.2% in Hong Kong - Moomoo",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxQai1JZGNGbS02T2d3WVd5WE9mU1ZFZWpNZlZpZ0Q2TDZFdXA2UWlyWHNtTHpLV0VPNlVWNmpybW16cThCNHIyenFLM0szT1djN0IyQWZXejJVSkVUWkZOU2U4NTRfczFCZDZfbXRUOX",
+    "sources": [
+      {
+        "name": "xinyi_solar",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQai1JZGNGbS02T2d3WVd5WE9mU1ZFZWpNZlZpZ0Q2TDZFdXA2UWlyWHNtTHpLV0VPNlVWNmpybW16cThCNHIyenFLM0szT1djN0IyQWZXejJVSkVUWkZOU2U4NTRfczFCZDZfbXRUOXd6Si1yR1VLUmt5LTJ1WmpiSktOVGJJLXJjWV9KaTJmQllKbEtBaHc1NXpIWHo?oc=5",
         "type": "rss"
       }
     ]

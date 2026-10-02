@@ -1,0 +1,16 @@
+{
+  "total_raw": 425,
+  "dup_title": 188,
+  "no_date": 0,
+  "too_old": 138,
+  "gate1_fail": 39,
+  "gate2_fail": 5,
+  "passed": 55,
+  "gate2_samples": [
+    "EBITDA margin % of Daqo New Energy Corp Sponsored ADR – HAN:5DQ2 - TradingView",
+    "Array Technologies Is Maintained at Neutral by Piper Sandler - Moomoo",
+    "Jefferies Maintains Array Technologies(ARRY.US) With Buy Rating, Cuts Target Price to $7 - Moomoo",
+    "Array Technologies (ARRY) HR chief receives shares as stock awards vest; 8,955 shares are withheld f",
+    "Germany approves rules for storage, bidirectional charging"
+  ]
+}
