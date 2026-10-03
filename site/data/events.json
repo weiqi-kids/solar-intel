@@ -1,5 +1,131 @@
 [
   {
+    "id": "unknown-2026-10-03-001",
+    "date": "2026-10-03",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "(NXT) Movement as an Input in Quant Signal Sets - Stock Traders Daily",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxQRUZpNXhvQkxCazZ5WWN4NXA1RGpBclBCdnhqdGoxNi1MQk1WMXZTQjVvem9XbHJqSmxob19uX1FPTllHNkFvQlB4NUREckNiYlpkeFFJY1VReTUxa3JTNUh1dEhkbXRlc25IcVhiVU",
+    "sources": [
+      {
+        "name": "nextracker",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQRUZpNXhvQkxCazZ5WWN4NXA1RGpBclBCdnhqdGoxNi1MQk1WMXZTQjVvem9XbHJqSmxob19uX1FPTllHNkFvQlB4NUREckNiYlpkeFFJY1VReTUxa3JTNUh1dEhkbXRlc25IcVhiVUgtTkptZ3lPVkhNb2Q2SGpuM280QkduMTUwYWp0bm1wMk5oM2ktYWdQcWZqWkl0bC1XRmh6WHhzRlBEenlRMEdhMUNsaV9QNGhCN01HRWRJUGhsYWc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-03-002",
+    "date": "2026-10-03",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Brazil hits 56 GW of connection headroom for battery auctions",
+    "summary": "<p>Brazil’s available grid capacity for battery storage projects exceeds the association’s estimate of 2028-30 power needs by up to 12.5 times, according to an analysis of transmission data.</p>\n<p>Th",
+    "sources": [
+      {
+        "name": "pv_magazine",
+        "url": "https://www.pv-magazine.com/2026/10/03/brazil-hits-56-gw-of-connection-headroom-for-battery-auctions/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-03-003",
+    "date": "2026-10-03",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "The case for railway-integrated solar in South Korea",
+    "summary": "<p>South Korea’s extensive railway network could provide new space for solar generation in densely populated areas where land availability is limited. Researchers have investigated the potential of in",
+    "sources": [
+      {
+        "name": "pv_magazine",
+        "url": "https://www.pv-magazine.com/2026/10/03/the-case-for-railway-integrated-solar-in-south-korea/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-03-004",
+    "date": "2026-10-03",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Middle market momentum",
+    "summary": "<p>The rollback of policies favoring renewable energy deployment in the United States is contributing to an energy affordability crisis in many communities, according to Jon Powers, president of Clean",
+    "sources": [
+      {
+        "name": "pv_magazine",
+        "url": "https://www.pv-magazine.com/2026/10/03/middle-market-momentum/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-03-005",
+    "date": "2026-10-03",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "St. Saviour's Blesses Solar Panels: A Step Towards Sustainability - Bar Harbor Story",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxPVUxldXF5RWlMNE53ZWFEZWhoWWtrNGgxaUhpd3UtcmFWbDNmbXQ5a3htemRLQXNWUTh2RVlfNFRiNy1semY3aDlFTFo2Rk9FVnktbmlDLVZVcWU0RmxnWEludmRzUUxmMmdPQV9hOT",
+    "sources": [
+      {
+        "name": "google_news_solar",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPVUxldXF5RWlMNE53ZWFEZWhoWWtrNGgxaUhpd3UtcmFWbDNmbXQ5a3htemRLQXNWUTh2RVlfNFRiNy1semY3aDlFTFo2Rk9FVnktbmlDLVZVcWU0RmxnWEludmRzUUxmMmdPQV9hOThCa3d5U2xLSWJDN3dFcjRWa2lGWGVfeERSeXRMb1lVU0NEUFRlSk5kWGE4M00?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-03-006",
+    "date": "2026-10-03",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Magenta Solar Panels Boost Broccoli Growth While Harvesting Power - Bioengineer.org",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxNWGphTGpxektNaFVCV2hqVUM1a3V0dVgyTEJmSlV6SzBpdTlKRlVwNVdYRFM1UDliQWRPeTNZN0JYM0hfcDZWZHVNTC13VkhwRzN3cjFVeDY5SEUtR0FrYnd2V1NZUnFOb2dTenFKWV",
+    "sources": [
+      {
+        "name": "google_news_solar",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNWGphTGpxektNaFVCV2hqVUM1a3V0dVgyTEJmSlV6SzBpdTlKRlVwNVdYRFM1UDliQWRPeTNZN0JYM0hfcDZWZHVNTC13VkhwRzN3cjFVeDY5SEUtR0FrYnd2V1NZUnFOb2dTenFKWVRpd3paZUlOdE9Gd3ZrMDlST1ZycnlHVWVhTmUtLVlyTEVSUWkx?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-03-007",
+    "date": "2026-10-03",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "SEIA Statement on Governor Newsom’s Actions on Clean Energy Bills",
+    "summary": "<p>Following statement on California legislative updates is attributable to Stephanie Doyle, California state affairs director for the Solar Energy Industries Association: “The solar and storage indus",
+    "sources": [
+      {
+        "name": "cleantechnica",
+        "url": "https://cleantechnica.com/2026/10/02/seia-statement-on-governor-newsoms-actions-on-clean-energy-bills/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "first_solar-2026-10-02-001",
     "date": "2026-10-02",
     "companies": [
@@ -703,6 +829,233 @@
       {
         "name": "cleantechnica",
         "url": "https://cleantechnica.com/2026/10/01/grid-connection-at-european-ports-airports-solutions-to-accelerate-transport-electrification/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "xinyi_solar-2026-10-02-039",
+    "date": "2026-10-02",
+    "companies": [
+      "xinyi_solar"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Global Penny Stocks Spotlight: Xinyi Solar Holdings And 2 Promising Picks - Simply Wall Street",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwJBVV95cUxPQzNsYm5SWUdnM3NlVnFDRHJRSWNZdy03aVo3aU0xUVlBbTI4QzFISjdRVzIzU3B2bWlvMkd4Wjdkak5Sd2RnU1pLX2drYnFaemRCQTZpLU53Q3RjWXJjOUJ3WFJkelFRYnZPZFhxTk",
+    "sources": [
+      {
+        "name": "xinyi_solar",
+        "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxPQzNsYm5SWUdnM3NlVnFDRHJRSWNZdy03aVo3aU0xUVlBbTI4QzFISjdRVzIzU3B2bWlvMkd4Wjdkak5Sd2RnU1pLX2drYnFaemRCQTZpLU53Q3RjWXJjOUJ3WFJkelFRYnZPZFhxTkgtaVhYamNkeTJiNkJCNFNLOGdYWkw2TXh6YVhuQXUxNlR0WGc1Qi0tdVhzWG5lbTdZMmFPQ3c1amVhX3FQb2VFcU5hTXMzOHhNSDVEZGY3QTJ6aDE3dDc1NzctNjRNN0lubDVwYWhzZ2lDX2FPWnRYbTVNZDkzTmhlOEkwNnhrM0taQkY2NnJ0WFFscmFYQTdRSXZpUXJYaXBtamVVNlpEUnZzZU4yNHl1bDZ6SWtDZ9IBpAJBVV95cUxNYzEtX2Nmay1fdTN5QmFqeENmaDZSMFNVOXRDMVBIOFdTQTY3am5PVzNWSGZZV1d4UGNIX28xSzFrbU1tLVJOUWM1M2ZsOHB4V0JFTE1nWnl0MlpJVFVycVRYdEVMOGNIZUI5bFNEbHNMcXpZUUJSWHFrTTZfaUl2bFJJSTV2YlhOdmwtSGdtQkhTSXZjRnBBMEhDTksxX09WbFZuZHFQSDcyYi05clhhd21JWlVrQXRCc24tOWl0czgyTDN1eTI1cVNiUGtMMFpuRVhRaDVwX3RTbzU2YnlOYXhsbi1IMXEtUFVSTDI3dWhDcEVIczBBZUJCTkpraEtfUUs4TE1DY1ZCQTI2NGVDMXlXYjhrYjNYNWVhdk85VmE5ckhQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "gcl-2026-10-02-040",
+    "date": "2026-10-02",
+    "companies": [
+      "gcl"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Net income before discontinued operations of GCL Technology Holdings Limited – HAN:3GY - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxQWTNoVDFDZjB0Szdnd3U0TlFHSk1LMWh3d1ZaX2dNckZuQ08yX3NtWHY4VlhIcENUZkkxWWlyZmp1eDFaTTlZWjU1UXVFZmNiTkpBck80bnRkTmVTRWJ1eUtKOXZuMEdta09pQ2dZdm",
+    "sources": [
+      {
+        "name": "gcl",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQWTNoVDFDZjB0Szdnd3U0TlFHSk1LMWh3d1ZaX2dNckZuQ08yX3NtWHY4VlhIcENUZkkxWWlyZmp1eDFaTTlZWjU1UXVFZmNiTkpBck80bnRkTmVTRWJ1eUtKOXZuMEdta09pQ2dZdmJtZi1BTTVCaU1mOE5qdDlCU18xbFFGU0NOV1FCMVh0NGEwMkFNS0tTeS1RZ1doZw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "first_solar-2026-10-02-041",
+    "date": "2026-10-02",
+    "companies": [
+      "first_solar"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "First Solar Sues Corning Subsidiary, Chinese Rival Over Patent Infringement - Investor's Business Daily",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxNODUzRF9PZ05DQTJOM01nSkdTNHhLTjRqMkhjdW5iVkVrOVdZSUowTWl2MzBkRjRaM3JBWUlydTVfU0tBR0gwdm84RF82dnJIWUtYR0tJZldqeXk4Y01ZUkdrTWw1aEpIaEtvTWp2Zm",
+    "sources": [
+      {
+        "name": "ja_solar",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNODUzRF9PZ05DQTJOM01nSkdTNHhLTjRqMkhjdW5iVkVrOVdZSUowTWl2MzBkRjRaM3JBWUlydTVfU0tBR0gwdm84RF82dnJIWUtYR0tJZldqeXk4Y01ZUkdrTWw1aEpIaEtvTWp2ZmFzZS1IUU55MGZHRXRxUWJONU9ON3JHdjZNX0JN?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "first_solar-2026-10-02-042",
+    "date": "2026-10-02",
+    "companies": [
+      "first_solar"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "First Solar files TOPCon patent infringement lawsuit against JA and Corning subsidiary - pv-tech.org",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxQSWVNLVhwWEdzNDMxT1k0M0hrZjdSaFFmSmtsdjRqdW9iMk1jclJqRFc0OWhYei1xR0daNmdxY09PeHVGUGdQSjRJQTg1bzdWbEZxMnd4VXhpb2Z5VWNvLVl4MHkzMVlJcDhJVncwOG",
+    "sources": [
+      {
+        "name": "ja_solar",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQSWVNLVhwWEdzNDMxT1k0M0hrZjdSaFFmSmtsdjRqdW9iMk1jclJqRFc0OWhYei1xR0daNmdxY09PeHVGUGdQSjRJQTg1bzdWbEZxMnd4VXhpb2Z5VWNvLVl4MHkzMVlJcDhJVncwOG5iUGpnOVRPZnRoWm5VQk1mUm4wSFNZZ0MyRkcteGpWY2pWdUttaDhtNm5rS2xHZ01aaGpMTnZrOXJidmpyQVpXNA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "jinko-2026-10-02-043",
+    "date": "2026-10-02",
+    "companies": [
+      "jinko"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Jinko ESS advances 220 MWh hybrid BESS portfolio in Germany - Solarbytes",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxPbUtyUTNSQzNaWGxZanlYRTJ5Njl4dXU1ekkzdEpzZUd0S0NiNkxOSmVkeU1MMjlNVG51LUhZTVlMZ2E4MDhLc1lHRmM0bkNlbkpmWXpndFdHU0gxdHl3endDelVXa0lmX3gtb1ZuUX",
+    "sources": [
+      {
+        "name": "jinko",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPbUtyUTNSQzNaWGxZanlYRTJ5Njl4dXU1ekkzdEpzZUd0S0NiNkxOSmVkeU1MMjlNVG51LUhZTVlMZ2E4MDhLc1lHRmM0bkNlbkpmWXpndFdHU0gxdHl3endDelVXa0lmX3gtb1ZuUXJuU1h2LXptcTcxcjZvdmpGbDlpV2RESHktaVJMeDQ5Ui1OVUdkOUhzSXBucHFWbURIQVNjWXRHUWRieFhnVE9Ic2dmQnNqY3lud01FdmNjLW5vanM?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-02-044",
+    "date": "2026-10-02",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "3 US Stocks Tied To Amazon Data Center Spending Worth Watching - Simply Wall Street",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxOQ25TaVl5U1FEVkFWa3Z5VklNSDZQa09DN1Z3dko1OUhGWnB4ZndvY0NuVDJBN0hPczRHbmZNQmtTY0tPLUNpeXJFNGZGdXpMV1FCZWpXV0o5XzFPMjcyZTBQVmVHZ2NtUzdmcFNrLV",
+    "sources": [
+      {
+        "name": "array",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOQ25TaVl5U1FEVkFWa3Z5VklNSDZQa09DN1Z3dko1OUhGWnB4ZndvY0NuVDJBN0hPczRHbmZNQmtTY0tPLUNpeXJFNGZGdXpMV1FCZWpXV0o5XzFPMjcyZTBQVmVHZ2NtUzdmcFNrLVFud0ZPSU5KVEtSSEdONVJvdWMzY3JyckE0emFwN0NGb09HMHFsZEFYa1JJMG1fRHYyUlAwVDliRDd2Z05NdkVEa3lMRHY1Zkk1N2FkSC1POHFHc3hMM3czdWY3OXJIQlFGdDlN0gHYAUFVX3lxTE9vOWxWVXllOWcyaVl1T19JSnFNNDVWOEJ0cm8xdlZ1TUhoYVU3SW9HTF9TZTQxN3VlVUt3REtHRnFqcnFOVDd5T1dtVEU3NE8tUi1LMHBjRy0yTGRENUdPNU96MUhBVmFXQUNTdTFSUHFGXzZZLWNrOWhJc0phM3RuTFJ5dksxQ3NPMVQxaG9hdjF0NkdCQlU0Q2hiRWpPV2hjN3liSGVmWTdNcGJ4SXJQOTNPLU5SMVVuSEJPQnUzeV80TkpiWlpnWnJPT1RCYXRmR2x0eDlrNQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-02-045",
+    "date": "2026-10-02",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "In case you missed it: Solar stories of the week",
+    "summary": "Five of most interesting solar news stories from this week.",
+    "sources": [
+      {
+        "name": "pv_magazine_usa",
+        "url": "https://pv-magazine-usa.com/2026/10/02/in-case-you-missed-it-solar-stories-of-the-week/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-02-046",
+    "date": "2026-10-02",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "How California’s latest climate and energy bills reshape the grid",
+    "summary": "The 2026 legislative session ended with a mixed bag for California’s clean energy sector, as Governor Gavin Newsom greenlit laws to expand VPPs and grid utilization but dealt a final blow to the legis",
+    "sources": [
+      {
+        "name": "pv_magazine_usa",
+        "url": "https://pv-magazine-usa.com/2026/10/02/how-californias-latest-climate-and-energy-bills-reshape-the-grid/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-02-047",
+    "date": "2026-10-02",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Enel buys seven solar plants in the U.S. for $140 million",
+    "summary": "The transaction is consistent with the Enel Group's strategy, which envisages accelerating the growth of its renewable generation capacity in Tier 1 countries.",
+    "sources": [
+      {
+        "name": "pv_magazine_usa",
+        "url": "https://pv-magazine-usa.com/2026/10/02/enel-compra-sette-impianti-solari-negli-usa-sul-piatto-140-milioni-di-dollari/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-02-048",
+    "date": "2026-10-02",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Ford backs a big new solar farm for its Michigan factories",
+    "summary": "<div class=\"feat-image\"><img src=\"https://electrek.co/wp-content/uploads/sites/3/2026/10/Cold-Creek-solar-park-Roncelli.jpg?quality=82&#038;strip=all&#038;w=1200\" /></div><p class=\"wp-block-paragraph\"",
+    "sources": [
+      {
+        "name": "electrek_solar",
+        "url": "https://electrek.co/2026/10/02/ford-backs-a-big-new-solar-farm-for-its-michigan-factories/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-02-049",
+    "date": "2026-10-02",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Pink light helps broccoli grow - Popular Science",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE1YcFpmXzJEQ0RLeHhtWTFtLUg3TWNiR3FJQTkydDRYQ3czN2w1bkl4QU1zYnJVOTgwM3dfUU52WmlMVktRVjU3QkZ5NTRTUUtibnNua2hPSzV3dlBfYkg4YkJHR09Kd1VWUFpBbTJqMn",
+    "sources": [
+      {
+        "name": "google_news_solar",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1YcFpmXzJEQ0RLeHhtWTFtLUg3TWNiR3FJQTkydDRYQ3czN2w1bkl4QU1zYnJVOTgwM3dfUU52WmlMVktRVjU3QkZ5NTRTUUtibnNua2hPSzV3dlBfYkg4YkJHR09Kd1VWUFpBbTJqMnh5NGk4?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-02-050",
+    "date": "2026-10-02",
+    "companies": [],
+    "topics": [
+      "installation_demand",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Six Flags brings new meaning to ‘solarcoaster’ with completed PV project",
+    "summary": "<p>Amusement park Six Flags Magic Mountain in Los Angeles County, California, has energized its 12.37-MW solar project, which was developed in collaboration with Solar Optimum. The project is the larg",
+    "sources": [
+      {
+        "name": "solar_power_world",
+        "url": "https://www.solarpowerworldonline.com/2026/10/six-flags-brings-new-meaning-to-solarcoaster-with-completed-pv-project/",
         "type": "rss"
       }
     ]
@@ -1683,6 +2036,66 @@
       {
         "name": "solar_power_world",
         "url": "https://www.solarpowerworldonline.com/2026/10/california-is-10th-state-to-legalize-balcony-solar/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "daqo-2026-10-01-053",
+    "date": "2026-10-01",
+    "companies": [
+      "daqo"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "DAQO New Energy (NYSE:DQ) Stock Moved Up to \"Hold\" by Zacks Research - marketbeat.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxONGxIc29yTFAwYkpjN3lyU291MlU1bG1ZUURoOUg5QzRMbG1CaFVYejJLaHlmR1pDNTJEdEdDZFBMV2hrdTNXMWFyNFYtZUNYMXJNWEpOSElkZVVMSkd0QlBVTGxEOE1aX05KdmU5S0",
+    "sources": [
+      {
+        "name": "daqo",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxONGxIc29yTFAwYkpjN3lyU291MlU1bG1ZUURoOUg5QzRMbG1CaFVYejJLaHlmR1pDNTJEdEdDZFBMV2hrdTNXMWFyNFYtZUNYMXJNWEpOSElkZVVMSkd0QlBVTGxEOE1aX05KdmU5S0pfa3BEa1pwMVFjcXFqWEhlNGlvcTRvUmNjeTU1WXZydDhDbmxmbGcwRTZ0YzZweTdMTnRHNG5zQkFST0ptRlc4U0gxX1U5cVdueHRPSEE1VTI0Rmhj?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "daqo-2026-10-01-054",
+    "date": "2026-10-01",
+    "companies": [
+      "daqo"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Return on assets % of Daqo New Energy Corp Sponsored ADR – HAN:5DQ2 - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxOZ3lLSlpLQmwxTGNNWWJLOEoxMFVjVkVzbU1XU0x2VHlQZHdjZ2paalhZbzFhenpZNElraF9PbWZZMWlBTVpLVlh0eWlLOGdSdXpCU2JoQ0dfVVBjUHZ0QXFzdW1BQ3pBeFpZSURmUm",
+    "sources": [
+      {
+        "name": "daqo",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZ3lLSlpLQmwxTGNNWWJLOEoxMFVjVkVzbU1XU0x2VHlQZHdjZ2paalhZbzFhenpZNElraF9PbWZZMWlBTVpLVlh0eWlLOGdSdXpCU2JoQ0dfVVBjUHZ0QXFzdW1BQ3pBeFpZSURmUmY2SVVjSWZoSHRoS1BNeGlXdnlVQUlPWklFNXVEY2s5cVdzd0UwckQ0cG9KTQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "jinko-2026-10-01-055",
+    "date": "2026-10-01",
+    "companies": [
+      "jinko"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "JinkoSolar faces securities fraud probe after r... - pluang.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxOZWJtSjY3RVViNXNjbHRBaE9RM2pMT2xYU2lneW9wTGthQ1BwNmRiVFp5WVRmb3VkUVBsVk9zUnhSc2VqU0JNbWlpbHhKVVRFY19qN001c2QtNmxqSmN5X2NZc2tJb0phUGxUUVFuNT",
+    "sources": [
+      {
+        "name": "jinko",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOZWJtSjY3RVViNXNjbHRBaE9RM2pMT2xYU2lneW9wTGthQ1BwNmRiVFp5WVRmb3VkUVBsVk9zUnhSc2VqU0JNbWlpbHhKVVRFY19qN001c2QtNmxqSmN5X2NZc2tJb0phUGxUUVFuNTJJX1lCQWdGUURXX3dGOFNNdXFYQUpQOTBlVnVmeXN3?oc=5",
         "type": "rss"
       }
     ]
@@ -3431,6 +3844,46 @@
     ]
   },
   {
+    "id": "daqo-2026-09-29-048",
+    "date": "2026-09-29",
+    "companies": [
+      "daqo"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "DAQO New Energy Corp. (NYSE:DQ) Stock Rated \"Reduce\" by Wall Street Analysts - marketbeat.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxPdjRlUE43dGx2WmtFVW9JMjhBMk9UVmFydjJ2RzllYk5NSzBIWEloek5kOUdYSFVPdFlCaWgzSTU1ZHRDMGRxckNUaFI4Zy12WlVoRjlMWGxCYlhvSmxvcGtjVEViSTZqMGs2N1p6Sl",
+    "sources": [
+      {
+        "name": "daqo",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPdjRlUE43dGx2WmtFVW9JMjhBMk9UVmFydjJ2RzllYk5NSzBIWEloek5kOUdYSFVPdFlCaWgzSTU1ZHRDMGRxckNUaFI4Zy12WlVoRjlMWGxCYlhvSmxvcGtjVEViSTZqMGs2N1p6SllOQk5EMGFBNTB0REpKcFhxS05JVk9UUTBnakRRZTRqdGhkVDUxcHJobU41MHNqYUJab1ZVamRIWjFoQm1NYU5LcGlXMmFuN1JKc1lEVXpIcUpnVlpkRkZJT2lNUGJSWnll?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "jinko-2026-09-29-049",
+    "date": "2026-09-29",
+    "companies": [
+      "jinko"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "JinkoSolar (NYSE:JKS) Reaches New 1-Year Low - What's Next? - marketbeat.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxOWUJPcVUzMV9odTlxYnZ3N2l5ZVZET2VQMjNHcHBMb055NmRaUXFEZW9Vcl8tb1M2Z2hTNUs4TkM2ODl1cldza29UemFGSjBFWEtnTHk0cFJvNFp0elFMSkI2aFAySnhKSm9Fdk1OZ2",
+    "sources": [
+      {
+        "name": "jinko",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOWUJPcVUzMV9odTlxYnZ3N2l5ZVZET2VQMjNHcHBMb055NmRaUXFEZW9Vcl8tb1M2Z2hTNUs4TkM2ODl1cldza29UemFGSjBFWEtnTHk0cFJvNFp0elFMSkI2aFAySnhKSm9Fdk1OZ2VKSERkNXpjUVIyczZueVRkYTJEZ1pvNHQ2eEVMM0NFTU5sU0x0c2NyRkpZTzl4RmFaUDBrdlVXSFYxaDJJenFSVEs5dw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "trina-2026-09-28-001",
     "date": "2026-09-28",
     "companies": [
@@ -4092,6 +4545,26 @@
       {
         "name": "cleantechnica",
         "url": "https://cleantechnica.com/2026/09/28/the-human-cost-of-data-center-pollution/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "daqo-2026-09-28-037",
+    "date": "2026-09-28",
+    "companies": [
+      "daqo"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "DAQO New Energy (NYSE:DQ) Hits New 1-Year Low - Should You Sell? - marketbeat.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxNWlduQlRZNzBpc2FTUmZGN2dpMHdaQkdPX25ZNFV0MXMwMWstRDd3WXF3U2JYbTRhbUZrRHdKbk9abFY1RUFHME5BUE5wLVA3WkhhMHBqbzU5TTlRaFFXdHg3ajBvYUVDSXU5RHFIWj",
+    "sources": [
+      {
+        "name": "daqo",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNWlduQlRZNzBpc2FTUmZGN2dpMHdaQkdPX25ZNFV0MXMwMWstRDd3WXF3U2JYbTRhbUZrRHdKbk9abFY1RUFHME5BUE5wLVA3WkhhMHBqbzU5TTlRaFFXdHg3ajBvYUVDSXU5RHFIWjFGaV9zdHR0cENkanR1WUdFZ3BBVnVuRUFldEhtN1FvdjZnV2pEb2ZsVE1aOUNlV20xX3c5VWl1UzF4dm81UE5HbFJRWm5OVDF2WXhR?oc=5",
         "type": "rss"
       }
     ]

@@ -1,0 +1,166 @@
+{
+  "date": "2026-10-03",
+  "generated_at": "2026-10-03T12:50:21.583647Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-10-03-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "(NXT) Movement as an Input in Quant Signal Sets - Stock Traders Daily",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQRUZpNXhvQkxCazZ5WWN4NXA1RGpBclBCdnhqdGoxNi1MQk1WMXZTQjVvem9XbHJqSmxob19uX1FPTllHNkFvQlB4NUREckNiYlpkeFFJY1VReTUxa3JTNUh1dEhkbXRlc25IcVhiVUgtTkptZ3lPVkhNb2Q2SGpuM280QkduMTUwYWp0bm1wMk5oM2ktYWdQcWZqWkl0bC1XRmh6WHhzRlBEenlRMEdhMUNsaV9QNGhCN01HRWRJUGhsYWc?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-10-03-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Brazil hits 56 GW of connection headroom for battery auctions",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.pv-magazine.com/2026/10/03/brazil-hits-56-gw-of-connection-headroom-for-battery-auctions/"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-10-03-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "The case for railway-integrated solar in South Korea",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.pv-magazine.com/2026/10/03/the-case-for-railway-integrated-solar-in-south-korea/"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-10-03-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Middle market momentum",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://www.pv-magazine.com/2026/10/03/middle-market-momentum/"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-10-03-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "St. Saviour's Blesses Solar Panels: A Step Towards Sustainability - Bar Harbor Story",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPVUxldXF5RWlMNE53ZWFEZWhoWWtrNGgxaUhpd3UtcmFWbDNmbXQ5a3htemRLQXNWUTh2RVlfNFRiNy1semY3aDlFTFo2Rk9FVnktbmlDLVZVcWU0RmxnWEludmRzUUxmMmdPQV9hOThCa3d5U2xLSWJDN3dFcjRWa2lGWGVfeERSeXRMb1lVU0NEUFRlSk5kWGE4M00?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 7,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.21,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 7,
+    "sentiment_distribution": {
+      "positive": 3,
+      "neutral": 4,
+      "negative": 0
+    },
+    "top_companies": [],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 7
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 427,
+    "dup_title": 220,
+    "too_old": 136,
+    "gate1_blocked": 42,
+    "gate2_blocked": 4,
+    "passed": 25,
+    "pass_rate": "12.1%",
+    "gate2_block_rate": "1.9%",
+    "gate2_samples": [
+      "Array Technologies Is Maintained at Neutral by Piper Sandler - Moomoo",
+      "Jefferies Maintains Array Technologies(ARRY.US) With Buy Rating, Cuts Target Price to $7 - Moomoo",
+      "Array Technologies (ARRY) HR chief receives shares as stock awards vest; 8,955 shares are withheld f",
+      "The world’s tallest wind turbine just reached 1,197 feet"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 7 則事件，焦點為太陽能產業通用相關動態：「(NXT) Movement as an Input in Quant Signal Sets - Stock T...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "(NXT) Movement as an Input in Quant Signal Sets - Stock Traders Daily（太陽能產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "Brazil hits 56 GW of connection headroom for battery auctions（太陽能產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

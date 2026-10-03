@@ -1,0 +1,15 @@
+{
+  "total_raw": 427,
+  "dup_title": 220,
+  "no_date": 0,
+  "too_old": 136,
+  "gate1_fail": 42,
+  "gate2_fail": 4,
+  "passed": 25,
+  "gate2_samples": [
+    "Array Technologies Is Maintained at Neutral by Piper Sandler - Moomoo",
+    "Jefferies Maintains Array Technologies(ARRY.US) With Buy Rating, Cuts Target Price to $7 - Moomoo",
+    "Array Technologies (ARRY) HR chief receives shares as stock awards vest; 8,955 shares are withheld f",
+    "The world’s tallest wind turbine just reached 1,197 feet"
+  ]
+}
