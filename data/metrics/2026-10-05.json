@@ -1,0 +1,51 @@
+{
+  "date": "2026-10-05",
+  "total_events": 37,
+  "by_company": {
+    "first_solar": {
+      "count": 7,
+      "sentiment_avg": 0.0
+    },
+    "ja_solar": {
+      "count": 6,
+      "sentiment_avg": 0.0
+    },
+    "jinko": {
+      "count": 2,
+      "sentiment_avg": -0.5
+    },
+    "array": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "industry_general": {
+      "count": 35,
+      "sentiment_avg": -0.03
+    },
+    "installation_demand": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "trade_tariff": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": [
+    {
+      "from": "first_solar",
+      "to": "ja_solar",
+      "relation": "co_mention",
+      "co_mention_count": 6,
+      "topics": [
+        "industry_general"
+      ]
+    }
+  ]
+}

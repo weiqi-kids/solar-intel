@@ -1,0 +1,249 @@
+{
+  "date": "2026-10-05",
+  "generated_at": "2026-10-05T16:33:58.853590Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "first_solar-2026-10-05-001",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "First Solar sues JA Solar and American Panel Solutions over TOPCon patents - pv magazine USA",
+      "companies": [
+        "first_solar",
+        "ja_solar"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQaXM2YU90bGtTRWVqQlVoczdxWG9BSzhCY1NORUVhSVE1NlRqMkhhMThCNnQxcl9FMVIybi1kaURsWHFYeVJDUnZzVFNCU2pTVTg1eUZsUXBOZHNLM3ZDcFJjQW95eVVRYjFQRzdGbUljR2QxZXY5RmdmTjdXbUxwQzVhYVBEV3pNZnRhb0pFMGc3Uktid0U5alFBUHNDTGYyTEtSckpFRk5DWDBmR0ZHMG5URlY?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "first_solar-2026-10-05-002",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "First Solar files TOPCon patent infringement lawsuit against JA Solar, American Panel Solutions - solarpowerworldonline.com",
+      "companies": [
+        "first_solar",
+        "ja_solar"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOQkVkX2R2TmRFZC1mcW1DWlFKQjN1YUNDcmhQTVBiZDFaMl9MWlJzVlhtOVdLX1czcXdNa3VjQTZ1OFlkeG5ScHNVbm5rQ1ZJaVpoY2ViQnZVck4zTVNsQ0lWTDFCdHh1VlJWVXZEN1dXZ0s3dmpfbVFId29oVlc0TU5oOHBGVjBXYXlvbWVOMWtNdkhkUmYtLTByQVpvbHZueVd6Vnhyamh3V28wVVkzbXkxNjN4Q2tYODZlMlVueFR3UW11UExEOVZ2ZVQ3cEdOX2pOR2wzTFU?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "first_solar-2026-10-05-003",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "First Solar Files TOPCon Patent Lawsuit Against JA Solar and American Panel Solutions - News and Statistics - IndexBox",
+      "companies": [
+        "first_solar",
+        "ja_solar"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPenBZRzdOVmx0MDFuMVpfZlRWd1FKemx6OGg4RUMtSlZRUmVTTE9PZU5rWDJudTlZbjV2clR6d3dEbjdfblJyU3VhR2tUd1VPZjBpU2hYTlM5T1hJYmN0dGx2V09OZWREX1BFOGhFVlBGX083Q0hKekFBdmdKdmhKQmxPSUhzWVkyQi1iR0syMndpLS10RmxGYi0xUmhtcEFaV01WYk9R?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "first_solar-2026-10-05-004",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "First Solar Files Patent Infringement Case Against JA Solar, American Panel - Mercomindia.com",
+      "companies": [
+        "first_solar",
+        "ja_solar"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPdEVCV3hHWWJKQzhiSnhpcVppcnE2RkVUNFVPWExNbkJtNGZTQWVVbG1SVnhvbmtpYW14V2RMR3czYWVSejNzbkJlWE54d3JMS2hLYzhvTWNmVGNBX3ZlQVV3a0tadkc1WlBQcFFkaTU3M0hqTTlueExldWhVSFd5M3pIVFpQR1pLSEZfOU9NYTQxbjFNVUNhbE9FaE82VGs0MWc5MA?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "first_solar-2026-10-05-010",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "First Solar sues JA Solar and American Panel Solutions over TOPCon patents",
+      "companies": [
+        "first_solar",
+        "ja_solar"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.pv-magazine.com/2026/10/05/first-solar-sues-ja-solar-and-american-panel-solutions-over-topcon-patents/"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 35,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.03,
+      "sentiment_7d_avg": null
+    },
+    "installation_demand": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "trade_tariff": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [
+    {
+      "from": "first_solar",
+      "to": "ja_solar",
+      "relation": "co_mention",
+      "co_mention_count": 6,
+      "topics": [
+        "industry_general"
+      ]
+    }
+  ],
+  "stats": {
+    "total_events": 37,
+    "sentiment_distribution": {
+      "positive": 3,
+      "neutral": 31,
+      "negative": 3
+    },
+    "top_companies": [
+      {
+        "id": "first_solar",
+        "count": 7
+      },
+      {
+        "id": "ja_solar",
+        "count": 6
+      },
+      {
+        "id": "jinko",
+        "count": 2
+      },
+      {
+        "id": "array",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 35
+      },
+      {
+        "id": "installation_demand",
+        "count": 1
+      },
+      {
+        "id": "trade_tariff",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 424,
+    "dup_title": 176,
+    "too_old": 153,
+    "gate1_blocked": 46,
+    "gate2_blocked": 3,
+    "passed": 46,
+    "pass_rate": "18.5%",
+    "gate2_block_rate": "1.2%",
+    "gate2_samples": [
+      "Array Technologies Is Maintained at Neutral by Piper Sandler - Moomoo",
+      "Jefferies Maintains Array Technologies(ARRY.US) With Buy Rating, Cuts Target Price to $7 - Moomoo",
+      "The world’s tallest wind turbine just reached 1,197 feet"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 37 則事件，焦點為First Solar、晶澳科技、晶科能源相關動態：「First Solar sues JA Solar and American Panel Solutions ov...」。主要關注主題為太陽能產業通用、裝機需求、貿易關稅，市場情緒中性。",
+    "signals": [
+      {
+        "text": "First Solar sues JA Solar and American Panel Solutions over TOPCon patents - ...（太陽能產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "First Solar files TOPCon patent infringement lawsuit against JA Solar, Americ...（太陽能產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "裝機需求持續受關注，產業趨勢帶動需求成長。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
