@@ -1,0 +1,16 @@
+{
+  "total_raw": 404,
+  "dup_title": 188,
+  "no_date": 0,
+  "too_old": 137,
+  "gate1_fail": 27,
+  "gate2_fail": 5,
+  "passed": 47,
+  "gate2_samples": [
+    "Trina Storage's Hybrid Genset For US AIDCs - TaiyangNews",
+    "Array Technologies, Inc. (ARRY) Stock Sinks As Market Gains: Here's Why - Yahoo Finance",
+    "Array Technologies Is Maintained at Neutral by Piper Sandler - Moomoo",
+    "German startup offers AI platform to accelerate battery storage engineering",
+    "Spain and Portugal record Europe’s highest number of hours with negative electricity prices in Q2"
+  ]
+}
