@@ -1,0 +1,14 @@
+{
+  "total_raw": 403,
+  "dup_title": 202,
+  "no_date": 0,
+  "too_old": 126,
+  "gate1_fail": 25,
+  "gate2_fail": 3,
+  "passed": 47,
+  "gate2_samples": [
+    "Trina Storage's Hybrid Genset For US AIDCs - TaiyangNews",
+    "Array Technologies, Inc. (ARRY) Stock Sinks As Market Gains: Here's Why - Yahoo Finance",
+    "The U.S. market is writing its own sodium-ion spec"
+  ]
+}

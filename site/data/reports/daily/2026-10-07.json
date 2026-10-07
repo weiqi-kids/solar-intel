@@ -1,0 +1,212 @@
+{
+  "date": "2026-10-07",
+  "generated_at": "2026-10-07T14:52:30.874606Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "daqo-2026-10-07-004",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Daqo New Energy stock reports a USD 1.20 Q2 loss - AD HOC NEWS",
+      "companies": [
+        "daqo"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNeEhfd1NKYkZJX2dIcmtHN0JnREZoM3J2S1ItUTNsNEtqM3ZJVmlhYW9LZUswRUxYeWdkS3BGT0pFaXRsT3N1YVlBQ2hjTnZVcHpvaUloX1ZEZ0R5b0NTS0VTbTBtX2dLUGpoNEtiTG9wY2xSLWhyaEI4TTRJWlozRlNZUFpVb2c3Q3ZCRnptek1hVzItNnpwWmZpWnc3SDh3OEhfdzlOUS1Ddms?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-10-07-025",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Chinese ESS shipments still growing strongly but financial performance starting to diverge",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://www.energy-storage.news/chinese-ess-shipments-still-growing-strongly-but-financial-performance-starting-to-diverge/"
+    },
+    {
+      "rank": 3,
+      "event_id": "xinyi_solar-2026-10-07-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Xinyi Solar stock reports a 94.8 percent profit collapse - AD HOC NEWS",
+      "companies": [
+        "xinyi_solar"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOZnZUM3k3VTRuMlBUcWM4MlR6TDBNb3pVekwtSlk5SW1oY1dOYk1zbm1HdHpvUThRRm5tcE9VSXJNNjU2WWdDRlVVanZ4NHpSckhyV0YzTFFvTS1ERFBQSUZ3SlNGWjY0M3JYT1VwUHdZR1RRQVZZRE0tTkZCdDFITVp4SFU5WmM2NUR2U0gwVmxvLU1qeFVmc3l6VzVTa2RPc2MtTWdzU2UwUm10ejBDRC1DZy1hZw?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "xinyi_solar-2026-10-07-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Fintel raises target for Xinyi Solar stock to HKD 3.42 - AD HOC NEWS",
+      "companies": [
+        "xinyi_solar"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQNUtHUjliN2NvcVFDMld4b0FJYTVyZzhkM1JKYmF5TGh4eUZwdGR1T3FabGFrYWZyZnE2WU8wZ1pHY3ozMzd3aXJsWTBnbXJ4cmpYRllNMmdVdUl3ajUyWTdjRkpIQWhLdC13cUhIVjFuU19LN0U5QzY4ZVViZnV6RUM0U3hhUE1LeUFlTXNrZTNEOXVaVmpZNk9FeG5fTVJjN25fRmQwMVA0ZW1CNVYxZXo5UQ?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "daqo-2026-10-07-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Zacks upgrades Daqo New Energy stock to Hold - AD HOC NEWS",
+      "companies": [
+        "daqo"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPcDVrc0pmRHEtVnp6amhSOHJrekhlZTFpdHNqSGFhQ2c4Zm5kRE9PV29NWWM5YzJoUlptZmY1d1dGcG11c2RwOV9rS2pqRTRfX0ZRX0ZPUkVsV1VPUDgxWVNTcng5VWY5LWQzSVBEVy1OWUlxV21TdUlKZkNDMnA1aDNsaGQxTkc3MkVlT2xzMnYtcDdBMWlSdF83QzhDLXQ5bzg3OXJR?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 29,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.04,
+      "sentiment_7d_avg": null
+    },
+    "installation_demand": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 29,
+    "sentiment_distribution": {
+      "positive": 4,
+      "neutral": 23,
+      "negative": 2
+    },
+    "top_companies": [
+      {
+        "id": "xinyi_solar",
+        "count": 2
+      },
+      {
+        "id": "daqo",
+        "count": 2
+      },
+      {
+        "id": "longi",
+        "count": 1
+      },
+      {
+        "id": "array",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 29
+      },
+      {
+        "id": "installation_demand",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 403,
+    "dup_title": 202,
+    "too_old": 126,
+    "gate1_blocked": 25,
+    "gate2_blocked": 3,
+    "passed": 47,
+    "pass_rate": "23.4%",
+    "gate2_block_rate": "1.5%",
+    "gate2_samples": [
+      "Trina Storage's Hybrid Genset For US AIDCs - TaiyangNews",
+      "Array Technologies, Inc. (ARRY) Stock Sinks As Market Gains: Here's Why - Yahoo Finance",
+      "The U.S. market is writing its own sodium-ion spec"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 29 則事件，焦點為信義光能、大全新能源、隆基綠能相關動態：「Daqo New Energy stock reports a USD 1.20 Q2 loss - AD HOC...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Daqo New Energy stock reports a USD 1.20 Q2 loss - AD HOC NEWS（太陽能產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "Chinese ESS shipments still growing strongly but financial performance starti...（太陽能產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "裝機需求持續受關注，產業趨勢帶動需求成長。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
