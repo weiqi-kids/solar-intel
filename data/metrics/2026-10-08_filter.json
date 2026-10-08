@@ -1,0 +1,16 @@
+{
+  "total_raw": 403,
+  "dup_title": 204,
+  "no_date": 0,
+  "too_old": 127,
+  "gate1_fail": 23,
+  "gate2_fail": 6,
+  "passed": 43,
+  "gate2_samples": [
+    "DAQO New Energy (NYSE:DQ) Hits New 12-Month Low - Here's Why - MarketBeat",
+    "Daqo New Energy Corp. (DQ) options chain - Yahoo Finance UK",
+    "Trina Storage's Hybrid Genset For US AIDCs - TaiyangNews",
+    "Client Feature: Affordable Wire Management Joins ARRAY Technologies | Mintz - Energy & Sustainabilit",
+    "Implied Volatility Surging for Array Technologies Stock Options - Yahoo Finance"
+  ]
+}
