@@ -1,0 +1,16 @@
+{
+  "total_raw": 404,
+  "dup_title": 213,
+  "no_date": 0,
+  "too_old": 125,
+  "gate1_fail": 25,
+  "gate2_fail": 9,
+  "passed": 32,
+  "gate2_samples": [
+    "DAQO New Energy (NYSE:DQ) Hits New 12-Month Low - Here's Why - MarketBeat",
+    "Daqo New Energy Corp. (DQ) options chain - Yahoo Finance UK",
+    "LONGi reports CNY 3.68 billion H1 loss: 16 analysts rate LONGi stock - AD HOC NEWS",
+    "RBC Capital Adjusts Array Technologies Price Target to $5 From $9, Maintains Sector Perform Rating -",
+    "Client Feature: Affordable Wire Management Joins ARRAY Technologies | Mintz - Energy & Sustainabilit"
+  ]
+}

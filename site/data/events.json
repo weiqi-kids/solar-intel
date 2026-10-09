@@ -1,5 +1,437 @@
 [
   {
+    "id": "unknown-2026-10-09-001",
+    "date": "2026-10-09",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "LGI to buy 42MW of operational solar PV plants in Australia and lifts pipeline target to 120MW - PV Tech",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxQLTV1ZEplSkM4REZHYmFmVWZqVVM2NS1LRnAtY0pzeXBVRDNvUDZ5eU9RbEVsblFNUWZ0eDRsMzJkVXpnRk85LUVWV3V2cEtuZXI2bEtRdk1HdnVGMEs3Y2VRblpYZHd1QTRSS25xU3",
+    "sources": [
+      {
+        "name": "risen",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQLTV1ZEplSkM4REZHYmFmVWZqVVM2NS1LRnAtY0pzeXBVRDNvUDZ5eU9RbEVsblFNUWZ0eDRsMzJkVXpnRk85LUVWV3V2cEtuZXI2bEtRdk1HdnVGMEs3Y2VRblpYZHd1QTRSS25xU3JlZ2o4MFhjd1F2RnhuZE1lam5VbUlMLVJYaW1xZE5QZ1JuSlFGU1pLWFB6ajgtMnJYSExyYnNwQ0pwaWRsbzA0VlFXOW1kei1CMWVZ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-09-002",
+    "date": "2026-10-09",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "The Hydrogen Stream: Dutch researchers calculate green H2 costs as low as €7.2/kg",
+    "summary": "<p>Researchers at the University of Groningen have calculated green hydrogen production costs of €7.2/kg to €7.3/kg using renewable power purchase agreements and hybrid electricity supply configuratio",
+    "sources": [
+      {
+        "name": "pv_magazine",
+        "url": "https://www.pv-magazine.com/2026/10/09/the-hydrogen-stream-dutch-researchers-calculate-green-h2-costs-as-low-as-e7-2-kg/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-09-003",
+    "date": "2026-10-09",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Prices drive Pakistan’s metered solar, outages drive hidden uptake",
+    "summary": "<p>A new study finds that Pakistan's net-metering capacity is concentrated in the best-served, higher-income utility areas, while much of the country's solar sits unregistered, off-grid and behind the",
+    "sources": [
+      {
+        "name": "pv_magazine",
+        "url": "https://www.pv-magazine.com/2026/10/09/prices-drive-pakistans-metered-solar-outages-drive-hidden-uptake/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-09-004",
+    "date": "2026-10-09",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "Isaias ends historic Atlantic hurricane lull after sunny southern summer",
+    "summary": "<p>In a new weekly update for <b>pv magazine</b>, Solcast, a DNV company, reports that an unusually quiet Atlantic hurricane season brought 10–20% above-average solar irradiance to Mexico and the sout",
+    "sources": [
+      {
+        "name": "pv_magazine",
+        "url": "https://www.pv-magazine.com/2026/10/09/isaias-ends-historic-atlantic-hurricane-lull-after-sunny-southern-summer/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-09-005",
+    "date": "2026-10-09",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "Spanish researchers reduce losses in organic solar cells by restricting emission angle",
+    "summary": "<p>Spanish researchers have developed an optical cavity that reduces Boltzmann losses in organic solar cells by restricting photon emission angles. The approach could help push single-junction solar c",
+    "sources": [
+      {
+        "name": "pv_magazine",
+        "url": "https://www.pv-magazine.com/2026/10/09/spanish-researchers-reduce-losses-in-organic-solar-cells-by-restricting-the-emission-angle/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-09-006",
+    "date": "2026-10-09",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "China wafer prices hold steady amid divergent output plans and looming polysilicon cuts",
+    "summary": "<p>In a new weekly update for <b>pv magazine</b>, OPIS, a Dow Jones company, provides a quick look at the main price trends in the global PV industry.</p>\n<p>The post <a href=\"https://www.pv-magazine.",
+    "sources": [
+      {
+        "name": "pv_magazine",
+        "url": "https://www.pv-magazine.com/2026/10/09/china-wafer-prices-hold-steady-amid-divergent-output-plans-and-looming-polysilicon-cuts/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-09-007",
+    "date": "2026-10-09",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Jackery steps into RVs with built-in 2 kW solar and 45 kWh storage",
+    "summary": "<p>All-electric trailers already embrace solar and storage, but the work is getting more custom. </p>\n<p>The post <a href=\"https://www.pv-magazine.com/2026/10/09/jackery-steps-into-rvs-with-built-in-2",
+    "sources": [
+      {
+        "name": "pv_magazine",
+        "url": "https://www.pv-magazine.com/2026/10/09/jackery-steps-into-rvs-with-built-in-2-kw-solar-and-45-kwh-storage/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-09-008",
+    "date": "2026-10-09",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "European storage inventories on the rise",
+    "summary": "<p>In an interview with <b>pv magazine</b>, Ali Arfa, analyst at EUPD Research, said China’s dominance of the global battery supply chain is unlikely to change significantly over the next two years. H",
+    "sources": [
+      {
+        "name": "pv_magazine",
+        "url": "https://www.pv-magazine.com/2026/10/09/european-storage-inventories-on-the-rise/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-09-009",
+    "date": "2026-10-09",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Plug-in PV is growing – are regulations keeping pace?",
+    "summary": "<p>Plug-in solar PV and compact battery storage are expanding access to solar energy, but differing national regulations raise challenges around electrical safety, certification and consumer protectio",
+    "sources": [
+      {
+        "name": "pv_magazine",
+        "url": "https://www.pv-magazine.com/2026/10/09/plug-in-pv-is-growing-are-regulations-keeping-pace/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-09-010",
+    "date": "2026-10-09",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "PowerChina switches on 1 GW PV-CSP hybrid plant in northwestern China",
+    "summary": "<p>PowerChina has completed grid connection of a 1 GW hybrid solar project in Qinghai province, China. The facility combines 900 MW of solar PV capacity with a 100 MW concentrated solar power (CSP) pl",
+    "sources": [
+      {
+        "name": "pv_magazine",
+        "url": "https://www.pv-magazine.com/2026/10/09/powerchina-switches-on-1-gw-pv-csp-hybrid-plant-in-northwestern-china/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-09-011",
+    "date": "2026-10-09",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "Project financing roundup: Clearway begins construction, Pivot Energy closes loan",
+    "summary": "Two recent solar project financing announcements from leading developers represent nearly 800 megawatts in operating and upcoming solar capacity across the country.",
+    "sources": [
+      {
+        "name": "pv_magazine_usa",
+        "url": "https://pv-magazine-usa.com/2026/10/09/project-financing-roundup-clearway-begins-construction-pivot-energy-closes-loan/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-09-012",
+    "date": "2026-10-09",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "ContourGlobal breaks ground on 509 MW solar-plus-storage project in Arizona",
+    "summary": "The developer will supply more than 1 TWh of clean electricity annually to Tesla under a long-term corporate power purchase agreement.",
+    "sources": [
+      {
+        "name": "pv_magazine_usa",
+        "url": "https://pv-magazine-usa.com/2026/10/09/contourglobal-breaks-ground-on-509-mw-solar-plus-storage-project-in-arizona/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-09-013",
+    "date": "2026-10-09",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "More than 70% of announced U.S. solar manufacturing expansion plans yet to be financed",
+    "summary": "Forecasted capital expenditure for new U.S. solar manufacturing expansions for 2027 reflects a hesitant financing climate, with Tesla’s Texas plans having the potential to rocket boost the entire sect",
+    "sources": [
+      {
+        "name": "pv_magazine_usa",
+        "url": "https://pv-magazine-usa.com/2026/10/09/more-than-70-of-announced-u-s-solar-manufacturing-expansion-plans-yet-to-be-financed/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-09-014",
+    "date": "2026-10-09",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Thermal energy storage delivers industrial heat but can solve grid issues too",
+    "summary": "A recent IEA report proposed a 35% global electrification target by 2035 was in “striking distance” thanks to existing commercial technologies such as electric vehicles and battery storage systems but",
+    "sources": [
+      {
+        "name": "pv_magazine_usa",
+        "url": "https://pv-magazine-usa.com/2026/10/09/thermal-energy-storage-delivers-industrial-heat-but-can-solve-grid-issues-too/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-09-015",
+    "date": "2026-10-09",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Voltus raises $225 million in anticipation of 20 GW demand flexibility portfolio",
+    "summary": "The company expects its current portfolio of more than 8.5 GW in distributed energy resources under management to more than double by the end of the decade. Based on the results of its latest funding ",
+    "sources": [
+      {
+        "name": "pv_magazine_usa",
+        "url": "https://pv-magazine-usa.com/2026/10/09/voltus-raises-225-million-in-anticipation-of-20-gw-demand-flexibility-portfolio/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-09-016",
+    "date": "2026-10-09",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Wheel-E Podcast: 7-seater e-bike, solar-powered scooter, more",
+    "summary": "<div class=\"feat-image\"><img src=\"https://electrek.co/wp-content/uploads/sites/3/2022/05/wheel-e-podcast.jpg?quality=82&#038;strip=all&#038;w=1600\" /></div><p class=\"wp-block-paragraph\">This week on <",
+    "sources": [
+      {
+        "name": "electrek_solar",
+        "url": "https://electrek.co/2026/10/09/wheel-e-podcast-7-seater-e-bike-solar-powered-scooter-more/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-09-017",
+    "date": "2026-10-09",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Study finds robotic solar cleaning can scour away protective coatings when dust builds - The Cool Down",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxPV1hqOW5tWU9KVGJuZW1uRlEyRDN2WFcydE05QnJLYnJycl9jTUl1TjdKMXpnSWEtU3k1d3kwUmtqcjl2OVE4dzdCV1Q1UWVmYzZocnRCTnI1WXVod25zN3o5OXpmY2d6UXJQRWYwX2",
+    "sources": [
+      {
+        "name": "google_news_solar",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPV1hqOW5tWU9KVGJuZW1uRlEyRDN2WFcydE05QnJLYnJycl9jTUl1TjdKMXpnSWEtU3k1d3kwUmtqcjl2OVE4dzdCV1Q1UWVmYzZocnRCTnI1WXVod25zN3o5OXpmY2d6UXJQRWYwX2dHcnVIOEtWSXJ6Q3FsVTM3MDYyQkRjX3hm?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-09-018",
+    "date": "2026-10-09",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Toyo completes expansion of solar module manufacturing facility in Humble - Community Impact Newspaper",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxNUEVkVmYycmlfWWNrbkF5SW1IX0ZSTHU0TmVoeEZxQmFnWjh6V2dEbUlmckxLOHVucHVmMm4wM3VvbEhTU3hnVmxnZkNfNkxpRW9OZkpIU3ltTm9HR0J0WlB1ZEdFeElLajMtX1VsVU",
+    "sources": [
+      {
+        "name": "google_news_solar",
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNUEVkVmYycmlfWWNrbkF5SW1IX0ZSTHU0TmVoeEZxQmFnWjh6V2dEbUlmckxLOHVucHVmMm4wM3VvbEhTU3hnVmxnZkNfNkxpRW9OZkpIU3ltTm9HR0J0WlB1ZEdFeElLajMtX1VsVUpiNjA5OGYtYWtwX0FJSnNmREJFaXZoLXg3bFhYdk9wZk1QMENQbW5TSkIxUmxpUUpHUWtVLVVNUmNEVUthLVc2Q2hyUjRMdHN4QnZENW9WVGdyZkZYZkljUk5wMWM4d2pnUnplTW5hNA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-09-019",
+    "date": "2026-10-09",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "PowerChina switches on 1 GW PV-CSP hybrid plant in northwestern China - pv magazine Global",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxQSDVlbkxUaGxHSEVVY0VYVUhzcGZyRGRVRnIxSlN0WjNFbTN6a0NmVVJSN3pOdERVandiQTlWbFBiQ0pKTU9iVVhWaEdrYzJ5MjlyWWxVZ2ZFRjlxNGpMbF9Rbk1TVWowOEZfUTZ5MW",
+    "sources": [
+      {
+        "name": "google_news_solar",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQSDVlbkxUaGxHSEVVY0VYVUhzcGZyRGRVRnIxSlN0WjNFbTN6a0NmVVJSN3pOdERVandiQTlWbFBiQ0pKTU9iVVhWaEdrYzJ5MjlyWWxVZ2ZFRjlxNGpMbF9Rbk1TVWowOEZfUTZ5MWprS2tqb285dlJqUUt3WXdfN256a0NEZU1vQk52VFpCVERxZlNnUHhXcFJLV2hkUTBxMzdGdmNzV3ZOY1pMVXc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-09-020",
+    "date": "2026-10-09",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "India ALMM List-II 12th Revision: Gopin Semicon Added, Capacity Reaches 37.8GW - News and Statistics - IndexBox",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxNcWVmZERLTlR6WUlENlV5WHhLZUVrLWhNWVFTUjFwd3JwYTdfVllSM0tjRU9NeWJ5c1lxeVQ4VHlZOFNWVGo5ZzFkdUJZb3lOWTRGWFQyYkZIYTR6MVhJTHI4bHNLNTJWQmpUd2d1em",
+    "sources": [
+      {
+        "name": "google_news_solar",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNcWVmZERLTlR6WUlENlV5WHhLZUVrLWhNWVFTUjFwd3JwYTdfVllSM0tjRU9NeWJ5c1lxeVQ4VHlZOFNWVGo5ZzFkdUJZb3lOWTRGWFQyYkZIYTR6MVhJTHI4bHNLNTJWQmpUd2d1emNaUkEzXzdhcmZwTVNLV1NyNWUybms1YVdlTWpnc0RpaHpfWEptVkFTTFNrNnZEODZkdlBSWVBmQUdtanFveno5enR3?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-09-021",
+    "date": "2026-10-09",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "South Africa pursues 4.6GW of battery storage deployments in Integrated Resource Plan",
+    "summary": "South Africa’s government has put battery storage and power-to-gas technologies at the heart of the national long-term electricity supply and demand strategy.",
+    "sources": [
+      {
+        "name": "energy_storage_news",
+        "url": "https://www.energy-storage.news/south-africa-pursues-4-6gw-of-battery-storage-deployments-in-integrated-resource-plan/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-09-022",
+    "date": "2026-10-09",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Finland: BESS acquisition, construction and optimisation news from Usva Energia, Nala Renewables, Centrica and Olana Energy",
+    "summary": "Finland is the Nordic region’s most-talked-about market for the moment, with project deals and other battery storage development activity from local and international players.  ",
+    "sources": [
+      {
+        "name": "energy_storage_news",
+        "url": "https://www.energy-storage.news/finland-bess-usva-energia-nala-renewables-centrica-olana-energy-acquisition-construction-optimisation-news/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-09-023",
+    "date": "2026-10-09",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "IEA: Thermal energy storage key to industrial heat electrification that could cut EU gas demand by 35 bcm annually",
+    "summary": "Electrifying low-temperature industrial heat and steam processes with renewables could reduce European Union natural gas consumption by 35 billion cubic metres-per-year, according to a report from the",
+    "sources": [
+      {
+        "name": "energy_storage_news",
+        "url": "https://www.energy-storage.news/iea-thermal-energy-storage-key-to-industrial-heat-electrification-that-could-cut-eu-gas-demand-by-35-bcm-annually/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-09-024",
+    "date": "2026-10-09",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Mint Renewables wins planning approval for 800MWh battery storage system in Western Australia",
+    "summary": "Mint Renewables has received planning approval for an 800MWh battery energy storage system (BESS) near Kojonup in Western Australia.",
+    "sources": [
+      {
+        "name": "energy_storage_news",
+        "url": "https://www.energy-storage.news/mint-renewables-wins-planning-approval-for-800mwh-battery-storage-system-in-western-australia/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "daqo-2026-10-08-001",
     "date": "2026-10-08",
     "companies": [
@@ -567,6 +999,116 @@
       {
         "name": "energy_storage_news",
         "url": "https://www.energy-storage.news/australia-eku-energy-locks-community-deals-for-2-76gwh-queensland-bess-duo-as-valo-wins-1-6gwh-contract/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "jinko-2026-10-08-032",
+    "date": "2026-10-08",
+    "companies": [
+      "jinko"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Q1 2026 JinkoSolar Holding Co Ltd Earnings Call Transcript - GuruFocus",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTFA2Q3VtaklGdDZpQjRiR3g2WE55UW1neWhvUVZHRWc0OXJ6VmgyMmVCZ3RuYm9DQ0tmczZfUkRGTi1XYWhIcE8xajBoVHc3WDl5SEpDaEpDLUd3QWc1Y3VjS3RuYjUwc2NWR1VtNjhn?o",
+    "sources": [
+      {
+        "name": "jinko",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA2Q3VtaklGdDZpQjRiR3g2WE55UW1neWhvUVZHRWc0OXJ6VmgyMmVCZ3RuYm9DQ0tmczZfUkRGTi1XYWhIcE8xajBoVHc3WDl5SEpDaEpDLUd3QWc1Y3VjS3RuYjUwc2NWR1VtNjhn?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-08-033",
+    "date": "2026-10-08",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "EcoFlow 2x 1,024Wh DELTA 3 Classic power stations $889, Segway extended 50% off e-scooter sale, Anker SOLIX, EGO, much more",
+    "summary": "<div class=\"feat-image\"><img src=\"https://electrek.co/wp-content/uploads/sites/3/2026/10/EcoFlow-Anker-Segway-Navimow-EGO-GDs-FI.jpg?quality=82&#038;strip=all&#038;w=1600\" /></div><p class=\"wp-block-p",
+    "sources": [
+      {
+        "name": "electrek_solar",
+        "url": "https://electrek.co/2026/10/08/ecoflow-1024wh-delta-3-classic-power-stations-segway-e-scooter-sale-anker-solix-ego-more/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-08-034",
+    "date": "2026-10-08",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "BMW adds new iX3 M60 xDrive with 603 hp and ‘extensive’ M upgrades",
+    "summary": "<div class=\"feat-image\"><img src=\"https://electrek.co/wp-content/uploads/sites/3/2026/10/BMW-iX3-M60-rear.jpeg?quality=82&#038;strip=all&#038;w=1400\" /></div><p class=\"wp-block-paragraph\">BMW’s new el",
+    "sources": [
+      {
+        "name": "electrek_solar",
+        "url": "https://electrek.co/2026/10/08/bmw-adds-ix3-m60-xdrive-603-hp-extensive-m-upgrades/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-08-035",
+    "date": "2026-10-08",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Solar power plans for Royal & Derngate theatre - BBC",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE0xQU1meXFhWXl5YWlZbUFPTlcyMkZzdHc2ZXpjTUQtaHlSM01FWk1uQWsyS2pxOHlYZ0NmYTdBSVZfVTJtdVRZbE1ZOUQzS0ZrWFdOdHZfb2x1Nnc?oc=5\" target=\"_blank\">Sola",
+    "sources": [
+      {
+        "name": "google_news_solar",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0xQU1meXFhWXl5YWlZbUFPTlcyMkZzdHc2ZXpjTUQtaHlSM01FWk1uQWsyS2pxOHlYZ0NmYTdBSVZfVTJtdVRZbE1ZOUQzS0ZrWFdOdHZfb2x1Nnc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-08-036",
+    "date": "2026-10-08",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Solar + storage construction starts on Project Sterling in Arizona",
+    "summary": "<p>Solar and storage system construction has begun for Project Sterling in Mohave County, Arizona. ContourGlobal is building the 509-MW solar and 1.4-GWh storage project, for which Tesla has already s",
+    "sources": [
+      {
+        "name": "solar_power_world",
+        "url": "https://www.solarpowerworldonline.com/2026/10/solar-storage-construction-starts-on-project-sterling-in-arizona/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-08-037",
+    "date": "2026-10-08",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "Global BESS failure rates declined 98% between 2018 and 2025",
+    "summary": "Annual battery energy storage system (BESS) failures per-deployed-GWh declined 98% globally between 2018 and 2025, as installed BESS capacity grew exponentially.",
+    "sources": [
+      {
+        "name": "energy_storage_news",
+        "url": "https://www.energy-storage.news/global-bess-failure-rates-declined-98-between-2018-and-2025/",
         "type": "rss"
       }
     ]
@@ -1311,6 +1853,24 @@
       {
         "name": "solar_power_world",
         "url": "https://www.solarpowerworldonline.com/2026/10/colorado-nature-library-draws-on-nature-itself-to-power-campus/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-07-041",
+    "date": "2026-10-07",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Tough times for rooftop solar - WAMC",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxQVElCSkNCdDlMcTg5ZXp3M29ZNW16Mk5rekJza08xcXFzMGh5Y0NSZUlBSTdpZ1R5UVVZa2hRaHFpd0VtNWhfWTNLX3VtenNnd05mUFc0UXNBZ21aenhuczJtUUs5dmJWcDFSS0N1QW",
+    "sources": [
+      {
+        "name": "google_news_solar",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQVElCSkNCdDlMcTg5ZXp3M29ZNW16Mk5rekJza08xcXFzMGh5Y0NSZUlBSTdpZ1R5UVVZa2hRaHFpd0VtNWhfWTNLX3VtenNnd05mUFc0UXNBZ21aenhuczJtUUs5dmJWcDFSS0N1QWs5M2VyWUFZeEpWVFhORFczWTRkVQ?oc=5",
         "type": "rss"
       }
     ]
@@ -2157,6 +2717,26 @@
       {
         "name": "energy_storage_news",
         "url": "https://www.energy-storage.news/atmos-renewables-closes-financing-on-1-6gwh-capacity-investment-scheme-backed-battery-storage-system-in-australia/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "jinko-2026-10-06-047",
+    "date": "2026-10-06",
+    "companies": [
+      "jinko"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Pomerantz Law Firm Investigates Claims On Behalf of Investors of JinkoSolar Holding Co., Ltd. - JKS | FinancialContent - FinancialContent",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi-gFBVV95cUxNS2hKcm9uQ0dzVFZvVXgyRk43MzRpTUxwMjlJWU9aUHRHa1phcVd1ZGFHZmdKNUx4TzJPTlBnYXNDdzhnZ0hBZjZ3NVU0emtHejJzcGl2ckc1UmlYcXkwUkR2T09tRlg5ZU1NVDdkUz",
+    "sources": [
+      {
+        "name": "jinko",
+        "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNS2hKcm9uQ0dzVFZvVXgyRk43MzRpTUxwMjlJWU9aUHRHa1phcVd1ZGFHZmdKNUx4TzJPTlBnYXNDdzhnZ0hBZjZ3NVU0emtHejJzcGl2ckc1UmlYcXkwUkR2T09tRlg5ZU1NVDdkUzVSODhoSWhvTjBXMjZNdF9OVi1OM1FDeklHMVc2cnZmRjZkdmQtREtEQWhnVzdSUWtpckJfaDNjNmFzQW4yTEN5Z3VCcjdJcnpNME9IdzBGbmVXVW1MRzk5aDdYUFBqY0FJNm9BWWNQbzYyM255U0RNcXhxM3V6d1FwaEY5SEhCT3NTOWhldXgybVZR?oc=5",
         "type": "rss"
       }
     ]
