@@ -1,0 +1,200 @@
+{
+  "date": "2026-10-10",
+  "generated_at": "2026-10-10T14:05:19.245938Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "jinko-2026-10-10-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "JinkoSolar (NYSE:JKS) Cut to \"Strong Sell\" at Wall Street Zen - MarketBeat",
+      "companies": [
+        "jinko"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQb3JhUmg5RnRPNGdfYk5Vb0EyWHJXTlRxMU1SandNZG13cjR4bjNqNGRiSFBTNUlMZzJtRDhtY0RYcmt5ZzQ1ZWRBRVZ4UkdIa1FuNkdwNWhmTVJGcnFldlotdWJLd0MwNXY1UTNSS2ZzRmpGZlpVRzN5cG95b1c3VkxuZ1Z0V3dTTXhQa21fZGlrX3ZBQmhiSWZON0RNX3haX2ZkYWo3d20wNlJzQ1dXdTN1MWtUN1c5UTRz?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "array-2026-10-10-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Array Technologies Stock Short Interest Rises to 31.44% - Quiver Quantitative",
+      "companies": [
+        "array"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQS3FzRW5LYWRqTzZkcDRTRTRNbV94anU0dlhKV19xUmxWcmlRbnhBdDAxNVJXckNVYi11d1Q0akstbWlmREVOeWlFTXlDeDBUN1lhTXFCYWhPalVCZTg1bTgtVFI2NGN4WUQyMW9hSlp5MG53MF9RTzQxZExvN0ZNVlIzTlZEYjRYRVBZcTZkdzNETHA0?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-10-10-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Brazil’s retail electricity market opening raises credit and liquidity concerns, study finds",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": "https://www.pv-magazine.com/2026/10/10/brazils-retail-electricity-market-opening-raises-credit-and-liquidity-concerns-study-finds/"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-10-10-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Austria: 43,300 applications for solar subsidies submitted in just ten minutes",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "installation_demand",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.pv-magazine.com/2026/10/10/austria-43300-applications-for-solar-subsidies-submitted-in-just-ten-minutes/"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-10-10-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Sunbooster secures European patent for bifacial photovoltaic fences",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "installation_demand",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://www.pv-magazine.com/2026/10/10/sunbooster-secures-european-patent-for-bifacial-photovoltaic-fences/"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 11,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "installation_demand": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.25,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 11,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 9,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "jinko",
+        "count": 1
+      },
+      {
+        "id": "array",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 11
+      },
+      {
+        "id": "installation_demand",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 405,
+    "dup_title": 226,
+    "too_old": 127,
+    "gate1_blocked": 23,
+    "gate2_blocked": 8,
+    "passed": 21,
+    "pass_rate": "11.7%",
+    "gate2_block_rate": "4.5%",
+    "gate2_samples": [
+      "DAQO New Energy (NYSE:DQ) Hits New 12-Month Low - Here's Why - MarketBeat",
+      "Daqo New Energy Corp. (DQ) options chain - Yahoo Finance UK",
+      "Client Feature: Affordable Wire Management Joins ARRAY Technologies - Mintz",
+      "Implied Volatility Surging for Array Technologies Stock Options - TradingView",
+      "RBC Capital Adjusts Array Technologies Price Target to $5 From $9, Maintains Sector Perform Rating -"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 11 則事件，焦點為晶科能源、Array Technologies相關動態：「JinkoSolar (NYSE:JKS) Cut to \"Strong Sell\" at Wall Street...」。主要關注主題為太陽能產業通用、裝機需求，市場情緒中性。",
+    "signals": [
+      {
+        "text": "JinkoSolar (NYSE:JKS) Cut to \"Strong Sell\" at Wall Street Zen - MarketBeat（太陽能產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "Array Technologies Stock Short Interest Rises to 31.44% - Quiver Quantitative（太陽能產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "裝機需求持續受關注，產業趨勢帶動需求成長。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

@@ -1,0 +1,16 @@
+{
+  "total_raw": 405,
+  "dup_title": 226,
+  "no_date": 0,
+  "too_old": 127,
+  "gate1_fail": 23,
+  "gate2_fail": 8,
+  "passed": 21,
+  "gate2_samples": [
+    "DAQO New Energy (NYSE:DQ) Hits New 12-Month Low - Here's Why - MarketBeat",
+    "Daqo New Energy Corp. (DQ) options chain - Yahoo Finance UK",
+    "Client Feature: Affordable Wire Management Joins ARRAY Technologies - Mintz",
+    "Implied Volatility Surging for Array Technologies Stock Options - TradingView",
+    "RBC Capital Adjusts Array Technologies Price Target to $5 From $9, Maintains Sector Perform Rating -"
+  ]
+}
