@@ -1,0 +1,218 @@
+{
+  "date": "2026-10-12",
+  "generated_at": "2026-10-12T17:07:28.499747Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "longi-2026-10-12-001",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "LONGi set a 28.29 percent cell record: what it means for LONGi stock - ad-hoc-news.de",
+      "companies": [
+        "longi"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPTDlTaTNCZmJwQlJUbUVMb1MtRDhsazY2RjVGWkYtekNjb3dIS0dYLTd1a05jYmVWTnpXUUN4WTNXbUNmcFNESXJqQU1BVzdhUF9kenNzaG1BTGhfd0pRWndNcWk1UkxGLVZwTjY0Y25fNVk0NU5ZQUE3SXZYaHRsaGoyZ2RjYXk3ajJ3ekg5Z3NmMXV5S2QxbFl0Y1VMWWhzT1hlQ3NlVkZCNWhwaF84blByRUNJTmx4UW5jcWJGTkd2YzJwT3ZpdWd3?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-10-12-019",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Solar Energy Market to Surpass $606 billion by 2030 at 23% CAGR, Solar Cell Panels Accounting for 71% - EIN News",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOS2ZPRjI2R19vTGY1bEotMmhibkRkbWpfSkwwMlNGZ0hOaVVSVWZ6dEZ5T1RnYVk2WlZVTVVuOGZHNFJ6VFpxMFFUSWFFV0pJWFYyWWhKbVY5TXF5dFV0Vmo1ZzJnTXNMWTQ0aGJ0eE9VYnlkXzRlY21remVEUTlLb2c0NjVUNzZyY2tuR1J0clUwdWNRbGcwdGZBVENNRGJXRDdrLVo4T2ZtZGdoZlpYVER5ZE5pcUlMa0c4WU12WXlwNGZnS1NYdWFqTTdJWVdSbklacG1R?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-10-12-021",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "September/October 2026 issue: Preparing for tomorrow’s solar and storage trends",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://www.solarpowerworldonline.com/2026/10/sep-oct-2026-magazine/"
+    },
+    {
+      "rank": 4,
+      "event_id": "ja_solar-2026-10-12-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "JA Solar bolsters storage range with hybrid and commercial units - pv Europe",
+      "companies": [
+        "ja_solar"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNU1g0c3MzeXJ0ZkxzWFh4YWNKZ2JldDg0ZXUxVGVmc0VBSTdJU3UzdXd3LWh3VTQtR2N5cG80b3dUV2J6SkMzRDF5SDhWQ3hWUVUyNWc0TERQbXJJS3o0MjFtREVuUXgwUC1zbWdrX1VRcEgzUnZKdGJaMmtKSU1CZTlYWWNyU3lBRDZGWXUzN0RxT1EwcjZ4cWpWMTIyZw?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "trina-2026-10-12-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Trinasolar Introduces Latest PV and Energy Storage Solutions in Vietnam - PR Newswire",
+      "companies": [
+        "trina"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPTFRCU0tOMUgzZWVQMlFpV3VmMDJyQURwdVJhaTNvbE02elVTUW1SUXR4NEM5cGN3LTI4UmdUaTRGeUlZVE1Zem5ZVkU2S1FsdUppcTB4aWpEN0tWRGFZRW10TndXdGhKX3VLNXRlb1J4dXVBLU1paWtkX0FSYThIY01WSFdtWEM5OEhaZlFGUGlZTkZzbjBseFlUOHU5QllTMWRJNklKQzlhV0pHdnRGQWRFb0ROWHZIdGRCS1pkcXR0N19ndXpDWldZSlI?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 24,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.17,
+      "sentiment_7d_avg": null
+    },
+    "installation_demand": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 24,
+    "sentiment_distribution": {
+      "positive": 5,
+      "neutral": 19,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "risen",
+        "count": 4
+      },
+      {
+        "id": "longi",
+        "count": 1
+      },
+      {
+        "id": "ja_solar",
+        "count": 1
+      },
+      {
+        "id": "trina",
+        "count": 1
+      },
+      {
+        "id": "jinko",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 24
+      },
+      {
+        "id": "installation_demand",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 424,
+    "dup_title": 220,
+    "too_old": 118,
+    "gate1_blocked": 47,
+    "gate2_blocked": 10,
+    "passed": 29,
+    "pass_rate": "14.2%",
+    "gate2_block_rate": "4.9%",
+    "gate2_samples": [
+      "DAQO New Energy (NYSE:DQ) Hits New 12-Month Low - Here's Why - MarketBeat",
+      "Daqo New Energy Corp. (DQ) options chain - Yahoo Finance UK",
+      "LONGi stock stood at CNY 11.12 with CNY 84.0 billion market value - ad-hoc-news.de",
+      "RBC Capital Adjusts Array Technologies Price Target to $5 From $9, Maintains Sector Perform Rating -",
+      "Client Feature: Affordable Wire Management Joins ARRAY Technologies - Mintz"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 24 則事件，焦點為東方日升、隆基綠能、晶澳科技相關動態：「LONGi set a 28.29 percent cell record: what it means for ...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "LONGi set a 28.29 percent cell record: what it means for LONGi stock - ad-hoc...（太陽能產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "Solar Energy Market to Surpass $606 billion by 2030 at 23% CAGR, Solar Cell P...（太陽能產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "裝機需求持續受關注，產業趨勢帶動需求成長。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
