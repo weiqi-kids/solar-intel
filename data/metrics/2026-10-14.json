@@ -1,0 +1,29 @@
+{
+  "date": "2026-10-14",
+  "total_events": 38,
+  "by_company": {
+    "tongwei": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "trina": {
+      "count": 4,
+      "sentiment_avg": -0.06
+    }
+  },
+  "by_topic": {
+    "industry_general": {
+      "count": 38,
+      "sentiment_avg": 0.03
+    },
+    "installation_demand": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

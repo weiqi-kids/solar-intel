@@ -1,0 +1,202 @@
+{
+  "date": "2026-10-14",
+  "generated_at": "2026-10-14T13:10:39.347233Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-10-14-003",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "China’s Solar Giants Keep Cutting Jobs, Not Losses - Finimize",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPd2UyaEpyWklYRWlBbFdtelpJdUtOdkV5TWI4dkdYQ1pMYnJ4cW5tdjRHeFhueGZCeWktM1VXNkpxVlYyMlVCXy1hVUNaMjZZcGpKdVd0MkZ6NmtkQkJJejdyekh2V3NqUk9OaFlYRGpQc3FCdXFjMzNJRkhUUnpOWlRFaw?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-10-14-007",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "China solar giants shed another 40,000 jobs last year as overcapacity persists - marketscreener.com",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxObE96X1JfdV9md25qZWxhYzJneW1PZ0ZIX2VvMDZrcHZCZmVsVmNPbnRuN0NwWXlIcjh6eXI2dXlFMDExcVBtcFdzcVhoRnRvaHVISHRFUF8tNlhmYzBBZmQxdHBPNlN2Z041SkhXN2c5djZMdWRfM1QxU1NleU8xYUZfeC0xdU92a2k2NS1sMzJBV0kzNjEzV2ZGMVB3UFdaRGFJRXlUUG5sZVNQYkNMa1lfNFAyNHN1YkRiT1dpVFhFTTE1TWxMU1VOaw?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-10-14-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Xinyi Energy reports lower profit: what it means for Xinyi Energy stock - ad-hoc-news.de",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQVlVhMWdWQ29YRmJ1Y3RYamU3TWhkN0hzdnlVMFpTS0dLdU1HM05RV3lxY0V1eHlVV2pmNlp5YmNheUw5ME9aSFZUcEhyVTFrNGdOa3FiQ0l3NW83dzFHQlFvS0VmeGpQNjROcXFQaGtHc0w0WXBRcFluZ3RFMno3MURDOXRfWElKR2NUcHdRT3NMeXF5OXFYRHE0eEFmeWdTWUZjNTR2d3JVTGRVRC1ybUxzeXJ0Z01BMUlTZk1ybzZLNF9nOHpMWg?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "tongwei-2026-10-14-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Tongwei joined CNY 43,000 silicon floor: what it means for Tongwei stock - ad-hoc-news.de",
+      "companies": [
+        "tongwei"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPTTJHZ004cmtTdE9nMmZaRjAzUE56X0dGanVCWFZxZWxKcUF2MTdBVzNqSU03WW5sQlRUOHVaVFUxMzUtWGUzVTYwUDlrSlNFdkN0UHMzNUZNVHF3ajBNVXZDQTRrdXNJb0U3U29NOWkxYVB1N1ByMlpxZktNRzRGLTlwa3R4b091WjQxckotMElCMHh5Znp6YkwxYmp0bnUwVFpoc2tCYm9oaFdwTW5ET1ZqNFdIRHl6SWc2Ylk1TTV0TC1JdW9MZGRn?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "trina-2026-10-14-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Trina Solar researchers propose new classification of ultraviolet-induced degradation in TOPCon solar cells - pv magazine Global",
+      "companies": [
+        "trina"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQWGZkUjdKdXBRWi1GSXJid09EZVlscXg1bUk5X2hEWTBrS0hSU1Njb1oxcEFDNk56TU1uMy1rX2NWRHAta3FMNUNTcHA2YUhrRFhGVmwwUU9sS052ajUtSG8yS19vanQ0N0FGZ2VFc2FSRm1vaW1ZWU5BUG5LcTR3WllfVUpZLTZhZDB6OWxBZHN0UElnTG9DLTZDQmxIc1l3ZXVkYWlrZGI4aVZMcHhaQ3RVOEpydkFWZEFtQ28tZXBFTVJvOGFibVNlRXpEa1BIaUtoOGU1RGJFT2N6MkFfcg?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 38,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.03,
+      "sentiment_7d_avg": null
+    },
+    "installation_demand": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 38,
+    "sentiment_distribution": {
+      "positive": 4,
+      "neutral": 32,
+      "negative": 2
+    },
+    "top_companies": [
+      {
+        "id": "trina",
+        "count": 4
+      },
+      {
+        "id": "tongwei",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 38
+      },
+      {
+        "id": "installation_demand",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 423,
+    "dup_title": 204,
+    "too_old": 116,
+    "gate1_blocked": 44,
+    "gate2_blocked": 14,
+    "passed": 45,
+    "pass_rate": "20.5%",
+    "gate2_block_rate": "6.4%",
+    "gate2_samples": [
+      "At 8 a.m. Eastern on Oct. 27, Daqo New Energy plans a call to discuss third-quarter results. - Stock",
+      "Daqo New Energy | 6-K: Report of foreign private issuer (related to financial reporting) - Moomoo",
+      "DAQO New Energy (NYSE:DQ) Hits New 12-Month Low - Here's Why - MarketBeat",
+      "Price to sales ratio of Daqo New Energy Corp Sponsored ADR – HAN:5DQ2 - TradingView",
+      "LONGi results are due October 29 as LONGi stock sits 53.84 percent below its high - ad-hoc-news.de"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 38 則事件，焦點為天合光能、通威相關動態：「China’s Solar Giants Keep Cutting Jobs, Not Losses - Fini...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "China’s Solar Giants Keep Cutting Jobs, Not Losses - Finimize（太陽能產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "China solar giants shed another 40,000 jobs last year as overcapacity persist...（太陽能產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "裝機需求持續受關注，產業趨勢帶動需求成長。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
