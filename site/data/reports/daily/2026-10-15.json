@@ -1,0 +1,214 @@
+{
+  "date": "2026-10-15",
+  "generated_at": "2026-10-15T12:57:27.821626Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "array-2026-10-15-006",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Mizuho Upgrades Array Technologies to Outperform, Price Target is $5 - marketscreener.com",
+      "companies": [
+        "array"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOaHV4dm1jVmFyNnVLYjZaNzFwRzR1VTV0WnNIQ1dkV0JaR0F0Uml0WjhtSzBhYVR4WnQ0SzJOUFUzcTc0TFdLVjdaX2thdGU2eEJPNkFZM3JmdHoyaDNNSFctaFhjbHFXT2Zkd3lXUXpKdURlTEZhc0ZzUFJIYzBwc2V1QXdUcVBSYlRTZVBkUkZsbG1hUGhGZnlFeFpWT3ROcnZiWFhrN2NMaXUxOFlzbE1oV0c5cXU2OVMw?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-10-15-016",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Scientists develop moth-eye-inspired antireflective surfaces for PV modules",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.75
+      },
+      "source_url": "https://www.pv-magazine.com/2026/10/15/scientists-develop-moth-eye-inspired-antireflective-surfaces-for-pv-modules/"
+    },
+    {
+      "rank": 3,
+      "event_id": "longi-2026-10-15-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "LONGi opens 50 GWh storage base: Finam cuts target for LONGi stock to CNY 14.02 - ad-hoc-news.de",
+      "companies": [
+        "longi"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQT08zaFQwR19iVS1FdHY1WnBGTWoyQjVudEMyWVRaWGd6MGhPVUNQTDN4a040d3V0SHJCU2NrVmpSc2FRcm53ZWw3SExDWXFzd25CQVZsWW5KQUxQV1g1R09qSl9pSmdFb1dyRzVJV1RaVFdkTm94UHB2ZDE0aHlZSjRZcFhVdUZVNzhvQXF6VDRyLVp3LUw1R0pqSnR2OEZsTWY4cC1EV2FIWHNQdEVjODd0U1p1VHJ5V3MyZzlJa3dscnFhWGNIejk1ZXBFdkZR?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "trina-2026-10-15-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Trina Solar researchers have proposed dividing ultraviolet-induced deg - Shanghai Metals Market",
+      "companies": [
+        "trina"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOQ0MxTHY3ZlRaYlI3ejdRREtvYnlDUF95Vk5hUWJBaU5rMXRUT205eXM0aXg5bE92WXNzUmZsTlNtekhWcG50TUE3eXc2ckt4TllyeTBKdzdRMTVobXIxZ2J3bWVtV2hadjhibHRSRXVsbnloUUQ5eDctUTRLYm1WT2VuZU5LWE9GZU5BN1RUQWpNWEFvUmdpTnlLSXl6R1hTX25vVmo4enMyU0MzemhPaGFIZHZ1UE5maFp6X24tY2RZSS03ZF9WRFN4Z2lTT2NIbmtDdmdRNzkwRmc?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "risen-2026-10-15-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Risen Energy Co., Ltd. Class A News — SZSE:300118 - TradingView",
+      "companies": [
+        "risen"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9TQjZ3a3g1Vmg4WHBhN2x5a1ltSVM5aExGTVY2UFk1cDdyQlljanJJSXdNcWVBM3FFb2dSWTJ6aFNFU2xpVElaV3dPSjZPRDRqV2ExNTBTM1JxSDR3cVBjbjIxSmZaeHhPT2Q0OGFUUE1KTVE3T290OGlB?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 34,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "installation_demand": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.17,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 35,
+    "sentiment_distribution": {
+      "positive": 4,
+      "neutral": 27,
+      "negative": 4
+    },
+    "top_companies": [
+      {
+        "id": "array",
+        "count": 2
+      },
+      {
+        "id": "longi",
+        "count": 1
+      },
+      {
+        "id": "trina",
+        "count": 1
+      },
+      {
+        "id": "risen",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 34
+      },
+      {
+        "id": "installation_demand",
+        "count": 3
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 423,
+    "dup_title": 198,
+    "too_old": 116,
+    "gate1_blocked": 41,
+    "gate2_blocked": 10,
+    "passed": 58,
+    "pass_rate": "25.8%",
+    "gate2_block_rate": "4.4%",
+    "gate2_samples": [
+      "At 8 a.m. Eastern on Oct. 27, Daqo New Energy plans a call to discuss third-quarter results. - Stock",
+      "Daqo New Energy | 6-K: Report of foreign private issuer (related to financial reporting) - Moomoo",
+      "Price to sales ratio of Daqo New Energy Corp Sponsored ADR – HAN:5DQ2 - TradingView",
+      "Net income of Array Technologies Inc – HAN:9AY - TradingView",
+      "Array Technologies, Inc. (ARRY) Suffers a Larger Drop Than the General Market: Key Insights - Yahoo "
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 35 則事件，焦點為Array Technologies、隆基綠能、天合光能相關動態：「Mizuho Upgrades Array Technologies to Outperform, Price T...」。主要關注主題為太陽能產業通用、裝機需求，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Mizuho Upgrades Array Technologies to Outperform, Price Target is $5 - market...（太陽能產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "Scientists develop moth-eye-inspired antireflective surfaces for PV modules（太陽能產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "裝機需求持續受關注，產業趨勢帶動需求成長。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
