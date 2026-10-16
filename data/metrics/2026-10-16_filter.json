@@ -1,0 +1,16 @@
+{
+  "total_raw": 423,
+  "dup_title": 193,
+  "no_date": 0,
+  "too_old": 122,
+  "gate1_fail": 41,
+  "gate2_fail": 13,
+  "passed": 54,
+  "gate2_samples": [
+    "At 8 a.m. Eastern on Oct. 27, Daqo New Energy plans a call to discuss third-quarter results. - Stock",
+    "DAQO New Energy (NYSE:DQ) Sets New 12-Month Low - Time to Sell? - MarketBeat",
+    "Price to sales ratio of Daqo New Energy Corp Sponsored ADR – HAN:5DQ2 - TradingView",
+    "Pacific Securities keeps Buy rating on LONGi stock after first-half losses - ad-hoc-news.de",
+    "Array Technologies (ARRY) Stock Rises 3.1% After Mizuho Upgrade to Outperform - GuruFocus"
+  ]
+}
