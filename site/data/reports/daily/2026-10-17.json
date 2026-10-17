@@ -1,0 +1,178 @@
+{
+  "date": "2026-10-17",
+  "generated_at": "2026-10-17T11:49:53.712341Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-10-17-006",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Six-year testing highlights impact of reduced maintenance on PV plant operation during COVID-19 pandemic",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://www.pv-magazine.com/2026/10/17/six-year-testing-highlights-impact-of-reduced-maintenance-on-pv-plants-during-covid-19-pandemic/"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-10-17-008",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Large-scale solar projects in Australia reach record 3.5 GW of annual investment decisions",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://www.pv-magazine.com/2026/10/17/large-scale-solar-sets-annual-financial-investment-decision-record-at-3-5-gw/"
+    },
+    {
+      "rank": 3,
+      "event_id": "jinko-2026-10-17-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "JinkoSolar Holding Co Ltd (ZJS1.SG) stock price, news, quote and history - Yahoo Finance UK",
+      "companies": [
+        "jinko"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBJcHR3S0ZiR0Q5LUlUNnk3S205NmxPNzN3OVRsaGM5V0JrNks5aTlOTzJzSzNfU2ZYYmFfYm9RLWNHZmwyb2FNRlE0el9pM3FzY2Y3M093RWw1ODV6TzctMklIanhvdw?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-10-17-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Qcells to introduce U.S. domestic frames for residential solar panel lineup",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.pv-magazine.com/2026/10/17/qcells-to-introduce-u-s-domestic-frames-for-residential-solar-panel-lineup/"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-10-17-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Brazil’s new curtailment rules unlikely to revive utility-scale solar investment",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": "https://www.pv-magazine.com/2026/10/17/brazils-new-curtailment-rules-unlikely-to-revive-utility-scale-solar-investment/"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 10,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.1,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 10,
+    "sentiment_distribution": {
+      "positive": 4,
+      "neutral": 4,
+      "negative": 2
+    },
+    "top_companies": [
+      {
+        "id": "jinko",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 10
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 424,
+    "dup_title": 216,
+    "too_old": 124,
+    "gate1_blocked": 39,
+    "gate2_blocked": 12,
+    "passed": 33,
+    "pass_rate": "15.9%",
+    "gate2_block_rate": "5.8%",
+    "gate2_samples": [
+      "At 8 a.m. Eastern on Oct. 27, Daqo New Energy plans a call to discuss third-quarter results. - Stock",
+      "DAQO New Energy (NYSE:DQ) Sets New 12-Month Low - Time to Sell? - MarketBeat",
+      "Daqo New Energy | 6-K: Report of foreign private issuer (related to financial reporting) - Moomoo",
+      "Price to sales ratio of Daqo New Energy Corp Sponsored ADR – HAN:5DQ2 - TradingView",
+      "Array Technologies (ARRY) Stock Rises 3.1% After Mizuho Upgrade to Outperform - GuruFocus"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 10 則事件，焦點為晶科能源相關動態：「Six-year testing highlights impact of reduced maintenance...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Six-year testing highlights impact of reduced maintenance on PV plant operati...（太陽能產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "Large-scale solar projects in Australia reach record 3.5 GW of annual investm...（太陽能產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
