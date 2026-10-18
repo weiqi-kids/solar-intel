@@ -1,0 +1,16 @@
+{
+  "total_raw": 424,
+  "dup_title": 233,
+  "no_date": 0,
+  "too_old": 121,
+  "gate1_fail": 39,
+  "gate2_fail": 13,
+  "passed": 18,
+  "gate2_samples": [
+    "At 8 a.m. Eastern on Oct. 27, Daqo New Energy plans a call to discuss third-quarter results. - Stock",
+    "DAQO New Energy (NYSE:DQ) Sets New 12-Month Low - Time to Sell? - MarketBeat",
+    "Daqo New Energy sets October 27 results for Daqo New Energy stock - ad-hoc-news.de",
+    "Daqo New Energy | 6-K: Report of foreign private issuer (related to financial reporting) - Moomoo",
+    "Price to sales ratio of Daqo New Energy Corp Sponsored ADR – HAN:5DQ2 - TradingView"
+  ]
+}

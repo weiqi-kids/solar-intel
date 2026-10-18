@@ -1,0 +1,154 @@
+{
+  "date": "2026-10-18",
+  "generated_at": "2026-10-18T12:15:32.812677Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "jinko-2026-10-18-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Wall Street Zen Upgrades JinkoSolar (NYSE:JKS) to Sell - MarketBeat",
+      "companies": [
+        "jinko"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNRTNubHpFTzNMdUFrZzJGM1dLOHNqSXljQTdHVUh0aVVjVE9sTnJ4MGVXSXlpZGJLcVpMVGZQT1laZlI0dUs2TjI0bnROVV9wOV9CRUNUWHIxeWRnLWJZSEJ2TllCV0Zhd1VUb1hlUkhoc3BOT3c2OVJwVkVEQUJWMDI3c2NuRnFXNU0wMDhVQTFBYUZ2cGlOQzV2Vnl6SHBQYmRaU1BSUS1jYmN0SzhKcVVXeEg?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-10-18-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Solar Stocks Outside China Investors May Want On Their Watchlist - Simply Wall Street",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQUW9ZdDVybm1yQURzWFkwMk44MTFHUUY1ZTlfSDEweUtvdTdPX18tYklwTm10WG5fWXFIZktqaEw5NGdRc1FGNkg0Tmowd21FYk1GUDBIa1h5OVpzTERVa29na0M5VW9tQVgzZFJ5VV9MRUlURGcxVUt4WlVMZTlCWVNZVk03U2U4NE4zUVlvS3R0a1FUc3BxTTU5SWJ3TDFWWXFUQUNDN29ESW1rbk03aDNqTjBYTTJpeGR0RmJ5VXgwYklXNzM5MVkza2N2d9IBzgFBVV95cUxQUW9ZdDVybm1yQURzWFkwMk44MTFHUUY1ZTlfSDEweUtvdTdPX18tYklwTm10WG5fWXFIZktqaEw5NGdRc1FGNkg0Tmowd21FYk1GUDBIa1h5OVpzTERVa29na0M5VW9tQVgzZFJ5VV9MRUlURGcxVUt4WlVMZTlCWVNZVk03U2U4NE4zUVlvS3R0a1FUc3BxTTU5SWJ3TDFWWXFUQUNDN29ESW1rbk03aDNqTjBYTTJpeGR0RmJ5VXgwYklXNzM5MVkza2N2dw?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-10-18-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "China's solar panel exports extend slump in September - Reuters",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQS0xzblQxU1RxMjQyV01pNjdwS2VISzBsR3VjbDN6OXliSzQzWmQ5Si1NLWtSZWQ0N0xFNnVzMjBiM253OUVYWnhMaThFWVVDRDh2andJOTVfd3FIR1hVS2pXZEl0cTVZbHNHeFpxVVdPUWdoa2RhbURMZ1hpXzFBU1htQ3Z4dFphVnRSVVFpM082UU8xbGRGOERsQndJNWYzTXZJ?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-10-18-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Can we skip ethical banking if we’ve got solar on our cathedral’s roof? - Christian Climate Action",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNMVRVbmh1T2tjRHBpN25pcG9FamZadDhKODFjdWs5b2Z5Nmc5bnIyYjFUT2IwYVVFNF9ZUHBfMmo2VFMzVURvY0EzMjVId0d6MVM4WU53MW9MZ3hsRjAxM21hM3U5UlRTMUwxLWdJbkJzLW1JNHNrR040VHJjMTNYYzlSUG9uZjNIc256dFJWM29xSVlZQ3NKT3RmRzZhZzRzYUVZcUhYSmpqM2pwQWh3SjNGLWFEZw?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 4,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 4,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "jinko",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 4
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 424,
+    "dup_title": 233,
+    "too_old": 121,
+    "gate1_blocked": 39,
+    "gate2_blocked": 13,
+    "passed": 18,
+    "pass_rate": "9.4%",
+    "gate2_block_rate": "6.8%",
+    "gate2_samples": [
+      "At 8 a.m. Eastern on Oct. 27, Daqo New Energy plans a call to discuss third-quarter results. - Stock",
+      "DAQO New Energy (NYSE:DQ) Sets New 12-Month Low - Time to Sell? - MarketBeat",
+      "Daqo New Energy sets October 27 results for Daqo New Energy stock - ad-hoc-news.de",
+      "Daqo New Energy | 6-K: Report of foreign private issuer (related to financial reporting) - Moomoo",
+      "Price to sales ratio of Daqo New Energy Corp Sponsored ADR – HAN:5DQ2 - TradingView"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 4 則事件，焦點為晶科能源相關動態：「Wall Street Zen Upgrades JinkoSolar (NYSE:JKS) to Sell - ...」。主要關注主題為太陽能產業通用，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Wall Street Zen Upgrades JinkoSolar (NYSE:JKS) to Sell - MarketBeat（太陽能產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "Solar Stocks Outside China Investors May Want On Their Watchlist - Simply Wal...（太陽能產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
