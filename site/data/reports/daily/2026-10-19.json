@@ -1,0 +1,208 @@
+{
+  "date": "2026-10-19",
+  "generated_at": "2026-10-19T15:06:59.446152Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "jinko-2026-10-19-009",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Jinko Solar Estimates Net Loss of RMB2,976 Million to RMB3,576 Million - energynews.pro",
+      "companies": [
+        "jinko"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOTkRtdkpCU0x5SU5paE02UlRJV2VwTGFma2JKRm5hWk01YUgwb19PTF93Uy1rZnpNek1PSVp6eGsxM1ZfWTJuTTZnRDRkTGVZTnlwOG5fQkJxZ1NPTmxicjBpSG92RDVzOFFLeGd3OWZDY1FwbEJzaHF0b2RqOEliUjZkRm93TkpEcnBCZmpuTVhSekJ5ckdUTlRR?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "xinyi_solar-2026-10-19-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Has Xinyi Solar Holdings (SEHK:968) Fallen Far Enough To Look Fully Priced? - Yahoo Finance",
+      "companies": [
+        "xinyi_solar"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxORUFtWTFOSTlGb0lUWU9iTFlvMDNmUTNSYU5pX0tBeEJSZlhFU3F3bGhqdDBRRVZlUHVHR3U2ZUFSYnVmdGVOZWEzbTJ4M09fQ2FiLUZ4VlNoSmRWcEQzdkkwMTlNbE5rc0RYZ1pHVjdOY0FxMTdHNXBzc3Noc1htazg2bjF1YW1IQ1NxSkE2R3FHcXN4ai1WWWd3?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "gcl-2026-10-19-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Gcl Technology Enters MOU For Possible Acquisition In Lithium Battery Industry - TradingView",
+      "companies": [
+        "gcl"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOaktHS0h6eTA3Wkx4eUpaa2pVUlZUQWlydHZ4UWNoczdmODRSY0dmc3ltenlVTTVYc0ZERUx6Tm5wdWJ0RGp4X2FVMTRvanU3cDJ1bGJmQUN0T2hUcGhqbW9NWEV0emZSVklFSURTcEJIbFVBRk9ib1dXOERuSUJXUWVCMnYzTV9mcnNISHRmaXhfRThqaTQ2VnluSkFRYjd6QjJpOGRuVTZUemxaV1cyWlprMHdQQlFLd3RWWHdvRjVzUi1ZRWk4ZS1wUDNTUm5UczhEMlhweHhrcVpIY1Ytdl9n?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "gcl-2026-10-19-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "GCL Technology to Acquire Sichuan GCL Lithium for CNY 2.5 Billion, Expanding into Lithium Iron Phosphate Cathode Materials - BigGo Finance",
+      "companies": [
+        "gcl"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5DZktaRHNxVnBjalRzQ2g3UVNoU181ZHhVS3RqOXRydG4tdFZRNlQ2ZEQ4RW85dzlLUG1RODhaRUgyRFJfVUx6c0tOSTFVRVI4WUtVdEZKdFB1NDJtTXRuR0RoZDhvbGJrcTE5ZUY5Wm5UM2hHY2c?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "longi-2026-10-19-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Longi Study Explains Edge Masking Mechanism in High-Efficiency Solar Cells - News and Statistics - IndexBox",
+      "companies": [
+        "longi"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxObVNXVnJ0cUw3NG5NeHdiZkxmOXRtZmFCZ0ZPdlB1TjFGNGhDcmRBQWJISmFfZklRWWI4Rl93UGZlYTdMVktubC00QVUyVm1aVmFqWW84MmNQQ2w2cHMycmRSMmtDODRQTFNYVlFuNGF4RnpscHNtUmk0bkJxcnJlMU5Hek8tZE85MWRyRXZDVDhLZ0NHbkxVbnBNUkRTdDJO?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 25,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.02,
+      "sentiment_7d_avg": null
+    },
+    "grid_parity": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 27,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 24,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "jinko",
+        "count": 7
+      },
+      {
+        "id": "gcl",
+        "count": 2
+      },
+      {
+        "id": "longi",
+        "count": 2
+      },
+      {
+        "id": "xinyi_solar",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 25
+      },
+      {
+        "id": "grid_parity",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 423,
+    "dup_title": 216,
+    "too_old": 118,
+    "gate1_blocked": 41,
+    "gate2_blocked": 11,
+    "passed": 37,
+    "pass_rate": "17.9%",
+    "gate2_block_rate": "5.3%",
+    "gate2_samples": [
+      "At 8 a.m. Eastern on Oct. 27, Daqo New Energy plans a call to discuss third-quarter results. - Stock",
+      "DAQO New Energy (NYSE:DQ) Sets New 12-Month Low - Time to Sell? - MarketBeat",
+      "Daqo New Energy | 6-K: Report of foreign private issuer (related to financial reporting) - Moomoo",
+      "Array Technologies (ARRY) Stock Rises 3.1% After Mizuho Upgrade to Outperform - GuruFocus",
+      "Mizuho Upgrades Array Technologies to Outperform, Price Target Is $5 - Moomoo"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 27 則事件，焦點為晶科能源、協鑫科技、隆基綠能相關動態：「Jinko Solar Estimates Net Loss of RMB2,976 Million to RMB...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Jinko Solar Estimates Net Loss of RMB2,976 Million to RMB3,576 Million - ener...（太陽能產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "Has Xinyi Solar Holdings (SEHK:968) Fallen Far Enough To Look Fully Priced? -...（太陽能產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
