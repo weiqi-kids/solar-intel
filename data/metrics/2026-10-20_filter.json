@@ -1,0 +1,16 @@
+{
+  "total_raw": 422,
+  "dup_title": 220,
+  "no_date": 0,
+  "too_old": 112,
+  "gate1_fail": 43,
+  "gate2_fail": 10,
+  "passed": 37,
+  "gate2_samples": [
+    "At 8 a.m. Eastern on Oct. 27, Daqo New Energy plans a call to discuss third-quarter results. - Stock",
+    "DAQO New Energy (NYSE:DQ) Sets New 12-Month Low - Time to Sell? - MarketBeat",
+    "Array Technologies, Inc. (ARRY) Suffers a Larger Drop Than the General Market: Key Insights - Yahoo ",
+    "Array Technologies (ARRY) Stock Rises 3.1% After Mizuho Upgrade to Outperform - GuruFocus",
+    "Mizuho Upgrades Array Technologies to Outperform, Price Target Is $5 - Moomoo"
+  ]
+}

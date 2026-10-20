@@ -1,0 +1,33 @@
+{
+  "date": "2026-10-20",
+  "total_events": 31,
+  "by_company": {
+    "daqo": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "gcl": {
+      "count": 3,
+      "sentiment_avg": -0.33
+    },
+    "jinko": {
+      "count": 4,
+      "sentiment_avg": -0.25
+    },
+    "sungrow": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "industry_general": {
+      "count": 29,
+      "sentiment_avg": -0.05
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

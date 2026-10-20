@@ -1,0 +1,196 @@
+{
+  "date": "2026-10-20",
+  "generated_at": "2026-10-20T13:08:02.273047Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "jinko-2026-10-20-007",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "JinkoSolar Flags Loss of Over 2.9 Billion Yuan in First Three Quarters; Qian Jing Says Single-Quarter Narrowing Doesn't Signal Industry Turning Point - BigGo Finance",
+      "companies": [
+        "jinko"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9vUjdoUUNoTWtiODFoVmJTd1RrWi02M09IbXZBZi11Y3VpMVp4STg5b29BREdlcU1Gdzdhc3ZXei1ndDNjX1BhNkRJWjBoTDhiR3FuX3NoS1hTVWZJbjBvcDJ5RWdELXcwUlptc3Rpenh5LWxuckE?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "gcl-2026-10-20-011",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "GCL Technology moves to buy LFP cathode maker from founder’s group",
+      "companies": [
+        "gcl"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://www.pv-magazine.com/2026/10/20/gcl-technology-moves-to-buy-lfp-cathode-maker-from-founders-group/"
+    },
+    {
+      "rank": 3,
+      "event_id": "daqo-2026-10-20-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "DAQO New Energy (DQ) Set to Announce Earnings on Tuesday - MarketBeat",
+      "companies": [
+        "daqo"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQcm5weVdDZ2tHbUVkR3RlZkthZW9rWnRXOU9maE1FMElpdENUVkJlUUM2MjROc1JYa1p4WlhTUVY4dWVhdU5taWI4bndUZ3JCN0llUU1CblhoWWRlc1pnbEI5R1U2XzBZaElKLUZ5elZjeXZtRmY1bmNQNGZCeHUzTXQ2blM0RlBWaWRLbUxZcjViLUZhRE8yeDNPRF9UYlprUXhFV3pMMW5YTlBLbEFfbHZJc0VsbHhl?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "daqo-2026-10-20-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Xinjiang Daqo New Energy Co.,Ltd.(SHSE: 688303) added to SSE 180 Index - www.marketscreener.com",
+      "companies": [
+        "daqo"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNQ0NyQncxOGdMNFJvWDhFeldTRi1oQ2ZHejR1SGhDLXhxSVBvN2g3N1FxeEU1N0VDc1hPODZsb2Q2aGFRX3BmRUlJanZsWnF0eW9BbTlsODU4UmhHUGVfOWhiVUxaQjAwcy1CYjhYOTE1eG9fWWMyRFhaZ1o5X2kybDlZSTRLUG50djJrM2RqcGJTckhjTU9PU0FIYjB3RURqR3oyZGxpUldvbU82LTcya3NnckNoUTE4bkU0?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "gcl-2026-10-20-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "GCL Technology moves to buy LFP cathode maker from founder’s group - pv magazine Global",
+      "companies": [
+        "gcl"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOaGpVSVVfb01SbzB5UjMtSWprX1JSX3Z2S0hxRGNRanpmVTlpNHhuQlhiTDI3TldDTm1BOHh5cXZmbURZZVVjdHg0cVJWZjJRNVl1LTU0MGgycnNfc2dVODZaeFJQUWlYalhXMndZaWZ4T00xcEduUkFDOEItS1hSekxWQnJPcFNkUWNmb3JnTk1BdUhxY3Q4R2UyRWJiOTZqQ3RhZnBkbUI?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 29,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.05,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 31,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 28,
+      "negative": 2
+    },
+    "top_companies": [
+      {
+        "id": "jinko",
+        "count": 4
+      },
+      {
+        "id": "gcl",
+        "count": 3
+      },
+      {
+        "id": "daqo",
+        "count": 2
+      },
+      {
+        "id": "sungrow",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 29
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 422,
+    "dup_title": 220,
+    "too_old": 112,
+    "gate1_blocked": 43,
+    "gate2_blocked": 10,
+    "passed": 37,
+    "pass_rate": "18.3%",
+    "gate2_block_rate": "5.0%",
+    "gate2_samples": [
+      "At 8 a.m. Eastern on Oct. 27, Daqo New Energy plans a call to discuss third-quarter results. - Stock",
+      "DAQO New Energy (NYSE:DQ) Sets New 12-Month Low - Time to Sell? - MarketBeat",
+      "Array Technologies, Inc. (ARRY) Suffers a Larger Drop Than the General Market: Key Insights - Yahoo ",
+      "Array Technologies (ARRY) Stock Rises 3.1% After Mizuho Upgrade to Outperform - GuruFocus",
+      "Mizuho Upgrades Array Technologies to Outperform, Price Target Is $5 - Moomoo"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 31 則事件，焦點為晶科能源、協鑫科技、大全新能源相關動態：「JinkoSolar Flags Loss of Over 2.9 Billion Yuan in First T...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "JinkoSolar Flags Loss of Over 2.9 Billion Yuan in First Three Quarters; Qian ...（太陽能產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "GCL Technology moves to buy LFP cathode maker from founder’s group（太陽能產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
