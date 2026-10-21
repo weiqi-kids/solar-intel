@@ -1,0 +1,16 @@
+{
+  "total_raw": 425,
+  "dup_title": 199,
+  "no_date": 0,
+  "too_old": 121,
+  "gate1_fail": 43,
+  "gate2_fail": 7,
+  "passed": 55,
+  "gate2_samples": [
+    "Daqo New Energy sets October 27 results date for Daqo New Energy stock - AD HOC NEWS",
+    "DAQO New Energy (NYSE:DQ) Sets New 12-Month Low - Time to Sell? - MarketBeat",
+    "Array Technologies, Inc. (ARRY) Rises Higher Than Market: Key Facts - Yahoo! Finance Canada",
+    "How electric school buses power 1,000 homes in California – and make money",
+    "Polestar and Oxford wired up drivers to measure how performance feels"
+  ]
+}

@@ -1,0 +1,234 @@
+{
+  "date": "2026-10-21",
+  "generated_at": "2026-10-21T13:18:56.965862Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-10-21-009",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Zambia surpasses 1 GW solar milestone",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://www.pv-magazine.com/2026/10/21/zambia-surpasses-1-gw-solar-milestone/"
+    },
+    {
+      "rank": 2,
+      "event_id": "jinko-2026-10-21-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "JinkoSolar Holding Co., Ltd. has Changed its Name to Jinko Holdings Limited - marketscreener.com",
+      "companies": [
+        "jinko"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPQ05uRDN2XzhybXk3Y3pITGhkTDI1MklPODQ4ZlZsdmZSbjA4M1dDX0UwZ19ycWpseGRDQ2hPcGx5WXQzXzFxaU56Nnk3X3lfQVdXQTRWTG5XbDZWSjZEdE51aFZvcUlRVzh1Q0tVaVJYODhuSndwTTZIWDBQX0pnLWlqU3M5SUJjUGlQaDNFT2o1Mkl1S3hlOWw3YUV2cDduazFJR1IwU29PRktLTGdlZldJanc5cGMwbjd5Z2VVdURaaUk?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "jinko-2026-10-21-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "JinkoSolar Announces Results of 2026 Annual General Meeting - The Manila Times",
+      "companies": [
+        "jinko"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPTzZoQXA3NTk5S0RpN19WdXhtVlZpVTFuNkhoY0l1dkg3UEN2LVBQNDVtSzJlbU1MSlRaT2RhTlFKNmlZekk1dGJqMDlGREdyZVR2TElNZ29aYVB1WDZRVUx3Q3QtSm5oUzRuTVFTRkV1ZktaUGZVSGZjWGJFN043R05YSW5lVUxFSmRPQ0NER3BEVEM2dEh1RHB3cDhlTklaa3dWekRybW1USWk5QlgwSEVRQkVBYXNEcEVUc1dQOHI1dFY3ZU01SmN0dWs3a0k20gHQAUFVX3lxTE9PNmhBcDc1OTlLRGk3X1Z1eG1WVmlVMW42SGhjSXV2SDdQQ3YtUFA0NW1LMmVtTUxKVFpPZGFOUUo2aVl6STV0YmowOUZER3JlVHZMSU1nb1phUHVYNlFVTHdDdC1KbmhTNG5NUVNGRXVmS1pQZlVIZmNYYkU3TjdHTlhJbmVVTEVKZE9DQ0RHcERUQzZ0SHVEcHdwOGVOSVprd1Z6RHJtbVRJaTlCWDBIRVFCRUFhc0RwRVRzV1A4cjV0VjdlTTVKY3R1azdrSTY?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "array-2026-10-21-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Array Technologies: The Cash Flow Problem Behind Its $2.5 Billion Orderbook (NASDAQ:ARRY) - Seeking Alpha",
+      "companies": [
+        "array"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNLUR0bTdKR0N4eUJEQy03SnZGQXlVR2QwNERCNVRlcnQzdGpwSWJBVmpnRkRFWjViNmdNZWxBbUliTXdBajV2ZlVXRzVpOTB1Z1NWZ0w5YnFONG5ERTY3UU5NN3JsR2lXTVpwejl2V0p0ZnREdmdybkMtcS00QlRwT2d4djljRFR1OUZsUl9KemxXSVNjcFJpQTJVR3NmWGw1RlhmS3lLaWU3WEhoQ1RVN2F4Y1M?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "sungrow-2026-10-21-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Sungrow Power Supply to Invest in Energy Storage PE Fund - www.marketscreener.com",
+      "companies": [
+        "sungrow"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOSjVCdGVQRmJMdXpKM1ZUUHFFQmN5SXF0ZFVTX3dNMzVQcVl5ZF9ZTi0zRk9yb056YVdGckNCeGZWdUttVnExQmZVMjJFRG14UVZ2RkdBTjVmRUxPYWdtbGZnRWNuX0hFRnVZQ3ROLVVxOEJxbnp0bjBIbXA1cmhIUFZ4SFRzVlp6MTNWT2JsRnRYdVRSakx6aG1BcU9BbXVKRHo1X21sUmRISm51ZkE?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 30,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.02,
+      "sentiment_7d_avg": null
+    },
+    "installation_demand": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "module_price": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "trade_tariff": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.25,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 31,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 25,
+      "negative": 4
+    },
+    "top_companies": [
+      {
+        "id": "jinko",
+        "count": 2
+      },
+      {
+        "id": "array",
+        "count": 1
+      },
+      {
+        "id": "sungrow",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 30
+      },
+      {
+        "id": "trade_tariff",
+        "count": 2
+      },
+      {
+        "id": "installation_demand",
+        "count": 1
+      },
+      {
+        "id": "module_price",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 425,
+    "dup_title": 199,
+    "too_old": 121,
+    "gate1_blocked": 43,
+    "gate2_blocked": 7,
+    "passed": 55,
+    "pass_rate": "24.3%",
+    "gate2_block_rate": "3.1%",
+    "gate2_samples": [
+      "Daqo New Energy sets October 27 results date for Daqo New Energy stock - AD HOC NEWS",
+      "DAQO New Energy (NYSE:DQ) Sets New 12-Month Low - Time to Sell? - MarketBeat",
+      "Array Technologies, Inc. (ARRY) Rises Higher Than Market: Key Facts - Yahoo! Finance Canada",
+      "How electric school buses power 1,000 homes in California – and make money",
+      "Polestar and Oxford wired up drivers to measure how performance feels"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 31 則事件，焦點為晶科能源、Array Technologies、陽光電源相關動態：「Zambia surpasses 1 GW solar milestone」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "Zambia surpasses 1 GW solar milestone（太陽能產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "JinkoSolar Holding Co., Ltd. has Changed its Name to Jinko Holdings Limited -...（太陽能產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "裝機需求持續受關注，產業趨勢帶動需求成長。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
