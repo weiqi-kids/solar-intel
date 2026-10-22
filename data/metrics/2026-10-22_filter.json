@@ -1,0 +1,15 @@
+{
+  "total_raw": 421,
+  "dup_title": 212,
+  "no_date": 0,
+  "too_old": 120,
+  "gate1_fail": 42,
+  "gate2_fail": 4,
+  "passed": 43,
+  "gate2_samples": [
+    "Array Technologies Is Maintained at Market Perform by BMO Capital - Moomoo",
+    "Sonnen files for insolvency",
+    "Rio Tinto eyes a giant hot-brick battery to cut fossil fuel use",
+    "Kia’s electric SUV and van are getting a new job as police cars"
+  ]
+}
