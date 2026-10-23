@@ -1,0 +1,41 @@
+{
+  "date": "2026-10-23",
+  "total_events": 25,
+  "by_company": {
+    "jinko": {
+      "count": 4,
+      "sentiment_avg": 0.0
+    },
+    "enphase": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "industry_general": {
+      "count": 25,
+      "sentiment_avg": 0.04
+    },
+    "trade_tariff": {
+      "count": 1,
+      "sentiment_avg": -0.5
+    },
+    "installation_demand": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "module_price": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "grid_parity": {
+      "count": 1,
+      "sentiment_avg": 0.5
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

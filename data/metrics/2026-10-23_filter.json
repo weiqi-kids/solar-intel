@@ -1,0 +1,14 @@
+{
+  "total_raw": 425,
+  "dup_title": 208,
+  "no_date": 0,
+  "too_old": 128,
+  "gate1_fail": 43,
+  "gate2_fail": 3,
+  "passed": 43,
+  "gate2_samples": [
+    "Jinko Holdings to Report Third Quarter 2026 Results on October 30, 2026 - Yahoo Finance",
+    "Array Technologies Is Maintained at Market Perform by BMO Capital - Moomoo",
+    "阳光电源：关于“质量回报双提升”行动方案的进展公告 - Moomoo"
+  ]
+}
