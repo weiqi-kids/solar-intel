@@ -1,0 +1,192 @@
+{
+  "date": "2026-10-24",
+  "generated_at": "2026-10-24T12:19:31.577852Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-10-24-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "ARRY 261120 7.00P (ARRY261120P7000) Stock Options Chain | Quotes & News - Moomoo",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1KRnRTc1BIX2JYNnhfUS1EaE1keUMwRjBHb3hyWjZ0SFo1QXFQcUw3OVAzQUdtazh5cmkzWlpaSmRxUEVrSlBTZlBGT0lPVkt0TVJBZFdPWnFLTlFCbmc?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "sungrow-2026-10-24-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Sungrow Power Supply Co., Ltd. Class A Estimates – SZSE:300274 - TradingView",
+      "companies": [
+        "sungrow"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1mbl9ELXdOWXJrM1hnZDk2ay12ZGlMMWx4cTlzTmh6bTdHWXZqc2k2VzByWjdpc3JqeWFxOXJ5NWdzQ0RrZ3d0dl84aU9rRmhnaDV2QkFhTm5nNFpVdkNWUTBpaUlDSlFBTkppMGN6YTQ4Rzl6S2V4Yg?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-10-24-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Italy deploys 4.83 GW of PV in January-September",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.pv-magazine.com/2026/10/24/italy-deploys-4-83-gw-of-pv-in-january-september/"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-10-24-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Mozambique entrusts small solar panel factory to UAE’s Jampur Group",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://www.pv-magazine.com/2026/10/24/mozambique-entrusts-solar-panel-factory-to-uaes-jampur-group/"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-10-24-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "‘When it is your turn, open the door for the woman coming next’",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.pv-magazine.com/2026/10/24/when-it-is-your-turn-open-the-door-for-the-woman-coming-next/"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 10,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.05,
+      "sentiment_7d_avg": null
+    },
+    "installation_demand": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 11,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 10,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "sungrow",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 10
+      },
+      {
+        "id": "installation_demand",
+        "count": 3
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 425,
+    "dup_title": 209,
+    "too_old": 137,
+    "gate1_blocked": 40,
+    "gate2_blocked": 7,
+    "passed": 32,
+    "pass_rate": "14.8%",
+    "gate2_block_rate": "3.2%",
+    "gate2_samples": [
+      "Daqo New Energy (DQ.US) will release its financial report before the market opens on October 27. - M",
+      "Jinko Holdings to Report Third Quarter 2026 Results on October 30, 2026 - Yahoo Finance",
+      "Array Technologies, Inc. Estimates – NASDAQ:ARRY - TradingView",
+      "Array Technologies Is Maintained at Market Perform by BMO Capital - Moomoo",
+      "Sunwoda and Sungrow Power Supply act as limited partners to establish a RMB 1 billion energy storage"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 11 則事件，焦點為陽光電源相關動態：「ARRY 261120 7.00P (ARRY261120P7000) Stock Options Chain |...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "ARRY 261120 7.00P (ARRY261120P7000) Stock Options Chain | Quotes & News - Moomoo（太陽能產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "Sungrow Power Supply Co., Ltd. Class A Estimates – SZSE:300274 - TradingView（太陽能產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "裝機需求持續受關注，產業趨勢帶動需求成長。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

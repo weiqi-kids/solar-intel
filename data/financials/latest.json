@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-23T12:57:10.732499Z",
-  "quarter": "2025-12-31, 2026-06-30",
+  "updated_at": "2026-10-24T12:19:27.002463Z",
+  "quarter": "2026-06-30",
   "companies": [
     {
       "id": "array",
@@ -92,17 +92,17 @@
       "name": "協鑫科技",
       "ticker": "3800.HK",
       "currency": "HKD",
-      "ar": 1323636000,
-      "ar_prev": 1220087000,
-      "ar_qoq": "+8%",
+      "ar": 1157202000,
+      "ar_prev": 1323636000,
+      "ar_qoq": "-13%",
       "ar_period": "QoQ",
-      "inventory": 1896879000,
-      "inv_prev": 1975526000,
-      "inv_qoq": "-4%",
+      "inventory": 1661640000,
+      "inv_prev": 1896879000,
+      "inv_qoq": "-12%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
       "alert": false,
-      "quarter_date": "2025-12-31"
+      "quarter_date": "2026-06-30"
     },
     {
       "id": "ja_solar",
@@ -262,17 +262,17 @@
       "name": "信義光能",
       "ticker": "0968.HK",
       "currency": "HKD",
-      "ar": 7836661000,
-      "ar_prev": 10110382000,
-      "ar_qoq": "-22%",
+      "ar": 8681734000,
+      "ar_prev": 7836661000,
+      "ar_qoq": "+11%",
       "ar_period": "QoQ",
-      "inventory": 1735154000,
-      "inv_prev": 1973654000,
-      "inv_qoq": "-12%",
+      "inventory": 1730996000,
+      "inv_prev": 1735154000,
+      "inv_qoq": "-0%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
-      "alert": true,
-      "quarter_date": "2025-12-31"
+      "alert": false,
+      "quarter_date": "2026-06-30"
     },
     {
       "id": "yuan_jing",

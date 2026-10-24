@@ -1,0 +1,16 @@
+{
+  "total_raw": 425,
+  "dup_title": 209,
+  "no_date": 0,
+  "too_old": 137,
+  "gate1_fail": 40,
+  "gate2_fail": 7,
+  "passed": 32,
+  "gate2_samples": [
+    "Daqo New Energy (DQ.US) will release its financial report before the market opens on October 27. - M",
+    "Jinko Holdings to Report Third Quarter 2026 Results on October 30, 2026 - Yahoo Finance",
+    "Array Technologies, Inc. Estimates – NASDAQ:ARRY - TradingView",
+    "Array Technologies Is Maintained at Market Perform by BMO Capital - Moomoo",
+    "Sunwoda and Sungrow Power Supply act as limited partners to establish a RMB 1 billion energy storage"
+  ]
+}
