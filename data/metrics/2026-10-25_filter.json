@@ -1,0 +1,16 @@
+{
+  "total_raw": 424,
+  "dup_title": 235,
+  "no_date": 0,
+  "too_old": 128,
+  "gate1_fail": 40,
+  "gate2_fail": 9,
+  "passed": 12,
+  "gate2_samples": [
+    "Has Xinyi Glass Holdings (SEHK:868) Fallen Far Enough To Be A Bargain? - Yahoo Finance",
+    "Daqo New Energy (DQ.US) will release its financial report before the market opens on October 27. - M",
+    "DAQO New Energy Corp. (NYSE:DQ) Stock Has Average Target Price of $15.83 - MarketBeat",
+    "Motech Industries, Inc. Estimates – TPEX:6244 - TradingView",
+    "Array Technologies, Inc. Estimates – NASDAQ:ARRY - TradingView"
+  ]
+}
