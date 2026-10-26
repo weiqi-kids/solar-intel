@@ -1,5 +1,411 @@
 [
   {
+    "id": "jinko-2026-10-26-001",
+    "date": "2026-10-26",
+    "companies": [
+      "jinko"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "JinkoSolar (NYSE:JKS) Downgraded by Wall Street Zen to Strong Sell - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxOamxIR2UtV0NjSU9fcG41T0NONWM3eUQ4bDJZQVBOZWhUUVBycEdhTHl1WWxadE1tc0lYSWRQa3ZoeXFWa0NZVUN1OEM1UC1tRHY4ZHBNanZGdjJyYW5tampCM0NsblVlU291MkNiOE",
+    "sources": [
+      {
+        "name": "jinko",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOamxIR2UtV0NjSU9fcG41T0NONWM3eUQ4bDJZQVBOZWhUUVBycEdhTHl1WWxadE1tc0lYSWRQa3ZoeXFWa0NZVUN1OEM1UC1tRHY4ZHBNanZGdjJyYW5tampCM0NsblVlU291MkNiOERmUTF2TGRPQWZBYW5ob1JJWkpUanN1N0xBbXZvSEVxU1BFU050cjBKRENjd0tfbktWaGZoMm13a1NEaHhSZFpiVk9fWDZ3WmpXRXhmTkNrVTg3S2JL?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "jinko-2026-10-26-002",
+    "date": "2026-10-26",
+    "companies": [
+      "jinko"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "JinkoSolar (JKS) Projected to Post Earnings on Friday - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxQbjVadkNuOWxBVHZBNXhGcTRCZmdfQ2dnMW9idUxxbFJZQkNYM0Jab0lDRlI4MHVURFlfSVo5VjM5U09MOFZYZG5vS0hUc0h3VWlfX1BRSUxrbnFZd3F0NDFWY3ljZGhBZEtZTWlfTz",
+    "sources": [
+      {
+        "name": "jinko",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQbjVadkNuOWxBVHZBNXhGcTRCZmdfQ2dnMW9idUxxbFJZQkNYM0Jab0lDRlI4MHVURFlfSVo5VjM5U09MOFZYZG5vS0hUc0h3VWlfX1BRSUxrbnFZd3F0NDFWY3ljZGhBZEtZTWlfTzBkZzNQcElxRHhudU9FUFhPVGxqRXRsMEtEUDhwTGU3LXAxS3dOcmZ4N1FoR1FRTU5ab3BuaktieTVWbTZWczBLRGNFVHM?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "array-2026-10-26-003",
+    "date": "2026-10-26",
+    "companies": [
+      "array"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "Aeeris Ltd Teams With Array Technologies To Expand Automated Hail Protection - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxONTBZUXJwNFZEZlh1eEJLdkQxZEFqdnNVUUxtVWdIYVRRUFZZRzRlM1gwODBNX2o3M1ZNSHJ3QVJmbjViV2t1X25WTkZTVDJPWnM1aXZYVW5fS1BNSzZlT2xkdDl6S245Qko4MWJnVD",
+    "sources": [
+      {
+        "name": "array",
+        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxONTBZUXJwNFZEZlh1eEJLdkQxZEFqdnNVUUxtVWdIYVRRUFZZRzRlM1gwODBNX2o3M1ZNSHJ3QVJmbjViV2t1X25WTkZTVDJPWnM1aXZYVW5fS1BNSzZlT2xkdDl6S245Qko4MWJnVDV1YVB0SnB4RXJQdXdzZzAzSF9xS0FhLTFtaC1qTlQtNUltVF9feHBVdzJ1TlJnNHFvcXRwXzdLNmx5Zld6dlZuRzdoelJTZmRPQ1VOM0ZkenRieTlTX0Vra1UxMHh2eDQwX3J4bTZSdVpLMVlsVGFv?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "array-2026-10-26-004",
+    "date": "2026-10-26",
+    "companies": [
+      "array"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "ARRAY and Aeeris bring automated hail stow to Australian solar PV plants - PV Tech",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxOYS1DSlFUUzJBS2RKbTdjZVdRNDM0OVV6QW5yOTZFelRDcElWMGVqOTBHclliR1ZKMF9pOVJkYlZwalZTcEQ0N2pRamNScFhBeFFBRTNmb2o0M0lxQ0pGdlVydGxlNlpEQU9sb0w3bn",
+    "sources": [
+      {
+        "name": "array",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOYS1DSlFUUzJBS2RKbTdjZVdRNDM0OVV6QW5yOTZFelRDcElWMGVqOTBHclliR1ZKMF9pOVJkYlZwalZTcEQ0N2pRamNScFhBeFFBRTNmb2o0M0lxQ0pGdlVydGxlNlpEQU9sb0w3bnQwYkxiRDZqUnM0TWthZFFKSnhHM3d2TzBVRXVja05lV0xxNEhrSEZJM1htMThodw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-26-005",
+    "date": "2026-10-26",
+    "companies": [],
+    "topics": [
+      "installation_demand",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Xpanner launches automated pile driver to speed up utility-scale solar, energy storage installation",
+    "summary": "<p>The fully automated system combines GNSS positioning and remote control operation to reduce pile driving cycle times by 45% on utility-scale solar and battery storage job sites.</p>\n<p>The post <a ",
+    "sources": [
+      {
+        "name": "pv_magazine",
+        "url": "https://www.pv-magazine.com/2026/10/26/xpanner-launches-automated-pile-driver-to-speed-up-utility-scale-solar-energy-storage-installation/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-26-006",
+    "date": "2026-10-26",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Shakti Pumps releases 620 W TOPCon solar module",
+    "summary": "<p>Shakti Pumps presented its Shakti On Roof solar module range featuring 16-busbar TOPCon technology, alongside solar pumps, inverters and module mounting structures.</p>\n<p>The post <a href=\"https:/",
+    "sources": [
+      {
+        "name": "pv_magazine",
+        "url": "https://www.pv-magazine.com/2026/10/26/shakti-pumps-unveils-620-wp-topcon-solar-module-at-rei-expo-2026/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-26-007",
+    "date": "2026-10-26",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Citicore secures $552 million for 900 MW solar, 120 MWh storage portfolio in Philippines",
+    "summary": "<p>Bank of the Philippine Islands, Land Bank of the Philippines and Development Bank of the Philippines have provided PHP 35.014 billion ($552 million) in financing for a portfolio of five solar proje",
+    "sources": [
+      {
+        "name": "pv_magazine",
+        "url": "https://www.pv-magazine.com/2026/10/26/citicore-secures-552-million-for-900-mw-solar-120-mwh-storage-portfolio-in-philippines/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-26-008",
+    "date": "2026-10-26",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Samsung SDI signs 1 GWh supply agreement for US-made NCA battery storage",
+    "summary": "<p>South Korean manufacturer’s Michigan-based subsidiary will supply Alpha Omega Power with utility-scale battery storage. The supply agreement covers Samsung SDI’s containerized nickel cobalt aluminu",
+    "sources": [
+      {
+        "name": "pv_magazine",
+        "url": "https://www.pv-magazine.com/2026/10/26/samsung-sdi-signs-1-gwh-supply-agreement-for-us-made-nca-battery-storage/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-26-009",
+    "date": "2026-10-26",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Czech ministry proposes storage capacity auctions to 2027",
+    "summary": "<p>The Czech government has proposed changes to its new capacity mechanism, which is open to battery storage, including moving two supplementary auctions from 2026 to 2027, a year later than prospecti",
+    "sources": [
+      {
+        "name": "pv_magazine",
+        "url": "https://www.pv-magazine.com/2026/10/26/czech-ministry-proposes-storage-capacity-auctions-to-2027/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-26-010",
+    "date": "2026-10-26",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Waaree showcases 520 W flexible mono PERC solar module with 19.69% efficiency",
+    "summary": "<p>The Indian manufacturer has unveiled a flexible, lightweight monocrystalline PERC solar module that is reportedly about 70% lighter than conventional glass-based panels and is designed for curved r",
+    "sources": [
+      {
+        "name": "pv_magazine",
+        "url": "https://www.pv-magazine.com/2026/10/26/waaree-showcases-520-wp-flexible-mono-perc-solar-module-with-19-69-efficiency/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-26-011",
+    "date": "2026-10-26",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "Norwegian alliance calls for increased solar support",
+    "summary": "<p>Trade union, environmental and business organisations in Norway have signed a joint letter demanding the Norwegian government backs five measures to support the country’s solar industry.</p>\n<p>The",
+    "sources": [
+      {
+        "name": "pv_magazine",
+        "url": "https://www.pv-magazine.com/2026/10/26/norwegian-alliance-calls-for-increased-solar-support/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-26-012",
+    "date": "2026-10-26",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "New multi-modeling approach can predict rice yield in agrivoltaics",
+    "summary": "<p>Researchers in Japan have developed a modeling approach to optimize rice yields and electricity generation in agrivoltaic systems. Their findings show that adjusting solar panel tilt angles can imp",
+    "sources": [
+      {
+        "name": "pv_magazine",
+        "url": "https://www.pv-magazine.com/2026/10/26/new-multi-modeling-approach-can-predict-rice-yield-in-agrivoltaics/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-26-013",
+    "date": "2026-10-26",
+    "companies": [],
+    "topics": [
+      "installation_demand",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Hungary proposes energy upgrades for single-family homes, apartments",
+    "summary": "<p>A government program in Hungary is preparing to offer single-family homes and condominiums non-refundable subsidies and preferential loans for energy efficiency measures including solar PV and heat",
+    "sources": [
+      {
+        "name": "pv_magazine",
+        "url": "https://www.pv-magazine.com/2026/10/26/hungary-proposes-energy-upgrades-for-single-family-homes-apartments/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-26-014",
+    "date": "2026-10-26",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Servotech launches single-phase hybrid solar inverters for residential applications",
+    "summary": "<p>Servotech Renewable Power System has unveiled its Sparkle Pro IP54 single-phase hybrid solar inverters for residential applications. The range comprises 3 kW, 4.2 kW and 6 kW models. </p>\n<p>The po",
+    "sources": [
+      {
+        "name": "pv_magazine",
+        "url": "https://www.pv-magazine.com/2026/10/26/servotech-launches-single-phase-hybrid-solar-inverters-for-residential-applications-2/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-26-015",
+    "date": "2026-10-26",
+    "companies": [],
+    "topics": [
+      "trade_tariff"
+    ],
+    "impact": "negative",
+    "title": "U.S. energy storage prices to drop through 2030, but trade risks and supply gaps threaten potential savings",
+    "summary": "A report from Intertek CEA explores how U.S. battery storage price declines face policy headwinds as trade restrictions and domestic supply bottlenecks shape market access through 2030. ",
+    "sources": [
+      {
+        "name": "pv_magazine_usa",
+        "url": "https://pv-magazine-usa.com/2026/10/26/u-s-energy-storage-prices-to-drop-through-2030-but-trade-risks-and-supply-gaps-threaten-potential-savings/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-26-016",
+    "date": "2026-10-26",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "New SEIA white paper outlines pathways for distributed resources to meet grid needs",
+    "summary": "The report, prepared by Current Energy Group, outlines a distributed capacity procurement framework designed to help state regulators and utilities integrate distributed solar and storage as cost-effe",
+    "sources": [
+      {
+        "name": "pv_magazine_usa",
+        "url": "https://pv-magazine-usa.com/2026/10/26/new-seia-white-paper-outlines-pathways-for-distributed-resources-to-meet-grid-needs/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-26-017",
+    "date": "2026-10-26",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Clean energy project cancellations outpace new U.S. investments by $8.2 billion, E2 finds",
+    "summary": "New figures from E2 show $86.6 billion in canceled or reduced clean energy investments since 2025, despite billions in new generation and manufacturing announcements, including Tesla's planned Texas s",
+    "sources": [
+      {
+        "name": "pv_magazine_usa",
+        "url": "https://pv-magazine-usa.com/2026/10/26/clean-energy-project-cancellations-outpace-new-u-s-investments-by-8-2-billion-e2-finds/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-26-018",
+    "date": "2026-10-26",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Samsung SDI signs 1 GWh supply agreement for U.S.-made NCA battery storage",
+    "summary": "South Korean manufacturer’s Michigan-based subsidiary will supply Alpha Omega Power with utility-scale battery storage. The supply agreement covers Samsung SDI’s containerized nickel cobalt aluminum (",
+    "sources": [
+      {
+        "name": "pv_magazine_usa",
+        "url": "https://pv-magazine-usa.com/2026/10/26/samsung-sdi-signs-1-gwh-supply-agreement-for-us-made-nca-battery-storage/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-26-019",
+    "date": "2026-10-26",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "INA Solar, Caelux target perovskite-silicon tandem module production by 2028",
+    "summary": "INA Solar and US-based Caelux have signed a five-year agreement to commercialize 3 GW of perovskite-TOPCon hybrid-tandem solar modules in India, targeting efficiencies of up to 29% by 2028. The deal e",
+    "sources": [
+      {
+        "name": "pv_magazine_usa",
+        "url": "https://pv-magazine-usa.com/2026/10/26/ina-solar-caelux-target-perovskite-silicon-tandem-module-production-by-2028/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-26-020",
+    "date": "2026-10-26",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Xpanner unveils automated pile driving system for solar and BESS",
+    "summary": "<p>Construction automation company Xpanner has unveiled the X1 Piling R6, a fully automated pile driving system for utility-scale solar and battery energy storage (BESS) sites. X1 pairs Xpanner&#8217;",
+    "sources": [
+      {
+        "name": "solar_power_world",
+        "url": "https://www.solarpowerworldonline.com/2026/10/xpanner-unveils-automated-pile-driving-system-for-solar-and-bess/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-26-021",
+    "date": "2026-10-26",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Singapore targets 1GWh of energy storage in Energy Infrastructure Plan to meet rising demand for electricity",
+    "summary": "Faced with unprecedented growth in demand, Singapore’s Energy Market Authority has launched plan that includes a gigawatt-hour energy storage target.",
+    "sources": [
+      {
+        "name": "energy_storage_news",
+        "url": "https://www.energy-storage.news/singapore-targets-1gwh-of-energy-storage-in-energy-infrastructure-plan-to-meet-rising-demand-for-electricity/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-26-022",
+    "date": "2026-10-26",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "1GW data centre with 5,000MWh battery storage system submitted to Australia’s EPBC Act for approval",
+    "summary": "Gingerah Energy has referred a 1GW data centre complex with a 5GWh BESS in Western Australia to Australia's EPBC Act.",
+    "sources": [
+      {
+        "name": "energy_storage_news",
+        "url": "https://www.energy-storage.news/1gw-data-centre-with-5000mwh-battery-storage-system-submitted-to-australias-epbc-act-for-approval/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "maxeon-2026-10-25-001",
     "date": "2026-10-25",
     "companies": [
@@ -28,6 +434,140 @@
     ],
     "impact": "positive",
     "title": "Invest in solar and earn $3,000 a day?",
+    "summary": "<p>Driven by the rapid growth of artificial intelligence, data centers, electric vehicles, and industrial electrification, global electricity demand continues to rise, making solar power a focal point",
+    "sources": [
+      {
+        "name": "cleantechnica",
+        "url": "https://cleantechnica.com/2026/10/25/invest-in-solar-and-earn-3000-a-day/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "daqo-2026-10-25-003",
+    "date": "2026-10-25",
+    "companies": [
+      "daqo"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Enterprise value to EBITDA forward of Daqo New Energy Corp Sponsored ADR – HAM:5DQ2 - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxORFdIdlVSRmoyVEFHMU1CTkpvT0NpRjF6ZDFjNGVSSm5QRE1VamZHYlZQUTJnbFVuRFdnSk5Da1VYbVpudDMxMzZXUkRScmRxM2Z0ZG1IbnpJN3BwRWVXVGNSOU9PYlBmR3FoV3FOVk",
+    "sources": [
+      {
+        "name": "daqo",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxORFdIdlVSRmoyVEFHMU1CTkpvT0NpRjF6ZDFjNGVSSm5QRE1VamZHYlZQUTJnbFVuRFdnSk5Da1VYbVpudDMxMzZXUkRScmRxM2Z0ZG1IbnpJN3BwRWVXVGNSOU9PYlBmR3FoV3FOVkZQUEc4SmN6aFBBT2JJNGFnM1NubkJSMEZZcEkwVy1BZG11cTEwMFBqY1ZPSThRVk1nSm12aVZjLU1iZw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "daqo-2026-10-25-004",
+    "date": "2026-10-25",
+    "companies": [
+      "daqo"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "DAQO New Energy Q3 2026 Earnings Date and Estimates - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxOWWFEeFBoZ1dtRUhxbXNKWnhFMzVkVnEzMkpvWVB5SGdvTTdXWU1JLUYycUg1ZnZ1LVcyYkhJZzcyUVFfTkhhOFJkTGZsY0xJT0U0RUp5ZUlFVkZfS3dsLXpPUjF6c2QyUGEtbGlnak",
+    "sources": [
+      {
+        "name": "daqo",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOWWFEeFBoZ1dtRUhxbXNKWnhFMzVkVnEzMkpvWVB5SGdvTTdXWU1JLUYycUg1ZnZ1LVcyYkhJZzcyUVFfTkhhOFJkTGZsY0xJT0U0RUp5ZUlFVkZfS3dsLXpPUjF6c2QyUGEtbGlnakRKWEpteHp5ekJKSXRuUlFzQ0RrNjNJbWJ4Wnc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "maxeon-2026-10-25-005",
+    "date": "2026-10-25",
+    "companies": [
+      "maxeon"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Maxeon Solar Technologies, Ltd. (MAXNQ) stock price, news, quote and history - Yahoo Finance UK",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTFAwcENPSEQ4NEFRMW9aTTl6TTdWMkpaMDRrcmg3clRaMGs2UnRQUTFzSm4zeHF6a0I5NVVLNGFqZU91akxwSzNLZWFsVElROUdKaVUyVjZ2SURybWpLVFltYVNn?oc=5\" target=\"_bl",
+    "sources": [
+      {
+        "name": "maxeon",
+        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFAwcENPSEQ4NEFRMW9aTTl6TTdWMkpaMDRrcmg3clRaMGs2UnRQUTFzSm4zeHF6a0I5NVVLNGFqZU91akxwSzNLZWFsVElROUdKaVUyVjZ2SURybWpLVFltYVNn?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "array-2026-10-25-006",
+    "date": "2026-10-25",
+    "companies": [
+      "array"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "PRESS RELEASE: ARRAY TECHNOLOGIES TEAMS WITH EARLY WARNING NETWORK TO EXPAND AUTOMATED HAIL PROTECTION TO AUSTRALIAN SOLAR PROJECTS - Press Release Distribution Australia",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAJBVV95cUxPV1p3VHdnaGlQMkJ1WlpicEQyamxuRGJkUGlLUjBuZW1EYnZYaUFweDdraklIU1ZhcFUydnFJY0lmVTlHbjktVl9fc2FTU3lQY0FUT21tZ0U3VWROMk14bmdoN2p6TXYzWmY2WDFtbm",
+    "sources": [
+      {
+        "name": "array",
+        "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPV1p3VHdnaGlQMkJ1WlpicEQyamxuRGJkUGlLUjBuZW1EYnZYaUFweDdraklIU1ZhcFUydnFJY0lmVTlHbjktVl9fc2FTU3lQY0FUT21tZ0U3VWROMk14bmdoN2p6TXYzWmY2WDFtbm1tZUxnV1lSaXNVWkdvSjdiNGRCNlhDekVfQWlMWnhRYnhlUncyYmNMM25CamxsQ3drT25ST2xVazZWTDBkaGdaYWp6Tjh4cG9ZMVBJM2dVN1VfWVpLckNQZmxrMFU4WGh4SnhmMG5XQ2R1NGdmRU55T3Z6TFl4Y1V5SGhacFIzYnNTQXdTQm5WTDVKeDFic0drUkdZQQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-25-007",
+    "date": "2026-10-25",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Battery electric, solar-powered reefer units reach their first customers",
+    "summary": "<div class=\"feat-image\"><img src=\"https://electrek.co/wp-content/uploads/sites/3/2026/10/Wickham-Freight-Sunswap-Endurance-2.jpg?quality=82&#038;strip=all&#038;w=1600\" /></div><p class=\"wp-block-parag",
+    "sources": [
+      {
+        "name": "electrek_solar",
+        "url": "https://electrek.co/2026/10/25/battery-electric-solar-powered-reefer-units-reach-their-first-customers/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-25-008",
+    "date": "2026-10-25",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "New Li Auto i6 Goes 811 km (504 Miles)",
+    "summary": "<p>Li Auto&#8217;s new i6 electric vehicle has a very interesting look. It makes me think of something out of some futuristic movie or The Jetsons. It certainly has an MPV (multipurpose vehicle) desig",
+    "sources": [
+      {
+        "name": "cleantechnica",
+        "url": "https://cleantechnica.com/2026/10/25/new-li-auto-i6-goes-811-km-504-miles/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-25-009",
+    "date": "2026-10-25",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Invest in Solar and Earn $3,000 a Day?",
     "summary": "<p>Driven by the rapid growth of artificial intelligence, data centers, electric vehicles, and industrial electrification, global electricity demand continues to rise, making solar power a focal point",
     "sources": [
       {
@@ -330,6 +870,26 @@
       {
         "name": "cleantechnica",
         "url": "https://cleantechnica.com/2026/10/23/logitech-launches-chain-reaction-to-accelerate-supply-chain-decarbonization-towards-2030-climate-goals/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ja_solar-2026-10-24-017",
+    "date": "2026-10-24",
+    "companies": [
+      "ja_solar"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "JA Solar Technology Co., Ltd. Class A Estimates – SZSE:002459 - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE1Ya25ZUXlUZkotUXBnSzZFTDlFRmhESVFrSXVUNDNvWWFTa2ZnVWFPcERvVmJEOGc5aHpUYWF6dDhzVVh4dHR4LTMtbmpEYjBQSWpxQmlIS0JDdkM1eXRFeE1RRVVDTEtJdHB0X1YyOX",
+    "sources": [
+      {
+        "name": "ja_solar",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1Ya25ZUXlUZkotUXBnSzZFTDlFRmhESVFrSXVUNDNvWWFTa2ZnVWFPcERvVmJEOGc5aHpUYWF6dDhzVVh4dHR4LTMtbmpEYjBQSWpxQmlIS0JDdkM1eXRFeE1RRVVDTEtJdHB0X1YyOXNKWURsZUZzeg?oc=5",
         "type": "rss"
       }
     ]
@@ -1156,6 +1716,64 @@
       {
         "name": "jinko",
         "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQTFdLbDc0YmNibTdSODFhQkxyVjJhVmVobHM4TDZLRHcxLV9mbnlhbVpBcDc0Mlk5SHk3ejVsR01JaXVsTjFXUGVjUVNHUTlhMjc1RVVVc0pIenFuUHZyQktid0FQMFNKTlowVk5sYzRXTXFrSC1jem5vWTZzOWtBcU04R3N5ZVVRclc2OTQ5LXlSNkNmZFdrM2ZlVl9wV2kzSHpUdTBzREdkRDZJOUZwaWtZdWxKQQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "daqo-2026-10-23-045",
+    "date": "2026-10-23",
+    "companies": [
+      "daqo"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "DAQO New Energy (DQ) Stock Forecast and Price Target 2026 $DQ - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE9wZ3Y5dW52Yzc0NEdGWDRKVGhETGlHdS1WT1dXaDd1RkZ5ckZKUVltVzNrZE02VEJ2MnA5R1ZwZC12bWxjZ2dMRXcxd0dvZUEzS29aVDN5eHZzNEV3NUhLVA?oc=5\" target=\"_blan",
+    "sources": [
+      {
+        "name": "daqo",
+        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9wZ3Y5dW52Yzc0NEdGWDRKVGhETGlHdS1WT1dXaDd1RkZ5ckZKUVltVzNrZE02VEJ2MnA5R1ZwZC12bWxjZ2dMRXcxd0dvZUEzS29aVDN5eHZzNEV3NUhLVA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "gcl-2026-10-23-046",
+    "date": "2026-10-23",
+    "companies": [
+      "gcl"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "GCL Technology Holdings Ltd (3GY.HM) stock price, news, quote and history - Yahoo Finance UK",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE83LVdzVGd5d3dmczV1aTNFY3Zha3lLT216aTZUZm1HMGZESGZ6ZUdRZVBtbzJrdl9tXzYzXzZ4aTB1TWc0aDIzcjFjSVl3TlZwZmFOXzAwbVpmLXdxb1A3TmloNA?oc=5\" target=\"_",
+    "sources": [
+      {
+        "name": "gcl",
+        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE83LVdzVGd5d3dmczV1aTNFY3Zha3lLT216aTZUZm1HMGZESGZ6ZUdRZVBtbzJrdl9tXzYzXzZ4aTB1TWc0aDIzcjFjSVl3TlZwZmFOXzAwbVpmLXdxb1A3TmloNA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "maxeon-2026-10-23-047",
+    "date": "2026-10-23",
+    "companies": [
+      "maxeon"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Maxeon Solar Technologies, Ltd. (MAXNQ) stock price, news, quote and history - Yahoo Finance Australia",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE1jSHhxLWVjSnRUQTZ3YWM4RmZDU1ZXemhRM3BDaERjaVFzM1FvemdvMVhCeUxBLVJKaGk3bGtpekFZMDcwZ2JPZ3FuWGNrY1I0a2lLdUZOZGlzSUhHT0plbnRR?oc=5\" target=\"_bl",
+    "sources": [
+      {
+        "name": "maxeon",
+        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1jSHhxLWVjSnRUQTZ3YWM4RmZDU1ZXemhRM3BDaERjaVFzM1FvemdvMVhCeUxBLVJKaGk3bGtpekFZMDcwZ2JPZ3FuWGNrY1I0a2lLdUZOZGlzSUhHT0plbnRR?oc=5",
         "type": "rss"
       }
     ]
@@ -3902,6 +4520,26 @@
       {
         "name": "gcl",
         "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBRQ0wtZ2pFZ2dDVUpUZ1k3bnB0enJaM1M4QUJBWnZrbkR6OUZIejRuUXh6NGNCeGhqbEZmNk1xdkJxN3JuMVJSTUdQOTRna01NenluVGhUR2JGdmpPZHg2R0NR?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "xinyi_solar-2026-10-20-061",
+    "date": "2026-10-20",
+    "companies": [
+      "xinyi_solar"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Xinyi Solar stock gains 4.76 percent against Frankfurt close - ad-hoc-news.de",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxOUDdSZHFyai1VX3M4M1NGM2xoeW54bDhsZUJ2bmlDT2hWc0k1b2RiSkFoRndVUjFfOV8tS1l4aDRFSklCekN1VmlEZTVFTnppcXlUWmJJZG5ySnhvTEcxUWZ0bkphbFVKa0g2ejhpUn",
+    "sources": [
+      {
+        "name": "xinyi_solar",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOUDdSZHFyai1VX3M4M1NGM2xoeW54bDhsZUJ2bmlDT2hWc0k1b2RiSkFoRndVUjFfOV8tS1l4aDRFSklCekN1VmlEZTVFTnppcXlUWmJJZG5ySnhvTEcxUWZ0bkphbFVKa0g2ejhpUnZwSGJ1WmxnUkRBblA5OUgxQ0kwY3hPZWV4WERiT2MwblNBem1hb2JjMnVDN1RuRExOSXllYk40Y3pmQWI2ZG1IdjgwbXdSQ1RjSWZN?oc=5",
         "type": "rss"
       }
     ]
