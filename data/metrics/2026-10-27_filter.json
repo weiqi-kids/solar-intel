@@ -1,0 +1,16 @@
+{
+  "total_raw": 424,
+  "dup_title": 178,
+  "no_date": 0,
+  "too_old": 139,
+  "gate1_fail": 41,
+  "gate2_fail": 10,
+  "passed": 56,
+  "gate2_samples": [
+    "Daqo New Energy (DQ) Tops Q3 EPS by 28c - StreetInsider",
+    "Daqo Q3 2026 slides: loss narrows on cost cuts, sales rebound - Investing.com Nigeria",
+    "GCL tries lithium battery materials in search of diversification - Bamboo Works",
+    "Motech Industries, Inc. Estimates – TPEX:6244 - TradingView",
+    "Array Technologies, Inc. (ARRY) Stock Drops Despite Market Gains: Important Facts to Note - Yahoo Fi"
+  ]
+}

@@ -1,0 +1,157 @@
+{
+  "date": "2026-10-27",
+  "date_range": {
+    "start": "2026-10-21",
+    "end": "2026-10-27"
+  },
+  "generated_at": "2026-10-27T13:44:07.952460Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "unknown-2026-10-21-009",
+      "date": "2026-10-21",
+      "title": "Zambia surpasses 1 GW solar milestone",
+      "importance_score": 0.65
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "industry_general": {
+      "this_week": 150,
+      "last_week": 174,
+      "week_over_week_change": "-14%",
+      "sentiment_this_week": 0.01
+    },
+    "installation_demand": {
+      "this_week": 13,
+      "last_week": 4,
+      "week_over_week_change": "+225%",
+      "sentiment_this_week": 0.0
+    },
+    "module_price": {
+      "this_week": 2,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    },
+    "trade_tariff": {
+      "this_week": 5,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": -0.4
+    },
+    "grid_parity": {
+      "this_week": 1,
+      "last_week": 2,
+      "week_over_week_change": "-50%",
+      "sentiment_this_week": 0.5
+    }
+  },
+  "company_7d_summary": {
+    "jinko": {
+      "event_count": 11,
+      "sentiment_avg": 0.0,
+      "rank": 2
+    },
+    "array": {
+      "event_count": 3,
+      "sentiment_avg": -0.17,
+      "rank": 3
+    },
+    "sungrow": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 4
+    },
+    "daqo": {
+      "event_count": 14,
+      "sentiment_avg": -0.12,
+      "rank": 1
+    },
+    "longi": {
+      "event_count": 2,
+      "sentiment_avg": -0.5,
+      "rank": 5
+    },
+    "enphase": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 6
+    },
+    "maxeon": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 8
+    },
+    "trina": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 7
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 239,
+        "last": 307,
+        "change_pct": -22.1
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-10-21",
+      "event_count": 49,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-10-22",
+      "event_count": 39,
+      "sentiment_avg": 0.04
+    },
+    {
+      "date": "2026-10-23",
+      "event_count": 49,
+      "sentiment_avg": 0.04
+    },
+    {
+      "date": "2026-10-24",
+      "event_count": 17,
+      "sentiment_avg": 0.03
+    },
+    {
+      "date": "2026-10-25",
+      "event_count": 10,
+      "sentiment_avg": 0.17
+    },
+    {
+      "date": "2026-10-26",
+      "event_count": 31,
+      "sentiment_avg": -0.01
+    },
+    {
+      "date": "2026-10-27",
+      "event_count": 44,
+      "sentiment_avg": -0.04
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-10-21 ~ 2026-10-27）共 239 則事件，重點為「Zambia surpasses 1 GW solar milestone」。隆基綠能情緒偏負面，建議留意相關風險。",
+    "watchlist": [
+      {
+        "company": "隆基綠能",
+        "reason": "本週情緒偏負面（-0.5），共 2 則相關事件，需關注後續發展。"
+      },
+      {
+        "company": "晶科能源",
+        "reason": "本週出現 11 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "Array Technologies",
+        "reason": "本週出現 3 則相關事件且情緒偏負面，需特別關注。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
