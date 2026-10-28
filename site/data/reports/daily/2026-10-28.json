@@ -1,0 +1,216 @@
+{
+  "date": "2026-10-28",
+  "generated_at": "2026-10-28T14:40:12.424502Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "daqo-2026-10-28-001",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Daqo New Energy's First-Three-Quarter Loss Widens to CNY 2.006 Billion; Q4 Output Seen at Up to 45,000 Tons - BigGo Finance",
+      "companies": [
+        "daqo"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1ZODZ3eHJ2Rnh1TlR5ek53UGgxY3BKYzlybW5MZXdNZUdPQjJZbUdOUmRQQlgtQ0ZxTFJLUDM0ZjVFZzVLakhVWEFiOUlRVmJSTENFdEpyX0Q0SFV5R09HM254WVhqTllMNkdEYVdlM0xiZXhiM0E?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "ja_solar-2026-10-28-003",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "JA Solar Technology Q3 Net Loss At 973.7 Million Yuan - TradingView",
+      "companies": [
+        "ja_solar"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQcHpWc19VZFhtMTdDT1puR1UxckRiQVZ0QjlHT1dpcEhYTmxKZ0xjLS1KaVdjekw5aE5OdFJVN3V2OHVxdkhSUEVtQnJFRDhONkVQaHBuRzljRHNOeXhneE8taHg0bFEyVm9POGZmVHBRWjc3T2ZESnJtYlpuQ19GOTBWRFQ4dWtLMU8weW1xdF9XY1lEaGxCcGE5TGRzUk5YdVpYc3Fjb3ZhMllEcjFnQlloelZBaU9Kbmgwb0dUZS0?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-10-28-012",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Acid-free molten salt method recovers 94% of silver from solar cells",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://www.pv-magazine.com/2026/10/28/acid-free-molten-salt-method-recovers-94-of-silver-from-solar-cells/"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-10-28-014",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "New flywheel design could eliminate power converter for grid connection",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://www.pv-magazine.com/2026/10/28/new-flywheel-design-could-eliminate-power-converter-for-grid-connection/"
+    },
+    {
+      "rank": 5,
+      "event_id": "daqo-2026-10-28-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Daqo New Energy reported a net loss of RMB 2.006 billion for the first three quarters, marking a year-on-year increase in losses. Q4 production is projected to reach up to 45,000 metric tons. - 富途牛牛",
+      "companies": [
+        "daqo"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.25
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOeEVfZnROZG9nSGR1VUNmVm1wZUhld05lYk1Ydk84M1JzeGZJeWllNWpReHZEa2pDOXpuQmlTZEl1VVhMSmxEVVQ2TlJGSGNoYlREM2lxWFhweVFZYlFBdUtLWUpTZUlHa1FTUzdLcXhVaXhkOE94RUN4cjFQcnczTVVVc2FNN0ZiUzQ3R254bVU?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 35,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.04,
+      "sentiment_7d_avg": null
+    },
+    "installation_demand": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 37,
+    "sentiment_distribution": {
+      "positive": 6,
+      "neutral": 27,
+      "negative": 4
+    },
+    "top_companies": [
+      {
+        "id": "array",
+        "count": 3
+      },
+      {
+        "id": "daqo",
+        "count": 2
+      },
+      {
+        "id": "jinko",
+        "count": 2
+      },
+      {
+        "id": "ja_solar",
+        "count": 1
+      },
+      {
+        "id": "trina",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 35
+      },
+      {
+        "id": "installation_demand",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 422,
+    "dup_title": 176,
+    "too_old": 131,
+    "gate1_blocked": 42,
+    "gate2_blocked": 9,
+    "passed": 64,
+    "pass_rate": "26.0%",
+    "gate2_block_rate": "3.7%",
+    "gate2_samples": [
+      "Daqo New Energy Narrows Net Loss to $52.9 Million in Third Quarter - energynews.pro",
+      "Daqo New Energy (DQ) Q3 Results Leave Losses In The Spotlight - Simply Wall Street",
+      "GCL tries lithium battery materials in search of diversification - Bamboo Works",
+      "Motech Industries, Inc. Estimates – TPEX:6244 - TradingView",
+      "Array Technologies, Inc. (ARRY) Stock Drops Despite Market Gains: Important Facts to Note - Yahoo Fi"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 37 則事件，焦點為Array Technologies、大全新能源、晶科能源相關動態：「Daqo New Energy's First-Three-Quarter Loss Widens to CNY ...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Daqo New Energy's First-Three-Quarter Loss Widens to CNY 2.006 Billion; Q4 Ou...",
+        "level": "green"
+      },
+      {
+        "text": "JA Solar Technology Q3 Net Loss At 973.7 Million Yuan - TradingView（太陽能產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "裝機需求持續受關注，產業趨勢帶動需求成長。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

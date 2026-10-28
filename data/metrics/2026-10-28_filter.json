@@ -1,0 +1,16 @@
+{
+  "total_raw": 422,
+  "dup_title": 176,
+  "no_date": 0,
+  "too_old": 131,
+  "gate1_fail": 42,
+  "gate2_fail": 9,
+  "passed": 64,
+  "gate2_samples": [
+    "Daqo New Energy Narrows Net Loss to $52.9 Million in Third Quarter - energynews.pro",
+    "Daqo New Energy (DQ) Q3 Results Leave Losses In The Spotlight - Simply Wall Street",
+    "GCL tries lithium battery materials in search of diversification - Bamboo Works",
+    "Motech Industries, Inc. Estimates – TPEX:6244 - TradingView",
+    "Array Technologies, Inc. (ARRY) Stock Drops Despite Market Gains: Important Facts to Note - Yahoo Fi"
+  ]
+}

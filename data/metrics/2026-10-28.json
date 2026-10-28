@@ -1,0 +1,41 @@
+{
+  "date": "2026-10-28",
+  "total_events": 37,
+  "by_company": {
+    "daqo": {
+      "count": 2,
+      "sentiment_avg": -0.62
+    },
+    "ja_solar": {
+      "count": 1,
+      "sentiment_avg": 1.0
+    },
+    "trina": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "jinko": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "array": {
+      "count": 3,
+      "sentiment_avg": 0.17
+    }
+  },
+  "by_topic": {
+    "industry_general": {
+      "count": 35,
+      "sentiment_avg": 0.04
+    },
+    "installation_demand": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}
