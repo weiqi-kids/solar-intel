@@ -1,0 +1,16 @@
+{
+  "total_raw": 417,
+  "dup_title": 171,
+  "no_date": 0,
+  "too_old": 139,
+  "gate1_fail": 39,
+  "gate2_fail": 11,
+  "passed": 57,
+  "gate2_samples": [
+    "Nomura Adjusts Price Target on Daqo New Energy to $18 From $28.60, Keeps Buy Rating - marketscreener",
+    "Daqo New Energy Narrows Net Loss to $52.9 Million in Third Quarter - energynews.pro",
+    "GCL tries lithium battery materials in search of diversification - Bamboo Works",
+    "Why Jinko Bears Were Right Before A 68% Drop - Yahoo Finance",
+    "Jinko Holdings Limited (JKS) Stock Price, News, Quote & History - Yahoo! Finance Canada"
+  ]
+}

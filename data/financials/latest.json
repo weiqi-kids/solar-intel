@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-28T14:40:08.258617Z",
-  "quarter": "2026-06-30",
+  "updated_at": "2026-10-29T14:45:08.153473Z",
+  "quarter": "2026-06-30, 2026-09-30",
   "companies": [
     {
       "id": "array",
@@ -58,17 +58,17 @@
       "name": "Enphase Energy",
       "ticker": "ENPH",
       "currency": "USD",
-      "ar": 273607000,
-      "ar_prev": 196578000,
-      "ar_qoq": "+39%",
+      "ar": 249939000,
+      "ar_prev": 273607000,
+      "ar_qoq": "-9%",
       "ar_period": "QoQ",
-      "inventory": 285022000,
-      "inv_prev": 290701000,
-      "inv_qoq": "-2%",
+      "inventory": 243707000,
+      "inv_prev": 285022000,
+      "inv_qoq": "-14%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
-      "alert": true,
-      "quarter_date": "2026-06-30"
+      "alert": false,
+      "quarter_date": "2026-09-30"
     },
     {
       "id": "first_solar",
