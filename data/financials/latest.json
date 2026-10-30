@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-29T14:45:08.153473Z",
+  "updated_at": "2026-10-30T14:41:23.805178Z",
   "quarter": "2026-06-30, 2026-09-30",
   "companies": [
     {
@@ -109,17 +109,17 @@
       "name": "晶澳科技",
       "ticker": "002459.SZ",
       "currency": "CNY",
-      "ar": 7910543220,
-      "ar_prev": 8791673257,
-      "ar_qoq": "-10%",
+      "ar": 7348937977,
+      "ar_prev": 7910543220,
+      "ar_qoq": "-7%",
       "ar_period": "QoQ",
-      "inventory": 13952024922,
-      "inv_prev": 11398640012,
-      "inv_qoq": "+22%",
+      "inventory": 14336516172,
+      "inv_prev": 13952024922,
+      "inv_qoq": "+3%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
-      "alert": true,
-      "quarter_date": "2026-06-30"
+      "alert": false,
+      "quarter_date": "2026-09-30"
     },
     {
       "id": "jinko",

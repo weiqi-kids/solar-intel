@@ -1,0 +1,16 @@
+{
+  "total_raw": 424,
+  "dup_title": 148,
+  "no_date": 0,
+  "too_old": 164,
+  "gate1_fail": 45,
+  "gate2_fail": 9,
+  "passed": 58,
+  "gate2_samples": [
+    "DQ: Daqo New Energy Corp. Latest Stock Price, Analysis, News and Trading Ideas - Stocktwits",
+    "Daqo New Energy Narrows Net Loss to $52.9 Million in Third Quarter - energynews.pro",
+    "Nomura Adjusts Price Target on Daqo New Energy to $18 From $28.60, Keeps Buy Rating - marketscreener",
+    "Jinko Holdings Limited (JKS) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+    "Why Jinko Bears Were Right Before A 68% Drop - Yahoo Finance"
+  ]
+}

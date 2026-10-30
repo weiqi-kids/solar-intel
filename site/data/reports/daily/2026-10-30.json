@@ -1,0 +1,258 @@
+{
+  "date": "2026-10-30",
+  "generated_at": "2026-10-30T14:41:29.503244Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "tongwei-2026-10-30-016",
+      "importance_score": 0.85,
+      "importance_reasons": [
+        "多公司提及",
+        "情緒極端"
+      ],
+      "title": "Chinese PV Industry Brief: JA Solar’s nine-month loss widens",
+      "companies": [
+        "tongwei",
+        "ja_solar"
+      ],
+      "related": {
+        "customers": [
+          "ja_solar"
+        ],
+        "suppliers": [
+          "tongwei"
+        ]
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://www.pv-magazine.com/2026/10/30/chinese-pv-industry-brief-ja-solars-nine-month-loss-widens/"
+    },
+    {
+      "rank": 2,
+      "event_id": "longi-2026-10-30-001",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "LONGi Green Energy Technology: BC module sales surged, but 9M losses widened and operating cash flow stayed negative - TradingView",
+      "companies": [
+        "longi"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxPNlgwVmh5OHZPZGF2elgyOWt1THJoN3Izd01WWkxsSEtHZnVuRU5fRG00ZlBjWjhPdnhHUURMQTRxd3VPV3F0dzV3RUpoN1B6SVFSeFIwTy1ZQjJDbTlvOXQ0ZkZTU0RDNTh1N0F6MXdQSWRzRnNSM1ZhWmJ3RHg0bXZjTXozZ194LUFleVNqUlB1cjA3OHE3S2pXRGdRb1NPdXgzb0FBNDY2ZkpLQkFVTzJlS0lPdWVPTk5HNkw3UUNycUdLeTlqRHFQNlB0Skpwd091bVhQT3Jla1Y4SXRrRWV3SF9wRHI3MlZVM1JOYWN3d2wxWFVLTjBFTWduS1ktWG5tdmFpRkhBWkY2cGc0MXJrc3Q5Y3gwS3hPN3JraEpMbDA?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "ja_solar-2026-10-30-002",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Chinese PV Industry Brief: JA Solar’s nine-month loss widens - pv magazine Global",
+      "companies": [
+        "ja_solar"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNa2lVaGF6c2w0YVA3eWNJcFhxeVlTQXdubGc1OEcxdG02ajV2WEtkTUsteTBoajkyLUtlMG1YdHRNMkhJeUtBbGFvZ2NmXzU4TTFNaV9NTkxjcFRRcjVhcFZVdTNZQUMySVU1Mi1YVThwenV2RVNZYVlNTXZ5QjU2M254NlFaUU95OFoxNnU1Ym9rN2hVNFVmdUhZaTNkdXc?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "jinko-2026-10-30-011",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Revenue fell 15.7%, but losses narrowed at JinkoSolar (JKS). - Stock Titan",
+      "companies": [
+        "jinko"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOTDV0SGpLU3o5UjBGeVNyOEt6ZzNtYUdRaG1nRkYyOGE3ZzU5MzJsS1psZERmZURkbjdJRUlOakdCSDFRU1RDalZydnVpQlM3WW9xU2RnMC02RGVzVXRabmpVNWVISzE5bGFDeVQxVTNuMHp5OHBqWlUwWFg2eVJ6RDFPdXVTbC1zYXBWalhkT3RUaWpGTFBqLVh6UFJZcWRpcGhXemhSNC1rUG11ZERIczY2dTEtVTMwc3d6Q2hR?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "trina-2026-10-30-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Trina Solar: 9M losses narrowed and operating cash flow improved, but Q3 remained loss-making - TradingView",
+      "companies": [
+        "trina"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.25
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQcXYxb19NcVlTTnh4MkFjRTJFQmN6MWhhbWRTZExmUUFvRkhDWENzanZwX0E1c0I1dmdHanppLUFSUFNPWC1ub183NkJVMlV1RWROZ2pQY0VGOHRDaWM0VktQelp5VlRTUXZ4QnVWUEhHSnJVM1dNWnV5WVBndVVOdW4wZmFjbU5sNWJteExyR1llYWtGVzNsWDZ2LUY4SnlvdjFUbUVsNnY1Y0kwLUJ5elNXTUFUaUJ6MkdQZUxsaTNPYlZBb0hQVGlyMFo2VC1DWDA5MGpfdjdvU0lzamVmRVNCM0pmTk5xaXIxTXRGdnNaZTVLZU81Umdoa3N0Q0FhME1MLQ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 39,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.09,
+      "sentiment_7d_avg": null
+    },
+    "polysilicon_price": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "installation_demand": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "trade_tariff": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.25,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 40,
+    "sentiment_distribution": {
+      "positive": 3,
+      "neutral": 31,
+      "negative": 6
+    },
+    "top_companies": [
+      {
+        "id": "jinko",
+        "count": 7
+      },
+      {
+        "id": "sungrow",
+        "count": 3
+      },
+      {
+        "id": "ja_solar",
+        "count": 2
+      },
+      {
+        "id": "trina",
+        "count": 2
+      },
+      {
+        "id": "first_solar",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 39
+      },
+      {
+        "id": "polysilicon_price",
+        "count": 1
+      },
+      {
+        "id": "installation_demand",
+        "count": 1
+      },
+      {
+        "id": "trade_tariff",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 424,
+    "dup_title": 148,
+    "too_old": 164,
+    "gate1_blocked": 45,
+    "gate2_blocked": 9,
+    "passed": 58,
+    "pass_rate": "21.0%",
+    "gate2_block_rate": "3.3%",
+    "gate2_samples": [
+      "DQ: Daqo New Energy Corp. Latest Stock Price, Analysis, News and Trading Ideas - Stocktwits",
+      "Daqo New Energy Narrows Net Loss to $52.9 Million in Third Quarter - energynews.pro",
+      "Nomura Adjusts Price Target on Daqo New Energy to $18 From $28.60, Keeps Buy Rating - marketscreener",
+      "Jinko Holdings Limited (JKS) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+      "Why Jinko Bears Were Right Before A 68% Drop - Yahoo Finance"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 40 則事件，焦點為晶科能源、陽光電源、晶澳科技相關動態：「Chinese PV Industry Brief: JA Solar’s nine-month loss widens」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "Chinese PV Industry Brief: JA Solar’s nine-month loss widens（太陽能產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "LONGi Green Energy Technology: BC module sales surged, but 9M losses widened ...（太陽能產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "多晶矽價格話題出現 1 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
