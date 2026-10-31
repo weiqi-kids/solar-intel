@@ -1,0 +1,15 @@
+{
+  "total_raw": 425,
+  "dup_title": 198,
+  "no_date": 0,
+  "too_old": 160,
+  "gate1_fail": 47,
+  "gate2_fail": 4,
+  "passed": 16,
+  "gate2_samples": [
+    "DQ: Daqo New Energy Corp. Latest Stock Price, Analysis, News and Trading Ideas - Stocktwits",
+    "Daqo New Energy Narrows Net Loss to $52.9 Million in Third Quarter - energynews.pro",
+    "GCL tries lithium battery materials in search of diversification - thebambooworks.com",
+    "Motech Industries, Inc. Estimates – TPEX:6244 - TradingView"
+  ]
+}

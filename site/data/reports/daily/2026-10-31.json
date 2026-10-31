@@ -1,0 +1,173 @@
+{
+  "date": "2026-10-31",
+  "generated_at": "2026-10-31T14:00:14.285073Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "jinko-2026-10-31-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "JinkoSolar Holding Co Ltd (JKS) (Q3 2026) Earnings Call Highlights: Gross Margin Surges to 12. ... - Yahoo Finance",
+      "companies": [
+        "jinko"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOX1JfNUdCcm9iV3c3Zk1HN3FPMmJSTGp3WTgzNHVlUkZ4dkNsZTdNSHhVbFRfc1ZEa3RjUTlqRGN2b25FaHQ0YW9QdUdnR1l3eS1LbXBQZEtrSHNORUZWTVNGdEMtdlRsYU5OcEp5cEhLbFpTNnlvRWcxUW9kQXpGTm50UW9fSWRDQVk5NllsSQ?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-10-31-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Indian PV at a turning point",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://www.pv-magazine.com/2026/10/31/indian-pv-at-a-turning-point/"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-10-31-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Scientists covered 70% of 3 New York ponds with floating solar panels; the test found daily greenhouse ga - The Times of India",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixgJBVV95cUxOMlJFUFYxV2pjbGhWdVJacE1Lal80NEtpbHA1UU1xVmNsQ2ttSWRDU2JrNzJDX2hhR3VIQlpLbXlnaWJxR09oWFhNRTZmYS1Jd1h6TGk0QU9yQ2RDRzhsV2dJRktZaE10R0Nadm1rdFBfejJuOWY2VFB3eXMzS2VybGpkQ1VNTHk3dHRsZUpUbjhUU0lOdGJDel9ZclRZbnpwZ3dlRFEybHRHSW9uQmtuLThSaU54Z2xVbkc3WjlTcXMyZGQ2eGlOUWE2ZzZNamdZMXhUbDlTSkNZWWNMMWQyaHN0eFdZUXMzOENOVkx2blRzYTQ3ZXozNm9hTFR3NlBzWTNFMTRGOWI2Nzd3TElLalA2aEU0MFJxUFU1VTg0TUJReTg3dC0xSWRNYUtMNzF1Wk42UWhTa3lzSjNpdGNtb0pJZ2tFUdIBywJBVV95cUxQY3NWYVJfMGNmRjVUMkRiUU1UTlFzeWR5YTRwVUMzWVFCNjlhdlBieFlWZzZUbE1hT3cweG1ESjl1R3ZxS2lZMEw4RTV6Ump0al9aS3ozR2JNOTV3SThuVlFjaFVOdGRaTlVaSTJUeDZqZDJRcjZaWXMwRVFzdk9TYll1bDZEdmZmbkdsbUtnZ3FLN3NsVjhLTkhEQVpMNUE5bDduaTZBOUVsVnl4Zlc0Tll0X21SLW9QWUxRZ2pHaURpcHM5d29kam8wQVB1SW10RFJjVFpvcjZ4aWdEVXF1dXNrTTlZY2x2cUNqSW9ZdWZrZVNHdGpWWTNOdVl4cEVIckNrMDduVThmV0NCWTNwSEE1d2JiOE1hUkdjVURaVXlfVHhvalhfajNHM3hyUUZBdXVVdm5rSjZYbmZHcC1yZmRGWC1fNjFxcV9N?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-10-31-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Understanding self-produced, self-consumed rooftop solar power for effective use - Nhan Dan Online",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQOFk1WGg2T3U1RUhfNVpnemEtbGVLZHVTTGUyNGlFRTVjVFFWRFBORW9FV0YyTk5adV9fdG9fcHpSSV83MG90RUh3TVNVaXAwVGtzekpYQmtubHZKUUFicnhSSGQ4VzVZZWN0NWZBLVBSVEFmX3VnQzNJSUk1NnZKdW1uUWlpTE5FOTlBNy13cVlmS05RRWdFOHEtREpZX3FhS2pOUmpMdktOc0xWd0xwSUF0TV9jR3Na?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-10-31-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "The Share of Solar Generation with Co-located Battery Storage Is Increasing",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://cleantechnica.com/2026/10/30/the-share-of-solar-generation-with-co-located-battery-storage-is-increasing/"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 5,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.1,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 5,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 4,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "jinko",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 5
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 425,
+    "dup_title": 198,
+    "too_old": 160,
+    "gate1_blocked": 47,
+    "gate2_blocked": 4,
+    "passed": 16,
+    "pass_rate": "7.0%",
+    "gate2_block_rate": "1.8%",
+    "gate2_samples": [
+      "DQ: Daqo New Energy Corp. Latest Stock Price, Analysis, News and Trading Ideas - Stocktwits",
+      "Daqo New Energy Narrows Net Loss to $52.9 Million in Third Quarter - energynews.pro",
+      "GCL tries lithium battery materials in search of diversification - thebambooworks.com",
+      "Motech Industries, Inc. Estimates – TPEX:6244 - TradingView"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 5 則事件，焦點為晶科能源相關動態：「JinkoSolar Holding Co Ltd (JKS) (Q3 2026) Earnings Call H...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "JinkoSolar Holding Co Ltd (JKS) (Q3 2026) Earnings Call Highlights: Gross Mar...（太陽能產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "Indian PV at a turning point（太陽能產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-30T14:41:23.805178Z",
+  "updated_at": "2026-10-31T14:00:10.521766Z",
   "quarter": "2026-06-30, 2026-09-30",
   "companies": [
     {
@@ -41,17 +41,17 @@
       "name": "大全新能源",
       "ticker": "DQ",
       "currency": "USD",
-      "ar": 72015000,
-      "ar_prev": 20779000,
-      "ar_qoq": "+247%",
+      "ar": 161555000,
+      "ar_prev": 72015000,
+      "ar_qoq": "+124%",
       "ar_period": "QoQ",
-      "inventory": 363458000,
-      "inv_prev": 258284000,
-      "inv_qoq": "+41%",
+      "inventory": 392142000,
+      "inv_prev": 363458000,
+      "inv_qoq": "+8%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
       "alert": true,
-      "quarter_date": "2026-06-30"
+      "quarter_date": "2026-09-30"
     },
     {
       "id": "enphase",
@@ -75,17 +75,17 @@
       "name": "First Solar",
       "ticker": "FSLR",
       "currency": "USD",
-      "ar": 1476221000,
-      "ar_prev": 1373954000,
-      "ar_qoq": "+7%",
+      "ar": 1591024000,
+      "ar_prev": 1476221000,
+      "ar_qoq": "+8%",
       "ar_period": "QoQ",
-      "inventory": 1425874000,
-      "inv_prev": 1228542000,
-      "inv_qoq": "+16%",
+      "inventory": 1485068000,
+      "inv_prev": 1425874000,
+      "inv_qoq": "+4%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
       "alert": false,
-      "quarter_date": "2026-06-30"
+      "quarter_date": "2026-09-30"
     },
     {
       "id": "gcl",
