@@ -1,5 +1,61 @@
 [
   {
+    "id": "jinko-2026-11-01-001",
+    "date": "2026-11-01",
+    "companies": [
+      "jinko"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Can JinkoSolar (NYSE:JKS) Stock Sustain Its Q3 Earnings Margin Rebound? - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxPNVVmSnF6enFYbFYwQXhfNzRUQkZTVjE2UGJVQlA4cFNYUy1iM0dYMi1YcGh0VFBWYXNCZUNuV21CVlc3aXVMLWsxOU1mUHFEMzVDT0w3dXpyZmtfZGVlOVdyR2g3am9ZSUlHcVozSF",
+    "sources": [
+      {
+        "name": "jinko",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPNVVmSnF6enFYbFYwQXhfNzRUQkZTVjE2UGJVQlA4cFNYUy1iM0dYMi1YcGh0VFBWYXNCZUNuV21CVlc3aXVMLWsxOU1mUHFEMzVDT0w3dXpyZmtfZGVlOVdyR2g3am9ZSUlHcVozSFNQUmRFWXhITEltWlV6dU1uQW95OV9IR2JYaGN0WjJKemVVeFJuSnBkWFlwTzY2LWM?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-01-002",
+    "date": "2026-11-01",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Tesla Is Ditching Its Solar Roof Tiles For A Good Reason - Engadget",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxQV2xVYmZfVzhadG5TMFRZRGduZDdkbFBDNVZhaDBlRGlNVVNIa0phdnBacEJDRkJLZjhVbWdBRHFEU0pIQWhrTmxLSDFUbi0yNWI0SUtBSVY4VVZrdUlad1NXdkdQWVpsaGJQc0tJUW",
+    "sources": [
+      {
+        "name": "google_news_solar",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQV2xVYmZfVzhadG5TMFRZRGduZDdkbFBDNVZhaDBlRGlNVVNIa0phdnBacEJDRkJLZjhVbWdBRHFEU0pIQWhrTmxLSDFUbi0yNWI0SUtBSVY4VVZrdUlad1NXdkdQWVpsaGJQc0tJUWN4dEJCaEtEZE1XY2dMYVl2MUhHSjhQS2JXV3BvdE5fSVRlRnkt?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-01-003",
+    "date": "2026-11-01",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "PJM’s Emergency Order Should Be a Wake-Up Call for Michigan: Build More Power Before the Next Crisis",
+    "summary": "<p>By Terence Parker, Michigan resident and Solar Mounts LLC team member The U.S. Department of Energy’s October 12, 2026, emergency order directing PJM Interconnection to use additional generating re",
+    "sources": [
+      {
+        "name": "solar_power_world",
+        "url": "https://www.solarpowerworldonline.com/2026/11/pjms-emergency-order-should-be-a-wake-up-call-for-michigan-build-more-power-before-the-next-crisis/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "jinko-2026-10-31-001",
     "date": "2026-10-31",
     "companies": [
@@ -87,6 +143,66 @@
       {
         "name": "cleantechnica",
         "url": "https://cleantechnica.com/2026/10/30/the-share-of-solar-generation-with-co-located-battery-storage-is-increasing/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "xinyi_solar-2026-10-31-006",
+    "date": "2026-10-31",
+    "companies": [
+      "xinyi_solar"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Xinyi Solar Holdings Limited (0968.HK) Seasonal Returns Chart - Yahoo Finance - Yahoo! Finance Canada",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE94N3k0UVZ2SHhXS09DQ1JvZFVPWExQdFRDczAwRDgyWEthb2Z5MUtHejE3TVBaSUxNcU9JUHAxZzNQdjlGWGZWeDliUXJPem9lX2w4M3M3ZGZvbjVmWGk5ZTNybXVPZw?oc=5\" targe",
+    "sources": [
+      {
+        "name": "xinyi_solar",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE94N3k0UVZ2SHhXS09DQ1JvZFVPWExQdFRDczAwRDgyWEthb2Z5MUtHejE3TVBaSUxNcU9JUHAxZzNQdjlGWGZWeDliUXJPem9lX2w4M3M3ZGZvbjVmWGk5ZTNybXVPZw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "jinko-2026-10-31-007",
+    "date": "2026-10-31",
+    "companies": [
+      "jinko"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "JinkoSolar Holding Co Ltd (JKS) (Q3 2026) Earnings Call Highligh - GuruFocus",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimANBVV95cUxPWkJFLU5FUUJSNWg4Q0xhLXpyZWlKak5HSi1LMnZwdkg2LUVuZENKT2QxV1lNYWItcW9mM3YwMXd2NEJ5QVNESEYxeWM4c2h2ZlhxRnlsVU5oWUdsOUh4MnRqSDhjUnhqVTlFOXZCRT",
+    "sources": [
+      {
+        "name": "jinko",
+        "url": "https://news.google.com/rss/articles/CBMimANBVV95cUxPWkJFLU5FUUJSNWg4Q0xhLXpyZWlKak5HSi1LMnZwdkg2LUVuZENKT2QxV1lNYWItcW9mM3YwMXd2NEJ5QVNESEYxeWM4c2h2ZlhxRnlsVU5oWUdsOUh4MnRqSDhjUnhqVTlFOXZCRTNqS2RxblBZVnlyOWp1bVR1Q0ZGZnFpVjI0aEZvZjFpVEFEZjhHdENlZjIxdWJMakZBMjFackNLREt0TU5PWldUTzhJUWdqelpvQnJoeUFWc3pVMTYxQTMwZkktcnNGQXowZHY0WTJFMGxndm5paWFVRVAxVmRHemROWWpzQkRZRkQ2dEEwMjRtVEd3YnNpYmNRb0VxUHVqOEpEZUpITzBLcjFRX2VSR1JxMDd2YXZpMzIzTG41OHA5UEFjbi11V09RQ0FwU1N3OGRxN1FldW84YVJ5VUxyVE1jYUdhU3dRVjR0Ry1GUjM4RVIxaUJYWk5RcjJKMUl3UEtwNS1vS3hTMHNWTEI1TXVwNHlLRlI2enk5azlZTzFDelM3aDljZjZESnpYejNNMTQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "jinko-2026-10-31-008",
+    "date": "2026-10-31",
+    "companies": [
+      "jinko"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "JinkoSolar Holding Co., Ltd. (JKS) Seasonal returns chart - Yahoo Finance UK",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTFB0cTh2X19kOXI0bVN4cXhBbzF4SFhxWWRhdGFHMU84UFhsblFPNUJhWjZ5cTVCRjVMVFRpbVZyYU1TakFrQVk2NFNHQ1pTRjl3a1FxTTUyQlZfdG9Kcy00bw?oc=5\" target=\"_blan",
+    "sources": [
+      {
+        "name": "jinko",
+        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB0cTh2X19kOXI0bVN4cXhBbzF4SFhxWWRhdGFHMU84UFhsblFPNUJhWjZ5cTVCRjVMVFRpbVZyYU1TakFrQVk2NFNHQ1pTRjl3a1FxTTUyQlZfdG9Kcy00bw?oc=5",
         "type": "rss"
       }
     ]
@@ -998,6 +1114,86 @@
       {
         "name": "google_news_solar",
         "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNWnlpaENaY0dMSC1lZDJCbDBvMmtaX19JVEtNRjlqbEs2TFp4ZVFHa08tVWFXc3IxblFmZGpXQjlfWHMwWWxUbTkzcHFpeVNVb2VjMWEtWnJoem05WTUtb2RYXzI5VDdwdm1mUkYzM0EzSVctUWRHWHF6Zk9fQ2ZubWM4YlAyYzVld1dfdDRZOWFWY1hsN3N0MTlXb29nZlpNWWJPZEJ0Qm9oYW12aWYxRTFmOHdFMzg0YTVZRTlaNjA2MVB3MzlkTGdDRmF0NXRZNHFqdXFEMkdlZ0NYUGc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "xinyi_solar-2026-10-30-049",
+    "date": "2026-10-30",
+    "companies": [
+      "xinyi_solar"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Xinyi Solar (00968) cancels 1 million repurchased shares - Moomoo",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxNNlNQWDBFcnFfN2VzNWhoM0ZlQ1VwZXZJdC16Q1ZLY3RqR2pKVlVwTEVLTVJXYnRBQXVnLTJKQTNTdUpBNmpsNmdsLV9aMG02a1otd3E4bTYwOFZ1dmlBNzNtYlFRSGFpV2FBUlNHQ0",
+    "sources": [
+      {
+        "name": "xinyi_solar",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNNlNQWDBFcnFfN2VzNWhoM0ZlQ1VwZXZJdC16Q1ZLY3RqR2pKVlVwTEVLTVJXYnRBQXVnLTJKQTNTdUpBNmpsNmdsLV9aMG02a1otd3E4bTYwOFZ1dmlBNzNtYlFRSGFpV2FBUlNHQ0oxZkVMY0twd0NoVndNNWVZNVQ3SWd6U3BYMzBWR191c3JPVTIweUZ1RnVQS2p5MU0?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "jinko-2026-10-30-050",
+    "date": "2026-10-30",
+    "companies": [
+      "jinko"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "JinkoSolar (JKS) Reports Q3 Solar Module Shipments Decline Amid Strategic Shift - GuruFocus",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxQcHotTXMyQ3VuTmYydkhXekgxTmRUOUdmSjVNRnJiamc1bmxpTTM0LVZBLTZWR1c5UDF1V21rSnVoS1RQRjhzZjNDZTdUQ0tkSmV0dGk2UlUyZ2VOQVBSMGVpajNULWlyZTNqelRPam",
+    "sources": [
+      {
+        "name": "jinko",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQcHotTXMyQ3VuTmYydkhXekgxTmRUOUdmSjVNRnJiamc1bmxpTTM0LVZBLTZWR1c5UDF1V21rSnVoS1RQRjhzZjNDZTdUQ0tkSmV0dGk2UlUyZ2VOQVBSMGVpajNULWlyZTNqelRPam1ZdlZQLVVxTGVvaXdERk5ndVZtaGlfdjlaNGVHWXlobTgyRmpGazM5eTA3RWsyYWJicFJuX3VPSlRBMEhSZjVad1ByUXdodUk?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "jinko-2026-10-30-051",
+    "date": "2026-10-30",
+    "companies": [
+      "jinko"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "JinkoSolar Holding Co Ltd (ZJS1.SG) Seasonal Returns Chart - Yahoo Finance - Yahoo! Finance Canada",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE9JVzBVVmxpOWZJdUw3VVRmd0Z1Rl83RlRHemlQcFhZR3oyYUNQcFhBYmZjeThRcUZ3TklMbWo0QWtFWE1WbVBPWUZZNmhvMkhBSmw5MF9DVUluNWMxRkJpNlVvRm53UQ?oc=5\" targe",
+    "sources": [
+      {
+        "name": "jinko",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9JVzBVVmxpOWZJdUw3VVRmd0Z1Rl83RlRHemlQcFhZR3oyYUNQcFhBYmZjeThRcUZ3TklMbWo0QWtFWE1WbVBPWUZZNmhvMkhBSmw5MF9DVUluNWMxRkJpNlVvRm53UQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "jinko-2026-10-30-052",
+    "date": "2026-10-30",
+    "companies": [
+      "jinko"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Jinko Holdings Announces Change of Chief Financial Officer and Appointment of New Director - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxQUTBJM0ktTjRtTDJ0M2VBMFRMUjJET0NVN3BrYVNCRmZFWjM0NlF0eVhGWGM0RktjQ2VCSUhLRkV2ODNaUUFtaVRnMGFXS0ZIc0doVFNHUndsbWVNajFlYjZuUndYd0FiV0c3UDlkTG",
+    "sources": [
+      {
+        "name": "jinko",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQUTBJM0ktTjRtTDJ0M2VBMFRMUjJET0NVN3BrYVNCRmZFWjM0NlF0eVhGWGM0RktjQ2VCSUhLRkV2ODNaUUFtaVRnMGFXS0ZIc0doVFNHUndsbWVNajFlYjZuUndYd0FiV0c3UDlkTG1YSndCT0JEbDA2ZXVKTGthZW1rN3E1Ujh3UU1TQms3NEg3Zmo4THA2eVZRWHQ3ZFNCZVFaZw?oc=5",
         "type": "rss"
       }
     ]
@@ -4358,6 +4554,24 @@
       {
         "name": "google_news_solar",
         "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9KWGYxajB4ZUZPemJGOWgteGRBWWZYN1c3NTBSVXM5RDl3YndVajVZQ1BmUjV4azNZYmNLOFdtTGV3aUhfYk1CQUF5a2tvVVl2QmN6MVRCamtKV25DeEFpV090NjlIaEE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-27-073",
+    "date": "2026-10-27",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Trump falsely claims solar panels 'kill all the animals' - AFP Fact Check",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTE1mRVZBNkoxYUt1ejJaWW5ZaklXbHBERlYzMHBTZ05QazZiNWZibzRsTUJPR1BzMmZITGdFMjQwZFlVWXFobWQ0OFlwNHp2VXQ5a1JBYmQ1aVE?oc=5\" target=\"_blank\">Trump fa",
+    "sources": [
+      {
+        "name": "google_news_solar",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1mRVZBNkoxYUt1ejJaWW5ZaklXbHBERlYzMHBTZ05QazZiNWZibzRsTUJPR1BzMmZITGdFMjQwZFlVWXFobWQ0OFlwNHp2VXQ5a1JBYmQ1aVE?oc=5",
         "type": "rss"
       }
     ]

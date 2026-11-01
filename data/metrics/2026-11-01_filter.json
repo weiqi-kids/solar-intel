@@ -1,0 +1,16 @@
+{
+  "total_raw": 418,
+  "dup_title": 208,
+  "no_date": 0,
+  "too_old": 145,
+  "gate1_fail": 49,
+  "gate2_fail": 5,
+  "passed": 11,
+  "gate2_samples": [
+    "DQ: Daqo New Energy Corp. Latest Stock Price, Analysis, News and Trading Ideas - Stocktwits",
+    "Daqo New Energy Narrows Net Loss to $52.9 Million in Third Quarter - energynews.pro",
+    "Why Jinko Bears Were Right Before A 68% Drop - Yahoo Finance",
+    "Motech Industries, Inc. Estimates – TPEX:6244 - TradingView",
+    "Form 4 Array Technologies Inc: Terrance L. Collins (Chief Human Resources Officer) For: 24 September"
+  ]
+}
