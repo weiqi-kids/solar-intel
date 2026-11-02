@@ -1,5 +1,630 @@
 [
   {
+    "id": "unknown-2026-11-02-001",
+    "date": "2026-11-02",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "China Solar Recovery Still a Long Way Off Despite Margin Gains - Bloomberg.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxOVDJ3WVRDZ1V2Wjh1eU9fUy1pSlYwdTZlR2wxb05ld3BJWWl5RXEwNDZwNEJtb3JEZjg4R0JtWWFSemthM0h2aEstSWhyamtQNFRFVDdEamxwZEVMd1ZuVXl3NTVhM3VDUDVXVEpaUk",
+    "sources": [
+      {
+        "name": "longi",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOVDJ3WVRDZ1V2Wjh1eU9fUy1pSlYwdTZlR2wxb05ld3BJWWl5RXEwNDZwNEJtb3JEZjg4R0JtWWFSemthM0h2aEstSWhyamtQNFRFVDdEamxwZEVMd1ZuVXl3NTVhM3VDUDVXVEpaUkFPZmdqNEdDYzhkU2FPdlBqOXZTa2dDWFo5OVFrT0cyMFJQTnZOYTZ2RjZROGs2NVpPcGJsWHR6Vmp5VElCeHN3N2U2dw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-02-002",
+    "date": "2026-11-02",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "Chart of the Day: Losses Mount at China’s Top Solar Firms - Caixin Global",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxQQ25NcllJNWJvV1h6Z2p2dDFvTnRwSzliSjZDNk9Bd0RhVENEdkZ3WWQ2MVJYdHo0eTJRYUNWRVlBeEUzOEg2cnZvSDQwY0stUGZHV3ZKXzZ3dV8zX3c1RDd3OUZXZk1uaGJ4YXp6al",
+    "sources": [
+      {
+        "name": "ja_solar",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQQ25NcllJNWJvV1h6Z2p2dDFvTnRwSzliSjZDNk9Bd0RhVENEdkZ3WWQ2MVJYdHo0eTJRYUNWRVlBeEUzOEg2cnZvSDQwY0stUGZHV3ZKXzZ3dV8zX3c1RDd3OUZXZk1uaGJ4YXp6alBsWU55ejVXT1hzbFpKQTRadnA0RkNBR1duaFhGSnVNbFlWUUp5VUdMTmVpWU5yVGNmTzNNSWdHUkRIMEdvdEFB?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "trina-2026-11-02-003",
+    "date": "2026-11-02",
+    "companies": [
+      "trina"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Trinasolar May Sell Up To 70% Stake In TrinaTracker - TaiyangNews",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxOV0R1MXJIR1RjMExSTmRxcExMQVd0QlMtdmt0Ym1jNlFuSnRQTlJvSlE5VmQ1N0lKTkhsd3QyWURvNVRJWGdtWVhfMzFDbG5CSTZDR196SERRLV8yRTE2Z3VMSU1rd3lZTm1sSGxsbF",
+    "sources": [
+      {
+        "name": "trina",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOV0R1MXJIR1RjMExSTmRxcExMQVd0QlMtdmt0Ym1jNlFuSnRQTlJvSlE5VmQ1N0lKTkhsd3QyWURvNVRJWGdtWVhfMzFDbG5CSTZDR196SERRLV8yRTE2Z3VMSU1rd3lZTm1sSGxsbF9maWRhaTVxM0xHZ3NJYl8zdG1kYTF2TzVka0VZ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "jinko-2026-11-02-004",
+    "date": "2026-11-02",
+    "companies": [
+      "jinko"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Jinko module shipments drop 25% YoY in Q3 2026 - PV Tech",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTFBXZFpjaFFJTHowMlpuZGhsSGdTUVI2eGl6NjdFNm5CT1c1SDJwQ0RPQzZYOE5CTVpHNzhMc0pKWFhsT2ZCNkRvQWtkcEZheURMUDRUYjI3eUNGY1dudTZTVTViUHdRVHJzXzE2RWR2SU",
+    "sources": [
+      {
+        "name": "jinko",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBXZFpjaFFJTHowMlpuZGhsSGdTUVI2eGl6NjdFNm5CT1c1SDJwQ0RPQzZYOE5CTVpHNzhMc0pKWFhsT2ZCNkRvQWtkcEZheURMUDRUYjI3eUNGY1dudTZTVTViUHdRVHJzXzE2RWR2SU10aGhtTVMyRVVB?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "jinko-2026-11-02-005",
+    "date": "2026-11-02",
+    "companies": [
+      "jinko"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "JinkoSolar (NYSE:JKS) Shares Climb 9.3% After Earnings Beat - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxQaDNEX3Exd1IxdVBMSnZzZHFRQWw1OTVQY2FmSW5LTnZQWk5HcTJ6TFFHalA0cktEMVQ1UzdQOERzblBMSEpRUmhoVzFSX1pxVGxUQ2ZsU0tlRk41RHNsblY0djlqbzU0Tl9mNWc2aG",
+    "sources": [
+      {
+        "name": "jinko",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQaDNEX3Exd1IxdVBMSnZzZHFRQWw1OTVQY2FmSW5LTnZQWk5HcTJ6TFFHalA0cktEMVQ1UzdQOERzblBMSEpRUmhoVzFSX1pxVGxUQ2ZsU0tlRk41RHNsblY0djlqbzU0Tl9mNWc2aGhMMGF3OW5aaW50d29SdTl3eWpudC1KTmROYlltbElSZXR1Q2FSNmNYZDNOd25WWXVBRHQxd2RzSnV4WEFsV3VYTzQ2c2g0dw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "sungrow-2026-11-02-006",
+    "date": "2026-11-02",
+    "companies": [
+      "sungrow"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Why is Sungrow Power Supply stock surging today? - Investing.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxNRkFPY29mZ29fQXNOWjJaTmd1ODJMOTU2bVoway05WDRyQi14VklTWnVZbmR3bkluOUZSM29KRlZwdS13c0FNb1ZXUjhZaEdwcENoWDRDdFozaERDSWt1ak9mWWVJWGpPeVF3UDR5MX",
+    "sources": [
+      {
+        "name": "sungrow",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNRkFPY29mZ29fQXNOWjJaTmd1ODJMOTU2bVoway05WDRyQi14VklTWnVZbmR3bkluOUZSM29KRlZwdS13c0FNb1ZXUjhZaEdwcENoWDRDdFozaERDSWt1ak9mWWVJWGpPeVF3UDR5MXlTWVZ0MnlOODVfYWMxN2xzNm1aT2t3MWRXVHhJUkg4dEhMcjZtVGhlNXJ2SlN4dUd0eHowRGpScDBRSzZneEE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "sungrow-2026-11-02-007",
+    "date": "2026-11-02",
+    "companies": [
+      "sungrow"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Sungrow Power Supply Posts Lower Q3 Attributable Profit; Revenue Down; Shares Jump 9% - www.marketscreener.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxPWGc2ZVNwTmU0ZjlDRTRfMU1uNS0wVFBsVFYxekdrREtYZTdDVldZTU9TT1NvVnQtTlk4Z0NYWlRlaEp4ZE5jRXlPdWNOX3BrancyNDlmazJldTF6QW42Z054STRfZ1FFb3A5b1dGcn",
+    "sources": [
+      {
+        "name": "sungrow",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPWGc2ZVNwTmU0ZjlDRTRfMU1uNS0wVFBsVFYxekdrREtYZTdDVldZTU9TT1NvVnQtTlk4Z0NYWlRlaEp4ZE5jRXlPdWNOX3BrancyNDlmazJldTF6QW42Z054STRfZ1FFb3A5b1dGcnhVUWpGZjRjM05HMnBGWVFodzYwUGYwMXEyZG5xLVAydllxNXhLdjVybEFqc2h4dUM0aTVQYTNWTUgtLW5qU2J4YU1KdUFEV0xrY24ycWNMWC1rTGpIanp4dlRyb0RrVG1W?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-02-008",
+    "date": "2026-11-02",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Equator Renewables Asia unveils 250 kW containerized PV system",
+    "summary": "<p>Singapore-based Equator Renewables Asia has developed a modular, relocatable PV system featuring up to 250 kW of solar capacity in a 40-foot shipping container. The plug-and-play solution uses n-ty",
+    "sources": [
+      {
+        "name": "pv_magazine",
+        "url": "https://www.pv-magazine.com/2026/11/02/equator-renewables-asia-unveils-250-kw-containerized-pv-system/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-02-009",
+    "date": "2026-11-02",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Solar sector corporate funding increases 45% through three quarters of 2026",
+    "summary": "<p>Total corporate funding into the solar sector, including venture capital, public market financing, and debt financing, reached $25.1 billion through three quarters of 2026, according to a report fr",
+    "sources": [
+      {
+        "name": "pv_magazine",
+        "url": "https://www.pv-magazine.com/2026/11/02/solar-sector-corporate-funding-increases-45-through-three-quarters-of-2026/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-02-010",
+    "date": "2026-11-02",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Armenia introduces interest rate subsidies for storage systems",
+    "summary": "<p>New government provisions offer businesses interest rate subsidies of 6 to 10 percentage points on loans and leases for battery storage equipment.</p>\n<p>The post <a href=\"https://www.pv-magazine.c",
+    "sources": [
+      {
+        "name": "pv_magazine",
+        "url": "https://www.pv-magazine.com/2026/11/02/armenia-introduces-interest-rate-subsidies-for-storage-systems/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-02-011",
+    "date": "2026-11-02",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "The impact of dust and shading on pole-mounted PV",
+    "summary": "<p>A year-long comparison of five PV configurations highlights how maintenance access, shading, and structural limits influence off-grid system selection. The researchers combined field measurements w",
+    "sources": [
+      {
+        "name": "pv_magazine",
+        "url": "https://www.pv-magazine.com/2026/11/02/the-impact-of-dust-and-shading-on-pole-mounted-pv/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-02-012",
+    "date": "2026-11-02",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Japan proposes 50-metric-ton trigger for solar panel recycling plans",
+    "summary": "<p>A Japanese government study group is weighing rules that would bring almost all conventional solar panels under a new recycling law, while leaving perovskite and flexible modules out for now.</p>\n<",
+    "sources": [
+      {
+        "name": "pv_magazine",
+        "url": "https://www.pv-magazine.com/2026/11/02/japan-proposes-50-metric-ton-trigger-for-solar-panel-recycling-plans/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-02-013",
+    "date": "2026-11-02",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Belgian spin-off Noak raises €5 million for perovskite-silicon solar cells",
+    "summary": "<p>Noak will use the seed funding to industrialise its perovskite-silicon tandem technology, which combines a proprietary layer stack with a 3D woven back-contact foil.</p>\n<p>The post <a href=\"https:",
+    "sources": [
+      {
+        "name": "pv_magazine",
+        "url": "https://www.pv-magazine.com/2026/11/02/belgian-spin-off-noak-raises-e5-million-for-perovskite-silicon-solar-cells/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-02-014",
+    "date": "2026-11-02",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Zwitterions could be much more than defect passivators in perovskite solar cells",
+    "summary": "<p>Chinese researchers have reviewed the potential of zwitterions to improve the efficiency and stability of perovskite solar cells through defect passivation, crystallization control, and interface e",
+    "sources": [
+      {
+        "name": "pv_magazine",
+        "url": "https://www.pv-magazine.com/2026/11/02/zwitterions-could-be-much-more-than-defect-passivators-in-perovskite-solar-cells/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-02-015",
+    "date": "2026-11-02",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Pakistan seeks consultant for distributed solar project",
+    "summary": "<p>A tender is open in Pakistan searching for a consultant to verify all non-solar works that form part of a 100 MW distributed PV project in the region of Gilgit-Baltistan. The deadline for expressio",
+    "sources": [
+      {
+        "name": "pv_magazine",
+        "url": "https://www.pv-magazine.com/2026/11/02/pakistan-seeks-consultant-for-distributed-solar-project/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-02-016",
+    "date": "2026-11-02",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Retractable photovoltaics for wastewater treatment",
+    "summary": "<p>Germany’s largest retractable solar roof, with a capacity of 2.745 MW, is under construction at a wastewater treatment plant in Stuttgart. Scheduled for completion in 2027, the system will generate",
+    "sources": [
+      {
+        "name": "pv_magazine",
+        "url": "https://www.pv-magazine.com/2026/11/02/retractable-photovoltaics-for-wastewater-treatment/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-02-017",
+    "date": "2026-11-02",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Jigar Shah on the shift to battery-first energy and virtual power plants",
+    "summary": "During a conversation at pv magazine USA Week 2026, Jigar Shah discussed how virtual power plants, grid capacity limits, and new business models are changing how homes and businesses use batteries.",
+    "sources": [
+      {
+        "name": "pv_magazine_usa",
+        "url": "https://pv-magazine-usa.com/2026/11/02/jigar-shah-on-the-shift-to-battery-first-energy-and-virtual-power-plants/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-02-018",
+    "date": "2026-11-02",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "From balconies to congress: How plug-in solar is leading a regulatory and utility shift",
+    "summary": "A panel of solar industry leaders at pv magazine USA Week 2026 explored how new state laws, safety standards, and business models are moving plug-in solar into the American mainstream.",
+    "sources": [
+      {
+        "name": "pv_magazine_usa",
+        "url": "https://pv-magazine-usa.com/2026/11/02/from-balconies-to-congress-how-plug-in-solar-is-leading-a-regulatory-and-utility-shift/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-02-019",
+    "date": "2026-11-02",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "NJ solar panel recycling rules face legal review - Resource Recycling",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxNaFY3aFR0SnVkZzJlcHpnaGtJdFN3QTBFQW5qWVdVNEFsNUhITVpZSFhnemVROHNIY0JQeDlIUG4yWDhkSzRVcGZqUDZmb2dJRkhkT21WQ3F2VldCdFdLbXNSMzdLLWh6MU1IT2JlaD",
+    "sources": [
+      {
+        "name": "google_news_solar",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNaFY3aFR0SnVkZzJlcHpnaGtJdFN3QTBFQW5qWVdVNEFsNUhITVpZSFhnemVROHNIY0JQeDlIUG4yWDhkSzRVcGZqUDZmb2dJRkhkT21WQ3F2VldCdFdLbXNSMzdLLWh6MU1IT2JlaDYyaVkyb1kyYlZSUVpiemlkLTlCbWNLZUNRQkdKM1lHRlRWdXg2eE9TQ203cl9tWXRCUk45VA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-02-020",
+    "date": "2026-11-02",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "China's Record Clean Energy Exports to Avert 450 Million Tonnes of CO2 Annually, CREA Report Finds - IndexBox",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxQMjBZYkNXaWs4V1E5elhISS1yME1mSW84bWVYZHZiM1JIUjc0X1ZZekctR1NQUHNTaU9DR3AydmlDV0JrVUtaYXE1TWQ0cm5tZldqN214MExscWx0dmV3N1U5Nm9ZWVc1ZTlFLWJjT2",
+    "sources": [
+      {
+        "name": "google_news_solar",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQMjBZYkNXaWs4V1E5elhISS1yME1mSW84bWVYZHZiM1JIUjc0X1ZZekctR1NQUHNTaU9DR3AydmlDV0JrVUtaYXE1TWQ0cm5tZldqN214MExscWx0dmV3N1U5Nm9ZWVc1ZTlFLWJjT2hiTi1ZbEt2M2c5akItZG1wMlppVlh1NkFBWnEtc0dRZVNZeEIyNEt4TGZpdi1uZldpd0xCVjZkT19WZEVjVkZmUGRZWkhEYlVwYlotekM1M3d2d2tB?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-02-021",
+    "date": "2026-11-02",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "NJ Solar Panel Recycling Rules Await Legal Review as Gaps Persist - Community News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxOZGtBTXpOUHFXcEJlLUN3WEdjakhDUklGeDN0c0V6NUhsUmJibFExUDctYUdySURYNWdabkFPUVBCVlhCSmRGaGg4eFl0Y21vaWtNUEo4RlR4VTZJTmZCSnZhWEtjVmRGUGdIMVNlYW",
+    "sources": [
+      {
+        "name": "google_news_solar",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOZGtBTXpOUHFXcEJlLUN3WEdjakhDUklGeDN0c0V6NUhsUmJibFExUDctYUdySURYNWdabkFPUVBCVlhCSmRGaGg4eFl0Y21vaWtNUEo4RlR4VTZJTmZCSnZhWEtjVmRGUGdIMVNlYWZiQlNoU0xKVzA5QVR4eGNUR2pwaWxhbjhtV1ZkUnZ3UDFpVTg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-02-022",
+    "date": "2026-11-02",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Japan proposes 50-metric-ton trigger for solar panel recycling plans - pv magazine Global",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxOTWdyWXNlcWNpa3llTl9kVHpIWTd3RjN0Rmo4SzVJWmtrdVJVR000Rmd0THktbi0tS2lBQXJzdEVNWF91Ukp6NHF3R1pLZ3JpalhRT3cwNWRyMW5iMGZSckFDNkVHazFQcGJnU2ktTF",
+    "sources": [
+      {
+        "name": "google_news_solar",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOTWdyWXNlcWNpa3llTl9kVHpIWTd3RjN0Rmo4SzVJWmtrdVJVR000Rmd0THktbi0tS2lBQXJzdEVNWF91Ukp6NHF3R1pLZ3JpalhRT3cwNWRyMW5iMGZSckFDNkVHazFQcGJnU2ktTFNsSFUyVWhwem9KLVk4QmtnTnNydTFPam8yOTN2VWZlZ0JpX3BST3B3SWhZZ0RoRHVPcTdmYVlCZTFkSzNv?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-02-023",
+    "date": "2026-11-02",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Photos: Milan unveils 71,500-seat stadium with solar roof to replace historic San Siro - Interesting Engineering",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxOV1A3b3dXcVU4b1BqR1BHT3BsNWRmNGRHcTRpSEh1c0VqSzZZV1ZuRERXaFYxWEFGWGIyZzkzbmJVVUF2aXpMNVdUanhoSkdEYWM4WV9jZlAtUzVJNnhudEdGeElwWllFRE1FNUhfci",
+    "sources": [
+      {
+        "name": "google_news_solar",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOV1A3b3dXcVU4b1BqR1BHT3BsNWRmNGRHcTRpSEh1c0VqSzZZV1ZuRERXaFYxWEFGWGIyZzkzbmJVVUF2aXpMNVdUanhoSkdEYWM4WV9jZlAtUzVJNnhudEdGeElwWllFRE1FNUhfci1tRHNwRElFRUZscXdYaHZPTXBIV0ktdw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-02-024",
+    "date": "2026-11-02",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Rivington Energy wins planning nod for 27-MW solar park in England - Renewables Now",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxOT2NRVXZoRl9rRFpTSVVYbHlHUWNGblRoN3BWMmxEVWxRdWR6aUQ1b3k2bFBiU3ZJQzNNeU4tOEpXMDVjMk9HYzBPb1loZXN4UWpfN0J2QXRRbFZkNFo2aVF1dFZWdU5HVWt1WVQ0cX",
+    "sources": [
+      {
+        "name": "google_news_solar",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOT2NRVXZoRl9rRFpTSVVYbHlHUWNGblRoN3BWMmxEVWxRdWR6aUQ1b3k2bFBiU3ZJQzNNeU4tOEpXMDVjMk9HYzBPb1loZXN4UWpfN0J2QXRRbFZkNFo2aVF1dFZWdU5HVWt1WVQ0cXpFcnBrMkZyWWhqaXB5X1cySzFGdVdHOEtqd0tkVmpFOWg1RklSLWZuSE1wbjFwYVBiSFlCSjhESndWdw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-02-025",
+    "date": "2026-11-02",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Ojo Sarco Community Center Gets Free Solar and Battery Storage - News and Statistics - IndexBox",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxPZ1AzdDNMa2o2blJwNUNtczlkRDdlWG92bTdJVEU0aC1IZTlobm9xM2JqOWpIZjBVME1VZkVQZUNPNDZuYW5zakZqTGNpNFRJdHMtcjRnd2UyU3prbWFwdkwtUGtHTHpjTHJKNWRGU0",
+    "sources": [
+      {
+        "name": "google_news_solar",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPZ1AzdDNMa2o2blJwNUNtczlkRDdlWG92bTdJVEU0aC1IZTlobm9xM2JqOWpIZjBVME1VZkVQZUNPNDZuYW5zakZqTGNpNFRJdHMtcjRnd2UyU3prbWFwdkwtUGtHTHpjTHJKNWRGU0xmdkFqakZUaklxXzFhTFR6Q0hLZXp1THc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-02-026",
+    "date": "2026-11-02",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "The impact of dust and shading on pole-mounted PV - pv magazine Global",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxOTzlpWlpvZVV6REY1WExVRW40eGhITXBOMEYxU19oUUM3RHdZQWNTVzNocW1SUnBzenI3TVZVRzRybDhESF84Z2xFTjFNUGphY0NrVFcwakVDVlBZZmdwNlV2Y1dTYjIyY2Nac3ltMl",
+    "sources": [
+      {
+        "name": "google_news_solar",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOTzlpWlpvZVV6REY1WExVRW40eGhITXBOMEYxU19oUUM3RHdZQWNTVzNocW1SUnBzenI3TVZVRzRybDhESF84Z2xFTjFNUGphY0NrVFcwakVDVlBZZmdwNlV2Y1dTYjIyY2Nac3ltMlNoYUpTSlpqTURTemZZTlRnOVM4cWJvaTBvTThjeUJuYUxHVXc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-02-027",
+    "date": "2026-11-02",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Pole-Mounted Solar PV Study: Choosing Off-Grid Configurations for Arid Sites - News and Statistics - IndexBox",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxOdDBPVFdsa3F0NWFaZkU5V3ljQ19VMngzdVQ3RF9iOHRvR2RVcGFjU2tVVERsYzhLby1XTjQzSUp4Y1VNczhHZGJ3OURjRVgwbkNlNVRzeEFSLVhSTGMzWkw2VXY1bXc3NUl2OVRHbj",
+    "sources": [
+      {
+        "name": "google_news_solar",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOdDBPVFdsa3F0NWFaZkU5V3ljQ19VMngzdVQ3RF9iOHRvR2RVcGFjU2tVVERsYzhLby1XTjQzSUp4Y1VNczhHZGJ3OURjRVgwbkNlNVRzeEFSLVhSTGMzWkw2VXY1bXc3NUl2OVRHbjd1akg1YTRhcFdXV0RNdWVUMzc1Rkh5OGtEY3JTS1Y3TjdLdlI5WHZHU191VGlIQkljRmxMTUVGRlFNVzA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-02-028",
+    "date": "2026-11-02",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Inox Solar Americas: Greenville 3.0-GW PV Cell Plant on Track for Q2 2027 - News and Statistics - IndexBox",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxPdXNaUFh4UWhoRFhLT2dpUWFTLThHcUhHcVlub1Uwd1NDWm5uUmNiXzRpS3FTYUZjNXkzZmRDeWtrYjJ5RDdBWlI0SC05LVEwV2hXZHNXcmVZalYyQnY5UXptWGhreWZPVnUwQ1JmcX",
+    "sources": [
+      {
+        "name": "google_news_solar",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPdXNaUFh4UWhoRFhLT2dpUWFTLThHcUhHcVlub1Uwd1NDWm5uUmNiXzRpS3FTYUZjNXkzZmRDeWtrYjJ5RDdBWlI0SC05LVEwV2hXZHNXcmVZalYyQnY5UXptWGhreWZPVnUwQ1JmcXJnR0tCM3RLdTdxT3NKd3UwMzAtdkFaRldlYlU3d095cDZkWEZ3dHo0SFU2UEExY0NkYU1qOXBxcXA5dw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-02-029",
+    "date": "2026-11-02",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "The industry races into Las Vegas for RE+",
+    "summary": "<p>The largest tradeshow focused on the U.S. solar, storage and clean energy markets is back in Las Vegas for 2026. RE+ was the 24th largest tradeshow in the United States in 2025 by attendance, and t",
+    "sources": [
+      {
+        "name": "solar_power_world",
+        "url": "https://www.solarpowerworldonline.com/2026/11/the-industry-races-into-las-vegas-for-re/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-02-030",
+    "date": "2026-11-02",
+    "companies": [],
+    "topics": [
+      "installation_demand",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Donated solar project powers community center in unincorporated New Mexico village  Solar Power World’s Projects of Impact",
+    "summary": "<p>A building that started as a one-room schoolhouse has through the decades expanded to become a lifeline for a New Mexico community far from any city infrastructure, and a recent solar installation ",
+    "sources": [
+      {
+        "name": "solar_power_world",
+        "url": "https://www.solarpowerworldonline.com/2026/11/donated-solar-project-powers-community-center-in-unincorporated-new-mexico-village/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-02-031",
+    "date": "2026-11-02",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "AGL refers 2GWh BESS in Queensland to Australia’s EPBC Act as ACEnergy submits 250MW Victoria project",
+    "summary": "Two Australian battery storage projects in Queensland and Victoria have entered federal environmental review, with AGL Energy and developer ACEnergy each submitting referrals under the same national p",
+    "sources": [
+      {
+        "name": "energy_storage_news",
+        "url": "https://www.energy-storage.news/agl-refers-2gwh-bess-in-queensland-to-australias-epbc-act-as-acenergy-submits-250mw-victoria-project/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "sungrow-2026-11-02-032",
+    "date": "2026-11-02",
+    "companies": [
+      "sungrow"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "‘Advancing grid-forming energy storage’: Sungrow wins Hazelwood BESS 2 PCS and BESS order in Australia",
+    "summary": "Sungrow will supply both the BESS and the grid-forming power conversion equipment for ENGIE's Hazelwood BESS expansion in Victoria, Australia.",
+    "sources": [
+      {
+        "name": "energy_storage_news",
+        "url": "https://www.energy-storage.news/advancing-grid-forming-energy-storage-sungrow-wins-hazelwood-bess-2-pcs-and-bess-order-in-australia/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-02-033",
+    "date": "2026-11-02",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Five days deliver 38% of Australia’s NEM BESS fleet revenue for October",
+    "summary": "Australia's grid-scale BESS fleet earned an estimated AU$37.62 million in the National Electricity Market (NEM) in October 2026.",
+    "sources": [
+      {
+        "name": "energy_storage_news",
+        "url": "https://www.energy-storage.news/five-days-deliver-38-of-australias-nem-bess-fleet-revenue-for-october/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-02-034",
+    "date": "2026-11-02",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Germany’s Hydrogen Pipeline Reached Marl. Its Market Still Needs to Add Up.",
+    "summary": "<p>Germany&#8217;s hydrogen backbone achieved a genuine milestone on August 4, 2026. RWE and its partners announced that renewable hydrogen produced during commissioning at Lingen had reached Marl Che",
+    "sources": [
+      {
+        "name": "cleantechnica",
+        "url": "https://cleantechnica.com/2026/11/02/germany-hydrogen-backbone-marl-paying-customers/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "jinko-2026-11-01-001",
     "date": "2026-11-01",
     "companies": [
@@ -51,6 +676,98 @@
       {
         "name": "solar_power_world",
         "url": "https://www.solarpowerworldonline.com/2026/11/pjms-emergency-order-should-be-a-wake-up-call-for-michigan-build-more-power-before-the-next-crisis/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "jinko-2026-11-01-004",
+    "date": "2026-11-01",
+    "companies": [
+      "jinko"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Jinko Holdings: 3 Key Takeaways for Long-Term Investors - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxPdVFuTkRsNC1yVWZGWWpkeDBmekJzeXQtcGpQZ2VpbnVPTGRidWM5NGZ6eUg3M0g3Q1dHMDBRZEdZS016QmJRRUJNbi0xbjNFOFdNcU5ySklZRHBnemNuRW84Y3pjcHJUNE9yWDRpTn",
+    "sources": [
+      {
+        "name": "jinko",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPdVFuTkRsNC1yVWZGWWpkeDBmekJzeXQtcGpQZ2VpbnVPTGRidWM5NGZ6eUg3M0g3Q1dHMDBRZEdZS016QmJRRUJNbi0xbjNFOFdNcU5ySklZRHBnemNuRW84Y3pjcHJUNE9yWDRpTndYUTg1RFZqc1JRc2tpeWFjUmFoVU5Sd19SeEdOcXZNVjU0SklKS2ZVY1RfQQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "array-2026-11-01-005",
+    "date": "2026-11-01",
+    "companies": [
+      "array"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Form 4 Array Technologies Inc: Kevin G. Hostetler (Director, CEO) For: 24 September - Investing.com Canada",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxQbUgyY2VZejVfaktaQ3g3Q3JyR0N5ZXFyRnFpZFlna1lXRXAwaFlTQ2h6RGFwQ2tkMDVzbVZIWHZCQmRURTl2WGd5QUVxR053UllhdUM0WUs5OGEyTzczYWd4OUZlcUozZktyVnQ3R0",
+    "sources": [
+      {
+        "name": "array",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQbUgyY2VZejVfaktaQ3g3Q3JyR0N5ZXFyRnFpZFlna1lXRXAwaFlTQ2h6RGFwQ2tkMDVzbVZIWHZCQmRURTl2WGd5QUVxR053UllhdUM0WUs5OGEyTzczYWd4OUZlcUozZktyVnQ3R0JTaXAxRWlmeVRnSWQ0WGpSY3VIbnFFc3BWYWw4c3BobWR4d1RwRE1WeUN0WlRZLVJYc0xCSlRBS0dhUkVOaWUtbldwcDZNNFozdWNFbkRUSk01d083OXN4ZVpOV3lPdUswaXlB?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-01-006",
+    "date": "2026-11-01",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Fortified Solar Taps Into Growing Industry With Steel Solar Panels - Greenville Business Magazine",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxQeG4wYjZPaGpXaEstYWQ4OFZRRnY5UW04a0RuQTlwRmF2X05SR18wb3NTSnBEWks3MjhvSnJSci1CMU8ya0pIWVk2OWFhQXl6Ui0wUVNPVGh2bERiamN0S1dBdUs2eVNleUdrY3pXeF",
+    "sources": [
+      {
+        "name": "google_news_solar",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQeG4wYjZPaGpXaEstYWQ4OFZRRnY5UW04a0RuQTlwRmF2X05SR18wb3NTSnBEWks3MjhvSnJSci1CMU8ya0pIWVk2OWFhQXl6Ui0wUVNPVGh2bERiamN0S1dBdUs2eVNleUdrY3pXeFAyaDY2NmlENkhZUHpvZzdtNHNYY2dtUXlpZEhzQnVrbF9nNXJkN09LWjNqSTFQdWJDcVB3RWQyWjB6dmJpNHo0dENZMFhBSzE5?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-01-007",
+    "date": "2026-11-01",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Batteries Beat Norway’s Hydrogen Bulk Carriers on Cost in Two Modeled Routes",
+    "summary": "<p>Norwegian shipping company GMI Group is moving ahead with four hydrogen-electric bulk carriers for coastal freight. In October 2026, PowerCell confirmed a follow-up order that brings the program to",
+    "sources": [
+      {
+        "name": "cleantechnica",
+        "url": "https://cleantechnica.com/2026/11/01/norway-hydrogen-bulk-carriers-battery-cost-test/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-01-008",
+    "date": "2026-11-01",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "Cranberry Bogs Were Unprofitable, Then Solar Saved The Day",
+    "summary": "<p>One of the things many people still don&#8217;t realize is how much solar power and wind power help farmers to be more profitable or to become profitable. Agriculture has never been the easiest ind",
+    "sources": [
+      {
+        "name": "cleantechnica",
+        "url": "https://cleantechnica.com/2026/11/01/cranberry-bogs-were-unprofitable-then-solar-saved-the-day/",
         "type": "rss"
       }
     ]
@@ -1199,6 +1916,100 @@
     ]
   },
   {
+    "id": "xinyi_solar-2026-10-30-053",
+    "date": "2026-10-30",
+    "companies": [
+      "xinyi_solar"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Xinyi Solar Holdings (SEHK:968) - Stock Analysis - Simply Wall St",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxPdjdXUnBtTXI1X3o3cDVqbnFWUXB1OGFWZmRGUktWNThyclRGVFJ0b09Lejh5TkNac2duT0hncE9HUFRJaU5neGF0bmQwVXJpNU5PZWRWZkxXbUFvcnpHcHBBNXp3TWoyTjRaSTRRSX",
+    "sources": [
+      {
+        "name": "xinyi_solar",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPdjdXUnBtTXI1X3o3cDVqbnFWUXB1OGFWZmRGUktWNThyclRGVFJ0b09Lejh5TkNac2duT0hncE9HUFRJaU5neGF0bmQwVXJpNU5PZWRWZkxXbUFvcnpHcHBBNXp3TWoyTjRaSTRRSXhOXzRKemJIbzFMYkppcEFidkRqUGJHell2UWc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "gcl-2026-10-30-054",
+    "date": "2026-10-30",
+    "companies": [
+      "gcl"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "GCL Technology Holdings Ltd (3GY.MU) Seasonal returns chart - Yahoo Finance Australia",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTFB1ZzRzVjZ5RUlESnhpcEU1MU11aU5ZdUpjYndHYm9ZT0V5V2Vqa3BFdHY0ZlhWSTNaSHBvY2xDLVZJRG9sZlI1YnlzeUhHMjZNMk1CRWpuR2hQRFR0Yl8zMDR1UnA?oc=5\" target=\"",
+    "sources": [
+      {
+        "name": "gcl",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB1ZzRzVjZ5RUlESnhpcEU1MU11aU5ZdUpjYndHYm9ZT0V5V2Vqa3BFdHY0ZlhWSTNaSHBvY2xDLVZJRG9sZlI1YnlzeUhHMjZNMk1CRWpuR2hQRFR0Yl8zMDR1UnA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "meyer_burger-2026-10-30-055",
+    "date": "2026-10-30",
+    "companies": [
+      "meyer_burger"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Meyer Burger Technology AG (MYBUF) Seasonal returns chart - Yahoo Finance UK",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE15YXo1QjB1Y3dMbGFYVFpJaUs4MTFmZThHSjdFako1S1lnZU5OTlp2dmhwRFhFZlN6MXozWVdJeGJjU21aNm5iNUJhdGV2OXZ2UEF1UTBaS2NMclZTdzc5V3hiWQ?oc=5\" target=\"_",
+    "sources": [
+      {
+        "name": "meyer_burger",
+        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE15YXo1QjB1Y3dMbGFYVFpJaUs4MTFmZThHSjdFako1S1lnZU5OTlp2dmhwRFhFZlN6MXozWVdJeGJjU21aNm5iNUJhdGV2OXZ2UEF1UTBaS2NMclZTdzc5V3hiWQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "meyer_burger-2026-10-30-056",
+    "date": "2026-10-30",
+    "companies": [
+      "meyer_burger"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Meyer Burger Technology (OTCPK:MYBU.F) - Stock Analysis - Simply Wall St",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxNaFR2cU5fMUE4RVh5Q2p2ZXVEZWRXc3ljUVowWi1ISDJGVFhYNU84UURfZVFtODVZVmItWklFUTZ0aEJyS2wzS2YxMWE3d25WUGlIdHMtTmloZUdWazExUVVQbEVVSWJmTlB4STZBVl",
+    "sources": [
+      {
+        "name": "meyer_burger",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNaFR2cU5fMUE4RVh5Q2p2ZXVEZWRXc3ljUVowWi1ISDJGVFhYNU84UURfZVFtODVZVmItWklFUTZ0aEJyS2wzS2YxMWE3d25WUGlIdHMtTmloZUdWazExUVVQbEVVSWJmTlB4STZBVlplLWZFMFJ4bTMxQWMwelpxaVNzTldkTGsz?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "meyer_burger-2026-10-30-057",
+    "date": "2026-10-30",
+    "companies": [
+      "meyer_burger"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Meyer Burger Technology AG (MYBUF) Seasonal returns chart - Yahoo Finance Australia",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE8xOXY1Y2l3STExSDludGJKa1Nlc2FBbG53ZUx2Q1NzMkJuY21MbW5jcE1YVWRPU2ZXbUMyeUJqZWRiSTVqcmVkY1Frci1URG5ZRGJBYlNwaFlwQjluRDFIOUtZdw?oc=5\" target=\"_",
+    "sources": [
+      {
+        "name": "meyer_burger",
+        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE8xOXY1Y2l3STExSDludGJKa1Nlc2FBbG53ZUx2Q1NzMkJuY21MbW5jcE1YVWRPU2ZXbUMyeUJqZWRiSTVqcmVkY1Frci1URG5ZRGJBYlNwaFlwQjluRDFIOUtZdw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "daqo-2026-10-29-001",
     "date": "2026-10-29",
     "companies": [
@@ -2205,6 +3016,44 @@
       {
         "name": "google_news_solar",
         "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOUmJ4WnhpWExrLUU5MmF2WkZRQnhGSFZlUzROLU1kVjVYOHNxSmxyWVZEb2tVM3JSSUhrY1YzRnR6aWg4alFnRE5BZVlaaUcyRFlJSjFCVUpTalp3R2VzV1VKdG5jeWRMcFp2M0Y4RDBLZHZ3VFJFRnlsYWROblZ1SHVCeGRYLXZEdXRob1I5RjNTQnA5UGQw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "daqo-2026-10-29-056",
+    "date": "2026-10-29",
+    "companies": [
+      "daqo"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "Revenue rose from $62.7M to $194.2M, but Daqo New Energy (DQ) still posted a Q3 loss. - Stock Titan",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxQRmhLX1c0Y0ZISDlsTV9KRFFyZmxzQ0s3OUgxVEVUUl9ia0E2NWQxZURBLWdZNWFKdFR3bXJSWEhsTWFWV3VpT0pfLWlYaF9zaWJTNW5MTGJObWYtamthWW1oN0dFU1dCbFNVdVU5MD",
+    "sources": [
+      {
+        "name": "daqo",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQRmhLX1c0Y0ZISDlsTV9KRFFyZmxzQ0s3OUgxVEVUUl9ia0E2NWQxZURBLWdZNWFKdFR3bXJSWEhsTWFWV3VpT0pfLWlYaF9zaWJTNW5MTGJObWYtamthWW1oN0dFU1dCbFNVdVU5MDg0TnZhaDA4V0Mwa1RLMjlzSkFwSTFzcTlqRTM4WEpHdTQ3U0hlNDRwWkZvbUtnYldObkplNkNidi1GSjNmWERiS256b1U?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-29-057",
+    "date": "2026-10-29",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Nextpower Q2 2027 Earnings Call Transcript (CORRECTED) - Benzinga",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxQSTZ2dmwzUWxfQXdjQ1BxYjRwUkcxa1VaLXF2T2xrem52N1NRWTZ5TnhzWkJzcFIzQ1FFS2dtaDVJUzllT1hSNFgxZU9LeHIzb3hTRFoxX2thcFlhRkRQM29mdFBzc2U4azJyZXpqcV",
+    "sources": [
+      {
+        "name": "nextracker",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQSTZ2dmwzUWxfQXdjQ1BxYjRwUkcxa1VaLXF2T2xrem52N1NRWTZ5TnhzWkJzcFIzQ1FFS2dtaDVJUzllT1hSNFgxZU9LeHIzb3hTRFoxX2thcFlhRkRQM29mdFBzc2U4azJyZXpqcVVCTjdzb0JQVEtpTzRpdzAzZW93WWV3aEgyVHZpdHRtVU5HZw?oc=5",
         "type": "rss"
       }
     ]

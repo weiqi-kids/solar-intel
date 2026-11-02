@@ -1,0 +1,16 @@
+{
+  "total_raw": 420,
+  "dup_title": 187,
+  "no_date": 0,
+  "too_old": 132,
+  "gate1_fail": 49,
+  "gate2_fail": 6,
+  "passed": 46,
+  "gate2_samples": [
+    "DQ: Daqo New Energy Corp. Latest Stock Price, Analysis, News and Trading Ideas - Stocktwits",
+    "Daqo New Energy (NYSE:DQ) Stock Price - Simply Wall St",
+    "LONGi Energy Storage Showcases Full-Stack Capabilities at All Energy Australia 2026 - Japan Wire by ",
+    "Jinko Holdings Limited (JKS) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+    "Sungrow Shares Jump on Bullish Outlook for Battery Storage - Bloomberg.com"
+  ]
+}
