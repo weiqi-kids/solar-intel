@@ -1,0 +1,16 @@
+{
+  "total_raw": 421,
+  "dup_title": 204,
+  "no_date": 0,
+  "too_old": 123,
+  "gate1_fail": 40,
+  "gate2_fail": 9,
+  "passed": 45,
+  "gate2_samples": [
+    "Daqo New Energy Narrows Net Loss to $52.9 Million in Third Quarter - energynews.pro",
+    "GCL tries lithium battery materials in search of diversification - thebambooworks.com",
+    "Array Technologies Is Maintained at Buy by Guggenheim - Moomoo",
+    "Array Technologies Inc (9AY.DU) Seasonal returns chart - Yahoo Finance UK",
+    "Sungrow Shares Jump on Bullish Outlook for Battery Storage - Bloomberg"
+  ]
+}
