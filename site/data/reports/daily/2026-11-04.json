@@ -1,0 +1,226 @@
+{
+  "date": "2026-11-04",
+  "generated_at": "2026-11-04T15:51:36.743034Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "tongwei-2026-11-04-001",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Tongwei stock faces continued pressure from solar losses - ad-hoc-news.de",
+      "companies": [
+        "tongwei"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.75
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNRlZoZWpEd1lRVHhVZFplalUwRTJzejdTSTRhODZ6Q3F1NE5XUnpMcjFpLUtadFVnSHRnYjctdWo4Q0lHdVFIcm5oeHY5TEowdk5zVmI5NWdhcDNsR2tObUlyR0VwMmNCWVljaUx0cUZQODh0eWVYS3N3ZU83Y2REVHJON1JRdXVhMTRxUktiZFN1S1hqWGFwSTJoVjVuN2N1cUN1akZVNWExM2pyc0c3UU5aaXNfZw?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "trina-2026-11-04-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Shenzhen Nanshan Power seeks controlling stake in TrinaTracker - PV Tech",
+      "companies": [
+        "trina"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNU0V6NlJQajBodE1tRDV1YmN4c2hDZjVkTTJDY3pFV2VRWG9ld19ySmlLdHZwTF9sdF9ESmU1NExTeWU2ZDEzTUVlRDc1X1k4andSTVlscFBTTElfbWtFMngxS1hDLTZ6SlU1TXZqZGs4b1lTTFdLY3dIUTJTNXBUWWpaUFVDUHRsa3MzcExn?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "jinko-2026-11-04-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "JinkoSolar’s Tiger Neo 3.0 wins Shenergy 1GW offshore-PV centralized procurement - PV Tech",
+      "companies": [
+        "jinko"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNV1YyVXFod19CQVZRcjVDNlZvdVFHN3pVRHZ2aWlOVWFvWlVHcFlIczVaSmQ0QXg5bHM2MXR3VDh5aV9aZFBfTlRiZXh0M2h0NjR0blJpSnpTdUVWTGQ0c3lEYnBwQkF6YWRBOTVKRTlVSk90bmM0Uy05emN4M0l1Rm5mS1NycHFDWUItVFdhUjRWTllPRFJaQm5aOTNENVNYeEdlVFp6dlQzZGdMRThCWExFV085ZTVSbDVoVlJR?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-11-04-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "TAC Is BC: Why The Next Era Of Solar Is Moving Toward Back Contact - The Friday Times",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQenRzLW5HNFBUQnJ1b1F0cmJnUGQ1TEpUM19QaUxwWW43R011dzFsV2xpWnhtV0hGWWxUanhUaWxoWU45ZGZOUUxzYWhYR2RCajc2NXZWUWJacU5QeVk0WE5LUUNTWmM4X3gwSUF6eUZLek13cGdNZ0VQcml3cU84VEFJMmRmNzFBenhhM0V2MDBtQzcxLXc?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "jinko-2026-11-04-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "JinkoSolar (NYSE:JKS) Stock Price Crosses Above Fifty Day Moving Average Following Analyst Downgrade - MarketBeat",
+      "companies": [
+        "jinko"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNZHd5YlVoblhwSlh0RUM5dk5DdENtbTlWM2dYdU9zMWhMR0FiNUxteTFDZG5UeTZ1WnFHNWlWVGFfeUljSkZZVHd3NFhHbUllZG5QS0NwbVNkaWFHYVpyQW56UmZGeWtmMGFxYVNYNGdmenZBQWJXNXFyZEt1aVlRSW5Eb2o2Smw1WElSNzdmNmFpeFYtQXVoQ0p0LTlOOGUzMkczTkFCR19OejdFZnY5SVBNUmNSY0dTU1FGamVoVUZUTnVveE51NGpYVk53TWRYbWNPcGNnb2tnMkYxT0lqUG8tcGxXLUFibEhOdWpPOA?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 46,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.01,
+      "sentiment_7d_avg": null
+    },
+    "installation_demand": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.12,
+      "sentiment_7d_avg": null
+    },
+    "trade_tariff": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.25,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 52,
+    "sentiment_distribution": {
+      "positive": 3,
+      "neutral": 47,
+      "negative": 2
+    },
+    "top_companies": [
+      {
+        "id": "array",
+        "count": 21
+      },
+      {
+        "id": "jinko",
+        "count": 2
+      },
+      {
+        "id": "tongwei",
+        "count": 1
+      },
+      {
+        "id": "trina",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 46
+      },
+      {
+        "id": "installation_demand",
+        "count": 4
+      },
+      {
+        "id": "trade_tariff",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 416,
+    "dup_title": 160,
+    "too_old": 147,
+    "gate1_blocked": 39,
+    "gate2_blocked": 9,
+    "passed": 61,
+    "pass_rate": "23.8%",
+    "gate2_block_rate": "3.5%",
+    "gate2_samples": [
+      "Risen Energy Energy Storage Maintains BloombergNEF Tier 1 Status Throughout 2026 - Press Release Hub",
+      "Sungrow Shares Jump on Bullish Outlook for Battery Storage - Bloomberg",
+      "Federal and state governments pursue transmission along highways",
+      "Kia EV7 revealed as an upcoming midsize electric SUV",
+      "BYD’s 3,000-hp EV crashes at about 280 mph — Watch the driver escape unharmed"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 52 則事件，焦點為Array Technologies、晶科能源、通威相關動態：「Tongwei stock faces continued pressure from solar losses ...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Tongwei stock faces continued pressure from solar losses - ad-hoc-news.de（太陽能產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "Shenzhen Nanshan Power seeks controlling stake in TrinaTracker - PV Tech（太陽能產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "裝機需求持續受關注，產業趨勢帶動需求成長。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

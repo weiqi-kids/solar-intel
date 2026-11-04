@@ -1,0 +1,16 @@
+{
+  "total_raw": 416,
+  "dup_title": 160,
+  "no_date": 0,
+  "too_old": 147,
+  "gate1_fail": 39,
+  "gate2_fail": 9,
+  "passed": 61,
+  "gate2_samples": [
+    "Risen Energy Energy Storage Maintains BloombergNEF Tier 1 Status Throughout 2026 - Press Release Hub",
+    "Sungrow Shares Jump on Bullish Outlook for Battery Storage - Bloomberg",
+    "Federal and state governments pursue transmission along highways",
+    "Kia EV7 revealed as an upcoming midsize electric SUV",
+    "BYD’s 3,000-hp EV crashes at about 280 mph — Watch the driver escape unharmed"
+  ]
+}

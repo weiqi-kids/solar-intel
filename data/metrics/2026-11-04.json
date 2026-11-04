@@ -1,0 +1,41 @@
+{
+  "date": "2026-11-04",
+  "total_events": 52,
+  "by_company": {
+    "tongwei": {
+      "count": 1,
+      "sentiment_avg": -0.75
+    },
+    "trina": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "jinko": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "array": {
+      "count": 21,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "industry_general": {
+      "count": 46,
+      "sentiment_avg": 0.01
+    },
+    "installation_demand": {
+      "count": 4,
+      "sentiment_avg": -0.12
+    },
+    "trade_tariff": {
+      "count": 2,
+      "sentiment_avg": 0.25
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}
