@@ -1,0 +1,16 @@
+{
+  "total_raw": 419,
+  "dup_title": 156,
+  "no_date": 0,
+  "too_old": 151,
+  "gate1_fail": 43,
+  "gate2_fail": 6,
+  "passed": 63,
+  "gate2_samples": [
+    "DAQO New Energy (NYSE:DQ) Stock Crosses Above Fifty Day Moving Average - Here's What Happened - Mark",
+    "Risen Energy Energy Storage Maintains BloombergNEF Tier 1 Status Throughout 2026 - PR Newswire UK",
+    "Sungrow Shares Jump on Bullish Outlook for Battery Storage - Bloomberg",
+    "Korean researchers build all-solid battery prototype with 235.13 Wh/L energy density",
+    "Puerto Rico tapped Sunrun’s home batteries for 18 straight days"
+  ]
+}

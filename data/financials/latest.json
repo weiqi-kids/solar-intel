@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-04T15:51:31.290042Z",
+  "updated_at": "2026-11-05T15:54:34.145826Z",
   "quarter": "2026-06-30, 2026-09-30",
   "companies": [
     {
@@ -126,17 +126,17 @@
       "name": "晶科能源",
       "ticker": "JKS",
       "currency": "USD",
-      "ar": 12606756000,
-      "ar_prev": 13766646000,
-      "ar_qoq": "-8%",
+      "ar": 11954791000,
+      "ar_prev": 12606756000,
+      "ar_qoq": "-5%",
       "ar_period": "QoQ",
-      "inventory": 16473187000,
-      "inv_prev": 17708534000,
-      "inv_qoq": "-7%",
+      "inventory": 17613617000,
+      "inv_prev": 16473187000,
+      "inv_qoq": "+7%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
       "alert": false,
-      "quarter_date": "2026-06-30"
+      "quarter_date": "2026-09-30"
     },
     {
       "id": "longi",
@@ -160,17 +160,17 @@
       "name": "Nextracker",
       "ticker": "NXT",
       "currency": "USD",
-      "ar": 444711000,
-      "ar_prev": 417043000,
-      "ar_qoq": "+7%",
+      "ar": 584299000,
+      "ar_prev": 444711000,
+      "ar_qoq": "+31%",
       "ar_period": "QoQ",
-      "inventory": 261625000,
-      "inv_prev": 262276000,
-      "inv_qoq": "-0%",
+      "inventory": 264136000,
+      "inv_prev": 261625000,
+      "inv_qoq": "+1%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
-      "alert": false,
-      "quarter_date": "2026-06-30"
+      "alert": true,
+      "quarter_date": "2026-09-30"
     },
     {
       "id": "risen",
