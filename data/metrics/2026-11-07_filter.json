@@ -1,0 +1,16 @@
+{
+  "total_raw": 418,
+  "dup_title": 177,
+  "no_date": 0,
+  "too_old": 164,
+  "gate1_fail": 40,
+  "gate2_fail": 8,
+  "passed": 29,
+  "gate2_samples": [
+    "Jinko Holdings Limited (JKS) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+    "InvestingPro’s Fair Value spotted 66% gain in Array Technologies By Investing.com - Investing.com",
+    "Sungrow Shares Jump on Bullish Outlook for Battery Storage - Bloomberg",
+    "Maintaining trust in new tech",
+    "New York program funds $13 million in energy storage advancement projects"
+  ]
+}
