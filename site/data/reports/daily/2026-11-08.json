@@ -1,0 +1,50 @@
+{
+  "date": "2026-11-08",
+  "generated_at": "2026-11-08T14:38:35.484167Z",
+  "top_events": [],
+  "anomalies": [],
+  "topic_trends": {},
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 0,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 0,
+      "negative": 0
+    },
+    "top_companies": [],
+    "top_topics": []
+  },
+  "filter_audit": {
+    "total_raw": 422,
+    "dup_title": 196,
+    "too_old": 172,
+    "gate1_blocked": 38,
+    "gate2_blocked": 6,
+    "passed": 10,
+    "pass_rate": "4.4%",
+    "gate2_block_rate": "2.7%",
+    "gate2_samples": [
+      "Maintaining trust in new tech",
+      "New York program funds $13 million in energy storage advancement projects",
+      "Cold Seawater Is Supplying District Heat in Esbjerg, Denmark",
+      "Is Trump About To Reignite His Big EV Push?",
+      "NRDC Assessment of BAAJA, the 2026 Permitting & Transmission Bill"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "2026-11-08 無太陽能產業相關事件。市場處於平靜狀態，無重大訊號。",
+    "signals": [
+      {
+        "text": "今日無重大異常訊號，產業動態平穩。",
+        "level": "green"
+      },
+      {
+        "text": "建議持續監控後續發展動態。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

@@ -1,0 +1,16 @@
+{
+  "total_raw": 422,
+  "dup_title": 196,
+  "no_date": 0,
+  "too_old": 172,
+  "gate1_fail": 38,
+  "gate2_fail": 6,
+  "passed": 10,
+  "gate2_samples": [
+    "Maintaining trust in new tech",
+    "New York program funds $13 million in energy storage advancement projects",
+    "Cold Seawater Is Supplying District Heat in Esbjerg, Denmark",
+    "Is Trump About To Reignite His Big EV Push?",
+    "NRDC Assessment of BAAJA, the 2026 Permitting & Transmission Bill"
+  ]
+}
