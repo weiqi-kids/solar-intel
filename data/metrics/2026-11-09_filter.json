@@ -1,0 +1,16 @@
+{
+  "total_raw": 424,
+  "dup_title": 156,
+  "no_date": 0,
+  "too_old": 159,
+  "gate1_fail": 39,
+  "gate2_fail": 11,
+  "passed": 59,
+  "gate2_samples": [
+    "DAQO New Energy (NYSE:DQ) Shares Down 6.1% - Should You Sell? - MarketBeat",
+    "InvestingPro’s Fair Value spotted 66% gain in Array Technologies By Investing.com - Investing.com",
+    "ARRY Stock Alert: Halper Sadeh LLC is Investigating Whether Array Technologies, Inc. is Obtaining a ",
+    "RBC Raises Price Target on Array Technologies to $6 From $5, Keeps Sector Perform Rating - www.marke",
+    "Panasonic releases new residential air-to-air heat pumps"
+  ]
+}
