@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-09T17:56:56.053499Z",
+  "updated_at": "2026-11-10T15:55:36.521640Z",
   "quarter": "2026-06-30, 2026-09-30",
   "companies": [
     {
@@ -194,17 +194,17 @@
       "name": "SolarEdge Technologies",
       "ticker": "SEDG",
       "currency": "USD",
-      "ar": 211874000,
-      "ar_prev": 222704000,
-      "ar_qoq": "-5%",
+      "ar": 209616000,
+      "ar_prev": 211874000,
+      "ar_qoq": "-1%",
       "ar_period": "QoQ",
-      "inventory": 599817000,
-      "inv_prev": 596824000,
-      "inv_qoq": "+1%",
+      "inventory": 621088000,
+      "inv_prev": 599817000,
+      "inv_qoq": "+4%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
       "alert": false,
-      "quarter_date": "2026-06-30"
+      "quarter_date": "2026-09-30"
     },
     {
       "id": "sungrow",

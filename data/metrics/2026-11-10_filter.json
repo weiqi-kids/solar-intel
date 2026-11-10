@@ -1,0 +1,16 @@
+{
+  "total_raw": 424,
+  "dup_title": 173,
+  "no_date": 0,
+  "too_old": 159,
+  "gate1_fail": 43,
+  "gate2_fail": 7,
+  "passed": 42,
+  "gate2_samples": [
+    "DAQO New Energy (NYSE:DQ) Shares Down 6.1% - Should You Sell? - MarketBeat",
+    "UBS Adjusts Price Target on Array Technologies to $5.50 From $5, Maintains Neutral Rating - marketsc",
+    "InvestingPro’s Fair Value spotted 66% gain in Array Technologies By Investing.com - Investing.com",
+    "Italian startup plans offshore gravity storage projects",
+    "Senate advances federal energy permitting bill"
+  ]
+}
