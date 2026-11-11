@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-10T15:55:36.521640Z",
+  "updated_at": "2026-11-11T15:42:08.300221Z",
   "quarter": "2026-06-30, 2026-09-30",
   "companies": [
     {
@@ -7,17 +7,17 @@
       "name": "Array Technologies",
       "ticker": "ARRY",
       "currency": "USD",
-      "ar": 323439000,
-      "ar_prev": 292327000,
-      "ar_qoq": "+11%",
+      "ar": 329456000,
+      "ar_prev": 323439000,
+      "ar_qoq": "+2%",
       "ar_period": "QoQ",
-      "inventory": 156469000,
-      "inv_prev": 167973000,
-      "inv_qoq": "-7%",
+      "inventory": 167494000,
+      "inv_prev": 156469000,
+      "inv_qoq": "+7%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
       "alert": false,
-      "quarter_date": "2026-06-30"
+      "quarter_date": "2026-09-30"
     },
     {
       "id": "canadian_solar",

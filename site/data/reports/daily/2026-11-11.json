@@ -1,0 +1,202 @@
+{
+  "date": "2026-11-11",
+  "generated_at": "2026-11-11T15:42:12.695273Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-11-11-010",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Paris leads EU capitals for rooftop solar generation potential",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://www.pv-magazine.com/2026/11/11/paris-leads-eu-capitals-for-rooftop-solar-generation-potential/"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-11-11-017",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "New Solar Panel Design Could Help the Technology Surpass Its Theoretical Limit - ExtremeTech",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQM002YmxEb3BqcGNZaGVqNWowMzZLdlY3Q3g1QUhEdU93eEdDSXpnVlZLaGVETVNBemtQR0lQV3g0SmN4Z2UyazdRQjVDUmVWXzRmUHRtc3k0NEMxZDVEdzlxaGw0UTBrQ2ZrWFhWVU1KWC12dW0xS2ZLSVljY0hnMlY0ZERDVDNqVGNPR3ZEYzNiM1dEelpXNmpaWXBmWHdkRXdDdGJZV1ZZSHM?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "jinko-2026-11-11-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "JinkoSolar Tiger Neo 5.0 Combines 25.52% Efficiency with Refined All-Black Design - Yahoo Finance",
+      "companies": [
+        "jinko"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPb1RYbTlnaVBvNl8yOGVxUnpjZ2hLTUh5T19kcXhfbFRPMlZiZkVSTDBkdG5MRWxyV0pNczJEV2ZTak9wenB6Z1pnZ2MzOExTYTY0a0JPcFh0ZEFnN2JDclAtNkN2Vm53MzQ3QU5yZVhDbUhFTklobUpvTjZpMmlLcU5ENFpBV19j?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "sungrow-2026-11-11-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Sungrow Power Supply : Unveils PowerStack 3.0, Unlocking C&I New Era with Scene-in-One Integration - www.marketscreener.com",
+      "companies": [
+        "sungrow"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPWXprcXhYLVdlWVhnSHVFN0FyaGdpMGgtaEpvLUFnQ2xvSFRTblVBNi02Ri1fakNFb0YwLWZsaEJVVXVhR1FURjVTc2VuejN0ejNsZ0gxYnFyalZxdmR6c19aUVNGM1MzWE5iZ3BpN0t3WkFGYlhURS11SDhnMzZYbFFobk1NVGxMUWVmTk9TR3JmYl9uZE04bUNuaTQ1RjNkSHZxY1FGalhaWWhDZHB5WEhEZmdvSHpja1pmdDNqa01jZUh5SEF4MW1QWmRNM0VXc1liU2VpZVQyOGtGQWlaQmNn?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-11-11-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Austria’s solar and storage rebates exhausted in 29 seconds",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.pv-magazine.com/2026/11/11/austrias-solar-and-storage-rebates-exhausted-in-29-seconds/"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 29,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.06,
+      "sentiment_7d_avg": null
+    },
+    "installation_demand": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 29,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 23,
+      "negative": 4
+    },
+    "top_companies": [
+      {
+        "id": "jinko",
+        "count": 1
+      },
+      {
+        "id": "sungrow",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 29
+      },
+      {
+        "id": "installation_demand",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 423,
+    "dup_title": 171,
+    "too_old": 159,
+    "gate1_blocked": 39,
+    "gate2_blocked": 5,
+    "passed": 49,
+    "pass_rate": "19.4%",
+    "gate2_block_rate": "2.0%",
+    "gate2_samples": [
+      "UBS Adjusts Price Target on Array Technologies to $5.50 From $5, Maintains Neutral Rating - marketsc",
+      "RBC Raises Price Target on Array Technologies to $6 From $5, Keeps Sector Perform Rating - marketscr",
+      "Watch BYD’s robotic charging arm plug itself in and charge EVs in 5 minutes [Video]",
+      "Senate advances federal energy permitting bill",
+      "New York program funds $13 million in energy storage advancement projects"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 29 則事件，焦點為晶科能源、陽光電源相關動態：「Paris leads EU capitals for rooftop solar generation pote...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "Paris leads EU capitals for rooftop solar generation potential（太陽能產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "New Solar Panel Design Could Help the Technology Surpass Its Theoretical Limi...（太陽能產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "裝機需求持續受關注，產業趨勢帶動需求成長。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
