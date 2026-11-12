@@ -1,5 +1,743 @@
 [
   {
+    "id": "longi-2026-11-12-001",
+    "date": "2026-11-12",
+    "companies": [
+      "longi",
+      "tongwei"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "LONGi, Tongwei Among 23 Enterprises Shortlisted for China Energy Engineering's 15GW PV Module Centralised Procurement Deal - Shanghai Metals Market",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAJBVV95cUxNQl9LRnNwbDZBS0piQzMyTnR1M2F0TXY5b0JJX3dWeGtFR0ZWRExWb1JBZGJLRVJURW5WZTB0Y18wdTVBNFdnR1ZJeVFoRXgzQ3d4NHE5dFlqbmNpTy1yMUVWbi1nXzA0Z1ppYjRfWk",
+    "sources": [
+      {
+        "name": "longi",
+        "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxNQl9LRnNwbDZBS0piQzMyTnR1M2F0TXY5b0JJX3dWeGtFR0ZWRExWb1JBZGJLRVJURW5WZTB0Y18wdTVBNFdnR1ZJeVFoRXgzQ3d4NHE5dFlqbmNpTy1yMUVWbi1nXzA0Z1ppYjRfWkdpS1drSGJxWDIwdEw2UFNJX0RDZHhJZHVOelJBcFlOblBaVDJrOEZyaUZFdW9UeDdZMDU4UUVvOTZGLWJUeXZwMS1IVUo2bVN6UTlFNHBPbEpDQ01MMGtwSzJrUTNBX29HVE55ZEs0NWlSampJR1VtUmhqWnVSUy1zU2dHQmU1WnhvWDlhOTZXbDQzSVhIRmZKSHVEMnh4SnU1RWt1MkNqd1htMTZUZ3g3QVJDajVuQWY?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-12-002",
+    "date": "2026-11-12",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "JA Selected as Exclusive PV Module Supplier for Teraco's 120MW Sediba Solar Project - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxOZGhxdmJqdTVoSy1ockl2NUdVc2p6U3BuSy0tZUpGRTlwaU5pVERhZ2J6NXp3bFpXb1Baa21Md0dTOHc2VVhFeXBPQTVHMWJOcVJKREFPYmJnUW5YT2lLdkdPeWhHNUFTYzlBSXREcV",
+    "sources": [
+      {
+        "name": "ja_solar",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOZGhxdmJqdTVoSy1ockl2NUdVc2p6U3BuSy0tZUpGRTlwaU5pVERhZ2J6NXp3bFpXb1Baa21Md0dTOHc2VVhFeXBPQTVHMWJOcVJKREFPYmJnUW5YT2lLdkdPeWhHNUFTYzlBSXREcVZSbF93LUlsLU1WZ1J2NEJMSkhxN3h2eklNb0FTMEZJeWZYQQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ja_solar-2026-11-12-003",
+    "date": "2026-11-12",
+    "companies": [
+      "ja_solar"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "JA Solar to supply n-type modules for Teraco's 120 MW Sediba plant - Solarbytes",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxOaU95YzFaeXJhOGttZHlEMnlJSlQtUnRrTmR0U3VhdDlJYzVRY3o2ekF6T1Z5UmhIWWtDU205ZzJJd01KUGV0OS1HeEZNaFpmR1VmZVBKdjI5RUxwVU9rRkE4UklITEpESjllNmltR3",
+    "sources": [
+      {
+        "name": "ja_solar",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOaU95YzFaeXJhOGttZHlEMnlJSlQtUnRrTmR0U3VhdDlJYzVRY3o2ekF6T1Z5UmhIWWtDU205ZzJJd01KUGV0OS1HeEZNaFpmR1VmZVBKdjI5RUxwVU9rRkE4UklITEpESjllNmltR3J2YUYyQmIzSFhobktoXzJuTGJtTnRmamJBdWFRcWxhMW1pNi1WOXR5S2lmZlB0MllEYmdIeDZTWGNQODhTSUJaUVBINA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-12-004",
+    "date": "2026-11-12",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "JA Selected as Exclusive PV Module Supplier for Teraco's 120MW Sediba Solar Project - Press Release Hub",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxQX2xKMl9fdDFCWDlJaUg3N0xBVWFRV1JmbjFaYXl1RTV4SlgwWHhIRjhKanZhRGNtVXlKeEpzQ2JLWE94UUN2dWxyb1JMTEJUSTN4OHZmUFV6bmx1Slc1Qi1wNnhISXdtek1zQngxMH",
+    "sources": [
+      {
+        "name": "ja_solar",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQX2xKMl9fdDFCWDlJaUg3N0xBVWFRV1JmbjFaYXl1RTV4SlgwWHhIRjhKanZhRGNtVXlKeEpzQ2JLWE94UUN2dWxyb1JMTEJUSTN4OHZmUFV6bmx1Slc1Qi1wNnhISXdtek1zQngxMHBtRGVQMlVpX2JmbGJ5XzJrWF9rcnZOYTNXVXRhdFFnQ09PZ3Bza2FpS0xFVkVONkprbGhpdXc5YWp6NmV2Qm9ITkJSd2FxMGRmWnZzdmxNWGN5eUNvRDZuY1E1d1E2c0k?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "jinko-2026-11-12-005",
+    "date": "2026-11-12",
+    "companies": [
+      "jinko"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Huadian shortlists JinkoSolar Tiger Neo in 5 GW framework procurement - Solarbytes",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxPemJXNnMyRk5Kb1k4UHlPanU4QWFuZFJJQk51SnNQMkdiQkNwMHhyTnVwQ0JDQmpkZ1FUbFoyVmZaT2hxSzdKb2JUUVZlVy01STVjNVRNQzI4SXBDTEpRRTJKLUJ6U1ljdXduNnBRX2",
+    "sources": [
+      {
+        "name": "jinko",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPemJXNnMyRk5Kb1k4UHlPanU4QWFuZFJJQk51SnNQMkdiQkNwMHhyTnVwQ0JDQmpkZ1FUbFoyVmZaT2hxSzdKb2JUUVZlVy01STVjNVRNQzI4SXBDTEpRRTJKLUJ6U1ljdXduNnBRX2dFY2R3czZOcEFwc3ZmaUVxaTNUYWRaVkQxa0lvSFNUd2g2TXFRbFpuNG1veFpPS0Y3UW1HR2hXQVoxWC1OZmZxNmF6QQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "jinko-2026-11-12-006",
+    "date": "2026-11-12",
+    "companies": [
+      "jinko"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "JinkoSolar Secures Contract for 325 MW Solar Project in Kyrgyzstan, to Deploy Tiger Neo 3.0 Modules - SolarQuarter",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxPODJmWmNvN1BPUFRUajI3QXpYc2RrM2hxc1l3aUtFTmE0ZU5HbXF0V2NVUXEzUTdOQzl6OEgxeE1uc1dCQjRGdm81dkx6b09pVTFhSndnbUMzVGpEd1RMeDNvc2xnVnRNZ3VpTm9yV1",
+    "sources": [
+      {
+        "name": "jinko",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPODJmWmNvN1BPUFRUajI3QXpYc2RrM2hxc1l3aUtFTmE0ZU5HbXF0V2NVUXEzUTdOQzl6OEgxeE1uc1dCQjRGdm81dkx6b09pVTFhSndnbUMzVGpEd1RMeDNvc2xnVnRNZ3VpTm9yV1NKSk9sZE5sWGRDX2xqZEp6Wk8yQklRdXl2UTBqdkpUMGhYV0Y2WGNQbmdrMEtIWHFzU1gzekVvOVgwSHBwaFRhUkIzVFBIZXJ6SUJyczVTNUdvbDJlTU9ELXJhYVVwUkVz?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "jinko-2026-11-12-007",
+    "date": "2026-11-12",
+    "companies": [
+      "jinko"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "JinkoSolar to supply Tiger Neo modules for 325 MW plant in Kyrgyzstan - Solarbytes",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxQa1M5R3dPVWlIQjRDZEZDNGZWUUotNVJ3V19QTmo2VjFhYXp1X0VYMDRYYU00ZEx2anNoRzh1UlBLV3ozeFVBb2NOTDc4ek5GWGdkemV4cUw4djhZNFQ5VkZoMXdEZ3drMHhBYnExTE",
+    "sources": [
+      {
+        "name": "jinko",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQa1M5R3dPVWlIQjRDZEZDNGZWUUotNVJ3V19QTmo2VjFhYXp1X0VYMDRYYU00ZEx2anNoRzh1UlBLV3ozeFVBb2NOTDc4ek5GWGdkemV4cUw4djhZNFQ5VkZoMXdEZ3drMHhBYnExTEFoelB5LWl5X3oxUDZOdDJTNzBvcU05aVhvNzllYUtwWUNRb05MSW0tZVJmNDk1ck94OFZ1QmRZcFdkQQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "array-2026-11-12-008",
+    "date": "2026-11-12",
+    "companies": [
+      "array"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "BMO raises Array Technologies stock price target on merger outlook By Investing.com - Investing.com UK",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxQd2c0cDRqUG9iVEpkX0NzSkFRS21sNTdMa2xhbjZMUmZ1T3IxbDVFNXlmMEFqdzY0OEJNdVdLM3hsT3BGVS1YaXB0dm82T3BFcmU3QzJySmc2ZWRZaHRUZWVCOE9EcFJCWXJ0bEFQUU",
+    "sources": [
+      {
+        "name": "array",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQd2c0cDRqUG9iVEpkX0NzSkFRS21sNTdMa2xhbjZMUmZ1T3IxbDVFNXlmMEFqdzY0OEJNdVdLM3hsT3BGVS1YaXB0dm82T3BFcmU3QzJySmc2ZWRZaHRUZWVCOE9EcFJCWXJ0bEFQUUdFVjV3Y0FrN01jRmhodlRqQmxhazJPaU9fQjBudnN0Y0R0SW5DbU1tMmpITnNmdW9kSUw5VkhrWGNVM3cxVEZRR3ozRDJDOTZTajdtUU1va0FUNEo5a2c?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-12-009",
+    "date": "2026-11-12",
+    "companies": [],
+    "topics": [
+      "installation_demand",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Spanish IPP deploys automated solar installation platform at 457 MW Texas project",
+    "summary": "<p>Matrix Renewables is using Terabase Energy's Terafab V2 automated construction platform at its 457 MW Tormes Solar project in Navarro County, Texas. The system combines robotic module assembly, aut",
+    "sources": [
+      {
+        "name": "pv_magazine",
+        "url": "https://www.pv-magazine.com/2026/11/12/spanish-ipp-deploys-automated-solar-installation-platform-at-457-mw-texas-project/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-12-010",
+    "date": "2026-11-12",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Octopus aims to mobilize $600 million for Asian renewables",
+    "summary": "<p>Octopus Energy has launched an Asia fund whose first investment backs a Manila developer targeting 450 MW of solar and 350 MWh of battery storage by 2030.</p>\n<p>The post <a href=\"https://www.pv-ma",
+    "sources": [
+      {
+        "name": "pv_magazine",
+        "url": "https://www.pv-magazine.com/2026/11/12/octopus-aims-to-mobilize-600-million-for-asian-renewables/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "array-2026-11-12-011",
+    "date": "2026-11-12",
+    "companies": [
+      "array"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Predicting power output from artistic BIPV pixel by pixel",
+    "summary": "<p>Researchers have developed a model linking artwork colors to power output and potential hot-spot risks in colored BIPV arrays. Simulations of 50 masterpieces show how selectively darkening bright p",
+    "sources": [
+      {
+        "name": "pv_magazine",
+        "url": "https://www.pv-magazine.com/2026/11/12/predicting-power-output-and-hot-spot-risk-in-artistic-bipv/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-12-012",
+    "date": "2026-11-12",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Sweden plans new inverter and battery database",
+    "summary": "<p>Sweden plans to launch a voluntary database for solar inverters, battery storage systems and bidirectional EV charging equipment in 2027, replacing its existing pre-assessment system for new listin",
+    "sources": [
+      {
+        "name": "pv_magazine",
+        "url": "https://www.pv-magazine.com/2026/11/12/sweden-plans-new-inverter-and-battery-database/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-12-013",
+    "date": "2026-11-12",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Chasing the sun: Feasible CO₂ supply as a gateway to low-cost e-fuel production",
+    "summary": "<p>Scalable synthetic e-fuels require low-cost renewable electricity and sustainable carbon, but best solar sites and major carbon sources are rarely neighbors. To overcome this geographic mismatch, n",
+    "sources": [
+      {
+        "name": "pv_magazine",
+        "url": "https://www.pv-magazine.com/2026/11/12/chasing-the-sun-feasible-co2-supply-as-a-gateway-to-low-cost-e-fuel-production/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-12-014",
+    "date": "2026-11-12",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Viessmann launches propane ground-source heat pump compatible with PVT systems",
+    "summary": "<p>The Vitocal 300-G intelligent energy uses R290 refrigerant and delivers heating capacities ranging from 6 kW to 16 kW, with a maximum flow temperature of 70 C and a seasonal coefficient of performa",
+    "sources": [
+      {
+        "name": "pv_magazine",
+        "url": "https://www.pv-magazine.com/2026/11/12/viessmann-launches-propane-ground-source-heat-pump-compatible-with-pvt-systems/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-12-015",
+    "date": "2026-11-12",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Dutch Parliament backs legal framework for balcony PV",
+    "summary": "<p>Politicians in the Netherlands have supported calls for a framework covering the connection of balcony solar systems to be drafted before the spring of next year.</p>\n<p>The post <a href=\"https://w",
+    "sources": [
+      {
+        "name": "pv_magazine",
+        "url": "https://www.pv-magazine.com/2026/11/12/dutch-parliament-backs-legal-framework-for-balcony-pv/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-12-016",
+    "date": "2026-11-12",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Kazakhstan proposes new PPA mechanism to reduce offtake risks, plans storage auctions",
+    "summary": "<p>Kazakhstan is proposing a new mechanism allowing renewable energy generators to sell electricity to the country's single buyer after at least 36 months under bilateral contracts. The measure aims t",
+    "sources": [
+      {
+        "name": "pv_magazine",
+        "url": "https://www.pv-magazine.com/2026/11/12/kazakhstan-proposes-new-ppa-mechanism-to-reduce-offtake-risks-plans-storage-auctions/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-12-017",
+    "date": "2026-11-12",
+    "companies": [],
+    "topics": [
+      "trade_tariff",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Japan enters final months of new ground-mounted solar certifications",
+    "summary": "<p>Japan has published its last application deadlines for feed-in tariff (FIT) and feed-in premium (FIP) support before ground-mounted commercial solar closes to new projects.</p>\n<p>The post <a href=",
+    "sources": [
+      {
+        "name": "pv_magazine",
+        "url": "https://www.pv-magazine.com/2026/11/12/japan-enters-final-months-of-new-ground-mounted-solar-certifications/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-12-018",
+    "date": "2026-11-12",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Financial institutions back 2 GW of solar in Türkiye",
+    "summary": "<p>Acwa Power is set to build two 1 GW solar plants in Türkiye as part of an agreement that will see Saudi Arabian companies develop 5 GW of solar and wind in the country.</p>\n<p>The post <a href=\"htt",
+    "sources": [
+      {
+        "name": "pv_magazine",
+        "url": "https://www.pv-magazine.com/2026/11/12/financial-institutions-back-2-gw-of-solar-in-turkiye/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-12-019",
+    "date": "2026-11-12",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Analysts weigh renewable energy permitting, tax credit odds after Democratic sweep",
+    "summary": "Washington policy and tax analysts outline Section 45X extension pathways, Foreign Entity of Concern compliance risks, and grid equipment restrictions for solar and energy storage developers following",
+    "sources": [
+      {
+        "name": "pv_magazine_usa",
+        "url": "https://pv-magazine-usa.com/2026/11/12/solar-and-storage-industry-weighs-permitting-tax-credit-odds-after-democratic-sweep/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-12-020",
+    "date": "2026-11-12",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Recent dispatch of VPP power to grid demonstrates viability of coordinated residential storage at scale",
+    "summary": "Sunrun and Tesla dispatched more than 580 megawatts (MW) from over 140,000 home batteries in September. For developers, EPCs, and installers, revenue will depend on whether enrolled capacity is verifi",
+    "sources": [
+      {
+        "name": "pv_magazine_usa",
+        "url": "https://pv-magazine-usa.com/2026/11/12/recent-dispatch-of-vpp-power-to-grid-demonstrates-viability-of-coordinated-residential-storage-at-scale/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-12-021",
+    "date": "2026-11-12",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Heliene announces commercial production of perovskite tandem modules using Caelux glass",
+    "summary": "The companies say their perovskite-silicon tandem modules will be available for shipment in 2027 and can achieve efficiencies of 27% or greater, with a roadmap targeting 29% by 2028.",
+    "sources": [
+      {
+        "name": "pv_magazine_usa",
+        "url": "https://pv-magazine-usa.com/2026/11/12/heliene-announces-commercial-production-of-perovskite-tandem-modules-using-caelux-glass/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-12-022",
+    "date": "2026-11-12",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Connecticut solar group claims victory as utilities must offer flexible interconnection",
+    "summary": "Connecticut utilities must offer flexible interconnection for solar and storage projects on a limited basis from next May, and offer it statewide by 2030, thanks to a regulatory decision applauded by ",
+    "sources": [
+      {
+        "name": "pv_magazine_usa",
+        "url": "https://pv-magazine-usa.com/2026/11/12/connecticut-solar-group-claims-victory-as-utilities-must-offer-flexible-interconnection/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-12-023",
+    "date": "2026-11-12",
+    "companies": [],
+    "topics": [
+      "trade_tariff",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Utility tariff links 600 MWh Utah battery to Meta data center",
+    "summary": "Lydian Energy says its 150 MW/600 MWh Faraday battery in Utah, contracted through PacifiCorp to support Meta’s Eagle Mountain data center, has been operating since September.",
+    "sources": [
+      {
+        "name": "pv_magazine_usa",
+        "url": "https://pv-magazine-usa.com/2026/11/12/utility-tariff-links-600-mwh-utah-battery-to-meta-data-center/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-12-024",
+    "date": "2026-11-12",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "1,391 solar panels wrap 48-story building to turn it into a powerhouse - Interesting Engineering",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxONU1TMWJRZzVvWDA1R1dpZWxaYlNlemcyWEhZWXQ5d0dnUENILWxpeFgzaklqNXBtbVU2YlVBQmFZS2pGd0pnV05qWEQ5R2NKUl9JdnhvczN3QkgzWkZDQ0VkX1p2VnA3VFhGeGEwdV",
+    "sources": [
+      {
+        "name": "google_news_solar",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxONU1TMWJRZzVvWDA1R1dpZWxaYlNlemcyWEhZWXQ5d0dnUENILWxpeFgzaklqNXBtbVU2YlVBQmFZS2pGd0pnV05qWEQ5R2NKUl9JdnhvczN3QkgzWkZDQ0VkX1p2VnA3VFhGeGEwdVhiRGE3VkdROXNMeC1yTWFPZUpXZjFHWjR6VndRTTFaTm1VTFk?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-12-025",
+    "date": "2026-11-12",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Growing solar panel use drives Mexico’s 9.4% rise this year in distributed energy - Mexico News Daily",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxNdmoxdUROaklwUER5LU9vNzVLenozYWxyVUZPcE0zQlBuTzdiWUZMbi04aE9FbG5NY2lOMy1uTTlFaU04Rm9lWGpRM3B1QVc5VS1KM3FYR3hXRmQxUDBHTUwxb3RZT3BiQUQ4dXNyMU",
+    "sources": [
+      {
+        "name": "google_news_solar",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNdmoxdUROaklwUER5LU9vNzVLenozYWxyVUZPcE0zQlBuTzdiWUZMbi04aE9FbG5NY2lOMy1uTTlFaU04Rm9lWGpRM3B1QVc5VS1KM3FYR3hXRmQxUDBHTUwxb3RZT3BiQUQ4dXNyMU1PQmJJRjY4UjZkNVdBMl9aZC1QSzB0QTEycTVYOEFPWDVxRVdCUTVlZzU3TXl4aDJSR1FnNGlGbw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-12-026",
+    "date": "2026-11-12",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Outer Spaces takes solar beyond the rooftop with integrated backyard energy system - Solar Power World",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxQMm1pSVNZSEwxa1lPcTJkbFEzV3UxeGRxcUhONjRZY2JMZmpnRU5xeW9MSGgtRGhIbFBvNWczeDVtSGZCN1QxeVRZdUltMzhwd0xJOW5ubU4tTUdmX3o2elR5TUVnRHlTLUpsdk54bl",
+    "sources": [
+      {
+        "name": "google_news_solar",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQMm1pSVNZSEwxa1lPcTJkbFEzV3UxeGRxcUhONjRZY2JMZmpnRU5xeW9MSGgtRGhIbFBvNWczeDVtSGZCN1QxeVRZdUltMzhwd0xJOW5ubU4tTUdmX3o2elR5TUVnRHlTLUpsdk54blZISHVxT2xsY2JHeDFyYkNBY0VOSk5jeER3NEF6U3ZpV08taE1YYlNmRW5IbDBSSUk4QnZXdzRBcmlhbHdFcHl2MVgyWFV4Tlh6TlotLUdoTU9WbHFfb3NKMg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-12-027",
+    "date": "2026-11-12",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Netherlands Moves Toward Balcony Solar Framework After House Motion - News and Statistics - IndexBox",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxPMTk1dlVLYTZDZk9ndHFiUms3T0pWc0FZUGg3THhRbjUwZ1BmWlpBN243STlrbFQxbG5Mazd6YnhGMFJkTjBjaVZLUFQtWllVdmx2RmUxZlVrSV8zQl9vcTdjOUswVmtYY0dWMGxTb3",
+    "sources": [
+      {
+        "name": "google_news_solar",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPMTk1dlVLYTZDZk9ndHFiUms3T0pWc0FZUGg3THhRbjUwZ1BmWlpBN243STlrbFQxbG5Mazd6YnhGMFJkTjBjaVZLUFQtWllVdmx2RmUxZlVrSV8zQl9vcTdjOUswVmtYY0dWMGxTb3Z3Y3dKQktJbWx0eVZTVHgzWHBYYTFMbDhwZ1FnWmxLY0Nsc25DYXpQS2RPOFBNSWtnTDF0NWhBT3dlY1gwbGk3YndHREwtNGlfTDA5UEZDYksxd0U?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-12-028",
+    "date": "2026-11-12",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "What to Consider When Integrating Photovoltaics into Building Facades - ArchDaily",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxOZFl3dVlyaVh1NWlhUWo2Z01ZMVllQmJxX0E3UU9PbFpKUmFGZE5OWG1NQTdSaTFtd1ltTDZGT05odDBrV25mdUpJYUtRWng5cWUxYi1VRWk3NUl3VGp4NjlyMjVvOWg1ckRVVW81cX",
+    "sources": [
+      {
+        "name": "google_news_solar",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZFl3dVlyaVh1NWlhUWo2Z01ZMVllQmJxX0E3UU9PbFpKUmFGZE5OWG1NQTdSaTFtd1ltTDZGT05odDBrV25mdUpJYUtRWng5cWUxYi1VRWk3NUl3VGp4NjlyMjVvOWg1ckRVVW81cXhDQ3ZTNl8yOWU0RjY1Z09sUEJKak5nRkVCNHBkUFY4TFNrNWQ3dVFPWFZtVUJMTVViemhnSzZB?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-12-029",
+    "date": "2026-11-12",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Laser Technique Could Slash Emissions From Solar Panel Recycling - AZoCleantech",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE5vN1AyS1NNYXVFUGNLNDRPem5ZbGtyX1BKNS13Mk4xN3ZoV2swTkVvSGhjMkNncXBGZnN4cHdyNVBWRzRzcjhySGFfa0x3LVRpRTRlaENLZ3ZVQW1HblpOVw?oc=5\" target=\"_blan",
+    "sources": [
+      {
+        "name": "google_news_solar",
+        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5vN1AyS1NNYXVFUGNLNDRPem5ZbGtyX1BKNS13Mk4xN3ZoV2swTkVvSGhjMkNncXBGZnN4cHdyNVBWRzRzcjhySGFfa0x3LVRpRTRlaENLZ3ZVQW1HblpOVw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-12-030",
+    "date": "2026-11-12",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Croatia launches €30 million funding scheme for installing solar panels and batteries - Croatia Week",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE1iYkwteFVPVy1YVzB6VjB3aDUwN0ZhZ3ZiZzBndFJlMlFXeHp5bm0tTEZOYThRSlE5THNnT25HYmlob3dFYU9saEFKNVNNMkFSa05HWngzMFlobmZCUVBmY0lCVkdvYWZXSFpienNWeT",
+    "sources": [
+      {
+        "name": "google_news_solar",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1iYkwteFVPVy1YVzB6VjB3aDUwN0ZhZ3ZiZzBndFJlMlFXeHp5bm0tTEZOYThRSlE5THNnT25HYmlob3dFYU9saEFKNVNNMkFSa05HWngzMFlobmZCUVBmY0lCVkdvYWZXSFpienNWeTJTazFSNTZ4QQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-12-031",
+    "date": "2026-11-12",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Solar-powered car winner in Polish university competition - Renewables Now",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxOcDhaZk05VHp6V2N3M0RsVW44VnJOdUl0YWZBMFYzLW1sUG9KUUszRGZ6WC1oeV8wR2VNWS1RTjdVMTVnSk91NE9HSzh5bTVla0VyUmxWeHhhQ0lfZFZJbDNSOXUzN0VTalhFZENxV0",
+    "sources": [
+      {
+        "name": "google_news_solar",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOcDhaZk05VHp6V2N3M0RsVW44VnJOdUl0YWZBMFYzLW1sUG9KUUszRGZ6WC1oeV8wR2VNWS1RTjdVMTVnSk91NE9HSzh5bTVla0VyUmxWeHhhQ0lfZFZJbDNSOXUzN0VTalhFZENxV091cTRmY2N3MUswU3ZzbXBXcnBVNC1uSzVCZFV4N0d2V2hQckdDdFNxOTNPZWhqUQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-12-032",
+    "date": "2026-11-12",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "NASA built the Opportunity rover to last 90 days on Mars, and Martian winds helped keep it alive for nearly 15 years by blowing dust off its solar panels, until a planet-wide dust storm in 2018 blocked sunlight and silenced the rover - The Watchers - Watching the world evolve and transform",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AJBVV95cUxQZWVfbUN3NUpUSTliQ2x5UC1QdkRXdGVJYVlPdW4zc0cxeGJQOVVSOVJMcGcwN0FrZmRuMWttOGNhcnE2TlhtS091M1MzM0dNN0pLX1JJdDVlQlQwOUNLUWh5Qzg3Y1lVd2ZIS1pma0",
+    "sources": [
+      {
+        "name": "google_news_solar",
+        "url": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxQZWVfbUN3NUpUSTliQ2x5UC1QdkRXdGVJYVlPdW4zc0cxeGJQOVVSOVJMcGcwN0FrZmRuMWttOGNhcnE2TlhtS091M1MzM0dNN0pLX1JJdDVlQlQwOUNLUWh5Qzg3Y1lVd2ZIS1pma0QwUWpjZFpfM3BuTG9YZ2VwS0xWYWphcEFCZlJNYnhCVVhWLTY5YmRXOHhtNFJTU0l1dlRoNzVxTGlwNVFRQVNvSXdBSVNCUkNQNFFkbVFYSFNBV0NtYWhuX1UxU3J2bXdSekdCQnV4bnJrRnpQQ1hFWXd1Mk1yUHVMTFBSX3dVNEFFdzBMOEE1ejA5Ymh1Z1M4U1hRMFh1NFdqTjN3aG5yMGZFRVVucFc5THFHVDI5eXdiajNxZ1Fna0F4cnNacmhPMlU5V0d5OHRZMU5EUWZYMEdFdHNjMFZQbFI3YXNrNWE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-12-033",
+    "date": "2026-11-12",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "How BYD Is Combining Solar Power, Batteries And 5-Minute Charging - Yahoo Autos",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxNbXRmWTROZXBuQkJLdkJ1aDllZVNmZmllQ1NSRjA1d3NEeDlRRFZnZm5HaUpDMUswOEVkMFBZcTNnNGlfM0xXU0Njc3V2UGsyYzZvX1cyMTVQSHkzN1lOU0sxME1PbzFobmRKM21UNm",
+    "sources": [
+      {
+        "name": "google_news_solar",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNbXRmWTROZXBuQkJLdkJ1aDllZVNmZmllQ1NSRjA1d3NEeDlRRFZnZm5HaUpDMUswOEVkMFBZcTNnNGlfM0xXU0Njc3V2UGsyYzZvX1cyMTVQSHkzN1lOU0sxME1PbzFobmRKM21UNm53Q1REVUlvTmVVa3RiTElGSUswVWJxdm5WX0JMeVByYVJidHVZdFdual9oSmMtYkktbWNQaQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "array-2026-11-12-034",
+    "date": "2026-11-12",
+    "companies": [
+      "array"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Secure Solar Futures set to install 313-kW array on Virginia elementary school",
+    "summary": "<p>Secure Solar Futures, a commercial solar contractor, will build a 313-kW solar power system at Preston Park Elementary School in Roanoke, Virginia. Construction of the system is expected to start l",
+    "sources": [
+      {
+        "name": "solar_power_world",
+        "url": "https://www.solarpowerworldonline.com/2026/11/secure-solar-futures-set-to-install-313-kw-array-on-virginia-elementary-school/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-12-035",
+    "date": "2026-11-12",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Outer Spaces takes solar beyond the rooftop with integrated backyard energy system",
+    "summary": "<p>Residential solar is finding a new place to call home: the backyard. Outer Spaces, a new company founded by the entrepreneurs behind outdoor living brand Outer, is introducing a solar-powered pavil",
+    "sources": [
+      {
+        "name": "solar_power_world",
+        "url": "https://www.solarpowerworldonline.com/2026/11/outer-spaces-takes-solar-beyond-the-rooftop-with-integrated-backyard-energy-system/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-12-036",
+    "date": "2026-11-12",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "DC bidirectional charging and data centre demand are reshaping the case for US DERs",
+    "summary": "As data centre demand surges, utilities and developers are turning to distributed energy resources (DERs) to ease grid strain.",
+    "sources": [
+      {
+        "name": "energy_storage_news",
+        "url": "https://www.energy-storage.news/dc-bidirectional-charging-and-data-centre-demand-are-reshaping-the-case-for-us-ders/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-12-037",
+    "date": "2026-11-12",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "German utility to build 7.5MW/30MWh project using Eos’ zinc-bromide battery tech",
+    "summary": "Stadtwerke Gaggenau, a municipal utility in Germany, has hired a general contractor to build a 4-hour BESS project using the zinc-bromide technology from US firm Eos Energy Enterprises.",
+    "sources": [
+      {
+        "name": "energy_storage_news",
+        "url": "https://www.energy-storage.news/german-utility-to-build-7-5mw-30mwh-project-using-eos-zinc-bromide-battery-tech/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-12-038",
+    "date": "2026-11-12",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "FlexGen chosen as system integrator for Google-backed US solar-plus-storage project with MN8, Eos",
+    "summary": "Software-focused energy storage system integrator FlexGen will serve as the integrator of MN8 Energy’s solar-plus-storage project in Kanawha, West Virginia, US, using solutions from Eos Energy Enterpr",
+    "sources": [
+      {
+        "name": "energy_storage_news",
+        "url": "https://www.energy-storage.news/flexgen-chosen-as-system-integrator-for-google-backed-us-solar-plus-storage-project-with-mn8-eos/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-12-039",
+    "date": "2026-11-12",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "What six months of Dutch market data tell us about the true worth of renewables & BESS dispatch optimisation",
+    "summary": "Analysis of optimiser performance in the Dutch electricity market highlights the need to separate claims and forecasting from realistic outcomes, writes Omer Bumin of trading infrastructure software c",
+    "sources": [
+      {
+        "name": "energy_storage_news",
+        "url": "https://www.energy-storage.news/what-six-months-of-dutch-market-data-tell-us-about-the-true-worth-of-renewables-bess-dispatch-optimisation/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-12-040",
+    "date": "2026-11-12",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Alinta Energy’s 200MWh Wagerup BESS online in Western Australia after ‘significant redesign’",
+    "summary": "Alinta Energy's 100MW/200MWh BESS at its Wagerup thermal power plant in Western Australia has been operating commercially since September.",
+    "sources": [
+      {
+        "name": "energy_storage_news",
+        "url": "https://www.energy-storage.news/alinta-energys-200mwh-wagerup-bess-online-in-western-australia-after-significant-redesign/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "jinko-2026-11-11-001",
     "date": "2026-11-11",
     "companies": [
@@ -523,6 +1261,211 @@
       {
         "name": "cleantechnica",
         "url": "https://cleantechnica.com/2026/11/10/solar-storage-industry-statement-on-bipartisan-permitting-reform-bill-passing-first-procedural-vote/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "jinko-2026-11-11-030",
+    "date": "2026-11-11",
+    "companies": [
+      "jinko"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "JinkoSolar Redefines Premium Rooftop Solar with Tiger Neo 5.0 - GlobeNewswire",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxPR29PSW1vdk9yQjI2WHBvc0RPRDVBMDh6VUxnRDhNRnM3OHBnY2tCUVMtemRaQ1hsRXNZaGJPd2VrQXY3bGpMRngwTFQ5U3hFOUNuTkVhTFVvdHI3a0NXZE5CMkFfVk5oVVlOMXZIbV",
+    "sources": [
+      {
+        "name": "jinko",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPR29PSW1vdk9yQjI2WHBvc0RPRDVBMDh6VUxnRDhNRnM3OHBnY2tCUVMtemRaQ1hsRXNZaGJPd2VrQXY3bGpMRngwTFQ5U3hFOUNuTkVhTFVvdHI3a0NXZE5CMkFfVk5oVVlOMXZIbVVIQjFEVmdjY2l3RGhLakwzQWFxX0xhNHVadkN4UFFHNi15WWpJQlpSM19VcTA4VnU3Z2VKNmI3UUlLcjdiWXI4Y2xkVlA0aE1oekVMOFNCdVlEd3VOZGxKcThRT2tNZw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "jinko-2026-11-11-031",
+    "date": "2026-11-11",
+    "companies": [
+      "jinko"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "JinkoSolar Tiger Neo 5.0 Combines 25.52% Efficiency with Refined All-Black Design - GlobeNewswire",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5wFBVV95cUxOVEQ2NUNHQjBEQjZhQVRnU2ZJTzYxY3ZWQXE5TE11ZHhHZDdRQ1MwQzdKNWpzTDNTRXpTMnhvVHBKd2NmdEdBU2k1SFhDVHNuaUUxNFhKRmNoNWFVTHQ5OGdEN0xneTc2ZDZqMEVTdk",
+    "sources": [
+      {
+        "name": "jinko",
+        "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOVEQ2NUNHQjBEQjZhQVRnU2ZJTzYxY3ZWQXE5TE11ZHhHZDdRQ1MwQzdKNWpzTDNTRXpTMnhvVHBKd2NmdEdBU2k1SFhDVHNuaUUxNFhKRmNoNWFVTHQ5OGdEN0xneTc2ZDZqMEVTdkZkb1pTQWtvMnY3c09NOHFSWVVvTl9ORUhyRGcxM0d4UGFobEtWSkYyamxHRFl6VWJQaDNISWE1eXR1Z2NVeXJIc3JqTVNOZ2RXaUZXeVdrbFo2Vm9TbkpEQ2R3WDBtYWgwUGF2T3VNRkZmcm9sbXNUclcySzV1NUE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-11-032",
+    "date": "2026-11-11",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Segway MUXI cargo e-bike $200 off in expanded Black Friday sale + Navimow robot deals, Anker eufy S340 4-cam kit $580, more",
+    "summary": "<div class=\"feat-image\"><img src=\"https://electrek.co/wp-content/uploads/sites/3/2026/11/Segway-MUXI-Navimow-Anker-eufy-Aventon-GDs-FI.jpg?quality=82&#038;strip=all&#038;w=1600\" /></div><p class=\"wp-b",
+    "sources": [
+      {
+        "name": "electrek_solar",
+        "url": "https://electrek.co/2026/11/11/segway-muxi-cargo-e-bike-black-friday-navimow-robot-anker-eufy-s340-4-cam-kit/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-11-033",
+    "date": "2026-11-11",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Why solar makes sense for one Evanston developer - Evanston RoundTable",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxOSS1Xc2FHZ0pMNlJwZFQxbENsWlNuYkxDUlpZZld4UF9wNWwwb1pKM3lPazB4aWotaEpnNm5Nd21rR2dhMHBXMllKSEE1WktFYThFQm11R2xZX0o0SjJFNzdsNmQxZUl6dExGWHRaRG",
+    "sources": [
+      {
+        "name": "google_news_solar",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOSS1Xc2FHZ0pMNlJwZFQxbENsWlNuYkxDUlpZZld4UF9wNWwwb1pKM3lPazB4aWotaEpnNm5Nd21rR2dhMHBXMllKSEE1WktFYThFQm11R2xZX0o0SjJFNzdsNmQxZUl6dExGWHRaRGxDdEt5VW80WGI5QlZKWnY3bEJrZWlBbGtN?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "enphase-2026-11-11-034",
+    "date": "2026-11-11",
+    "companies": [
+      "enphase"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Enphase Energy Solar Panel Lawsuit Alleges Fire Followed Repeated Failed Safety Inspections - AboutLawsuits.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxQeng3eVZneWZ0UkNYUm40Zk1aUjhhTzhtRUdQUFZOb3lkN2Qxal95emV1ZzAtRkp0OE9mYWdSUFBpeHBNVmlwN1h5Wmc4M1lvZGFhNTZseFNYN2VsU0I0a0hZaWFmUHFreGF3VC1YMn",
+    "sources": [
+      {
+        "name": "google_news_solar",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQeng3eVZneWZ0UkNYUm40Zk1aUjhhTzhtRUdQUFZOb3lkN2Qxal95emV1ZzAtRkp0OE9mYWdSUFBpeHBNVmlwN1h5Wmc4M1lvZGFhNTZseFNYN2VsU0I0a0hZaWFmUHFreGF3VC1YMnhnaXVodlo0azFaSGRSZHBfU2NkdUJ3VUdfMHRNc19LSHhNSnhGVV9yS1Rwb2s?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-11-035",
+    "date": "2026-11-11",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "China Covered Desert Land With Solar Panels - Researchers Found 126% More Carbon in the Soil - Gadget Review",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxPVWkxRWwxOXp4emNRbk5veTV3UnZDaGxuWDVYTGpfT0F6OTJjNFZkTkpSTkttOWVXS19vbDFjYTV4eWdpUjNoTlpuQlpHRVR6NjdMOU4tZUVCUzE0UE4xaVZTcnp2dEhvZUtyNDUtd2",
+    "sources": [
+      {
+        "name": "google_news_solar",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPVWkxRWwxOXp4emNRbk5veTV3UnZDaGxuWDVYTGpfT0F6OTJjNFZkTkpSTkttOWVXS19vbDFjYTV4eWdpUjNoTlpuQlpHRVR6NjdMOU4tZUVCUzE0UE4xaVZTcnp2dEhvZUtyNDUtd284RkdXZkE4QTVLZUFGREwxbFRFeUVhNVMxUVJEWWtIY1FBTzZsYUYzQnVoZkFncFhPMTFlRTI2cjdsTmowWWNaMFAtU0JlZ013VFE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-11-036",
+    "date": "2026-11-11",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "US to add 300 MW of solar power with four new Florida projects by 2028 - Interesting Engineering",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxQTXpyclpWOXJmd3BRTzV4SGxFT0I2T0VyUk15ZnY3Nm5CVGszNmlqRmRPUXlvRGR4TVBPZGdDdzJsdjc3Q2hCVExfVGs1OWRSQ2NaelhVY2VrZjJhc3B3b1VtRVVJN3JNUkRVZEc5Nn",
+    "sources": [
+      {
+        "name": "google_news_solar",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQTXpyclpWOXJmd3BRTzV4SGxFT0I2T0VyUk15ZnY3Nm5CVGszNmlqRmRPUXlvRGR4TVBPZGdDdzJsdjc3Q2hCVExfVGs1OWRSQ2NaelhVY2VrZjJhc3B3b1VtRVVJN3JNUkRVZEc5NnRlWW82ZlBpN1h1Q0FvaEZEUkFfMk9qN1U?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-11-037",
+    "date": "2026-11-11",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "From Callback to Confidence: How Engineering an ESS for Field Reduces the Costly Callbacks",
+    "summary": "<p>Installer on-site callbacks are the silent margin killer in residential energy management and storage. They consume labor, fuel, new project scheduling capacity, and homeowner trust in ways that ra",
+    "sources": [
+      {
+        "name": "solar_power_world",
+        "url": "https://www.solarpowerworldonline.com/2026/11/from-callback-to-confidence-how-engineering-an-ess-for-field-reduces-the-costly-callbacks/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-11-038",
+    "date": "2026-11-11",
+    "companies": [],
+    "topics": [
+      "installation_demand",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Martin Solar cuts out zip ties with new mounting rail",
+    "summary": "<p>Martin Solar&#8216;s newly manufactured Dual-Channel Solar Rail (DCSR) was recently installed on a 70-kWDC solar project, marking its first real-world application. “Management of PV wires and AC tr",
+    "sources": [
+      {
+        "name": "solar_power_world",
+        "url": "https://www.solarpowerworldonline.com/2026/11/martin-solar-cuts-out-zip-ties-with-new-mounting-rail/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-11-039",
+    "date": "2026-11-11",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Roll-A-Rack debuting low-profile, manufactured-on-site solar racking",
+    "summary": "<p>Roll-A-Rack, a developer of patented, on-site-manufactured solar racking systems, will introduce SunChord, its new multi-purpose ground-mounted system, at RE+ 2026 in Las Vegas. SunChord is a low-p",
+    "sources": [
+      {
+        "name": "solar_power_world",
+        "url": "https://www.solarpowerworldonline.com/2026/11/roll-a-rack-debuting-low-profile-manufactured-on-site-solar-racking/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-11-040",
+    "date": "2026-11-11",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "The Perovskite Solar Cell Kraken Has Been Unleashed Upon The US",
+    "summary": "<p>Perovskite is a relatively inexpensive material that has attracted thousands of researchers since 2009, when a team of scientists in Japan first demonstrated its use in solar cells. They achieved a",
+    "sources": [
+      {
+        "name": "cleantechnica",
+        "url": "https://cleantechnica.com/2026/11/11/perovskite-solar-cells-us-caelux-heliene/",
         "type": "rss"
       }
     ]

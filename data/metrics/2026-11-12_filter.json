@@ -1,0 +1,16 @@
+{
+  "total_raw": 422,
+  "dup_title": 163,
+  "no_date": 0,
+  "too_old": 161,
+  "gate1_fail": 40,
+  "gate2_fail": 7,
+  "passed": 51,
+  "gate2_samples": [
+    "DAQO New Energy (NYSE:DQ) Shares Down 6.1% - Should You Sell? - MarketBeat",
+    "DAQO New Energy (NYSE:DQ) Stock Crosses Above Fifty Day Moving Average - Here's What Happened - Mark",
+    "UBS Adjusts Price Target on Array Technologies to $5.50 From $5, Maintains Neutral Rating - marketsc",
+    "RBC Raises Price Target on Array Technologies to $6 From $5, Keeps Sector Perform Rating - marketscr",
+    "Latest Canadian budget packs funding for 55,000 new EV chargers"
+  ]
+}
