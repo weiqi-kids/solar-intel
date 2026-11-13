@@ -1,0 +1,226 @@
+{
+  "date": "2026-11-13",
+  "generated_at": "2026-11-13T15:47:25.841069Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "trina-2026-11-13-008",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "Chinese PV Industry Brief: Energy China shortlists 23 module suppliers for 15 GW tender",
+      "companies": [
+        "trina",
+        "gcl",
+        "jinko"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://www.pv-magazine.com/2026/11/13/chinese-pv-industry-brief-energy-china-shortlists-23-module-suppliers-for-15-gw-tender/"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-11-13-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "JA to supply n-type modules to Teraco’s 120MW Sediba solar project in South Africa - PV Tech",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPeTg3TjJucVVZRldVSlYtdnBkQXZUNkl1cUo1eTlHZ2luMWIwNzIxUWY0SjVGRXp5OW5IMkpXdVJrc3ZnYUtyNzhDekhGTDFKbS1tT0d4cWdkMWxUN1UwZVVZVkx3YjJXbHdVbkpJQ21TV18wZjM1UGVMVHU4c1AyRDVoWHlja0xUTzRBWmlERm5IUXVEX2pUV0c1UEI2Zw?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "trina-2026-11-13-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "OX2, Trina Storage agree 3-GWh BESS framework deal - Renewables Now",
+      "companies": [
+        "trina"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxObVZGLVNXQWhGMnBHanhRMzdISXRHUUVSaWpWeGlTcFhoUWVZTE5nalJYYlE4c3FDVHE1dWRUd2Z5Y25RQ2QwQkZxeTRwbFBMMUZkZVZta2M1T1hJNi10ZmdDMTVmVll0aTJuYnRFYWpkV0ZfenI1YVNBTUloNkhjQTFYNVl2MGZUR0lESFJIYXhFb2c?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-11-13-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "SEC Investigates T1 Energy’s Disclosures of Federal Tax Credits - Bloomberg.com",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOZ04zb0tyVVhnUnNrUEhwV1FLSGp3RmkzYVEyM0xaS3ZCUnFJdTk2MzZoeFZQYmNSM3FmYkFOeWdHNjVaZkVqazNsOVVydWF2MlNKajduQ05fTktwRFpzTmw1T3VEbkhLcUNzNi1qWkNLbVl0R1lWNzFtV3JGSWdwWnliaTMwVlZpc19CSzdVVDBVQldmeDEzUGY3dlNvWVVaVHlLaG45LTk1WHZZZ0VhbFQycTk?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "jinko-2026-11-13-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "What Jinko Doubters Saw Before A 62% Fall - Simply Wall St",
+      "companies": [
+        "jinko"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPSWdUd2x3SUZRSDAxWFl3ZW9DWEhrV2xodVVtRElJaTV1Vy1xVW9OdDFQMlhfQ0czRXNKUHdyWERKYjV3RFJCUUstWmFBa1pVcDM3MjgwZ3pQb3A2a09jUFJ5Tm5SV1BpSWJ1OG15SE4xdURVSDV5b1lWNjFCZGNkMEFBaWItUW5VZWVFTW9HQmVzZUd2R3VNTHBZY3lLdlZoVmpvZlkwRXdlMlVnWi1sY1JJa1FfSWs?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 31,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.06,
+      "sentiment_7d_avg": null
+    },
+    "installation_demand": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "module_price": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 31,
+    "sentiment_distribution": {
+      "positive": 4,
+      "neutral": 27,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "trina",
+        "count": 2
+      },
+      {
+        "id": "jinko",
+        "count": 2
+      },
+      {
+        "id": "sungrow",
+        "count": 1
+      },
+      {
+        "id": "gcl",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 31
+      },
+      {
+        "id": "installation_demand",
+        "count": 1
+      },
+      {
+        "id": "module_price",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 424,
+    "dup_title": 164,
+    "too_old": 164,
+    "gate1_blocked": 45,
+    "gate2_blocked": 7,
+    "passed": 44,
+    "pass_rate": "16.9%",
+    "gate2_block_rate": "2.7%",
+    "gate2_samples": [
+      "DAQO New Energy (NYSE:DQ) Shares Down 6.1% - Should You Sell? - MarketBeat",
+      "UBS Adjusts Price Target on Array Technologies to $5.50 From $5, Maintains Neutral Rating - marketsc",
+      "RBC Raises Price Target on Array Technologies to $6 From $5, Keeps Sector Perform Rating - marketscr",
+      "Latest Canadian budget packs funding for 55,000 new EV chargers",
+      "SOLRITE and sonnen collaborate on integrated VPP breaker"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 31 則事件，焦點為天合光能、晶科能源、陽光電源相關動態：「Chinese PV Industry Brief: Energy China shortlists 23 mod...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Chinese PV Industry Brief: Energy China shortlists 23 module suppliers for 15...（太陽能產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "JA to supply n-type modules to Teraco’s 120MW Sediba solar project in South A...（太陽能產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "裝機需求持續受關注，產業趨勢帶動需求成長。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

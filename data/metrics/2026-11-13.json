@@ -1,0 +1,41 @@
+{
+  "date": "2026-11-13",
+  "total_events": 31,
+  "by_company": {
+    "trina": {
+      "count": 2,
+      "sentiment_avg": 0.25
+    },
+    "jinko": {
+      "count": 2,
+      "sentiment_avg": 0.25
+    },
+    "sungrow": {
+      "count": 1,
+      "sentiment_avg": 0.5
+    },
+    "gcl": {
+      "count": 1,
+      "sentiment_avg": 0.5
+    }
+  },
+  "by_topic": {
+    "industry_general": {
+      "count": 31,
+      "sentiment_avg": 0.06
+    },
+    "installation_demand": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "module_price": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

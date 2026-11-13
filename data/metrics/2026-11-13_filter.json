@@ -1,0 +1,16 @@
+{
+  "total_raw": 424,
+  "dup_title": 164,
+  "no_date": 0,
+  "too_old": 164,
+  "gate1_fail": 45,
+  "gate2_fail": 7,
+  "passed": 44,
+  "gate2_samples": [
+    "DAQO New Energy (NYSE:DQ) Shares Down 6.1% - Should You Sell? - MarketBeat",
+    "UBS Adjusts Price Target on Array Technologies to $5.50 From $5, Maintains Neutral Rating - marketsc",
+    "RBC Raises Price Target on Array Technologies to $6 From $5, Keeps Sector Perform Rating - marketscr",
+    "Latest Canadian budget packs funding for 55,000 new EV chargers",
+    "SOLRITE and sonnen collaborate on integrated VPP breaker"
+  ]
+}

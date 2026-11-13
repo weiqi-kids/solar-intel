@@ -1,5 +1,575 @@
 [
   {
+    "id": "unknown-2026-11-13-001",
+    "date": "2026-11-13",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "JA to supply n-type modules to Teraco’s 120MW Sediba solar project in South Africa - PV Tech",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxPeTg3TjJucVVZRldVSlYtdnBkQXZUNkl1cUo1eTlHZ2luMWIwNzIxUWY0SjVGRXp5OW5IMkpXdVJrc3ZnYUtyNzhDekhGTDFKbS1tT0d4cWdkMWxUN1UwZVVZVkx3YjJXbHdVbkpJQ2",
+    "sources": [
+      {
+        "name": "ja_solar",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPeTg3TjJucVVZRldVSlYtdnBkQXZUNkl1cUo1eTlHZ2luMWIwNzIxUWY0SjVGRXp5OW5IMkpXdVJrc3ZnYUtyNzhDekhGTDFKbS1tT0d4cWdkMWxUN1UwZVVZVkx3YjJXbHdVbkpJQ21TV18wZjM1UGVMVHU4c1AyRDVoWHlja0xUTzRBWmlERm5IUXVEX2pUV0c1UEI2Zw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "trina-2026-11-13-002",
+    "date": "2026-11-13",
+    "companies": [
+      "trina"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "OX2, Trina Storage agree 3-GWh BESS framework deal - Renewables Now",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxObVZGLVNXQWhGMnBHanhRMzdISXRHUUVSaWpWeGlTcFhoUWVZTE5nalJYYlE4c3FDVHE1dWRUd2Z5Y25RQ2QwQkZxeTRwbFBMMUZkZVZta2M1T1hJNi10ZmdDMTVmVll0aTJuYnRFYW",
+    "sources": [
+      {
+        "name": "trina",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxObVZGLVNXQWhGMnBHanhRMzdISXRHUUVSaWpWeGlTcFhoUWVZTE5nalJYYlE4c3FDVHE1dWRUd2Z5Y25RQ2QwQkZxeTRwbFBMMUZkZVZta2M1T1hJNi10ZmdDMTVmVll0aTJuYnRFYWpkV0ZfenI1YVNBTUloNkhjQTFYNVl2MGZUR0lESFJIYXhFb2c?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-13-003",
+    "date": "2026-11-13",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "SEC Investigates T1 Energy’s Disclosures of Federal Tax Credits - Bloomberg.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxOZ04zb0tyVVhnUnNrUEhwV1FLSGp3RmkzYVEyM0xaS3ZCUnFJdTk2MzZoeFZQYmNSM3FmYkFOeWdHNjVaZkVqazNsOVVydWF2MlNKajduQ05fTktwRFpzTmw1T3VEbkhLcUNzNi1qWk",
+    "sources": [
+      {
+        "name": "trina",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOZ04zb0tyVVhnUnNrUEhwV1FLSGp3RmkzYVEyM0xaS3ZCUnFJdTk2MzZoeFZQYmNSM3FmYkFOeWdHNjVaZkVqazNsOVVydWF2MlNKajduQ05fTktwRFpzTmw1T3VEbkhLcUNzNi1qWkNLbVl0R1lWNzFtV3JGSWdwWnliaTMwVlZpc19CSzdVVDBVQldmeDEzUGY3dlNvWVVaVHlLaG45LTk1WHZZZ0VhbFQycTk?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "jinko-2026-11-13-004",
+    "date": "2026-11-13",
+    "companies": [
+      "jinko"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "What Jinko Doubters Saw Before A 62% Fall - Simply Wall St",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxPSWdUd2x3SUZRSDAxWFl3ZW9DWEhrV2xodVVtRElJaTV1Vy1xVW9OdDFQMlhfQ0czRXNKUHdyWERKYjV3RFJCUUstWmFBa1pVcDM3MjgwZ3pQb3A2a09jUFJ5Tm5SV1BpSWJ1OG15SE",
+    "sources": [
+      {
+        "name": "jinko",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPSWdUd2x3SUZRSDAxWFl3ZW9DWEhrV2xodVVtRElJaTV1Vy1xVW9OdDFQMlhfQ0czRXNKUHdyWERKYjV3RFJCUUstWmFBa1pVcDM3MjgwZ3pQb3A2a09jUFJ5Tm5SV1BpSWJ1OG15SE4xdURVSDV5b1lWNjFCZGNkMEFBaWItUW5VZWVFTW9HQmVzZUd2R3VNTHBZY3lLdlZoVmpvZlkwRXdlMlVnWi1sY1JJa1FfSWs?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "sungrow-2026-11-13-005",
+    "date": "2026-11-13",
+    "companies": [
+      "sungrow"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Sungrow Turns to Home Batteries for Growth After Profit Squeeze - Bloomberg.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxNX0hIRUdUbGp5VldfWGRaVFdTR01ZUzQ2OGROaHE4alIwTF9ORThSeDBQNmtzUVNGT0l3RFdLZmVrRV9ENFBMdkRxN3FRdEg0TkRKdElxVGFXMkVSZEhVWlh5ZW1rMTItbTZsNWpSMW",
+    "sources": [
+      {
+        "name": "sungrow",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNX0hIRUdUbGp5VldfWGRaVFdTR01ZUzQ2OGROaHE4alIwTF9ORThSeDBQNmtzUVNGT0l3RFdLZmVrRV9ENFBMdkRxN3FRdEg0TkRKdElxVGFXMkVSZEhVWlh5ZW1rMTItbTZsNWpSMWhzaGtObWFsSHl2R1p4MEtBWHJFMHo4R3c0b1FmQ051c004ejAxODF6cl9WV2dnVlhsSmpsMWJEQ1p6OGpvOXRkUk9Pd0s?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-13-006",
+    "date": "2026-11-13",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Shinsung E&G unveils 650 W bifacial TOPCon solar modules with 23.25% efficiency",
+    "summary": "<p>South Korean solar manufacturer Shinsung E&#38;G has introduced new n-type TOPCon solar modules for ground-mounted, floating PV and agrivoltaic applications. The bifacial panels feature power outpu",
+    "sources": [
+      {
+        "name": "pv_magazine",
+        "url": "https://www.pv-magazine.com/2026/11/13/shinsung-eg-unveils-650-w-bifacial-topcon-solar-modules-with-23-25-efficiency/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-13-007",
+    "date": "2026-11-13",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "The Hydrogen Stream: Uniper and VNG Produce first green hydrogen at 30 MW facility in Germany",
+    "summary": "<p>The hydrogen will be transported through a roughly 25 km former natural gas pipeline converted to carry hydrogen, with deliveries to a TotalEnergies' refinery scheduled to begin in 2027.</p>\n<p>The",
+    "sources": [
+      {
+        "name": "pv_magazine",
+        "url": "https://www.pv-magazine.com/2026/11/13/the-hydrogen-stream-uniper-and-vng-produce-first-green-hydrogen-at-30-mw-facility-in-germany/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "trina-2026-11-13-008",
+    "date": "2026-11-13",
+    "companies": [
+      "trina",
+      "gcl",
+      "jinko"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Chinese PV Industry Brief: Energy China shortlists 23 module suppliers for 15 GW tender",
+    "summary": "<p>In other news, JinkoSolar has secured certification under new Chinese PV standards and Trina Solar is expanding into AI data center energy solutions, Drinda has canceled its Oman factory project, w",
+    "sources": [
+      {
+        "name": "pv_magazine",
+        "url": "https://www.pv-magazine.com/2026/11/13/chinese-pv-industry-brief-energy-china-shortlists-23-module-suppliers-for-15-gw-tender/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-13-009",
+    "date": "2026-11-13",
+    "companies": [],
+    "topics": [
+      "installation_demand",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Malaysia extends residential solar rebates for approved applicants",
+    "summary": "<p>Malaysia's residential solar rebate scheme has MYS 90 million ($22.1 million) remaining. Approved applicants will now be given until March 2027 to complete their PV installations and claim rebates.",
+    "sources": [
+      {
+        "name": "pv_magazine",
+        "url": "https://www.pv-magazine.com/2026/11/13/malaysia-extends-residential-solar-rebates-for-approved-applicants/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-13-010",
+    "date": "2026-11-13",
+    "companies": [],
+    "topics": [
+      "module_price",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Dark clouds gather over Germany’s solar sector",
+    "summary": "<p>Solar module prices are stagnating, while battery energy storage system prices are expected to rise for the first time. Germany’s solar market could face significant challenges if policymakers fail",
+    "sources": [
+      {
+        "name": "pv_magazine",
+        "url": "https://www.pv-magazine.com/2026/11/13/dark-clouds-gather-over-germanys-solar-sector/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-13-011",
+    "date": "2026-11-13",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Sodium-ion batteries close gap with lithium-ion as utility-scale storage opportunities grow",
+    "summary": "<p>Sodium-ion batteries are approaching lithium-ion performance in key areas, with commercial cells reaching energy densities of 175 Wh/kg and offering strong low-temperature performance. Silvia Bodoa",
+    "sources": [
+      {
+        "name": "pv_magazine",
+        "url": "https://www.pv-magazine.com/2026/11/13/sodium-ion-batteries-close-gap-with-lithium-ion-as-utility-scale-storage-opportunities-grow/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-13-012",
+    "date": "2026-11-13",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Norway enters carbon credit agreement with Indonesia",
+    "summary": "<p>The Norwegian government says the deal, covering 12 million tonnes of emission reductions, will help to accelerate the development of renewable energy sources in Indonesia.</p>\n<p>The post <a href=",
+    "sources": [
+      {
+        "name": "pv_magazine",
+        "url": "https://www.pv-magazine.com/2026/11/13/norway-enters-carbon-credit-agreement-with-indonesia/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-13-013",
+    "date": "2026-11-13",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Sodium-ion pouch cells target cold-climate industrial niche",
+    "summary": "<p>Grepow has launched five sodium-ion pouch cells from 2 Ah to 7 Ah, aimed at industrial equipment and cold-climate applications that need high pulse power. </p>\n<p>The post <a href=\"https://www.pv-m",
+    "sources": [
+      {
+        "name": "pv_magazine",
+        "url": "https://www.pv-magazine.com/2026/11/13/sodium-ion-pouch-cells-target-cold-climate-industrial-niche/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-13-014",
+    "date": "2026-11-13",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "US firm claims 96,000-wafer-per-hour deposition line for tandem cells",
+    "summary": "<p>NAED Energy Holding has said its new vertical deposition platform is rated at 96,000 wafers per hour and designed to make perovskite-silicon tandem cells targeting 30% efficiency.</p>\n<p>The post <",
+    "sources": [
+      {
+        "name": "pv_magazine",
+        "url": "https://www.pv-magazine.com/2026/11/13/us-firm-claims-96000-wafer-per-hour-deposition-line-for-tandem-cells/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-13-015",
+    "date": "2026-11-13",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "China’s highways could generate 182 TWh of solar annually",
+    "summary": "<p>Researchers at China’s Tongji University have developed a framework to assess highway PV potential based on solar irradiance, terrain and road networks. They estimate that China’s highways could ge",
+    "sources": [
+      {
+        "name": "pv_magazine",
+        "url": "https://www.pv-magazine.com/2026/11/13/chinas-highways-could-generate-182-twh-of-solar-annually/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-13-016",
+    "date": "2026-11-13",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "T1 Energy pushes cell fab ramp to mid-2027, reports $197 million net sales in Q3",
+    "summary": "T1 Energy announced a delay in the expected completion date of its Austin cell manufacturing facility during its third-quarter earnings call, while updating investors on module pricing and continued d",
+    "sources": [
+      {
+        "name": "pv_magazine_usa",
+        "url": "https://pv-magazine-usa.com/2026/11/13/t1-energy-pushes-cell-fab-ramp-to-mid-2027-reports-197-million-net-sales-in-q3/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-13-017",
+    "date": "2026-11-13",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Spruce Power reports Q3 revenue of $29.7 million and 52% higher operating cash flow",
+    "summary": "Driven by AI-led cost reductions and a $21.9 million debt paydown, the residential solar asset owner extended a key credit facility maturity after quarter end.",
+    "sources": [
+      {
+        "name": "pv_magazine_usa",
+        "url": "https://pv-magazine-usa.com/2026/11/13/spruce-power-reports-q3-revenue-of-29-7-million-and-52-higher-operating-cash-flow/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-13-018",
+    "date": "2026-11-13",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Masdar completes $950 million solar and battery storage project in California",
+    "summary": "The Abu Dhabi clean energy developer and its joint venture partner Terra-Gen have brought the Lockhart complex online, adding 365 MW of solar generation and 173.7 MW of energy storage to the Californi",
+    "sources": [
+      {
+        "name": "pv_magazine_usa",
+        "url": "https://pv-magazine-usa.com/2026/11/13/masdar-completes-950-million-solar-and-battery-storage-project-in-california/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-13-019",
+    "date": "2026-11-13",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "BNEF forecasts 209 GW of new batteries in 2027",
+    "summary": "Among the markets that will accelerate their deployment are Spain, the United Arab Emirates, Chile, and Japan. By 2036, cumulative global capacity could reach 3 TW/11 TWh, approximately ten times the ",
+    "sources": [
+      {
+        "name": "pv_magazine_usa",
+        "url": "https://pv-magazine-usa.com/2026/11/13/bnef-forecasts-209-gw-of-new-batteries-in-2027/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-13-020",
+    "date": "2026-11-13",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Miami-based manufacturer claims 96,000-wafer-per-hour deposition line for tandem cells",
+    "summary": "NAED Energy Holding has said its new vertical deposition platform is rated at 96,000 wafers per hour and designed to make perovskite-silicon tandem cells targeting 30% efficiency.",
+    "sources": [
+      {
+        "name": "pv_magazine_usa",
+        "url": "https://pv-magazine-usa.com/2026/11/13/us-firm-claims-96000-wafer-per-hour-deposition-line-for-tandem-cells/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-13-021",
+    "date": "2026-11-13",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Wheel-E Podcast: Juiced Scrambler Core, battery passports, Engwe M20, more",
+    "summary": "<div class=\"feat-image\"><img src=\"https://electrek.co/wp-content/uploads/sites/3/2022/05/wheel-e-podcast.jpg?quality=82&#038;strip=all&#038;w=1600\" /></div><p class=\"wp-block-paragraph\">This week on <",
+    "sources": [
+      {
+        "name": "electrek_solar",
+        "url": "https://electrek.co/2026/11/13/wheel-e-podcast-juiced-scrambler-core-battery-passports-engwe-m20-more/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-13-022",
+    "date": "2026-11-13",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Review: Engwe’s M20 3.0 is a 60V Super73 killer at a fraction of the price",
+    "summary": "<div class=\"feat-image\"><img src=\"https://electrek.co/wp-content/uploads/sites/3/2026/11/image_118833.png?w=1442\" /></div><p class=\"wp-block-paragraph\">Engwe has impressed us repeatedly with its <a hr",
+    "sources": [
+      {
+        "name": "electrek_solar",
+        "url": "https://electrek.co/2026/11/13/review-engwes-m20-3-0-is-a-60v-super73-killer-at-a-fraction-of-the-price/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-13-023",
+    "date": "2026-11-13",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "100 Objects #24: White House Solar Panels - Episode Text Transcript - 99% Invisible",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxQTl9ZOFZkQTdtYnlvMHlnMGI4WWNENHM0bmRqc3Z2aHNyUUl1dEZCMjZCRnVQVmlhZmxzeFhuWXF0LXU3OEhoR2haRWk5N3Y0S2tCSkcyYUVWODIyYXREQncweXNkVk82YmFERlJ1cV",
+    "sources": [
+      {
+        "name": "google_news_solar",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQTl9ZOFZkQTdtYnlvMHlnMGI4WWNENHM0bmRqc3Z2aHNyUUl1dEZCMjZCRnVQVmlhZmxzeFhuWXF0LXU3OEhoR2haRWk5N3Y0S2tCSkcyYUVWODIyYXREQncweXNkVk82YmFERlJ1cVdVbkR1VmR0Y056b29tdEEtaTRfekRaRFpzYWJCSW9qYlB6NC1XbEE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-13-024",
+    "date": "2026-11-13",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Swiss govt rejects popular initiative on solar energy - Renewables Now",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxQcEtRVGlzcUNZMXZmOWxTTnI0R2pBV2lKT2d6ejBqZ2lwT2F6bENva21jd0hPUDQ1WHIzeUVYbzZ4czg3ZG1iZWhSMF80SXhBU3MtTVZsRzhFWG9MQlkyVEwtWmtoMDZQODg2S2k2bG",
+    "sources": [
+      {
+        "name": "google_news_solar",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQcEtRVGlzcUNZMXZmOWxTTnI0R2pBV2lKT2d6ejBqZ2lwT2F6bENva21jd0hPUDQ1WHIzeUVYbzZ4czg3ZG1iZWhSMF80SXhBU3MtTVZsRzhFWG9MQlkyVEwtWmtoMDZQODg2S2k2bGIxMXQ2XzdJanJqMFB0QUJWZUdKeE9iTDJJUGV3SFZ2YU9rRk81RzY1Sw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-13-025",
+    "date": "2026-11-13",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Solar Panels Alter Desert Soil Microbial Networks Across Depth Profiles - Bioengineer.org",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxQbXk1d3hUYnZ1b25NX09TVklXRVF3RFA1MzVlODJqWnZVbktWSWEzbmtFTnpyZlY5em9kd1FjYWQ0MDNLS0EtQ1JIQ05CWkx3Mm1qWjZBakNNU1FjU2JzaU9yN0s5UzJTbks3ZjRTLU",
+    "sources": [
+      {
+        "name": "google_news_solar",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQbXk1d3hUYnZ1b25NX09TVklXRVF3RFA1MzVlODJqWnZVbktWSWEzbmtFTnpyZlY5em9kd1FjYWQ0MDNLS0EtQ1JIQ05CWkx3Mm1qWjZBakNNU1FjU2JzaU9yN0s5UzJTbks3ZjRTLUxjZ3BVNGR0T2pzTERwMGsxZnF6RHViQU5xa1MySk5VdThUU3dsb3VtSUJxVDI?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-13-026",
+    "date": "2026-11-13",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "This Israeli Innovation Keeps Solar Energy Shining - GOODNET - Gateway to Doing Good",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxPa1dNX1NmRTlNWDM1S2RIOXRFWGJTS1ZuZHdRVXNiYkN5ZXJaSVBxMmYtLWZrWmZEbWsxNTYwUGJFQ0JkZ0ZMLUtCVXNLYnhlRk9UOVVLOUhHOEJDUTlmYVk1OFhBbVJZcHQ5dGlPRn",
+    "sources": [
+      {
+        "name": "google_news_solar",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPa1dNX1NmRTlNWDM1S2RIOXRFWGJTS1ZuZHdRVXNiYkN5ZXJaSVBxMmYtLWZrWmZEbWsxNTYwUGJFQ0JkZ0ZMLUtCVXNLYnhlRk9UOVVLOUhHOEJDUTlmYVk1OFhBbVJZcHQ5dGlPRnRTSzUwUU5HRUt4T0ZvZ3RxWWtiM0pETDFjbGc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-13-027",
+    "date": "2026-11-13",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Laser Recycling Method Achieves Over 95% Silver Extraction Selectivity From Solar Panels - AZoOptics",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE9TaXQ1RF9kQ19Zc3AwTDBGT3hUNV9ZbXI3N3lHaDFGbTVNY3ZfbTg5dndrRmpFLWx2Q3E4RXREVEQzMFJRbldrZ3FEdmYxenFJTnBGZy1nU293UEhh?oc=5\" target=\"_blank\">Las",
+    "sources": [
+      {
+        "name": "google_news_solar",
+        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9TaXQ1RF9kQ19Zc3AwTDBGT3hUNV9ZbXI3N3lHaDFGbTVNY3ZfbTg5dndrRmpFLWx2Q3E4RXREVEQzMFJRbldrZ3FEdmYxenFJTnBGZy1nU293UEhh?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-13-028",
+    "date": "2026-11-13",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Robots to assemble solar panels in two minutes for 457 MW US project - Interesting Engineering",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE1yQlVLRXZYakFpU05UT0RKOGRDZW1Gb2JkWXlBR3QxXzM5QU83RE52d2RpdldNSkdWX0pHNk11WFFLM29aVE1TUm5PcS1wRXlTSEtmSGtPOXAtcDFPUnBiNDRVZk1NeHJuYTZsYUdwNj",
+    "sources": [
+      {
+        "name": "google_news_solar",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1yQlVLRXZYakFpU05UT0RKOGRDZW1Gb2JkWXlBR3QxXzM5QU83RE52d2RpdldNSkdWX0pHNk11WFFLM29aVE1TUm5PcS1wRXlTSEtmSGtPOXAtcDFPUnBiNDRVZk1NeHJuYTZsYUdwNjNBeTVMS1lmdTZxUzZ0QQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-13-029",
+    "date": "2026-11-13",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Kyrgyzstan to build 15 MW floating solar power plant - Qazinform",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxOd3FtTWxKZWhkekczV2ZkYkFwbE9GdkN0QUdwMW9tRU1RRmx3T1RXOWxSUjdtZWhidEZzUmNfdm5IUmtFZmNKWldpTWkxbUVJOWZJbERMVlo2aDZhNERLbGdTcDVfNzd3S2lZMTNPNF",
+    "sources": [
+      {
+        "name": "google_news_solar",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOd3FtTWxKZWhkekczV2ZkYkFwbE9GdkN0QUdwMW9tRU1RRmx3T1RXOWxSUjdtZWhidEZzUmNfdm5IUmtFZmNKWldpTWkxbUVJOWZJbERMVlo2aDZhNERLbGdTcDVfNzd3S2lZMTNPNFpLVlI3TXZjTWdiV3Q4VklVemcydERzTEQ2R09wUENwc9IBjwFBVV95cUxNLU95ZjZ0bFlrVENVOXp0cUg3QXNsOWVSZlA4QUVCR0lUVjRqd2lCaXkzRkpRaWRia0ZQQmFSckRwaWRyd3RZeGozX0tUVjlieGxnOG9TUkQyNFloM0RacExOckdNdjNGemcyWkNGTTVMRFFPcWZaQVJGWW9IdkVUTkhKWHRrVlAzbjRqNG83bw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-13-030",
+    "date": "2026-11-13",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Sunrun closes preferred equity investment for US distributed energy resources, totalling 110MWh of batteries",
+    "summary": "US distributed energy resource (DER) installer Sunrun has announced a preferred equity investment with energy investment firm Captona.",
+    "sources": [
+      {
+        "name": "energy_storage_news",
+        "url": "https://www.energy-storage.news/sunrun-closes-preferred-equity-investment-for-us-distributed-energy-resources-totalling-110mwh-of-batteries/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-13-031",
+    "date": "2026-11-13",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Lacour Energy refers 4,000MWh wind-plus-storage site to Australia’s EPBC Act",
+    "summary": "West Arthur Energy, a project company owned by Western Australian developer Lacour Energy, has referred a wind generation site with a 4,000MWh battery energy storage system (BESS) to Australia's EPBC ",
+    "sources": [
+      {
+        "name": "energy_storage_news",
+        "url": "https://www.energy-storage.news/lacour-energy-refers-4000mwh-wind-plus-storage-site-to-australias-epbc-act/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "longi-2026-11-12-001",
     "date": "2026-11-12",
     "companies": [
@@ -738,6 +1308,194 @@
     ]
   },
   {
+    "id": "daqo-2026-11-12-041",
+    "date": "2026-11-12",
+    "companies": [
+      "daqo"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Daqo New Energy Corp. (DQ) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiT0FVX3lxTE8xd3NxV1hnd1dDbndIUUZ2SzZkemw0bHB6WFN5ZThieWY5QmRLQ3ZkWnl1LWhwbkVJSm4yakZRMGxvellPcFJWVEU2SjlPSnc?oc=5\" target=\"_blank\">Daqo New Energy Corp",
+    "sources": [
+      {
+        "name": "daqo",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE8xd3NxV1hnd1dDbndIUUZ2SzZkemw0bHB6WFN5ZThieWY5QmRLQ3ZkWnl1LWhwbkVJSm4yakZRMGxvellPcFJWVEU2SjlPSnc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "daqo-2026-11-12-042",
+    "date": "2026-11-12",
+    "companies": [
+      "daqo"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Daqo New Energy Corp. (DQ) stock price, news, quote and history - Yahoo Finance UK",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiT0FVX3lxTE5CekRNV0w2UmZUTW13NU43eEszMk1tTEwyMWExWl9IMkV4YzBORk1IQVV3QU82LVYwWnpjQS1JUnVJdFRXaW4wb1dSN0Iybk0?oc=5\" target=\"_blank\">Daqo New Energy Corp",
+    "sources": [
+      {
+        "name": "daqo",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5CekRNV0w2UmZUTW13NU43eEszMk1tTEwyMWExWl9IMkV4YzBORk1IQVV3QU82LVYwWnpjQS1JUnVJdFRXaW4wb1dSN0Iybk0?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "motech-2026-11-12-043",
+    "date": "2026-11-12",
+    "companies": [
+      "motech"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Motech Industries Inc. (6244.TWO) Seasonal returns chart - Yahoo Finance UK",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1Vd0F5eE54MWRrRHk0OGozbDRBTGdrX0N2d09qRXFfYVdZeGVKQlkxZUlDajhVU29LWmhZdVl0cmZETUZGam81NzZ0V3NQQnBSX0RRMmRiSklXV1ZlaG04S210QzdXSGc?oc=5\" targ",
+    "sources": [
+      {
+        "name": "motech",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1Vd0F5eE54MWRrRHk0OGozbDRBTGdrX0N2d09qRXFfYVdZeGVKQlkxZUlDajhVU29LWmhZdVl0cmZETUZGam81NzZ0V3NQQnBSX0RRMmRiSklXV1ZlaG04S210QzdXSGc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "array-2026-11-12-044",
+    "date": "2026-11-12",
+    "companies": [
+      "array"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "BMO raises Array Technologies stock price target on merger outlook - Investing.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxPQmFsblZ3WXV2STFBX2VVUWFXQWtBY1d0ZXRteWl3eC02RWtJbzdQMzBMY2pNU2xJTTR0QWowai1NOWZCVnNzUW1DaHB0VzRSVEdhNE1CYXkzendDSmM2WEVfTVJmWkpJOE9xVnNPY3",
+    "sources": [
+      {
+        "name": "array",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPQmFsblZ3WXV2STFBX2VVUWFXQWtBY1d0ZXRteWl3eC02RWtJbzdQMzBMY2pNU2xJTTR0QWowai1NOWZCVnNzUW1DaHB0VzRSVEdhNE1CYXkzendDSmM2WEVfTVJmWkpJOE9xVnNPY3hrQ0pQcklFdUttY0cxcmswX0dwaHhLZXJnOG1may13Tjg0QVhqSTJtNkRCQWZZT0h0MEJiSVY5R25JSmotaktGQlZ4bzlkWDNxanJKYmp5M29ITXBK?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-12-045",
+    "date": "2026-11-12",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "Nextpower to Showcase Expanded Power Technology and Services Platform at RE+ 2026 - Nextpower",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxNMGJjUkhMS3NNaTd0aG9ZdGlnemtuZVh2QWhmUXhjd3FHdzNjX0thejRHSFdQWmotNVJ1OFNNYUpUMmJMWnBCNngtOXpYUzljWXpFRy1yLXNzem1YUFd4X0ZaMERvX2Qxa0YySUZlc0",
+    "sources": [
+      {
+        "name": "nextracker",
+        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNMGJjUkhMS3NNaTd0aG9ZdGlnemtuZVh2QWhmUXhjd3FHdzNjX0thejRHSFdQWmotNVJ1OFNNYUpUMmJMWnBCNngtOXpYUzljWXpFRy1yLXNzem1YUFd4X0ZaMERvX2Qxa0YySUZlc0dOYVQ1N1I2eE5aMTYtZTd3Y1I2SlBpOGxnRllzZExsRnRTQVRwdXhvd0J4aWxvc2s5ZGxBQlhNNzdaTnIwbzJXcjRVaVhZTERCQkNCUEpiNWkwQnlBQjJpdFp6ZXlFZ0JScHgxTGdNeXdyYzg3bmlYRzRSdw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-12-046",
+    "date": "2026-11-12",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "The Technical Signals Behind (NXT) That Institutions Follow - Stock Traders Daily",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxPZzhXN0pVdXZFT3pSUzYxZEd6VkdTVmxVYUtHNzV6ZHhkMW9GMXJmVFdpUXUwVXFRWHJyQzNIN2o3SGxHMGN3dnFFVjNJcWNjLTV0a2tsTXo1REs1UHp5WXpYTGdKX0t3ZDFCZ0tFaW",
+    "sources": [
+      {
+        "name": "nextracker",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPZzhXN0pVdXZFT3pSUzYxZEd6VkdTVmxVYUtHNzV6ZHhkMW9GMXJmVFdpUXUwVXFRWHJyQzNIN2o3SGxHMGN3dnFFVjNJcWNjLTV0a2tsTXo1REs1UHp5WXpYTGdKX0t3ZDFCZ0tFaWozaVIwSExlWXVRSGtoSWp2Y2NTdndTR2xZNFNtSm5kSUtZTUl6amNqQzFacTBCM1ZjU05abVFvZGdJYWc3UnlUMlFPZ3p1NUVnNWgxSmlzX1h0NmJtckszTlo3eWNmOEVyVXUw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-12-047",
+    "date": "2026-11-12",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Croatia makes €30 million available for solar panels and battery storage on farms - Croatia Week",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE1iYkwteFVPVy1YVzB6VjB3aDUwN0ZhZ3ZiZzBndFJlMlFXeHp5bm0tTEZOYThRSlE5THNnT25HYmlob3dFYU9saEFKNVNNMkFSa05HWngzMFlobmZCUVBmY0lCVkdvYWZXSFpienNWeT",
+    "sources": [
+      {
+        "name": "google_news_solar",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1iYkwteFVPVy1YVzB6VjB3aDUwN0ZhZ3ZiZzBndFJlMlFXeHp5bm0tTEZOYThRSlE5THNnT25HYmlob3dFYU9saEFKNVNNMkFSa05HWngzMFlobmZCUVBmY0lCVkdvYWZXSFpienNWeTJTazFSNTZ4QQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-12-048",
+    "date": "2026-11-12",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "AirTrunk secures exclusivity on 800MWh+ battery storage as part of 1GW Hunter renewables deal in Australia",
+    "summary": "AirTrunk has signed an exclusivity agreement with European Energy Australia covering more than 800MWh of battery storage in NSW.",
+    "sources": [
+      {
+        "name": "energy_storage_news",
+        "url": "https://www.energy-storage.news/airtrunk-secures-exclusivity-on-800mwh-battery-storage-as-part-of-1gw-hunter-renewables-deal-in-australia/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-12-049",
+    "date": "2026-11-12",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Four of Seven Dutch Green Hydrogen Projects Have Been Cancelled. The Subsidies Keep Coming.",
+    "summary": "<p>The Netherlands awarded €783.5 million to seven major electrolysis projects in 2022. Four have since been cancelled, none operates, and another subsidy round is being prepared.</p>\n<p>The post <a h",
+    "sources": [
+      {
+        "name": "cleantechnica",
+        "url": "https://cleantechnica.com/2026/11/12/dutch-green-hydrogen-subsidies-four-projects-cancelled/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-12-050",
+    "date": "2026-11-12",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Build Clean: Accelerating Affordable Energy While Advancing Community and Environmental Stewardship",
+    "summary": "<p>NRDC is pushing to expand clean energy development in ways that strengthen communities, protect nature, and deliver lasting economic benefits. America needs to build clean energy faster—and build i",
+    "sources": [
+      {
+        "name": "cleantechnica",
+        "url": "https://cleantechnica.com/2026/11/12/build-clean-accelerating-affordable-energy-while-advancing-community-and-environmental-stewardship/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "jinko-2026-11-11-001",
     "date": "2026-11-11",
     "companies": [
@@ -1466,6 +2224,42 @@
       {
         "name": "cleantechnica",
         "url": "https://cleantechnica.com/2026/11/11/perovskite-solar-cells-us-caelux-heliene/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "daqo-2026-11-11-041",
+    "date": "2026-11-11",
+    "companies": [
+      "daqo"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Daqo New Energy Corp. Stock Price Today | DQ Live Chart & News - Traders Union",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTFBTVExzVHVQeVlSaHZRLVFubG85eEJQMGMyUlJnX2M5Q084RjZqblpCZ1RDeDAzS2JkcnNsM0ZSbTJaV2xmZ1VkMlBTbzgyV1BFSVNWR0hCZWVGZmJvb3c?oc=5\" target=\"_blank\">",
+    "sources": [
+      {
+        "name": "daqo",
+        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBTVExzVHVQeVlSaHZRLVFubG85eEJQMGMyUlJnX2M5Q084RjZqblpCZ1RDeDAzS2JkcnNsM0ZSbTJaV2xmZ1VkMlBTbzgyV1BFSVNWR0hCZWVGZmJvb3c?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-11-042",
+    "date": "2026-11-11",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Croatia offers EUR 30 million for solar, batteries in agriculture - Balkan Green Energy News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxNOU9xZWVKSklZWjBmeFI0N0twVnppRkVBTTUzeDBGMGJPbkx4a1ZYLUNaSU1JcXdzSGd2eTV2NWVwMmVIT000ZkMwYlZDVUgwT1FoZkpxck1VNFUyeWM2VmxMdHZraklQc0NIcjZCMT",
+    "sources": [
+      {
+        "name": "google_news_solar",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNOU9xZWVKSklZWjBmeFI0N0twVnppRkVBTTUzeDBGMGJPbkx4a1ZYLUNaSU1JcXdzSGd2eTV2NWVwMmVIT000ZkMwYlZDVUgwT1FoZkpxck1VNFUyeWM2VmxMdHZraklQc0NIcjZCMThYZFFkaG1DSjhwYUN2YWpaWjc3OVpGSUN3WHdSZi1OVHZkSUd1NzlfMXhVa1Vmdk9H?oc=5",
         "type": "rss"
       }
     ]
@@ -2405,6 +3199,26 @@
       {
         "name": "cleantechnica",
         "url": "https://cleantechnica.com/2026/11/10/norway-electric-snowplow-sweden-hydrogen-range-extender/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "jinko-2026-11-10-052",
+    "date": "2026-11-10",
+    "companies": [
+      "jinko"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "JinkoSolar Invited to Attend the U.S. B20 Summit and Served as a Core Member of the Energy Task Force - pv magazine USA",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxQT25FZWJxbFl2X3B5RlBCU0ZaMFhfWV9QYjc5enlKSm92aHBURnBUMDAzcFF2X1RzeGk1Y21HNEZqR0QxSFFza0pyZUt5SUtSTDkzQXhsMFRzNzJGak5peGdUY0VwVE5scWU3dVhJbj",
+    "sources": [
+      {
+        "name": "jinko",
+        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQT25FZWJxbFl2X3B5RlBCU0ZaMFhfWV9QYjc5enlKSm92aHBURnBUMDAzcFF2X1RzeGk1Y21HNEZqR0QxSFFza0pyZUt5SUtSTDkzQXhsMFRzNzJGak5peGdUY0VwVE5scWU3dVhJbjFEUkR5ZmJOOFR6S2NoSmxoVno2YmUybVo0c2l5aWo4MHVvMG9JbkgtczVDUmhia2VMdmNqaU9QYXBXcmdPZi1tY1M4dkFhOTBYbmxPeWNucWp1MjVtcW10SE1tZUlSbXZTR21oenlKcnBlYmNY?oc=5",
         "type": "rss"
       }
     ]
