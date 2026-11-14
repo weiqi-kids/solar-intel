@@ -1,5 +1,259 @@
 [
   {
+    "id": "trina-2026-11-14-001",
+    "date": "2026-11-14",
+    "companies": [
+      "trina"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "OX2 signs 3 GWh European BESS supply deal with Trina Storage - Solarbytes",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxOSUZhd2haREZZSVhUQ2FrSUMtV3RhY0Q0RmhvUVQ5bVVpcHR2VmpKZTctdE00YzJrc1haQklaeHQtekJaQUlnMm1tNDBKSVNBeWRmOUxvNE54OE9JRjE0Z1hteDZlZ2dXdmh0ZHRZRz",
+    "sources": [
+      {
+        "name": "trina",
+        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOSUZhd2haREZZSVhUQ2FrSUMtV3RhY0Q0RmhvUVQ5bVVpcHR2VmpKZTctdE00YzJrc1haQklaeHQtekJaQUlnMm1tNDBKSVNBeWRmOUxvNE54OE9JRjE0Z1hteDZlZ2dXdmh0ZHRZRzV6bzk2anU2VWFvNExKd1JQNGdueG8zaTNTc0RfLTNzX0xMRkx6c1pfczZNUDdlNmktY2IyQXJiUDctWVA1UXljeUlSSWVTM3dBLVgwTURVSnpmZ084ZnZ4WnlXOWMwTFQ1UGF2VXFiSXZPMnN1?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-14-002",
+    "date": "2026-11-14",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "The future of U.S. renewable energy rests on Nextpower—the backbone of the growing solar sector - Fortune",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxNWDZNQzctMkRUMndOblZ1UFVTVEh3b1A0YzhmVnJOaW5jcDE0Tmdua0pOOWlXeTlxbGdEZE1zdUl0eGJmRjFsWEY5MllZcWF3Z216WGNJYmNJRnJYWENmdzJ3LTA0MmprcHh5bzA2d1",
+    "sources": [
+      {
+        "name": "nextracker",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNWDZNQzctMkRUMndOblZ1UFVTVEh3b1A0YzhmVnJOaW5jcDE0Tmdua0pOOWlXeTlxbGdEZE1zdUl0eGJmRjFsWEY5MllZcWF3Z216WGNJYmNJRnJYWENmdzJ3LTA0MmprcHh5bzA2d1dPZjJfQThBNkRDRjVFcWExaTI5S1gtMFFyenhzODd1ZDk?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-14-003",
+    "date": "2026-11-14",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "First attempt to address screen printing-induced degradation in copper-plated heterojunction solar cells",
+    "summary": "<p>Researchers in China have investigated a previously overlooked degradation mechanism in copper-plated heterojunction solar cells caused by screen-printed photoresist. They found that progressive we",
+    "sources": [
+      {
+        "name": "pv_magazine",
+        "url": "https://www.pv-magazine.com/2026/11/14/first-attempt-to-address-screen-printing-induced-degradation-in-copper-plated-heterojunction-solar-cells/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-14-004",
+    "date": "2026-11-14",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "Great Lakes irradiance surges as wet weather weighs on Southwest solar resource",
+    "summary": "<p>In a new weekly update for pv magazine, <b>Solcast</b>, a DNV company, reports that North American solar irradiance was 0.8% above average in October 2026, with the Northeast and Great Lakes record",
+    "sources": [
+      {
+        "name": "pv_magazine",
+        "url": "https://www.pv-magazine.com/2026/11/14/great-lakes-irradiance-surges-as-wet-weather-weighs-on-southwest-solar-resource/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-14-005",
+    "date": "2026-11-14",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "‘The times I regret are the ones when I didn’t value myself enough to speak up’",
+    "summary": "<p>This week Women in Solar+ Europe gives voice to Tracey Elliott, Director of UK-based Eden Sustainable Power. She says increasing female representation through role models, mentorship, and inclusive",
+    "sources": [
+      {
+        "name": "pv_magazine",
+        "url": "https://www.pv-magazine.com/2026/11/14/the-times-i-regret-are-the-ones-when-i-didnt-value-myself-enough-to-speak-up/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-14-006",
+    "date": "2026-11-14",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Transparent bamboo boosts energy performance of solar PV skylights",
+    "summary": "<p>Researchers tested 21 glazing configurations using transparent wood and PV modules with different transparency levels. Bamboo-based systems achieved the lowest heat gain and cooling operating costs",
+    "sources": [
+      {
+        "name": "pv_magazine",
+        "url": "https://www.pv-magazine.com/2026/11/14/transparent-bamboo-boosts-energy-performance-of-solar-pv-skylights/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-14-007",
+    "date": "2026-11-14",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Yanhe Technology launches three perovskite solar module technologies into orbit",
+    "summary": "<p>Beijing-based Yanhe Technology has launched three perovskite-based photovoltaic modules into low Earth orbit to assess their performance under space conditions. The mission will test perovskite-sil",
+    "sources": [
+      {
+        "name": "pv_magazine",
+        "url": "https://www.pv-magazine.com/2026/11/14/yanhe-technology-launches-three-perovskite-solar-module-technologies-into-orbit/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-14-008",
+    "date": "2026-11-14",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "When trackers don’t talk",
+    "summary": "<p>Single-axis trackers rotate throughout the day, continuously reshaping the radio environment that keeps each row of modules communicating with the plant controller. Poor design of these wireless ne",
+    "sources": [
+      {
+        "name": "pv_magazine",
+        "url": "https://www.pv-magazine.com/2026/11/14/when-trackers-dont-talk/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-14-009",
+    "date": "2026-11-14",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "I finally got a USB-C charging e-bike, and it costs 75% less than Rivian’s bike",
+    "summary": "<div class=\"feat-image\"><img src=\"https://electrek.co/wp-content/uploads/sites/3/2026/05/engwe-zip-foldig-bike-head.jpg?quality=82&#038;strip=all&#038;w=1600\" /></div><p class=\"wp-block-paragraph\">I’v",
+    "sources": [
+      {
+        "name": "electrek_solar",
+        "url": "https://electrek.co/2026/11/14/i-finally-got-a-usb-c-charging-e-bike-and-it-costs-75-less-than-rivians-bike/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-14-010",
+    "date": "2026-11-14",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Germany's solar power production nears record level - Yahoo",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxOS0NGLU54SURTdHVOUXd2Y1hhWDFMY0Q3cHhMVXoyVDdoNkJKRjJJSlBFbGgwVlZ5MkJLU09xSlpnLS1MeEEzU1E4b0ppZzRrUXlscUFKZGJ3TEtNSURhV3BGdEVqeFJsM25NVU1mcG",
+    "sources": [
+      {
+        "name": "google_news_solar",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOS0NGLU54SURTdHVOUXd2Y1hhWDFMY0Q3cHhMVXoyVDdoNkJKRjJJSlBFbGgwVlZ5MkJLU09xSlpnLS1MeEEzU1E4b0ppZzRrUXlscUFKZGJ3TEtNSURhV3BGdEVqeFJsM25NVU1mcGlHUlpvZy1wSUoyLWFHeUpkTjZtNnB0LXZCYUpRbFFPSXN6UlFfTnV1cVV3?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-14-011",
+    "date": "2026-11-14",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "On California-Oregon border, solar panels over canals promise power and water savings - San Francisco Chronicle",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxOT1pfejU0OE5xWVVqXzVFWGJiN3Rib0YxRmg1VGI2VnZmcWt4d1o2aEt6SHdUdi1McUdSSTEydnBDYWlJTjNpV2wwWUtOdnJQWnlLWm54SmJaY1dtX3kxRWhLWEJJb3RmU0hoLU9SRE",
+    "sources": [
+      {
+        "name": "google_news_solar",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOT1pfejU0OE5xWVVqXzVFWGJiN3Rib0YxRmg1VGI2VnZmcWt4d1o2aEt6SHdUdi1McUdSSTEydnBDYWlJTjNpV2wwWUtOdnJQWnlLWm54SmJaY1dtX3kxRWhLWEJJb3RmU0hoLU9SREp0dmNHWFM2ZFhCOXRya2pxRUw1Rzl2OHN6WURobXdVdXpORjVO?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-14-012",
+    "date": "2026-11-14",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Transparent bamboo boosts energy performance of solar PV skylights - pv magazine Global",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxQMDlMZmdUWFIzbmdGZEk5VGNVZUpMZTdVa2RSeXh0eXpfdjVoQjM1SWVhYzJVSkc0cmlVUFVEWVcyRVJYeXNickFrSlNncGlFQ1dfVF9fWWRtbnNrSGt0TzVNRWVObnlwajFGbUMtZF",
+    "sources": [
+      {
+        "name": "google_news_solar",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQMDlMZmdUWFIzbmdGZEk5VGNVZUpMZTdVa2RSeXh0eXpfdjVoQjM1SWVhYzJVSkc0cmlVUFVEWVcyRVJYeXNickFrSlNncGlFQ1dfVF9fWWRtbnNrSGt0TzVNRWVObnlwajFGbUMtZFRqQm5nOURSVk8tNnUxaXJCRFFieXBjZl96bGRhQ1NGeWVNQ0I5VnBQeVFDRjRvUW1VbUJBUnZnajJ3dw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-14-013",
+    "date": "2026-11-14",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "‘I bought a plug-in solar panel and now I’ve seen the future’ - The Telegraph",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxPRS1jeUhoNGJLT0dULXZ2TUtCVmFySUhZSW5IbXRicEFqQkRwYmhTSWtpbkNsd0ZqbHdQazhobE03aEtpUElVNmRuaWVoT1Z2TkR2cnV2NmtVdGtKcFdVLWlEbnhwTTRiODg4bzhJVX",
+    "sources": [
+      {
+        "name": "google_news_solar",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPRS1jeUhoNGJLT0dULXZ2TUtCVmFySUhZSW5IbXRicEFqQkRwYmhTSWtpbkNsd0ZqbHdQazhobE03aEtpUElVNmRuaWVoT1Z2TkR2cnV2NmtVdGtKcFdVLWlEbnhwTTRiODg4bzhJVXlBZlRKQ0doX0txWi1mTTJTQm1HelVydnRqWFJ4clp6VzhDdXhkZFBwRjVKTmFmQU5jZFR4N0hn?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-14-014",
+    "date": "2026-11-14",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Yanhe Technology launches three perovskite solar module technologies into orbit - pv magazine Global",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxQb2hLc0NvQk85M2pfeGJNajdMN0ZQN1hycTZzNTdqLXNsa2RlM1RBc056MW4zUHJUbEVENlJvRWdRM3g4UEg0S2lvSmRtNURqR0d3b1FPTW50UjJaS01YODIzQkxKdXp6Sk9hVnBwTj",
+    "sources": [
+      {
+        "name": "google_news_solar",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQb2hLc0NvQk85M2pfeGJNajdMN0ZQN1hycTZzNTdqLXNsa2RlM1RBc056MW4zUHJUbEVENlJvRWdRM3g4UEg0S2lvSmRtNURqR0d3b1FPTW50UjJaS01YODIzQkxKdXp6Sk9hVnBwTjdTMnhPYm5YZlFOZlEwUkhCTjlEZXZpZWk1SzB3bkhuZjZNd2RTc3dhc3plcDU2d2dMZU5QWFlfWjM1ZFJNeDVyRzh2YzNGNVpsNjdV?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "unknown-2026-11-13-001",
     "date": "2026-11-13",
     "companies": [],
@@ -565,6 +819,136 @@
       {
         "name": "energy_storage_news",
         "url": "https://www.energy-storage.news/lacour-energy-refers-4000mwh-wind-plus-storage-site-to-australias-epbc-act/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-13-032",
+    "date": "2026-11-13",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "SEC Investigates T1 Energy’s Disclosures of Federal Tax Credits - Bloomberg",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxOZ04zb0tyVVhnUnNrUEhwV1FLSGp3RmkzYVEyM0xaS3ZCUnFJdTk2MzZoeFZQYmNSM3FmYkFOeWdHNjVaZkVqazNsOVVydWF2MlNKajduQ05fTktwRFpzTmw1T3VEbkhLcUNzNi1qWk",
+    "sources": [
+      {
+        "name": "trina",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOZ04zb0tyVVhnUnNrUEhwV1FLSGp3RmkzYVEyM0xaS3ZCUnFJdTk2MzZoeFZQYmNSM3FmYkFOeWdHNjVaZkVqazNsOVVydWF2MlNKajduQ05fTktwRFpzTmw1T3VEbkhLcUNzNi1qWkNLbVl0R1lWNzFtV3JGSWdwWnliaTMwVlZpc19CSzdVVDBVQldmeDEzUGY3dlNvWVVaVHlLaG45LTk1WHZZZ0VhbFQycTk?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "sungrow-2026-11-13-033",
+    "date": "2026-11-13",
+    "companies": [
+      "sungrow"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Sungrow Turns to Home Batteries for Growth After Profit Squeeze - Bloomberg",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxNX0hIRUdUbGp5VldfWGRaVFdTR01ZUzQ2OGROaHE4alIwTF9ORThSeDBQNmtzUVNGT0l3RFdLZmVrRV9ENFBMdkRxN3FRdEg0TkRKdElxVGFXMkVSZEhVWlh5ZW1rMTItbTZsNWpSMW",
+    "sources": [
+      {
+        "name": "sungrow",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNX0hIRUdUbGp5VldfWGRaVFdTR01ZUzQ2OGROaHE4alIwTF9ORThSeDBQNmtzUVNGT0l3RFdLZmVrRV9ENFBMdkRxN3FRdEg0TkRKdElxVGFXMkVSZEhVWlh5ZW1rMTItbTZsNWpSMWhzaGtObWFsSHl2R1p4MEtBWHJFMHo4R3c0b1FmQ051c004ejAxODF6cl9WV2dnVlhsSmpsMWJEQ1p6OGpvOXRkUk9Pd0s?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-13-034",
+    "date": "2026-11-13",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Many Solar Panels Still Deliver 80% of Their Original Power After 30 Years - ZME Science",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxOczlwaEJWSXFLWDE5bVhnM0d1MEc1YzZhX0hvMEZ4Z1dWbDlOb1NxRU9pczZNMkR3UnhESXczek9XdkpuN2Zramp0bWpaaS1zR09PTEh3MXpRYzZ1RldTdk5DdzBSRUEyOE5MVWtxWE",
+    "sources": [
+      {
+        "name": "google_news_solar",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOczlwaEJWSXFLWDE5bVhnM0d1MEc1YzZhX0hvMEZ4Z1dWbDlOb1NxRU9pczZNMkR3UnhESXczek9XdkpuN2Zramp0bWpaaS1zR09PTEh3MXpRYzZ1RldTdk5DdzBSRUEyOE5MVWtxWExxdV9LYjlLdlMyM0tJOVEyd3dFdTNnUnpX?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-13-035",
+    "date": "2026-11-13",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Solar Power Proves Most Cost-Effective for Water Pumping in Nigeria - Bioengineer.org",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxPa3FFcm9LN3d6Zm9hWTZNcm1oUjBSSmw5dFhqWDZWUXppdkowaUJaZnhoUExLZG5MMlpqMmotczBERWJFS3FmdjNSREZFbjY5R0tkSUJCdWRQbTczY1JMVDJPYlI5SWg5MUdNdUFDMm",
+    "sources": [
+      {
+        "name": "google_news_solar",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPa3FFcm9LN3d6Zm9hWTZNcm1oUjBSSmw5dFhqWDZWUXppdkowaUJaZnhoUExLZG5MMlpqMmotczBERWJFS3FmdjNSREZFbjY5R0tkSUJCdWRQbTczY1JMVDJPYlI5SWg5MUdNdUFDMmdhQ3d1X2E1cHE2UzNpWXlheHU0RmpwVlU4SW81YnNNZFFDUlBEdGdv?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-13-036",
+    "date": "2026-11-13",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Microscopic solar panels could help shape 3D-printed biological tissue - Phys.org",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE02QnA4SDJqTzk5d3pCV1BTRldlV0FyUm1xQm9WNDhWNFBlQmI2MUhtZnRNRVJKZE9fclV5SndXMTVUOC05dmJPSVE2TVV6ZUZTNnNRNXZsRmNLdG1fYm84djZDckc2bHFmbjVQenlCdG",
+    "sources": [
+      {
+        "name": "google_news_solar",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE02QnA4SDJqTzk5d3pCV1BTRldlV0FyUm1xQm9WNDhWNFBlQmI2MUhtZnRNRVJKZE9fclV5SndXMTVUOC05dmJPSVE2TVV6ZUZTNnNRNXZsRmNLdG1fYm84djZDckc2bHFmbjVQenlCdGpyTmFJZFE3LXJfdDVOdw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "array-2026-11-13-037",
+    "date": "2026-11-13",
+    "companies": [
+      "array"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Conservancy adds solar array to Island grid - The Catalina Islander",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxQZHVsemZrSjJjX2hXdzA4TzFBVkk2UGlxV2FPR2Q0ZFJfTWZUeDZodXFCVkpKQS1URVNBSkdxNmQ4T1FjLW9hcDR1cnV0Q05Fd3RET0ZrS3FrVGZUUGo2Qm11a3ZvR2VhV2pEY0pJUE",
+    "sources": [
+      {
+        "name": "google_news_solar",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQZHVsemZrSjJjX2hXdzA4TzFBVkk2UGlxV2FPR2Q0ZFJfTWZUeDZodXFCVkpKQS1URVNBSkdxNmQ4T1FjLW9hcDR1cnV0Q05Fd3RET0ZrS3FrVGZUUGo2Qm11a3ZvR2VhV2pEY0pJUEkwdERReDdJS1NjY0JsZmZJRThn?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-13-038",
+    "date": "2026-11-13",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Voltage Monitoring Framework Detects and Forecasts Solar Panel Shading in Real Time - Bioengineer.org",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxQRmV1ak11U2todlFEc3owMlQzMUkwMFJsQVNkbjJHY1RoWjVCRWgwdlNaelJFZGdkYVFnNUJsOFBEalhvTFlFRllsS1VqZk9QSkJwWHB1dTlFV2M3cUc2b1JDZjg1UWNjNUdyOW80TG",
+    "sources": [
+      {
+        "name": "google_news_solar",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQRmV1ak11U2todlFEc3owMlQzMUkwMFJsQVNkbjJHY1RoWjVCRWgwdlNaelJFZGdkYVFnNUJsOFBEalhvTFlFRllsS1VqZk9QSkJwWHB1dTlFV2M3cUc2b1JDZjg1UWNjNUdyOW80TGN3dEUyclNOaFhNVkJiV1BINC1aUTVMWGFPeko4M0pzYnlhTjJ6OTdXRHFIdnJYZHJKQVRMblI0c1dqc2oz?oc=5",
         "type": "rss"
       }
     ]
@@ -2260,6 +2644,64 @@
       {
         "name": "google_news_solar",
         "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNOU9xZWVKSklZWjBmeFI0N0twVnppRkVBTTUzeDBGMGJPbkx4a1ZYLUNaSU1JcXdzSGd2eTV2NWVwMmVIT000ZkMwYlZDVUgwT1FoZkpxck1VNFUyeWM2VmxMdHZraklQc0NIcjZCMThYZFFkaG1DSjhwYUN2YWpaWjc3OVpGSUN3WHdSZi1OVHZkSUd1NzlfMXhVa1Vmdk9H?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "jinko-2026-11-11-043",
+    "date": "2026-11-11",
+    "companies": [
+      "jinko"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "JinkoSolar Redefines Premium Rooftop Solar with Tiger Neo 5.0 - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxNc2VEaDVGb3RGeEpadWc4NTZLa2dUNVVMd1pRc2xMZ0N1eGRfZlFMTWpPa1pfcm01bXVsS0pWelZPY0VsVkVXQzFYdDgyWHhOT1cwRUF4RjdhdVNFMDdEQlZmQy0yNFB0ZW5sclVEZz",
+    "sources": [
+      {
+        "name": "jinko",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNc2VEaDVGb3RGeEpadWc4NTZLa2dUNVVMd1pRc2xMZ0N1eGRfZlFMTWpPa1pfcm01bXVsS0pWelZPY0VsVkVXQzFYdDgyWHhOT1cwRUF4RjdhdVNFMDdEQlZmQy0yNFB0ZW5sclVEZzZ2M2F2eWtlZnMtNHNZQldibXFMWXAxazBxcC1qaV9wMVRKVGU1MVF0T0RFcU1lNWMw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "sungrow-2026-11-11-044",
+    "date": "2026-11-11",
+    "companies": [
+      "sungrow"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Sungrow Power Supply (300274.SZ) has cumulatively repurchased 3.0476 million shares at a cost of RMB 325 million. - Moomoo",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxPcWZ3UTd2dGRoQWZYRThuUmlFeEJnN2tUeVpSdmxHbWw0LUdrdXlLUzQ3N1c4ekZlbGtzV3R4OFVMNFp5T2x1dGxCTXoxZTNrQXFMWlY2U19rZGtZZEFzZnZHUE5CNjQ1Qk9CXzRlQz",
+    "sources": [
+      {
+        "name": "sungrow",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPcWZ3UTd2dGRoQWZYRThuUmlFeEJnN2tUeVpSdmxHbWw0LUdrdXlLUzQ3N1c4ekZlbGtzV3R4OFVMNFp5T2x1dGxCTXoxZTNrQXFMWlY2U19rZGtZZEFzZnZHUE5CNjQ1Qk9CXzRlQzhpMngzcFB0cktKc2h3ZF9hbnY3OXpHSUFYSDNtT0txODBBN290cFU5RzdwOTdLaVRackVSM0loNjBrVkMx?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-11-045",
+    "date": "2026-11-11",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "New Solar Panel Design Could Help the Technology Surpass Its Theoretical Limit - Yahoo Tech",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxQRmNGdERvV0UwbHFJT1dBRnZfcWhiVHlpZU5IWkxPSVEwaTYzSnRaRUw3X1NlbnNtRVA4c0I3eGNRbUJHNnAyVXE1dmV2TXdIVk1TRnlxLUpiOUpIZlNReXhtTHZkNnJvRzhYRjA4d1",
+    "sources": [
+      {
+        "name": "google_news_solar",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQRmNGdERvV0UwbHFJT1dBRnZfcWhiVHlpZU5IWkxPSVEwaTYzSnRaRUw3X1NlbnNtRVA4c0I3eGNRbUJHNnAyVXE1dmV2TXdIVk1TRnlxLUpiOUpIZlNReXhtTHZkNnJvRzhYRjA4d1JQMnk0bUdTUmMzUEJRX2gyREVlMG5GOVp6LVZtMw?oc=5",
         "type": "rss"
       }
     ]

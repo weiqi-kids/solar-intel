@@ -1,0 +1,178 @@
+{
+  "date": "2026-11-14",
+  "generated_at": "2026-11-14T14:37:23.782040Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-11-14-004",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Great Lakes irradiance surges as wet weather weighs on Southwest solar resource",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://www.pv-magazine.com/2026/11/14/great-lakes-irradiance-surges-as-wet-weather-weighs-on-southwest-solar-resource/"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-11-14-010",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Germany's solar power production nears record level - Yahoo",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOS0NGLU54SURTdHVOUXd2Y1hhWDFMY0Q3cHhMVXoyVDdoNkJKRjJJSlBFbGgwVlZ5MkJLU09xSlpnLS1MeEEzU1E4b0ppZzRrUXlscUFKZGJ3TEtNSURhV3BGdEVqeFJsM25NVU1mcGlHUlpvZy1wSUoyLWFHeUpkTjZtNnB0LXZCYUpRbFFPSXN6UlFfTnV1cVV3?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "trina-2026-11-14-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "OX2 signs 3 GWh European BESS supply deal with Trina Storage - Solarbytes",
+      "companies": [
+        "trina"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOSUZhd2haREZZSVhUQ2FrSUMtV3RhY0Q0RmhvUVQ5bVVpcHR2VmpKZTctdE00YzJrc1haQklaeHQtekJaQUlnMm1tNDBKSVNBeWRmOUxvNE54OE9JRjE0Z1hteDZlZ2dXdmh0ZHRZRzV6bzk2anU2VWFvNExKd1JQNGdueG8zaTNTc0RfLTNzX0xMRkx6c1pfczZNUDdlNmktY2IyQXJiUDctWVA1UXljeUlSSWVTM3dBLVgwTURVSnpmZ084ZnZ4WnlXOWMwTFQ1UGF2VXFiSXZPMnN1?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-11-14-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "The future of U.S. renewable energy rests on Nextpower—the backbone of the growing solar sector - Fortune",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNWDZNQzctMkRUMndOblZ1UFVTVEh3b1A0YzhmVnJOaW5jcDE0Tmdua0pOOWlXeTlxbGdEZE1zdUl0eGJmRjFsWEY5MllZcWF3Z216WGNJYmNJRnJYWENmdzJ3LTA0MmprcHh5bzA2d1dPZjJfQThBNkRDRjVFcWExaTI5S1gtMFFyenhzODd1ZDk?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-11-14-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "First attempt to address screen printing-induced degradation in copper-plated heterojunction solar cells",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.pv-magazine.com/2026/11/14/first-attempt-to-address-screen-printing-induced-degradation-in-copper-plated-heterojunction-solar-cells/"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 14,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 14,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 12,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "trina",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 14
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 421,
+    "dup_title": 182,
+    "too_old": 163,
+    "gate1_blocked": 44,
+    "gate2_blocked": 8,
+    "passed": 24,
+    "pass_rate": "10.0%",
+    "gate2_block_rate": "3.3%",
+    "gate2_samples": [
+      "Daqo New Energy (NYSE:DQ) Stock Price - Simply Wall St",
+      "DAQO New Energy (NYSE:DQ) Shares Down 6.1% - Should You Sell? - MarketBeat",
+      "UNSW develops three-minute lithium-ion battery health test",
+      "Clarifying the CATL Tener Sodium, with new specifications and availability",
+      "Rinnai’s new heat pump water heaters get smarter – and easier to install"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 14 則事件，焦點為天合光能相關動態：「Great Lakes irradiance surges as wet weather weighs on So...」。主要關注主題為太陽能產業通用，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Great Lakes irradiance surges as wet weather weighs on Southwest solar resource（太陽能產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "Germany's solar power production nears record level - Yahoo（太陽能產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
