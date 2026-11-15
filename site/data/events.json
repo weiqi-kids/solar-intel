@@ -1,5 +1,77 @@
 [
   {
+    "id": "unknown-2026-11-15-001",
+    "date": "2026-11-15",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Georgia homeowner facing high summer power rates gets solar pitch to cover 90% of electricity use - The Cool Down",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxPZGVYSldyaXVla1hzYzVFajQ4T1pzUDZheEdiOUJUUmxqUVY0eUpzaFRjdDZ6OFk4Smd2ZDFUTVVNVUlDVDhPRTQzUDBDYzNOaVVFM0ExSlc5bXhEdHdmbXY1c3RWdHJtNnlLcDJxcG",
+    "sources": [
+      {
+        "name": "google_news_solar",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPZGVYSldyaXVla1hzYzVFajQ4T1pzUDZheEdiOUJUUmxqUVY0eUpzaFRjdDZ6OFk4Smd2ZDFUTVVNVUlDVDhPRTQzUDBDYzNOaVVFM0ExSlc5bXhEdHdmbXY1c3RWdHJtNnlLcDJxcGxuMFhhVWtmTTJQc0tSM0tHQzFkbEtXTkp2c3prREE3UTdWQQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-15-002",
+    "date": "2026-11-15",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Accelerating Electrification Can Unlock the Full Benefits of Spain’s Renewables Leadership",
+    "summary": "<p>A new IEA report finds renewables are already strengthening energy security and competitiveness while cutting fuel import costs—but faster electrification, grid modernization, and greater flexibili",
+    "sources": [
+      {
+        "name": "cleantechnica",
+        "url": "https://cleantechnica.com/2026/11/15/accelerating-electrification-can-unlock-the-full-benefits-of-spains-renewables-leadership/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-15-003",
+    "date": "2026-11-15",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Sonnen, SOLRITE, & ADAPT Energy, Integrating VPP Breakers to Turn Home Loads into Flexible Grid Assets",
+    "summary": "<p>SOLRITE Unveils Next-Gen Virtual Power Plant Node with sonnen and ADAPT Energy, Integrating VPP Breakers to Turn Home Loads into Flexible Grid Assets ADAPT Energy’s control of VPP breakers will add",
+    "sources": [
+      {
+        "name": "cleantechnica",
+        "url": "https://cleantechnica.com/2026/11/14/sonnen-solrite-adapt-energy-integrating-vpp-breakers-to-turn-home-loads-into-flexible-grid-assets/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-15-004",
+    "date": "2026-11-15",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "313 kW Rooftop Solar System at Virginia Elementary Will Save $581,000 in Energy Costs",
+    "summary": "<p>Roanoke City Schools to Add 313 kW Solar Power System Staunton, VA — Secure Solar Futures, a provider of on-site clean energy to schools, local governments, and businesses, will build a 313-kilowat",
+    "sources": [
+      {
+        "name": "cleantechnica",
+        "url": "https://cleantechnica.com/2026/11/14/313-kw-solar-power-system-rooftop-system-at-virginia-elementary-will-save-581000-in-energy-costs/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "trina-2026-11-14-001",
     "date": "2026-11-14",
     "companies": [
@@ -249,6 +321,98 @@
       {
         "name": "google_news_solar",
         "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQb2hLc0NvQk85M2pfeGJNajdMN0ZQN1hycTZzNTdqLXNsa2RlM1RBc056MW4zUHJUbEVENlJvRWdRM3g4UEg0S2lvSmRtNURqR0d3b1FPTW50UjJaS01YODIzQkxKdXp6Sk9hVnBwTjdTMnhPYm5YZlFOZlEwUkhCTjlEZXZpZWk1SzB3bkhuZjZNd2RTc3dhc3plcDU2d2dMZU5QWFlfWjM1ZFJNeDVyRzh2YzNGNVpsNjdV?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "daqo-2026-11-14-015",
+    "date": "2026-11-14",
+    "companies": [
+      "daqo"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "What Investors Got Wrong About Daqo New Energy Before A 67% Slide - Simply Wall St",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxPYjBQMGZjbzJZWFZaRnk2MW5DNDlaTWNKVkVFdF8zQWlubldlbjVHWDd6VVZJMFk5UGhlWHR1Vjd5NGNvUXB5NW9aNzF5eTVnUzN2RHpUbW96WThvOXdPRnhJT3NZb3RBTzF4NTR2X1",
+    "sources": [
+      {
+        "name": "daqo",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPYjBQMGZjbzJZWFZaRnk2MW5DNDlaTWNKVkVFdF8zQWlubldlbjVHWDd6VVZJMFk5UGhlWHR1Vjd5NGNvUXB5NW9aNzF5eTVnUzN2RHpUbW96WThvOXdPRnhJT3NZb3RBTzF4NTR2X1RybDNjYTQwN1NPUEctTlRPVllTOS1RdUpXSFRGX2tsSEhFUVdDUXk5T1V6Z1ZEOXgzUjJjMnRrRk5WdGtGRDBRd3lXSjB5dHVGblJCYjN5YmhWdVQ3alVUNnB1UU50VFc2UWfSAdcBQVVfeXFMTUtqMkZYcGtmWG1FTmh1NHNyQnl6bzNyVWd0SGYtQU5zNWhnUVZ5TnZfRkJWOXNxUGM2aVRvXzR0cmFpUGt4eHVXbVIxVVBYdG1GbGk1TnBrakZqOWYyNzktWTJlYmJmVlp4VGZyNGNNcWdjaV9CYXdBR2xXMi1WSFJBc1l0cmhmZ0FvSGlGZFAwSjN4ZDFBdDM5RFhRZ2ZIa1g1N1VuUVJjSVlVVTVKQ1hHdWtmSGpLZ3RnQ2VYc3NaWWtBd0VGME12T1RmbnRJQjlpTTJ0SlU?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-14-016",
+    "date": "2026-11-14",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Trump’s War on Iran is Pushing the Global South Toward Chinese Solar Panels in Record Numbers - Futurism",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxPYVdZandKZW9RaDR0eV85cFVDSDM3OWFiTzlXRmNETXZuZ25wVHhqRjZJNW1PWVh1bFo1bWJTTGE3My1zTW9nek5hMVo1OEM0alY5YzJUNjA0UU8xNTB1dTdDTmZWeDFkNU9rM0NJR2",
+    "sources": [
+      {
+        "name": "google_news_solar",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPYVdZandKZW9RaDR0eV85cFVDSDM3OWFiTzlXRmNETXZuZ25wVHhqRjZJNW1PWVh1bFo1bWJTTGE3My1zTW9nek5hMVo1OEM0alY5YzJUNjA0UU8xNTB1dTdDTmZWeDFkNU9rM0NJR2x4dDJESTZVZm1kLUozV1dONUVIbnQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-14-017",
+    "date": "2026-11-14",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Frankfurt Airport lines its runway with 37,000 upright solar panels stretching 1.7 miles, generating more electricity at dawn and dusk - Energies Media",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE1JMGwzZ2N3d1ZtTjB4SjhabERHblRHdkJmMGNlOUVNTlpSLU02TUJIM01IME9ZWkw0SGR4aHdMZ0taWm1iNE15TVk5NV9EVVowWTFmOFVhZkZEd2VPYkd4a0ZrZTR0ZEN2bkpWLVBWaV",
+    "sources": [
+      {
+        "name": "google_news_solar",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1JMGwzZ2N3d1ZtTjB4SjhabERHblRHdkJmMGNlOUVNTlpSLU02TUJIM01IME9ZWkw0SGR4aHdMZ0taWm1iNE15TVk5NV9EVVowWTFmOFVhZkZEd2VPYkd4a0ZrZTR0ZEN2bkpWLVBWaV9ZV1M4WTl1bmc5TQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-14-018",
+    "date": "2026-11-14",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Germany news: Solar power production approaches record high - DW.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxNNDg2WkFCcVNDZ05PSHp2QkpYT0RjLVFnc1ZzNThhMGdJSHhGT3llNUpUOFVEUzg0bVhtNXpPM1h1d0xCVlVWZjVRRXJkUUFHcUJsX0ZzclIzYV90Tk9iekFHcndobm5FTGJvUEJxa1",
+    "sources": [
+      {
+        "name": "google_news_solar",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNNDg2WkFCcVNDZ05PSHp2QkpYT0RjLVFnc1ZzNThhMGdJSHhGT3llNUpUOFVEUzg0bVhtNXpPM1h1d0xCVlVWZjVRRXJkUUFHcUJsX0ZzclIzYV90Tk9iekFHcndobm5FTGJvUEJxa1d5Z2xJempJZnlKbG9Wb1RWanliQjFDREVfUEJkMFNua3hvTERwOFF4THhB?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-14-019",
+    "date": "2026-11-14",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Judge Blasts Tesla as Fraudulent for Selling Junk Solar Panels That Never Worked - Futurism",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxNSWx6b2R6SW5Dd0dUTVo1Y2sxSWd2eURSMzZqNnJNUk02aTBZdGdXb0xQM3N3NGhWNlV5OEJETlhSTHczVFhOYjJSVmY4eUEtMHZIR3FTcV9mSTM4NFg5T3NqeERVUjFsNkNUY25ZdU",
+    "sources": [
+      {
+        "name": "google_news_solar",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNSWx6b2R6SW5Dd0dUTVo1Y2sxSWd2eURSMzZqNnJNUk02aTBZdGdXb0xQM3N3NGhWNlV5OEJETlhSTHczVFhOYjJSVmY4eUEtMHZIR3FTcV9mSTM4NFg5T3NqeERVUjFsNkNUY25ZdUVIemczYWRnWTBGQWo5Q19jX1dIZ0E?oc=5",
         "type": "rss"
       }
     ]
@@ -3661,6 +3825,24 @@
       {
         "name": "jinko",
         "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQT25FZWJxbFl2X3B5RlBCU0ZaMFhfWV9QYjc5enlKSm92aHBURnBUMDAzcFF2X1RzeGk1Y21HNEZqR0QxSFFza0pyZUt5SUtSTDkzQXhsMFRzNzJGak5peGdUY0VwVE5scWU3dVhJbjFEUkR5ZmJOOFR6S2NoSmxoVno2YmUybVo0c2l5aWo4MHVvMG9JbkgtczVDUmhia2VMdmNqaU9QYXBXcmdPZi1tY1M4dkFhOTBYbmxPeWNucWp1MjVtcW10SE1tZUlSbXZTR21oenlKcnBlYmNY?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-10-053",
+    "date": "2026-11-10",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Is Tibet’s Solar Power About More Than Renewable Energy? - Bitter Winter",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxQX2luUEMzbW13bTh2S09GdDVBWHFSNnMxYUlrOWI2S1dCaFRhbkctRE5SeDhaSFJHNXllRzVfNGlqbGNKcG53QTJpU28wY0JRNm1oa2hkVjJubXBsc0RxbG9wczNjMVMtREY3Y1dxc2",
+    "sources": [
+      {
+        "name": "google_news_solar",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQX2luUEMzbW13bTh2S09GdDVBWHFSNnMxYUlrOWI2S1dCaFRhbkctRE5SeDhaSFJHNXllRzVfNGlqbGNKcG53QTJpU28wY0JRNm1oa2hkVjJubXBsc0RxbG9wczNjMVMtREY3Y1dxc29TdmFqU0U4cDZLVVNOekpfNFEwVWNFZUE?oc=5",
         "type": "rss"
       }
     ]

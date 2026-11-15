@@ -1,0 +1,16 @@
+{
+  "total_raw": 423,
+  "dup_title": 186,
+  "no_date": 0,
+  "too_old": 175,
+  "gate1_fail": 45,
+  "gate2_fail": 7,
+  "passed": 10,
+  "gate2_samples": [
+    "DAQO New Energy (NYSE:DQ) Shares Down 6.1% - Should You Sell? - MarketBeat",
+    "Daqo New Energy (NYSE:DQ) Stock Price - Simply Wall St",
+    "UNSW develops three-minute lithium-ion battery health test",
+    "Clarifying the CATL Tener Sodium, with new specifications and availability",
+    "Rinnai’s new heat pump water heaters get smarter – and easier to install"
+  ]
+}
