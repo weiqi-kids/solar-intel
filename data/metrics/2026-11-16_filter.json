@@ -1,0 +1,16 @@
+{
+  "total_raw": 424,
+  "dup_title": 161,
+  "no_date": 0,
+  "too_old": 174,
+  "gate1_fail": 42,
+  "gate2_fail": 7,
+  "passed": 40,
+  "gate2_samples": [
+    "Daqo New Energy Corp. to Hold Annual General Meeting on December 10, 2026 - TradingView",
+    "Daqo New Energy (NYSE:DQ) Stock Price - Simply Wall St",
+    "Denmark allocates $41.5 million to heat pump subsidies for 2027",
+    "Rinnai’s new heat pump water heaters get smarter – and easier to install",
+    "SOLRITE and sonnen collaborate on integrated VPP breaker"
+  ]
+}

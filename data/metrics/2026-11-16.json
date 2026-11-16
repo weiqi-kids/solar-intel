@@ -1,0 +1,41 @@
+{
+  "date": "2026-11-16",
+  "total_events": 37,
+  "by_company": {
+    "daqo": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "array": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "trina": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "longi": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "industry_general": {
+      "count": 37,
+      "sentiment_avg": 0.02
+    },
+    "installation_demand": {
+      "count": 1,
+      "sentiment_avg": -0.25
+    },
+    "trade_tariff": {
+      "count": 1,
+      "sentiment_avg": -0.25
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}
