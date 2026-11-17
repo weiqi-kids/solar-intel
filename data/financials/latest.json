@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-16T17:39:14.665008Z",
+  "updated_at": "2026-11-17T17:11:59.251378Z",
   "quarter": "2026-06-30, 2026-09-30",
   "companies": [
     {
@@ -279,17 +279,17 @@
       "name": "元晶太陽能",
       "ticker": "6443.TW",
       "currency": "TWD",
-      "ar": 94496000,
-      "ar_prev": 133272000,
-      "ar_qoq": "-29%",
+      "ar": 142853000,
+      "ar_prev": 94496000,
+      "ar_qoq": "+51%",
       "ar_period": "QoQ",
-      "inventory": 551488000,
-      "inv_prev": 482167000,
-      "inv_qoq": "+14%",
+      "inventory": 536211000,
+      "inv_prev": 551488000,
+      "inv_qoq": "-3%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
       "alert": true,
-      "quarter_date": "2026-06-30"
+      "quarter_date": "2026-09-30"
     }
   ]
 }

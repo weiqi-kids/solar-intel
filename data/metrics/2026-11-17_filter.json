@@ -1,0 +1,14 @@
+{
+  "total_raw": 353,
+  "dup_title": 129,
+  "no_date": 0,
+  "too_old": 144,
+  "gate1_fail": 39,
+  "gate2_fail": 3,
+  "passed": 38,
+  "gate2_samples": [
+    "Soneil Spark introduces its Mobile Battery Energy Storage System",
+    "SOLRITE and sonnen collaborate on integrated VPP breaker",
+    "Mobile Energy Hubs: How Chery Auto’s Smart Energy Ecosystem Supports the Development of Smart Cities"
+  ]
+}
