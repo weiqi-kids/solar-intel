@@ -1,0 +1,16 @@
+{
+  "total_raw": 423,
+  "dup_title": 145,
+  "no_date": 0,
+  "too_old": 177,
+  "gate1_fail": 37,
+  "gate2_fail": 8,
+  "passed": 56,
+  "gate2_samples": [
+    "DQ: Daqo New Energy Corp. Latest Stock Price, Analysis, News and Trading Ideas - Stocktwits",
+    "DAQO New Energy Corp. (NYSE:DQ) Stock Now Rated \"Reduce\" by Sell-Side Analysts - MarketBeat",
+    "DAQO New Energy (NYSE:DQ) Stock Price Breaks Below Fifty Day Moving Average - What's Next? - MarketB",
+    "LONGi at COP31: Four Enabling Pathways to Advance Global Green Development - Longi",
+    "Trina Storage Recognized on BloombergNEF Energy Storage Tier 1 List for the 12th Consecutive Time - "
+  ]
+}

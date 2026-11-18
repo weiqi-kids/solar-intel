@@ -1,0 +1,226 @@
+{
+  "date": "2026-11-18",
+  "generated_at": "2026-11-18T16:49:00.373076Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-11-18-005",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "China's Solar Industry, With Over 80% Global Share, Sees 22 Listed Firms Sink Into Losses as Overproduction Breeds Mutual Collapse - BigGo Finance",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBObnA4N2NCbVk3YjdmVVNaeUpxaXNPMmFIdDllRlF3dkdVR1k2eUZkZlB4emRpOHRlYmZ4cS1xWTZiUkhFbFZ4SDJZWlFPWmliV3lBUDJPTGRpSnRFcmdNT3pTQm52Tll6b2NCOFduNlpwdm82QVE?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "daqo-2026-11-18-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Daqo New Energy falls 10.00% in Tuesday's session - Global Banking & Finance Review",
+      "companies": [
+        "daqo"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOVFJJS2EwcHM2WlRucjdUYm9ZQ1E0RzJxbzBKRnRRUzEzRDBFbGNOUFB0N1BuYUxCZC1tN0NvZXJCVE01QmNZZ0czRWtlcmotbk1jVlhycmM0R3VLMk9id2d3ZXc4MXJmc1JFel9KSmxOeXBxeU1LZHNmTTFqYjBpMXJR?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-11-18-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Creepage distance defects have increased significantly since M10R cell introduction – Kiwa PI Berlin - PV Tech",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNWUREcHZxd0FENWxDMzlqMllvckFPMjRJOWE0UDBwZGZzU3AxRHhvU2QtMWpBd2c3VkcxMXdPRkh4TUVMWjQyWkU3S3BEcXNNMGwyb19GSEZGUnJjOTFFdnhyMVJjbVJnTWFRSkt3MmwyTjczZ2R2d016NmJLU1Q4Yk50RW5HbWhQU25MQi1Xcw?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "longi-2026-11-18-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "The pinnacle of power! With a 98.58% screen-to-body ratio, LONGi unveils world's first full-surface \"Tri-Proof\" module - Global Times",
+      "companies": [
+        "longi"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE96OFIteHp4SC1MSDVZdlA0b1JmTk9BazF6OTdCRWh2VG56cUkwbmVJU0hLdS1wc0VUdEtyVkxSUFJocjJGSU1OLUlOcHdpZWRad01yRWZGRkRUNXlhbTFMTzNR?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "longi-2026-11-18-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "LONGi to supply 176 MW of solar panels for OX2 hybrid plant in Australia - Renewables Now",
+      "companies": [
+        "longi"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOTGltODJBZWl4OXNOQmZIa3dzUE5Nci1DaVRoR0NpZWNoTEVpYTVnMlphXzRZR2VOdlZIVmtKdE5kX2RBcmNoa2JPYVpIclBnQVlKRjJOQ01BN00xMXRwVThOM3JOamFWeU1Sc2l2Sk5Gc2pVTk5MaG04SlkxVnpjdjI5MmNPanA4RHZVeFBOdGt1SkpBSXdUcHNQTkY4dTRJbmVFRGFRdVhuMl8yRldPUTdR?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 31,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.04,
+      "sentiment_7d_avg": null
+    },
+    "module_price": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "installation_demand": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.33,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 32,
+    "sentiment_distribution": {
+      "positive": 6,
+      "neutral": 24,
+      "negative": 2
+    },
+    "top_companies": [
+      {
+        "id": "longi",
+        "count": 2
+      },
+      {
+        "id": "array",
+        "count": 2
+      },
+      {
+        "id": "daqo",
+        "count": 1
+      },
+      {
+        "id": "canadian_solar",
+        "count": 1
+      },
+      {
+        "id": "sungrow",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 31
+      },
+      {
+        "id": "installation_demand",
+        "count": 3
+      },
+      {
+        "id": "module_price",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 423,
+    "dup_title": 145,
+    "too_old": 177,
+    "gate1_blocked": 37,
+    "gate2_blocked": 8,
+    "passed": 56,
+    "pass_rate": "20.1%",
+    "gate2_block_rate": "2.9%",
+    "gate2_samples": [
+      "DQ: Daqo New Energy Corp. Latest Stock Price, Analysis, News and Trading Ideas - Stocktwits",
+      "DAQO New Energy Corp. (NYSE:DQ) Stock Now Rated \"Reduce\" by Sell-Side Analysts - MarketBeat",
+      "DAQO New Energy (NYSE:DQ) Stock Price Breaks Below Fifty Day Moving Average - What's Next? - MarketB",
+      "LONGi at COP31: Four Enabling Pathways to Advance Global Green Development - Longi",
+      "Trina Storage Recognized on BloombergNEF Energy Storage Tier 1 List for the 12th Consecutive Time - "
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 32 則事件，焦點為隆基綠能、Array Technologies、大全新能源相關動態：「China's Solar Industry, With Over 80% Global Share, Sees ...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "China's Solar Industry, With Over 80% Global Share, Sees 22 Listed Firms Sink...（太陽能產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "Daqo New Energy falls 10.00% in Tuesday's session - Global Banking & Finance ...",
+        "level": "green"
+      },
+      {
+        "text": "元件價格話題出現 1 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

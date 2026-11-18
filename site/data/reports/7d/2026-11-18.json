@@ -1,0 +1,161 @@
+{
+  "date": "2026-11-18",
+  "date_range": {
+    "start": "2026-11-12",
+    "end": "2026-11-18"
+  },
+  "generated_at": "2026-11-18T16:49:00.521923Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "first_solar-2026-11-17-042",
+      "date": "2026-11-17",
+      "title": "First Solar and Enphase Fall 5% as Solar Selloff Stretches On; SolarEdge Drops 4% - 24/7 Wall St.",
+      "importance_score": 0.9
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "industry_general": {
+      "this_week": 186,
+      "last_week": 193,
+      "week_over_week_change": "-4%",
+      "sentiment_this_week": 0.04
+    },
+    "installation_demand": {
+      "this_week": 8,
+      "last_week": 7,
+      "week_over_week_change": "+14%",
+      "sentiment_this_week": 0.28
+    },
+    "trade_tariff": {
+      "this_week": 3,
+      "last_week": 1,
+      "week_over_week_change": "+200%",
+      "sentiment_this_week": -0.08
+    },
+    "module_price": {
+      "this_week": 2,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "longi": {
+      "event_count": 4,
+      "sentiment_avg": 0.0,
+      "rank": 4
+    },
+    "tongwei": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 7
+    },
+    "ja_solar": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 8
+    },
+    "jinko": {
+      "event_count": 6,
+      "sentiment_avg": 0.08,
+      "rank": 2
+    },
+    "array": {
+      "event_count": 8,
+      "sentiment_avg": 0.06,
+      "rank": 1
+    },
+    "trina": {
+      "event_count": 6,
+      "sentiment_avg": 0.08,
+      "rank": 3
+    },
+    "sungrow": {
+      "event_count": 2,
+      "sentiment_avg": 0.25,
+      "rank": 5
+    },
+    "gcl": {
+      "event_count": 1,
+      "sentiment_avg": 0.5,
+      "rank": 9
+    },
+    "daqo": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 6
+    },
+    "canadian_solar": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 10
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 245,
+        "last": 288,
+        "change_pct": -14.9
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-11-12",
+      "event_count": 51,
+      "sentiment_avg": 0.02
+    },
+    {
+      "date": "2026-11-13",
+      "event_count": 41,
+      "sentiment_avg": 0.06
+    },
+    {
+      "date": "2026-11-14",
+      "event_count": 19,
+      "sentiment_avg": 0.11
+    },
+    {
+      "date": "2026-11-15",
+      "event_count": 7,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-11-16",
+      "event_count": 47,
+      "sentiment_avg": 0.02
+    },
+    {
+      "date": "2026-11-17",
+      "event_count": 48,
+      "sentiment_avg": 0.06
+    },
+    {
+      "date": "2026-11-18",
+      "event_count": 32,
+      "sentiment_avg": 0.04
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-11-12 ~ 2026-11-18）共 245 則事件，重點為「First Solar and Enphase Fall 5% as Solar Sellof...」。陽光電源、協鑫科技表現正面，整體氣氛穩健。",
+    "watchlist": [
+      {
+        "company": "隆基綠能",
+        "reason": "本週出現 4 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "晶科能源",
+        "reason": "本週出現 6 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "Array Technologies",
+        "reason": "本週出現 8 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
