@@ -1,0 +1,16 @@
+{
+  "total_raw": 422,
+  "dup_title": 161,
+  "no_date": 0,
+  "too_old": 178,
+  "gate1_fail": 39,
+  "gate2_fail": 6,
+  "passed": 38,
+  "gate2_samples": [
+    "DAQO New Energy (NYSE:DQ) Stock Price Breaks Below Fifty Day Moving Average - What's Next? - MarketB",
+    "LONGi at COP31: Four Enabling Pathways to Advance Global Green Development - Longi",
+    "At COP31, Longi details its pathways to advance global green development",
+    "Ford’s first LFP batteries are en route, and the $30,000 Fathom EV pickup will get them first",
+    "Soneil Spark introduces its Mobile Battery Energy Storage System"
+  ]
+}

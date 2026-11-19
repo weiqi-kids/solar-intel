@@ -1,5 +1,540 @@
 [
   {
+    "id": "ja_solar-2026-11-19-001",
+    "date": "2026-11-19",
+    "companies": [
+      "ja_solar"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "JA Solar launches integrated solar and storage approach in Chengdu - Solarbytes",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxNejkzTnZTZnJCSE5KRmZPdUhGLWREb3JXdlRDQWtWU2pRU1piUHpHcDhQZk0xeUxPLVJHejM2YjQ0TkozWUZhUmE2RjFnY1JYYXBFeE43akc2VXdYaXRCV196LWV1M0xKa1JQWWxUWm",
+    "sources": [
+      {
+        "name": "ja_solar",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNejkzTnZTZnJCSE5KRmZPdUhGLWREb3JXdlRDQWtWU2pRU1piUHpHcDhQZk0xeUxPLVJHejM2YjQ0TkozWUZhUmE2RjFnY1JYYXBFeE43akc2VXdYaXRCV196LWV1M0xKa1JQWWxUWmNGdmRsNXhDYmN6c0ZyNjBsdmNqZWE1dmY0aHRPLUVZT0NmZ1lHV2ZNYmVKVWtDNkVJVng0SUtYdUw4bF9xWUNTNw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "trina-2026-11-19-002",
+    "date": "2026-11-19",
+    "companies": [
+      "trina"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Data Center Power Plant: Pentagon-Listed Trinasolar Unit Debuts Gas-Battery Hybrid, Tests Unfinished - Tech Times",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6AFBVV95cUxORGRsQ1ZTTTIxZkh0NFd1WEVHQkVtVlNMenktUGxpbC1wdTM2VW5WT3BvUG4wcHdHSnN4NVlkWVp3ZGhsUEdDVjNhM3piYzBUV1E0S1doN0xuUHJWMVlKRkZZWlp6S1hpb2FMS0JTeX",
+    "sources": [
+      {
+        "name": "trina",
+        "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxORGRsQ1ZTTTIxZkh0NFd1WEVHQkVtVlNMenktUGxpbC1wdTM2VW5WT3BvUG4wcHdHSnN4NVlkWVp3ZGhsUEdDVjNhM3piYzBUV1E0S1doN0xuUHJWMVlKRkZZWlp6S1hpb2FMS0JTeXVuU2lhNkVXeFU0dFpxTEhLemgzSUhXSDduVmtxem5LX1owNEZyeGVzVTdKSllyZldMbzl0SFMyLWU1TEdDdVVhTzl1M0x4ZUVrOGppNjBTMV9SbXBZN3lKZWNYUzVYYW5DRWhyczR2eWxjUDcwUVJoYXRYY2hrWFhU?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "jinko-2026-11-19-003",
+    "date": "2026-11-19",
+    "companies": [
+      "jinko"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "JinkoSolar attends 2026 APEC CEO Summit - PV Tech",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxQdEhCT3VuQzIybFN4OHlMYjR5cU9yV3dZWnlPTGFGbWk0MURtczFCUF9ZZDVzcXZQRGtVQTgyMDBEaWdmRkJoWWx2TXZIX2lXdXhQSTdOQ3Ntb2lFQ0lDdmtqdXJGOVl6N2d0U3dMN0",
+    "sources": [
+      {
+        "name": "jinko",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQdEhCT3VuQzIybFN4OHlMYjR5cU9yV3dZWnlPTGFGbWk0MURtczFCUF9ZZDVzcXZQRGtVQTgyMDBEaWdmRkJoWWx2TXZIX2lXdXhQSTdOQ3Ntb2lFQ0lDdmtqdXJGOVl6N2d0U3dMN0hTNXBLaTBVLU5HX1F3V01WLVROT3hpdzgz?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "sungrow-2026-11-19-004",
+    "date": "2026-11-19",
+    "companies": [
+      "sungrow"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Sungrow Power Supply Co falls 3.47% in Thursday's session - Global Banking & Finance Review",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxPQ1RUNVNBdUVpU1B2SzlyTzF2S1RKZXBZelJMOS1seHJUN01KbHE5QzlJT3hvUjYxWWpZUlRSQ01fR182WmduZzloaW1vRzZsVXEwdnJ5bXN3OU9zZllQV0NKbURPTE9pci03cTJXUm",
+    "sources": [
+      {
+        "name": "sungrow",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPQ1RUNVNBdUVpU1B2SzlyTzF2S1RKZXBZelJMOS1seHJUN01KbHE5QzlJT3hvUjYxWWpZUlRSQ01fR182WmduZzloaW1vRzZsVXEwdnJ5bXN3OU9zZllQV0NKbURPTE9pci03cTJXUmFsQkVnb2tIRjFUbWR6VlZidllPWUlFb3RHVWNDY3h3S2NXaTRrQ1E?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "solaredge-2026-11-19-005",
+    "date": "2026-11-19",
+    "companies": [
+      "solaredge"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "SolarEdge debuts dual-module power optimizer",
+    "summary": "<p>Duo cuts the number of optimizers needed in half, works with dual-tilt racking and with Arc Fault Detection, every optimizer becomes an arc sensor.</p>\n<p>The post <a href=\"https://www.pv-magazine.",
+    "sources": [
+      {
+        "name": "pv_magazine",
+        "url": "https://www.pv-magazine.com/2026/11/19/solaredge-debuts-duo-power-optimizer-at-re/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-19-006",
+    "date": "2026-11-19",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "MicroQuanta, Zhejiang University achieve world-record efficiency of 23.9% for 19.48 cm² perovskite solar module",
+    "summary": "<p>The result was certified by the National PV Industry Measurement and Testing Center (NPVM) of China’s Fujian Metrology Institute.</p>\n<p>The post <a href=\"https://www.pv-magazine.com/2026/11/19/mic",
+    "sources": [
+      {
+        "name": "pv_magazine",
+        "url": "https://www.pv-magazine.com/2026/11/19/microquanta-achieves-world-record-efficiency-of-23-9-for-19-48-cm%c2%b2-perovskite-solar-module/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-19-007",
+    "date": "2026-11-19",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Solyco unveils 485 W full-black residential solar module with stainless steel protection",
+    "summary": "<p>The German manufacturer's new glass-glass solar panel features back-contact cells, a power conversion efficiency of 23.8% and a bifaciality factor of approximately 70%. It comes with a 30-year prod",
+    "sources": [
+      {
+        "name": "pv_magazine",
+        "url": "https://www.pv-magazine.com/2026/11/19/solyco-unveils-485-w-full-black-residential-solar-module-with-stainless-steel-protection/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-19-008",
+    "date": "2026-11-19",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Jackery and Every Electric launch 4 MWh plug-in battery VPP for New York renters",
+    "summary": "<p>Jackery has partnered with Brooklyn-based aggregator Every Electric to shift air conditioning load peaks without permitting limitations. </p>\n<p>The post <a href=\"https://www.pv-magazine.com/2026/1",
+    "sources": [
+      {
+        "name": "pv_magazine",
+        "url": "https://www.pv-magazine.com/2026/11/19/jackery-and-every-electric-launch-4-mwh-plug-in-battery-vpp-for-new-york-renters/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-19-009",
+    "date": "2026-11-19",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Tesla seeks Texas tax break for $3.1 billion polysilicon plant",
+    "summary": "<p>Tesla says it will build a polysilicon plant in Texas only if the state cuts its property tax bill, as it seeks to produce solar’s most China-dominated material at home.</p>\n<p>The post <a href=\"ht",
+    "sources": [
+      {
+        "name": "pv_magazine",
+        "url": "https://www.pv-magazine.com/2026/11/19/tesla-seeks-texas-tax-break-for-3-1-billion-polysilicon-plant/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-19-010",
+    "date": "2026-11-19",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Bolivia launches EPC tender for 40 MWac solar project",
+    "summary": "<p>Bolivia’s state-owned utility ENDE is seeking an EPC contractor for a project scheduled for completion in June 2028. The solar plant will be financed in part by a loan from German development bank ",
+    "sources": [
+      {
+        "name": "pv_magazine",
+        "url": "https://www.pv-magazine.com/2026/11/19/bolivia-launches-epc-tender-for-40-mwac-solar-project/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-19-011",
+    "date": "2026-11-19",
+    "companies": [],
+    "topics": [
+      "installation_demand",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "France’s first canal-top PV project goes online",
+    "summary": "<p>The 299 kW installation is expected to generate 404 MWh annually. Société du Canal de Provence estimates that its canal network could accommodate more than 50 MW of solar capacity, with potential a",
+    "sources": [
+      {
+        "name": "pv_magazine",
+        "url": "https://www.pv-magazine.com/2026/11/19/frances-first-canal-top-pv-project-goes-online/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-19-012",
+    "date": "2026-11-19",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "EU to launch €36 million funding call for advanced solar cell manufacturing",
+    "summary": "<p>The initiative aims to strengthen Europe's solar manufacturing industry by supporting high-efficiency solar cells, advanced production equipment, automated manufacturing processes and industrial-sc",
+    "sources": [
+      {
+        "name": "pv_magazine",
+        "url": "https://www.pv-magazine.com/2026/11/19/eu-to-launch-e36-million-funding-call-for-advanced-solar-cell-manufacturing/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-19-013",
+    "date": "2026-11-19",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Indonesia could reach 96.7 GW of solar by 2029 with policy reforms",
+    "summary": "<p>IESR says Indonesia could achieve most of its 100 GW of solar by 2029 target through coordinated utility-scale procurement, rooftop PV deployment, diesel replacement and rural electrification, but ",
+    "sources": [
+      {
+        "name": "pv_magazine",
+        "url": "https://www.pv-magazine.com/2026/11/19/indonesia-could-reach-96-7-gw-of-solar-by-2029-with-policy-reforms/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-19-014",
+    "date": "2026-11-19",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "The U.S. solar manufacturing landscape in 2026",
+    "summary": "Having watched the global solar industry move from tens of megawatts annual demand to levels in excess of 500 GW by the early 2020s, the United States is finally making moves to create a silicon-based",
+    "sources": [
+      {
+        "name": "pv_magazine_usa",
+        "url": "https://pv-magazine-usa.com/2026/11/19/the-us-solar-manufacturing-landscape-in-2026/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-19-015",
+    "date": "2026-11-19",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Cyber risk is becoming a procurement and bankability issue",
+    "summary": "New U.S. rules and cyber risks are forcing solar and storage buyers to weigh long-term software dependencies, data ownership, and equipment origin early in procurement rather than waiting until commis",
+    "sources": [
+      {
+        "name": "pv_magazine_usa",
+        "url": "https://pv-magazine-usa.com/2026/11/19/cyber-risk-is-becoming-a-procurement-and-bankability-issue/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "solaredge-2026-11-19-016",
+    "date": "2026-11-19",
+    "companies": [
+      "solaredge"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "SolarEdge debuts Duo power optimizer at RE+",
+    "summary": "Duo cuts the number of optimizers needed in half, works with dual-tilt racking and with Arc Fault Detection, every optimizer becomes an arc sensor.",
+    "sources": [
+      {
+        "name": "pv_magazine_usa",
+        "url": "https://pv-magazine-usa.com/2026/11/19/solaredge-debuts-duo-power-optimizer-at-re/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "first_solar-2026-11-19-017",
+    "date": "2026-11-19",
+    "companies": [
+      "first_solar"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Aptera (SEV) completes its first customer solar EV — for its top crowdfunder",
+    "summary": "<div class=\"feat-image\"><img src=\"https://electrek.co/wp-content/uploads/sites/3/2026/11/Aptera-first-delivery.jpg?quality=82&#038;strip=all&#038;w=1280\" /></div><p class=\"wp-block-paragraph\">Aptera (",
+    "sources": [
+      {
+        "name": "electrek_solar",
+        "url": "https://electrek.co/2026/11/19/aptera-sev-first-solar-ev-customer-delivery-investor/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-19-018",
+    "date": "2026-11-19",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "The world’s biggest oil shock could give EVs and solar a boost",
+    "summary": "<div class=\"feat-image\"><img src=\"https://electrek.co/wp-content/uploads/sites/3/2026/11/Kia-EV7-electric-SUV.jpeg?quality=82&#038;strip=all&#038;w=1400\" /></div><p class=\"wp-block-paragraph\">The long",
+    "sources": [
+      {
+        "name": "electrek_solar",
+        "url": "https://electrek.co/2026/11/18/the-worlds-biggest-oil-shock-could-give-evs-and-solar-a-boost/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-19-019",
+    "date": "2026-11-19",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Glass and Lithium-ion Batteries: Partners in Photovoltaic Energy Production - USGlass Magazine",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxOeXczcHRHWjJyQVZlRDl2TnhJalBwaXdHZU8xWU5FNE9YUWgxOEQtYTB2eF9OamxNdUpXdFB6RktJRFJrVjNEdXdadHhydk5qNG5QR2NqRklrLU82RHRyTjFfbVJscEhReE82ZC1MND",
+    "sources": [
+      {
+        "name": "google_news_solar",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOeXczcHRHWjJyQVZlRDl2TnhJalBwaXdHZU8xWU5FNE9YUWgxOEQtYTB2eF9OamxNdUpXdFB6RktJRFJrVjNEdXdadHhydk5qNG5QR2NqRklrLU82RHRyTjFfbVJscEhReE82ZC1MNDZpWnRVVFVTa1NYVjJoRkZiOGlxSVJtbzVxdUo3RHBLRjF3RUZwdEJCSlFWemdoWVdLbXhJcA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-19-020",
+    "date": "2026-11-19",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Solar power is booming as record number of UK homes fit panels - The Times",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxOcVFCMHhscTFSSUEwejNmak14T1ZETlIyTElSNVdIOHFzMFU2WGJkLWVWajNEMkJfNVVQZnRuVkhwTXphS0hvSjc0TEZGa2s2ejN1RWk1Y2Z6V3lvTTZTNlZoQks0NVFpdmJSZHJLYz",
+    "sources": [
+      {
+        "name": "google_news_solar",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOcVFCMHhscTFSSUEwejNmak14T1ZETlIyTElSNVdIOHFzMFU2WGJkLWVWajNEMkJfNVVQZnRuVkhwTXphS0hvSjc0TEZGa2s2ejN1RWk1Y2Z6V3lvTTZTNlZoQks0NVFpdmJSZHJLYzF6Ums1RHdiaEpobFFhSVdsRHdMc293RWpYSnl0ZmR6Q1dvRVRpUVk2YWJ1cw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-19-021",
+    "date": "2026-11-19",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Solar panel cleaner combines electrostatic force with ionic wind - pv magazine Global",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxOT0s0LUQ0VjdVSENITlFhemRWbmhVM3VVZUpMbGlVLXFUekRRTGRtNmhZTmdSaFp0M2hPLVFZWmhGNVVJRFZnNnh2SlR3TWFJeFRzc19MbWlaYkk5TWNBRzdqZ2FwemxiWGJHaGZTNm",
+    "sources": [
+      {
+        "name": "google_news_solar",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOT0s0LUQ0VjdVSENITlFhemRWbmhVM3VVZUpMbGlVLXFUekRRTGRtNmhZTmdSaFp0M2hPLVFZWmhGNVVJRFZnNnh2SlR3TWFJeFRzc19MbWlaYkk5TWNBRzdqZ2FwemxiWGJHaGZTNmEzRFQ1YVVoNjVnREMzSVNUclNET05DLXpscjRvVWdSdmtEdVBUQ2t6ZGhUcFNSNElGLTROOXZ0MA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-19-022",
+    "date": "2026-11-19",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Can T1 Energy's Growing Order Book Drive US Solar Expansion? - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxPLXEwTVFVMWdvNWtrZGcxa0VXOWZzLVR6Nmk5VGMtaXUyZ0ZXQ0dGTUVJSUxTcG12SVhST0NObzZmUDlwVDJoM1NrRGUxMEZvZXZiNGxYMEJhWDNmS3EzYXdnbVUzSlNBMHRodWdZZm",
+    "sources": [
+      {
+        "name": "google_news_solar",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPLXEwTVFVMWdvNWtrZGcxa0VXOWZzLVR6Nmk5VGMtaXUyZ0ZXQ0dGTUVJSUxTcG12SVhST0NObzZmUDlwVDJoM1NrRGUxMEZvZXZiNGxYMEJhWDNmS3EzYXdnbVUzSlNBMHRodWdZZmxCUENuZTNsZ1YwQ3I5b2kxQjJ4Q0t1bkZlSjd3dXpYaV8zTndzV0pnc3BMdWUtLTYwaDVLd3hxbnF5SjYxNnZjOVFIQWFVQQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-19-023",
+    "date": "2026-11-19",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Enertis Applus+ and GroundWork Renewables release webinar on de-risking U.S. solar module procurement amid manufacturing expansion - Energies Media",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTFAtcVRZUTVnb3M3NHVKYTV2M2p1VkpLNzhmRHF4NmNzbFIxNjh0RXMwM2lxMGx1NFczQUdfWmJyYjB6bDhZck91M0JYbldyVUtNN0NwQ1NVa1EzWW1Sb1NBcGJXbjJIbng0ZFJjWkNkQQ",
+    "sources": [
+      {
+        "name": "google_news_solar",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFAtcVRZUTVnb3M3NHVKYTV2M2p1VkpLNzhmRHF4NmNzbFIxNjh0RXMwM2lxMGx1NFczQUdfWmJyYjB6bDhZck91M0JYbldyVUtNN0NwQ1NVa1EzWW1Sb1NBcGJXbjJIbng0ZFJjWkNkQQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-19-024",
+    "date": "2026-11-19",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Data centre power buildouts are déjà vu for US storage integrators with off-grid roots",
+    "summary": "As AI-driven data centre demand reshapes the US power landscape, BESS technology providers at RE+ highlighted an unexpected competitive advantage.",
+    "sources": [
+      {
+        "name": "energy_storage_news",
+        "url": "https://www.energy-storage.news/data-centre-power-buildouts-are-deja-vu-for-us-storage-integrators-with-off-grid-roots/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-19-025",
+    "date": "2026-11-19",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "BW ESS and Wattmen to develop 500MW of battery energy storage in France",
+    "summary": "BW ESS has partnered with Lyon-based developer Wattmen to develop around 500MW of BESS projects in France over the next three years.",
+    "sources": [
+      {
+        "name": "energy_storage_news",
+        "url": "https://www.energy-storage.news/bw-ess-wattmen-500mw-battery-storage-france/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-19-026",
+    "date": "2026-11-19",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Statkraft pairs PPA with part-tolled, part-merchant BESS contract at Dutch solar site",
+    "summary": "Statkraft has signed a 10-year deal with Ampyr Solar Europe covering the Snelle Loop co-located solar PV and BESS project in the Netherlands.",
+    "sources": [
+      {
+        "name": "energy_storage_news",
+        "url": "https://www.energy-storage.news/statkraft-ppa-tolled-merchant-bess-dutch-solar-site/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-19-027",
+    "date": "2026-11-19",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "AGL installs first 100 units at 2,000MWh Tomago BESS in New South Wales, Australia",
+    "summary": "Australian energy company AGL has installed the first 100 units at its 500MW Tomago battery energy storage system (BESS) in the Hunter region of New South Wales (NSW).",
+    "sources": [
+      {
+        "name": "energy_storage_news",
+        "url": "https://www.energy-storage.news/agl-tomago-bess-first-100-units-installed-nsw/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-19-028",
+    "date": "2026-11-19",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "Almost 90% of Europe’s Battery Production at Risk from Franco-German Car Deal",
+    "summary": "<p>Europe has huge potential for battery plants but calls to weaken or delay the Industrial Accelerator Act and carmaker demands to weaken the EU’s CO2 standards, risk handing Europe’s battery value c",
+    "sources": [
+      {
+        "name": "cleantechnica",
+        "url": "https://cleantechnica.com/2026/11/18/almost-90-of-europes-battery-production-at-risk-from-franco-german-car-deal/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-19-029",
+    "date": "2026-11-19",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Biofuels in the EU Post-2030 Renewable Energy Framework",
+    "summary": "<p>A deep-dive exploring the impacts of potential EU biofuels policy scenarios The discussion around the future of the Renewable Energy Directive (REDIII) is underway as the European Commission devise",
+    "sources": [
+      {
+        "name": "cleantechnica",
+        "url": "https://cleantechnica.com/2026/11/18/biofuels-in-the-eu-post-2030-renewable-energy-framework/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "daqo-2026-11-18-001",
     "date": "2026-11-18",
     "companies": [
@@ -587,6 +1122,139 @@
       {
         "name": "cleantechnica",
         "url": "https://cleantechnica.com/2026/11/17/report-u-s-exceeds-200-gwh-of-energy-storage-capacity-installed-to-date/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "xinyi_solar-2026-11-18-033",
+    "date": "2026-11-18",
+    "companies": [
+      "xinyi_solar"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Xinyi Solar Holdings Ltd (13X0.MU) Seasonal returns chart - Yahoo Finance UK",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE85VlpGT2d3MV84b2NfVHJxUDhVcHlzYkRPTEVQNWFXc0VrUy1wTXNrOXJ6VE84dm5oTFV6SW5faGc0eVFRUy1jVDB0ZkJsSzVIVC0zSm9jekN0RWlOVlVPcE1PV2txUQ?oc=5\" targe",
+    "sources": [
+      {
+        "name": "xinyi_solar",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE85VlpGT2d3MV84b2NfVHJxUDhVcHlzYkRPTEVQNWFXc0VrUy1wTXNrOXJ6VE84dm5oTFV6SW5faGc0eVFRUy1jVDB0ZkJsSzVIVC0zSm9jekN0RWlOVlVPcE1PV2txUQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "sungrow-2026-11-18-034",
+    "date": "2026-11-18",
+    "companies": [
+      "sungrow"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Sungrow launches new C&I battery storage system - Renewables Now",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxPOW1nNkgwV1ByVXA4RGdBR3l5T2tqY2JQYnprbk9LbVJVZG1wZ0Rka1Mtc2VjTWc4X1VjQlFMUDNlZTBxOUFKcEpBd2V5b0FLTi1ZY01LOTVvbThzUVZEcVk4Y2dkVHI2M3haeU96S2",
+    "sources": [
+      {
+        "name": "sungrow",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPOW1nNkgwV1ByVXA4RGdBR3l5T2tqY2JQYnprbk9LbVJVZG1wZ0Rka1Mtc2VjTWc4X1VjQlFMUDNlZTBxOUFKcEpBd2V5b0FLTi1ZY01LOTVvbThzUVZEcVk4Y2dkVHI2M3haeU96S2tsMHJXQmw3UW05V0NKTngtX1p1ZDlmeXJHbnpSUnpZcw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-18-035",
+    "date": "2026-11-18",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "US battery storage just topped 200 GWh – here’s where it is",
+    "summary": "<div class=\"feat-image\"><img src=\"https://electrek.co/wp-content/uploads/sites/3/2026/06/Green-River-Energy-Center-Utah.jpg?quality=82&#038;strip=all&#038;w=1600\" /></div><p class=\"wp-block-paragraph\"",
+    "sources": [
+      {
+        "name": "electrek_solar",
+        "url": "https://electrek.co/2026/11/18/us-battery-storage-just-topped-200-gwh-heres-where-it-is/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-18-036",
+    "date": "2026-11-18",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "ENGWE Eagle e-dirt bike new $799 low + M20 3.0 e-bike $647 off, Anker eufy Wall Light Cam S4 new lows from $150, more",
+    "summary": "<div class=\"feat-image\"><img src=\"https://electrek.co/wp-content/uploads/sites/3/2026/11/ENGWE-Anker-eufy-Greenworks-Bluetti-GDs-FI.jpg?quality=82&#038;strip=all&#038;w=1600\" /></div><p class=\"wp-bloc",
+    "sources": [
+      {
+        "name": "electrek_solar",
+        "url": "https://electrek.co/2026/11/18/engwe-eagle-electric-dirt-bike-m20-3-0-e-bike-anker-eufy-wall-light-cam-s4-more/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "array-2026-11-18-037",
+    "date": "2026-11-18",
+    "companies": [
+      "array"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Torus Puzzle Method Improves Solar Array Power Output Under Partial Shading - Bioengineer.org",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxQbVNzQkxhMkVNM0t0V1V6b1piTHowRlNxNlo2LWx2a2h0c1ZScnhTakc3QTNNajJxTS01UDVIOXREeTNUZnpSQTRUUFhCM0gzbXZ5RHBJbmtDZGlIRmh4WmpDNTNyQmF3aFRqLWlZcm",
+    "sources": [
+      {
+        "name": "google_news_solar",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQbVNzQkxhMkVNM0t0V1V6b1piTHowRlNxNlo2LWx2a2h0c1ZScnhTakc3QTNNajJxTS01UDVIOXREeTNUZnpSQTRUUFhCM0gzbXZ5RHBJbmtDZGlIRmh4WmpDNTNyQmF3aFRqLWlZcmdyS0JkTFNHd0l4aVoyV01SRVJ6T0VhaWliQ0F1Vl9sZUYzR1R6WHVkMUotazVWYjBJTWc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-18-038",
+    "date": "2026-11-18",
+    "companies": [],
+    "topics": [
+      "installation_demand",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Six new ways to simplify solar installs: Top Rack Technology brings mounting innovation to RE+ 2026",
+    "summary": "<p>From smarter waterproofing to 360-degree rail adjustment, Top Rack Technology is putting installer efficiency, rooftop flexibility, and cost control at the center of its latest product lineup. As t",
+    "sources": [
+      {
+        "name": "solar_power_world",
+        "url": "https://www.solarpowerworldonline.com/2026/11/top-rack-technology-brings-mounting-innovation-to-re-2026/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-18-039",
+    "date": "2026-11-18",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Mission Solar Energy puts supply chain transparency in the spotlight at RE+ 2026",
+    "summary": "<p>With new high-efficiency residential and commercial modules and an integrated supply chain spanning polysilicon to power conversion, Mission Solar Energy is making a case for U.S. manufacturing, do",
+    "sources": [
+      {
+        "name": "solar_power_world",
+        "url": "https://www.solarpowerworldonline.com/2026/11/mission-solar-energy-puts-supply-chain-transparency-in-the-spotlight-at-re-2026/",
         "type": "rss"
       }
     ]
@@ -1476,6 +2144,26 @@
       {
         "name": "cleantechnica",
         "url": "https://cleantechnica.com/2026/11/17/distributed-energy-resources-solar-storage-batteries-compute/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "motech-2026-11-17-049",
+    "date": "2026-11-17",
+    "companies": [
+      "motech"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Motech Industries falls 2.04% in Tuesday's session - Global Banking & Finance Review",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxORkJEbUFiX3pHZmZPb3RDdTRSa0l2U3JXZk0wNlNHaFpfaDVoNFJpQnotUE16VFAzOHR0Q1FPVTh4MWpvOEhYQnFrakotOG1OVVliRUdqUHpiMG5UcHFJazkzNDVhR3NpdEpIRHFjWn",
+    "sources": [
+      {
+        "name": "motech",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxORkJEbUFiX3pHZmZPb3RDdTRSa0l2U3JXZk0wNlNHaFpfaDVoNFJpQnotUE16VFAzOHR0Q1FPVTh4MWpvOEhYQnFrakotOG1OVVliRUdqUHpiMG5UcHFJazkzNDVhR3NpdEpIRHFjWnhpR3k2Q0pLbGtMcVQxNEdjVVhUX2hpM0lGYlV5bQ?oc=5",
         "type": "rss"
       }
     ]
@@ -2468,6 +3156,24 @@
       {
         "name": "longi",
         "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5Jdy1QTHNiVmt3b0h3NG5ua2hVVDZSYlJuZmhpeXFqazVDankzWmtRNUpGQWhmSkt1d0g3Nm8xU0FRT3piQ0tneVlPbkNhNDlsR3Q0SjNQMUtrZ1Bsd19zaGtjczg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-15-008",
+    "date": "2026-11-15",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Why solar researchers are working to devise a silver reduction playbook - UNSW Sydney",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxPeElVeTkwZV82WUtjSkx5Zl9VUFV5N0tnSTQwTll6UHJZcVFWRDMtZU1vQXhTNmU5bllib0dJY3Etc3ExSDhndE1yMWpvOUFWT1FNRU5zWk03NWJHaVZqYTZNM0ZvNUdINnFiNmprUT",
+    "sources": [
+      {
+        "name": "google_news_solar",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPeElVeTkwZV82WUtjSkx5Zl9VUFV5N0tnSTQwTll6UHJZcVFWRDMtZU1vQXhTNmU5bllib0dJY3Etc3ExSDhndE1yMWpvOUFWT1FNRU5zWk03NWJHaVZqYTZNM0ZvNUdINnFiNmprUTNrb3NQY016MDlrdUZPV0tNZUdvT0xYNzA4cWlRa05QQjFMM0Z6X2gzdkpQMHp3QQ?oc=5",
         "type": "rss"
       }
     ]
