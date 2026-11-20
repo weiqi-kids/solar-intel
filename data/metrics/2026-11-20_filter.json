@@ -1,0 +1,16 @@
+{
+  "total_raw": 424,
+  "dup_title": 170,
+  "no_date": 0,
+  "too_old": 163,
+  "gate1_fail": 38,
+  "gate2_fail": 5,
+  "passed": 48,
+  "gate2_samples": [
+    "DQ: Daqo New Energy Corp. Latest Stock Price, Analysis, News and Trading Ideas - Stocktwits",
+    "LONGi at COP31: Four Enabling Pathways to Advance Global Green Development - Longi",
+    "GM’s V2G pilot wants to pay California drivers for power from parked EVs",
+    "New California law changes balconies forever, while saving you money — but HOAs are watching - New Y",
+    "Soneil Spark introduces its Mobile Battery Energy Storage System"
+  ]
+}
