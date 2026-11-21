@@ -1,0 +1,14 @@
+{
+  "total_raw": 422,
+  "dup_title": 200,
+  "no_date": 0,
+  "too_old": 160,
+  "gate1_fail": 40,
+  "gate2_fail": 3,
+  "passed": 19,
+  "gate2_samples": [
+    "DQ: Daqo New Energy Corp. Latest Stock Price, Analysis, News and Trading Ideas - Stocktwits",
+    "GM’s V2G pilot wants to pay California drivers for power from parked EVs",
+    "Soneil Spark introduces its Mobile Battery Energy Storage System"
+  ]
+}
