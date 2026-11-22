@@ -1,5 +1,41 @@
 [
   {
+    "id": "unknown-2026-11-22-001",
+    "date": "2026-11-22",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Germany speeds up energy transition with photovoltaic power application - 巴士的報",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxQU0NjQW9iamJQNmNoa2JQUGZVWjBEdy00OWZkSmJZQWl2dDY2aG9nQ2JxaFZpZ09KTkhGQkh6dndhYV9zOFQ2UldoMmJkcnQ3UkM1b3hrQVJ4TkxYbEVvN0dXM2I1MFFYV1JGeXhRSD",
+    "sources": [
+      {
+        "name": "google_news_solar",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQU0NjQW9iamJQNmNoa2JQUGZVWjBEdy00OWZkSmJZQWl2dDY2aG9nQ2JxaFZpZ09KTkhGQkh6dndhYV9zOFQ2UldoMmJkcnQ3UkM1b3hrQVJ4TkxYbEVvN0dXM2I1MFFYV1JGeXhRSDEyYTBmcnpzemNMZExNejdRTWZvSk9od3N6cDBUU2podmZ3Mng2dDE1dDduU04yeUxOVHV0QzZrTGRQUnFmVmp6WXFDMjZKUlE2VnhOTjBMc2Q?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-22-002",
+    "date": "2026-11-22",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Hotel owner saves over $2,200 a month on diesel after embracing solar power - The Cool Down",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxQWVE4OG84NzdPZl9kNllyWTRHQ09QN1NfeGYyc0dmNGdlbzIyUnA5SFZ4UUJsMnV4OEZEUnRRVWx2bUZwNWZma0JlZl9UZU5OZE1sVWIzU0pIcVduSlJWbnJqYjlsU0ppcXRFU01jZm",
+    "sources": [
+      {
+        "name": "google_news_solar",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQWVE4OG84NzdPZl9kNllyWTRHQ09QN1NfeGYyc0dmNGdlbzIyUnA5SFZ4UUJsMnV4OEZEUnRRVWx2bUZwNWZma0JlZl9UZU5OZE1sVWIzU0pIcVduSlJWbnJqYjlsU0ppcXRFU01jZmM3RllrODhBQTBWZHBSUER3dzNhWkJpOHdaS1JaZg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "unknown-2026-11-21-001",
     "date": "2026-11-21",
     "companies": [],
@@ -176,6 +212,60 @@
       {
         "name": "cleantechnica",
         "url": "https://cleantechnica.com/2026/11/20/is-the-energy-crisis-accelerating-the-clean-energy-transition-4-takeaways-from-the-ieas-world-energy-outlook-2026/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-21-011",
+    "date": "2026-11-21",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Germany’s 1.8-MW vertical solar farm leaves over 90% of its land available for organic seed farming - Energies Media",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE5nZnR6d1llVUlXZ09XTlJ2WTh0T2VvSWVPb2x0OWF1NFVvLUFzMDJNWnJoQzk3WVpuLVAwajlZWnVkbGVEWEpnRWpUQjgwWFloSkNxV0piR3gtLUU5VjN2QVpiaHJ2a0V4bzdSTmpMeU",
+    "sources": [
+      {
+        "name": "google_news_solar",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5nZnR6d1llVUlXZ09XTlJ2WTh0T2VvSWVPb2x0OWF1NFVvLUFzMDJNWnJoQzk3WVpuLVAwajlZWnVkbGVEWEpnRWpUQjgwWFloSkNxV0piR3gtLUU5VjN2QVpiaHJ2a0V4bzdSTmpMeUg5Z0NvVHRLeThIQQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-21-012",
+    "date": "2026-11-21",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "How a $1B Obama-era solar plant went bankrupt twice, leaving taxpayers with the tab - Fox News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxNV1NTcHRiVkF2NzIxZm5GaVJpajB3UE03cUFCQVotTjRUUHdpZ3hRRVpJbzc5YXJEVFRXcW5OczVyVHV0LVBJM3d2RHRKdGVIeGd1Y2loV3Rtc2tmb0VkTnEtZ2otREFLN0U3Rkw0Qk",
+    "sources": [
+      {
+        "name": "google_news_solar",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNV1NTcHRiVkF2NzIxZm5GaVJpajB3UE03cUFCQVotTjRUUHdpZ3hRRVpJbzc5YXJEVFRXcW5OczVyVHV0LVBJM3d2RHRKdGVIeGd1Y2loV3Rtc2tmb0VkTnEtZ2otREFLN0U3Rkw0QkVaU1RtSndsdHcxZjJjWk9fOTJkb0lvTU9BbDJvV1RPdjFEaEVvbmh5QkR4a3c4UDd1Q0h5ckFR0gGrAUFVX3lxTE1Dcjd0eE0xMDVPYnBqRHRGbHJoYk91bUhFSDhnLVBPOFV5ZTZLaTYxTW80Z2VUY1RDQnEyZGVkSkVneGZ5djZnczRQdF9nYWZSM1hEOUdGV1ZpVTZHWVhEUTdxNlZlZHB5U0NaXzZ5LWFRYVpqNjUwNG1TcXdOZ0lTVkMzYnhselVrM1dKNlk4TW9ta0RlMzVGb2RXSXZuQVRhOXVlckVGamlQTQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-21-013",
+    "date": "2026-11-21",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "South Georgia’s Bird Island research station installs 268 solar panels and batteries, aiming to halve annual diesel use - Energies Media",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE9EZjRvXy1HV2lsaktnRWpoUTNraWh6WGFGWFlTTi0zNEpNV3F4UDF0bzJ3eDItU3d2dUJJbmZzczkxUEFPMnFnY1BYSXZFdjBMRXlYSzB3alc5R2dXNG1GdUQyc2I4dm0xNkIwVHpfan",
+    "sources": [
+      {
+        "name": "google_news_solar",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9EZjRvXy1HV2lsaktnRWpoUTNraWh6WGFGWFlTTi0zNEpNV3F4UDF0bzJ3eDItU3d2dUJJbmZzczkxUEFPMnFnY1BYSXZFdjBMRXlYSzB3alc5R2dXNG1GdUQyc2I4dm0xNkIwVHpfanB5NVJzMzJKUncxZkNlUQ?oc=5",
         "type": "rss"
       }
     ]
