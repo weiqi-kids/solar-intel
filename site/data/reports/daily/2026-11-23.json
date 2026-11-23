@@ -1,0 +1,215 @@
+{
+  "date": "2026-11-23",
+  "generated_at": "2026-11-23T19:37:13.629360Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "jinko-2026-11-23-003",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "JinkoSolar sets new world record of 35.24% for perovskite/TOPCon tandem cell efficiency - Green Building Africa",
+      "companies": [
+        "jinko"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOaThCMXFpdlgwdjRkamZINkhjVGpiRzFtLVh1aHNfeU45NmZjcGoxS0xUZWkwcktFMGwtWVNVQ0VHZmhrRFoyR3pPaTdfZWxxZGIzVGZqQjd2ZS1DMnJtbEFzNDBfenh1aTN1OXdvYWo0OWhuUEdTQkRTOUNWMFBlY3JXOWJycVpjRzhsX05PSHBYWUJTS1NRbFJqeG9xU3Q5Z1RvajgzQmg0LS02RGh2d0FmVGUtc1NRMzRaZG93TzNGQm8?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "xinyi_solar-2026-11-23-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Xinyi Solar Holdings Limited (XNYIF) Seasonal returns chart - Yahoo Finance UK",
+      "companies": [
+        "xinyi_solar"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE42NGQwNERINEE3ZjFGRmlyWW5WUC1HVGE4Tl9KdlhrUGxSY0Vmb3g2VEdqVW1QWElFeWJ1WTZ1eUx5d3JhSWxwZzVmaE5LbWFtd3VSc0dTQXA1bnhGOUlSVFB2UQ?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "jinko-2026-11-23-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "JinkoSolar registers 35.24% TOPCon/perovskite tandem PV cell efficiency - PV Tech",
+      "companies": [
+        "jinko"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOVDMwWl9SUDVSTTNUQW96ZzJUclJPZlpsczh4a25QdlBzcXkzQ1RlR2dRQzJxbVQ1b2VWQkt3UVdHZXd6eTE4OGdnckdlOFBDOHdIOXhvWDVvMjBYUXhUcDZnd0xRcmFzbnYzTmtqTm9fY3pCS0dqTFEzTk1WSTA5VHc4SnZORk16UFE?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "jinko-2026-11-23-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "JinkoSolar Holding Company Limited (NYSE:JKS) Stock Has Consensus Price Target of $14.35 - MarketBeat",
+      "companies": [
+        "jinko"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNejRBTVJyelBSOUI2WVpkT0JSaXJpNjZhWkJmLXhBME1VWnVleDEybGdyNGRHSE5yNnVkWUVXT1czUFdOYnJrNnZ3MDhBYndnRnMwR2NidXgxWHNLU1c2b18waXlhYnYwYkJHY0xXdVpzdGE5R21aQ09OQXNpTU91Qy1DSTR1ZzZSOUt2aEZTUHp2YTBaTnVVSzJrR09SWjZHdmpNX1BRSnBET2V1bmRYNFo0QWplQzdfN0h0N1VsTnV5T2NDVXVfQ2RZWk8xOFp3Mlh2UjVzay1RZ1p1REwzVUx3?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-11-23-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Nextpower Inc. (NXT) stock price, news, quote and history - Yahoo Finance Australia",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFAwUnZHTGc2MW03b003SEFmTkduczI0b3YzU1p4OFdQRU1YYTcxcGNJUUh2X1M2OVAtRHpZZXd3ejVxMjdHdExPa3REdkR2Q0FO?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 35,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.07,
+      "sentiment_7d_avg": null
+    },
+    "trade_tariff": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "installation_demand": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 35,
+    "sentiment_distribution": {
+      "positive": 4,
+      "neutral": 31,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "jinko",
+        "count": 3
+      },
+      {
+        "id": "xinyi_solar",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 35
+      },
+      {
+        "id": "trade_tariff",
+        "count": 1
+      },
+      {
+        "id": "installation_demand",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 419,
+    "dup_title": 175,
+    "too_old": 147,
+    "gate1_blocked": 51,
+    "gate2_blocked": 2,
+    "passed": 44,
+    "pass_rate": "18.0%",
+    "gate2_block_rate": "0.8%",
+    "gate2_samples": [
+      "Senate passes sweeping overhaul of energy permitting and environmental review",
+      "Soneil Spark introduces its Mobile Battery Energy Storage System"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 35 則事件，焦點為晶科能源、信義光能相關動態：「JinkoSolar sets new world record of 35.24% for perovskite...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "JinkoSolar sets new world record of 35.24% for perovskite/TOPCon tandem cell ...（太陽能產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "Xinyi Solar Holdings Limited (XNYIF) Seasonal returns chart - Yahoo Finance UK（太陽能產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "裝機需求持續受關注，產業趨勢帶動需求成長。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

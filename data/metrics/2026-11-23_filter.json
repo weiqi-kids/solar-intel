@@ -1,0 +1,13 @@
+{
+  "total_raw": 419,
+  "dup_title": 175,
+  "no_date": 0,
+  "too_old": 147,
+  "gate1_fail": 51,
+  "gate2_fail": 2,
+  "passed": 44,
+  "gate2_samples": [
+    "Senate passes sweeping overhaul of energy permitting and environmental review",
+    "Soneil Spark introduces its Mobile Battery Energy Storage System"
+  ]
+}
