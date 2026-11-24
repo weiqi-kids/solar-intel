@@ -1,0 +1,171 @@
+{
+  "date": "2026-11-24",
+  "date_range": {
+    "start": "2026-11-18",
+    "end": "2026-11-24"
+  },
+  "generated_at": "2026-11-24T19:11:51.797964Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "unknown-2026-11-18-005",
+      "date": "2026-11-18",
+      "title": "China's Solar Industry, With Over 80% Global Share, Sees 22 Listed Firms Sink Into Losses as Overproduction Breeds Mutual Collapse - BigGo Finance",
+      "importance_score": 0.65
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "industry_general": {
+      "this_week": 169,
+      "last_week": 184,
+      "week_over_week_change": "-8%",
+      "sentiment_this_week": 0.07
+    },
+    "module_price": {
+      "this_week": 1,
+      "last_week": 1,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    },
+    "installation_demand": {
+      "this_week": 10,
+      "last_week": 7,
+      "week_over_week_change": "+43%",
+      "sentiment_this_week": 0.1
+    },
+    "trade_tariff": {
+      "this_week": 2,
+      "last_week": 3,
+      "week_over_week_change": "-33%",
+      "sentiment_this_week": -0.25
+    }
+  },
+  "company_7d_summary": {
+    "daqo": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 8
+    },
+    "longi": {
+      "event_count": 5,
+      "sentiment_avg": 0.1,
+      "rank": 2
+    },
+    "array": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 4
+    },
+    "canadian_solar": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 9
+    },
+    "sungrow": {
+      "event_count": 5,
+      "sentiment_avg": 0.0,
+      "rank": 3
+    },
+    "ja_solar": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 6
+    },
+    "trina": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 10
+    },
+    "jinko": {
+      "event_count": 8,
+      "sentiment_avg": 0.12,
+      "rank": 1
+    },
+    "solaredge": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 7
+    },
+    "first_solar": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 11
+    },
+    "enphase": {
+      "event_count": 3,
+      "sentiment_avg": 0.33,
+      "rank": 5
+    },
+    "xinyi_solar": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 12
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 216,
+        "last": 264,
+        "change_pct": -18.2
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-11-18",
+      "event_count": 42,
+      "sentiment_avg": 0.07
+    },
+    {
+      "date": "2026-11-19",
+      "event_count": 39,
+      "sentiment_avg": 0.06
+    },
+    {
+      "date": "2026-11-20",
+      "event_count": 47,
+      "sentiment_avg": 0.08
+    },
+    {
+      "date": "2026-11-21",
+      "event_count": 13,
+      "sentiment_avg": -0.01
+    },
+    {
+      "date": "2026-11-22",
+      "event_count": 5,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-11-23",
+      "event_count": 42,
+      "sentiment_avg": 0.06
+    },
+    {
+      "date": "2026-11-24",
+      "event_count": 28,
+      "sentiment_avg": 0.09
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-11-18 ~ 2026-11-24）共 216 則事件，重點為「China's Solar Industry, With Over 80% Global Sh...」。Enphase Energy表現正面，整體氣氛穩健。",
+    "watchlist": [
+      {
+        "company": "隆基綠能",
+        "reason": "本週出現 5 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "Array Technologies",
+        "reason": "本週出現 3 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "陽光電源",
+        "reason": "本週出現 5 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

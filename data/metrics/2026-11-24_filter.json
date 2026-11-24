@@ -1,0 +1,14 @@
+{
+  "total_raw": 360,
+  "dup_title": 165,
+  "no_date": 0,
+  "too_old": 110,
+  "gate1_fail": 46,
+  "gate2_fail": 3,
+  "passed": 36,
+  "gate2_samples": [
+    "DAQO New Energy (NYSE:DQ) Hits New 52-Week Low - Here's Why - MarketBeat",
+    "Senate passes sweeping overhaul of energy permitting and environmental review",
+    "Soneil Spark introduces its Mobile Battery Energy Storage System"
+  ]
+}
