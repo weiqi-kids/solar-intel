@@ -1,0 +1,221 @@
+{
+  "date": "2026-11-25",
+  "generated_at": "2026-11-25T18:16:09.635854Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "ja_solar-2026-11-25-002",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "JA Solar seeks injunction against LONGi over back contact patent - PV Tech",
+      "companies": [
+        "ja_solar",
+        "longi"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQNFB6cUJiWHFoVFJxLU5QcEFKZ3RRZTdRQjNaN2QtZDJXd1hta1BpUGZGMTMwVjRIQkhubWZPZ0R5REpoblZUS1JLVVdzLWF0OUZxTnhUTWpoVmNpYTE5VE5QaUlHLUxIQ1BVaVd5TWFNYmkwRUJjdDc2QzZMSV9DbmhvR0x0ei1xS3dLMDJSQjdJcDBH?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "jinko-2026-11-25-003",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Jinko Solar's Vietnam factory posts $696M revenue, $29M loss in Jan-Sep 2026 - TNGlobal",
+      "companies": [
+        "jinko"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQVWRnRHhZSm9vS0VUUnQ1ZWIxaEVuYlJ4UFlxelNxWkhESVN6SV9iaHp6WmkwUmFZZWJNdk1VeElObnZWQmkzeDFDY05NWHl3eFl6cDhXWlQtS3dsVThsZlRIdGx6WEFDaGNlSTg2Slp5RUxuQy1MREpTaEhPNUxJS2xQV0djU1B2NkVDMVlrNy1MM0o3a0FMbER2bzdYdjNHYW94THN2SHduS2w3?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-11-25-009",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Italy awards 16 GWh of battery storage in second auction",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://www.pv-magazine.com/2026/11/25/italy-awards-16-gwh-of-battery-storage-in-second-auction/"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-11-25-012",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "UK small-scale battery deployment set to double annual record in 2026",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "installation_demand",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.75
+      },
+      "source_url": "https://www.pv-magazine.com/2026/11/25/uk-small-scale-battery-deployment-set-to-double-annual-record-in-2026/"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-11-25-014",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Belgium forecast to reach 28.6 GW of solar by 2035",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "installation_demand",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.75
+      },
+      "source_url": "https://www.pv-magazine.com/2026/11/25/belgium-forecast-to-reach-28-6-gw-of-solar-by-2035/"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 32,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.06,
+      "sentiment_7d_avg": null
+    },
+    "installation_demand": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 34,
+    "sentiment_distribution": {
+      "positive": 5,
+      "neutral": 27,
+      "negative": 2
+    },
+    "top_companies": [
+      {
+        "id": "array",
+        "count": 2
+      },
+      {
+        "id": "sungrow",
+        "count": 2
+      },
+      {
+        "id": "tongwei",
+        "count": 1
+      },
+      {
+        "id": "ja_solar",
+        "count": 1
+      },
+      {
+        "id": "longi",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 32
+      },
+      {
+        "id": "installation_demand",
+        "count": 3
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 422,
+    "dup_title": 164,
+    "too_old": 164,
+    "gate1_blocked": 46,
+    "gate2_blocked": 3,
+    "passed": 45,
+    "pass_rate": "17.4%",
+    "gate2_block_rate": "1.2%",
+    "gate2_samples": [
+      "DQ: Daqo New Energy Corp. Latest Stock Price, Analysis, News and Trading Ideas - Stocktwits",
+      "Array Technologies, Inc. (ARRY) stock price, news, quote and history - Yahoo Finance UK",
+      "VW will pay EV drivers in Germany up to €720 to plug in at home"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 34 則事件，焦點為Array Technologies、陽光電源、通威相關動態：「JA Solar seeks injunction against LONGi over back contact...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "JA Solar seeks injunction against LONGi over back contact patent - PV Tech（太陽能產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Jinko Solar's Vietnam factory posts $696M revenue, $29M loss in Jan-Sep 2026 ...（太陽能產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "裝機需求持續受關注，產業趨勢帶動需求成長。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

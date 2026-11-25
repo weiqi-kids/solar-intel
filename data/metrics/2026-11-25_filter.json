@@ -1,0 +1,14 @@
+{
+  "total_raw": 422,
+  "dup_title": 164,
+  "no_date": 0,
+  "too_old": 164,
+  "gate1_fail": 46,
+  "gate2_fail": 3,
+  "passed": 45,
+  "gate2_samples": [
+    "DQ: Daqo New Energy Corp. Latest Stock Price, Analysis, News and Trading Ideas - Stocktwits",
+    "Array Technologies, Inc. (ARRY) stock price, news, quote and history - Yahoo Finance UK",
+    "VW will pay EV drivers in Germany up to €720 to plug in at home"
+  ]
+}

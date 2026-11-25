@@ -1,0 +1,49 @@
+{
+  "date": "2026-11-25",
+  "total_events": 34,
+  "by_company": {
+    "tongwei": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "ja_solar": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "longi": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "jinko": {
+      "count": 1,
+      "sentiment_avg": -1.0
+    },
+    "array": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "sungrow": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "trina": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "industry_general": {
+      "count": 32,
+      "sentiment_avg": 0.06
+    },
+    "installation_demand": {
+      "count": 3,
+      "sentiment_avg": 0.5
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}
