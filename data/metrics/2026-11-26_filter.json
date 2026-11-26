@@ -1,0 +1,16 @@
+{
+  "total_raw": 422,
+  "dup_title": 186,
+  "no_date": 0,
+  "too_old": 146,
+  "gate1_fail": 46,
+  "gate2_fail": 11,
+  "passed": 33,
+  "gate2_samples": [
+    "DQ: Daqo New Energy Corp. Latest Stock Price, Analysis, News and Trading Ideas - Stocktwits",
+    "Daqo New Energy (DQ) Stock Price, Chart & Analysis - www.debelegger.nl",
+    "DAQO New Energy (NYSE:DQ) Hits New 52-Week Low - Here's Why - MarketBeat",
+    "Array Technologies Inc (9AY.MU) Seasonal returns chart - Yahoo Finance UK",
+    "Array Technologies, Inc. Stock 12‑Month Price Target Cut to $6.74, Implies 77% Upside - TradingView"
+  ]
+}
