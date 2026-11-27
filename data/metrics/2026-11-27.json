@@ -1,0 +1,37 @@
+{
+  "date": "2026-11-27",
+  "total_events": 31,
+  "by_company": {
+    "ja_solar": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "trina": {
+      "count": 3,
+      "sentiment_avg": -0.08
+    },
+    "jinko": {
+      "count": 5,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "industry_general": {
+      "count": 31,
+      "sentiment_avg": 0.08
+    },
+    "installation_demand": {
+      "count": 3,
+      "sentiment_avg": 0.25
+    },
+    "trade_tariff": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

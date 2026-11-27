@@ -1,0 +1,13 @@
+{
+  "total_raw": 423,
+  "dup_title": 212,
+  "no_date": 0,
+  "too_old": 128,
+  "gate1_fail": 45,
+  "gate2_fail": 2,
+  "passed": 36,
+  "gate2_samples": [
+    "Array Technologies, Inc. Stock 12‑Month Price Target Cut to $6.74, Implies 77% Upside - TradingView",
+    "Sungrow expands Spanish storage - Utilities Middle East"
+  ]
+}
