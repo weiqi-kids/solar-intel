@@ -1,0 +1,16 @@
+{
+  "total_raw": 424,
+  "dup_title": 204,
+  "no_date": 0,
+  "too_old": 154,
+  "gate1_fail": 42,
+  "gate2_fail": 7,
+  "passed": 17,
+  "gate2_samples": [
+    "Array Technologies, Inc. Stock 12‑Month Price Target Cut to $6.74, Implies 77% Upside - TradingView",
+    "Array Technologies, Inc. (9AY.F) Seasonal returns chart - Yahoo Finance UK",
+    "Citigroup maintains Array Technologies at Buy, lowers price target to $7 from $12 - TradingView",
+    "Array Technologies Inc (9AY.MU) Seasonal returns chart - Yahoo Finance UK",
+    "Array Technologies, Inc.: 12-Monats-Kursziel auf $6,74 gesenkt, Aufwärtspotenzial von 77% - TradingV"
+  ]
+}

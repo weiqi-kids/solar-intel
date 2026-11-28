@@ -1,0 +1,150 @@
+{
+  "date": "2026-11-28",
+  "date_range": {
+    "start": "2026-11-22",
+    "end": "2026-11-28"
+  },
+  "generated_at": "2026-11-28T16:28:49.693086Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "ja_solar-2026-11-25-002",
+      "date": "2026-11-25",
+      "title": "JA Solar seeks injunction against LONGi over back contact patent - PV Tech",
+      "importance_score": 0.7
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "industry_general": {
+      "this_week": 163,
+      "last_week": 176,
+      "week_over_week_change": "-7%",
+      "sentiment_this_week": 0.07
+    },
+    "trade_tariff": {
+      "this_week": 2,
+      "last_week": 2,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    },
+    "installation_demand": {
+      "this_week": 11,
+      "last_week": 10,
+      "week_over_week_change": "+10%",
+      "sentiment_this_week": 0.25
+    }
+  },
+  "company_7d_summary": {
+    "xinyi_solar": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 7
+    },
+    "jinko": {
+      "event_count": 11,
+      "sentiment_avg": -0.0,
+      "rank": 1
+    },
+    "array": {
+      "event_count": 4,
+      "sentiment_avg": 0.0,
+      "rank": 4
+    },
+    "sungrow": {
+      "event_count": 7,
+      "sentiment_avg": 0.0,
+      "rank": 2
+    },
+    "enphase": {
+      "event_count": 1,
+      "sentiment_avg": 1.0,
+      "rank": 8
+    },
+    "longi": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 5
+    },
+    "tongwei": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 9
+    },
+    "ja_solar": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 6
+    },
+    "trina": {
+      "event_count": 5,
+      "sentiment_avg": -0.05,
+      "rank": 3
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 206,
+        "last": 249,
+        "change_pct": -17.3
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-11-22",
+      "event_count": 5,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-11-23",
+      "event_count": 44,
+      "sentiment_avg": 0.06
+    },
+    {
+      "date": "2026-11-24",
+      "event_count": 38,
+      "sentiment_avg": 0.05
+    },
+    {
+      "date": "2026-11-25",
+      "event_count": 44,
+      "sentiment_avg": 0.03
+    },
+    {
+      "date": "2026-11-26",
+      "event_count": 29,
+      "sentiment_avg": 0.09
+    },
+    {
+      "date": "2026-11-27",
+      "event_count": 35,
+      "sentiment_avg": 0.09
+    },
+    {
+      "date": "2026-11-28",
+      "event_count": 11,
+      "sentiment_avg": 0.09
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-11-22 ~ 2026-11-28）共 206 則事件，重點為「JA Solar seeks injunction against LONGi over ba...」。Enphase Energy表現正面，整體氣氛穩健。",
+    "watchlist": [
+      {
+        "company": "晶科能源",
+        "reason": "本週出現 11 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "Array Technologies",
+        "reason": "本週出現 4 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "陽光電源",
+        "reason": "本週出現 7 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

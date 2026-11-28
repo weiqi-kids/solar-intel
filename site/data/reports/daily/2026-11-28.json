@@ -1,0 +1,194 @@
+{
+  "date": "2026-11-28",
+  "generated_at": "2026-11-28T16:28:49.547688Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-11-28-006",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Leading the energy transition: stereotypes, AI and what stays human",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://www.pv-magazine.com/2026/11/28/leading-the-energy-transition-stereotypes-ai-and-what-stays-human/"
+    },
+    {
+      "rank": 2,
+      "event_id": "array-2026-11-28-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Array Technologies (ARRY) Stock Fair Value Falls As Shoals Deal Divides Analysts - Yahoo Finance",
+      "companies": [
+        "array"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPYUpRZ1RKZng1WTJSN21zWjlLR2x2MEM3VndmWWlmRl9pS1Fxc1I3QU8zdVFmRk5nWEZhQXgyYkZRN3Z2NmNDaThHRGN6SjM3U1NaRnh5b0NVYmREWmVMQ1dEV1BSNlJWR2s5MDBQZ3ltTkNXaVNubTNRdjRJcEdnZGd3RVdaeE9wQ1BtZGUtQXZiRGRjUFpDc2ZxUFBvT1BN?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-11-28-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Integrating agrivoltaics with batteries for rural energy and food security in West Africa",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.pv-magazine.com/2026/11/28/integrating-agrivoltaics-with-batteries-for-rural-energy-and-food-security-in-west-africa/"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-11-28-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "New model optimizes perovskite-silicon tandem solar cells for satellites",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.pv-magazine.com/2026/11/28/new-model-optimizes-perovskite-silicon-tandem-solar-cells-for-satellites/"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-11-28-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Romanian solar and storage: What gets financed and built?",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.pv-magazine.com/2026/11/28/romanian-solar-and-storage-what-gets-financed-and-built/"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 11,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.09,
+      "sentiment_7d_avg": null
+    },
+    "installation_demand": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 11,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 10,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "array",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 11
+      },
+      {
+        "id": "installation_demand",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 424,
+    "dup_title": 204,
+    "too_old": 154,
+    "gate1_blocked": 42,
+    "gate2_blocked": 7,
+    "passed": 17,
+    "pass_rate": "7.7%",
+    "gate2_block_rate": "3.2%",
+    "gate2_samples": [
+      "Array Technologies, Inc. Stock 12‑Month Price Target Cut to $6.74, Implies 77% Upside - TradingView",
+      "Array Technologies, Inc. (9AY.F) Seasonal returns chart - Yahoo Finance UK",
+      "Citigroup maintains Array Technologies at Buy, lowers price target to $7 from $12 - TradingView",
+      "Array Technologies Inc (9AY.MU) Seasonal returns chart - Yahoo Finance UK",
+      "Array Technologies, Inc.: 12-Monats-Kursziel auf $6,74 gesenkt, Aufwärtspotenzial von 77% - TradingV"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 11 則事件，焦點為Array Technologies相關動態：「Leading the energy transition: stereotypes, AI and what s...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Leading the energy transition: stereotypes, AI and what stays human（太陽能產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "Array Technologies (ARRY) Stock Fair Value Falls As Shoals Deal Divides Analy...（太陽能產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "裝機需求持續受關注，產業趨勢帶動需求成長。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
